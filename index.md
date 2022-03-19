@@ -4,34 +4,39 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Dominik Moritz
+# Hi, I'm Frank Elavsky
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm faculty at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/).
+I research, design, build, contribute to standards, and talk about things at the intersection of data work and accessibility.
 
-I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
+I'm a PhD student and researcher at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), data interaction researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>, and staff research scientist at [Fizz Studio](https://fizz.studio/).
 
-My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata.github.io/draco/) at premier academic venues and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
+At CMU, I am advised by Dominik Moritz and Patrick Carrington and a member of the [Data Interaction Group](https://dig.cmu.edu/) and [AXEL Lab](https://dig.cmu.edu/). I am also a [W3C invited expert in data visualization in the ARIA Working Group](https://www.w3.org/groups/wg/aria/participants#:~:text=Frank%20Elavsky) and volunteer my time with [several other efforts](https://github.com/dataviza11y/Why-We-Exist).
+
 </div>
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/dominik_berlin.webp' type='image/webp' />
+  <source srcset='/images/frank.jpg' type='image/jpg' />
   <img
-    src='/images/dominik_berlin.jpg'
-    alt='Dominik Moritz'>
+    src='/images/frank.jpg'
+    alt="It's me! A white man with medium-length brown hair, glasses, and a black turtleneck.">
 </picture>
 
 {:.no-list}
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* NSH 2602B
+* {{ site.address }}
 </div>
 
 </div>
 
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}).
+Before embarking on a PhD I was a staff software engineer at Visa on their Data Experience team and lead contributor to the accessibility efforts of their [first open source library](https://github.com/visa/visa-chart-components), [Visa Chart Components](https://developer.visa.com/pages/chart-components). We were able to do some pretty extraordinary things together and I am fortunate to have worked alongside such world-class folks.
+
+Prior to Visa I had a high-octane 2 years at Northwestern University working for Research Computing Services providing data visualization support to over two dozen research projects across a wide range of disciplines. Several of my projects [won awards](https://www.frank.computer/cv/#awards) and have been featured in over 2 dozen research publications (including the privilege of being uncredited in the [2017 Nobel Lecture on Physics](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.040502)), 50+ web articles, 4 PhD theses, 6 graduate courses, and 2 textbooks.
+
+In my early career (before Northwestern), I worked in federal policy analyzing large, complex datasets for DOJ/FBI efforts related to medicare/medicaid fraud committed by healthcare providers. I can't really talk about that stuff.
 
 ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
 
@@ -83,7 +88,7 @@ During my first year at UW, I received support from the [Fulbright program](http
 </div>
 
 <div class="travel" markdown="1">
-## Latest Travel
+## Latest Visits
 
 <table>
 <tbody>
