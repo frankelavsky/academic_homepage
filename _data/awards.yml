@@ -1,25 +1,31 @@
-- name: IEEE VGTC Outstanding Dissertation Award
-  years: 2020
-  description: "For my thesis on \"Interactive Systems for Scalable Visualization and Analysis\"."
-- name: InfoVis Best Paper
+- name: Image of the Week
+  years: 2019
+  sponsor: NASA
+  description: My Masses in the Stellar Graveyard interactive data experience won NASA's High Energy Astrophysics Archive Research Center (HEASARC) Image of the Week Award.
+- name: Kantar's IIB Longlist
   years: 2018
-  description: "For \"Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco\"."
-- name: InfoVis Best Paper
-  years: 2016
-  description: "For \"Vega-Lite: A Grammar of Interactive Graphics\"."
-- name: Fulbright Fellowship
+  sponsor: Kantar's Information is Beautiful Awards
+  description: My Masses in the Stellar Graveyard interactive data experience won Kantar's longlist.
+- name: Kantar's IIB Longlist
+  years: 2018
+  sponsor: Kantar's Information is Beautiful Awards
+  description: My Quantifying Career Hot Streaks interactive data experience won Kantar's longlist.
+- name: Featured Graphic in the 2017 Nobel Lectureship on Physics
+  years: 2017
+  description: Barry Barish's lecture prominently featured my figure on electromagnetic and gravitational wave detections of compact stellar objects.
+- name: Dean's Circle Scholarship
+  years: 2011-2016
+  sponsor: Trinity Lutheran College
+  description: Recurring, 60% scholarship awarded to a select group of students who participate in a conversation with the Academic Dean on a semesterly graduate-level humanities topic.
+- name: Presidential Honors
+  years: 2011-2016
+  sponsor: Trinity Lutheran College
+  description: Scholarship awarded to the top 10% performing students each year.
+- name: Organizing For Mission Cohort
   years: 2013-2014
-  sponsor: Bureau of Educational and Cultural Affairs
-  description: Highly competitive, merit-based grant for international educational exchange for students, scholars, teachers and scientists.
-- name: DAAD Scholarship
+  sponsor: ELCA
+  description: Scholarship and training expenses provided for students, scholars, and practitioners involved in organizing efforts in their communities.
+- name: Community Improvement Grant
   years: 2013
-  sponsor: German Academic Exchange Service (DAAD)
-  description: Scholarship to study at a North American university for one academic year, covering tuition and living expenses.
-- name: Studienstiftung des Deutschen Volkes
-  years: 2010-2015
-  sponsor: Studienstiftung des Deutschen Volkes, Bonn
-  description: The German National Academic Foundation grants prestigious scholarships to students with outstanding academic achievements. Merit-based grant for B.S. and M.S. studies.
-- name: Hasso Plattner Scholarship
-  years: 2013
-  sponsor: Hasso Plattner Institute, Potsdam
-  description: One-year scholarship awarded to the highest performing graduates of each year.
+  sponsor: Forum for Theological Exploration
+  description: Grant awarded to active community organizers with promising projects.

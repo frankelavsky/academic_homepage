@@ -1,22 +1,22 @@
-- university: University of Washington
-  years: 2015-2019
-  degree: Ph.D. in Computer Science & Engineering
-  location: Seattle, WA
+- university: Carnegie Mellon University
+  years: 2021-Present
+  degree: Ph.D. in Human-Computer Interaction
+  location: Pittsburgh, PA
   description:
-    - Advised by **Jeffrey Heer** and **Bill Howe**.
-    - "Thesis: \"Interactive Systems for Scalable Visualization & Analysis\"."
-    - Member of the Interactive Data Lab and Database Group.
-- university: University of Washington
-  years: 2013-2015
-  degree: M.S. in Computer Science & Engineering
-  location: Seattle, WA
+    - Advised by **Dominik Moritz** and **Patrick Carrington**.
+    - "Thesis: (In progress)."
+    - Member of the Data Interaction Group and AXLE Lab.
+- university: Trinity Lutheran College
+  years: 2011-2016
+  degree: B.S. in Computer Information Systems
+  location: Everett, WA
   description:
-    - Advised by **Bill Howe** and **Jeffrey Heer**.
-- university: Hasso Plattner Institute
-  years: 2010-2013
-  degree: B.S. in IT-Systems Engineering
-  location: Potsdam, Germany
+    - "GPA: 3.88 / 4.0, Magna Cum Laude"
+    - Advanced coursework on data visualization, video game physics, digital humanities archives, and intelligent interactive interfaces.
+- university: Trinity Lutheran College
+  years: 2011-2016
+  degree: B.A. in Theology and Philosophy
+  location: Everett, WA
   description:
-    - "Thesis: \"Algorithms for the Visualization of Software System Evolution\"."
-    - "GPA: 4.0 (1.0 in German system), highest distinction, rank 1/74"
-    - Advanced classes on database implementation, computational geometry, architecture, and logic.
+    - "GPA: 3.88 / 4.0, Magna Cum Laude"
+    - Advanced coursework on post-colonialism, trauma theory, feminist semiotics, secularism, and the philosophy of play.

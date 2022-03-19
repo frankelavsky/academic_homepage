@@ -1,4 +1,6 @@
-# Website [![Build Status](https://travis-ci.org/domoritz/domoritz.github.io.svg?branch=master)](https://travis-ci.org/domoritz/domoritz.github.io)
+# My Academic Website
+
+Thanks to [Dominik Moritz](https://www.domoritz.de/) (one of my PhD co-advisors), who I shamelessly scraped/forked this [template/repo](https://github.com/domoritz/domoritz.github.io) from!
 
 
 ## Write

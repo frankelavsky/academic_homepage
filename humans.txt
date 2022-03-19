@@ -1,10 +1,10 @@
 /* TEAM */
-	Author/Theme: Dominik Moritz
-	Twitter: @domoritz
-	From: Berlin, Germany
+	Author/Theme: Frank Elavsky
+	Twitter: @frankelavsky
+	From: Anacortes, WA
 
 /* SITE */
-	Language: English / German
+	Language: English
 	Doctype: HTML5
-	IDE: Sublime Text, VIM, VSCode
+	IDE: VSCode
 	Software: Jekyll
