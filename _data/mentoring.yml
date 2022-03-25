@@ -1,3 +1,9 @@
+- title: "Undergraduate Mentoring"
+  year: 2022
+  location: Carnegie Mellon University
+  description: I mentored an undergraduate student for a semester, researching machine-learning design methods intended to elicit critical engagement of machine failures.
+  who:
+    - Ihita Mandal
 - title: "Undergraduate Mentoring: Research Computing Summer Internship"
   year: 2018
   location: Northwestern University
@@ -7,6 +13,6 @@
 - title: "Graduate Student Mentoring: IDEAS Program"
   location: Northwestern University
   year: 2017-2018
-  description: Taught graduate students in earth and astrophysical sciences professional, data-intensive skills for two summers. I personally worked with and mentored one student fellow on projects related to their research.
+  description: Taught graduate students in earth and astrophysical sciences professional, data-intensive skills for two summers. I personally worked with and mentored one PhD student fellow on projects related to their research.
   who:
-    - Boris Rösler (2017 and 2018 Fellow)
+    - Boris Rösler (2017 and 2018 PhD Fellow)
