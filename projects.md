@@ -5,14 +5,22 @@ title: Projects
 class: projects
 ---
 
-{:.hidden}
 # Projects
 
 {:.lead}
-Here are some projects I have worked on for school, work, or fun. You can find the code for most of them on [GitHub](https://github.com/frankelavsky).
+These are a select collection of my favorite projects. You can find the code for some of them on [GitHub](https://github.com/frankelavsky). 
 
+{% assign projtypes = site.data.projects | group_by:"type"  %}
+{% assign sorted_projtypes = projtypes %}
+{% for type in sorted_projtypes %}
+<h2 id="{{ type.name | replace: ' ', '-' | replace: '(', '' | replace: ')', '' }}">{{ type.name }}</h2>
 <div class="grid">
-  {% for project in site.data.projects %}
+  <!-- {% for project in site.data.projects %}
     {% include project.html project=project %}
+  {% endfor %} -->
+  {% for project in type.items %}
+  {% include project.html project=project %}
   {% endfor %}
 </div>
+{% endfor %}
+
