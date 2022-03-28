@@ -1,7 +1,7 @@
 <div class="project">
-  <span class="title">{{ project.title }}</span>
+  <h3 class="title">{{ project.title }}</h3>
   {% if project.url || project.code || project.article || project.paper %}
-    <a href="{{ project.url || project.code || project.article || project.paper }}" class="preview-image" style="background-image: url('{{ "/images/projects/" | append: project.image | relative_url }}')" role='link' aria-label="{{ project.imageDescription }}"></a>
+    <a href="{{ project.url || project.code || project.article || project.paper }}"><img class="preview-image" src="{{ "/images/projects/" | append: project.image | relative_url }}" style="background-image: url('{{ "/images/projects/" | append: project.image | relative_url }}')" alt="{{ project.imageDescription }}"></a>
   {% else %}
     <span class="preview-image" style="background-image: url('{{ "/images/projects/" | append: project.image | relative_url }}')" role='img' aria-label="{{ project.imageDescription }}"></span>
   {% endif %}
@@ -11,25 +11,25 @@
   <div class="spacer"></div>
   <div class="links">
     {% if project.article %}
-      <a href="{{ project.article }}"><i class="fas fa-newspaper" aria-hidden="true"></i> Post</a>
+      <a href="{{ project.article }}" aria-label="Post, {{ project.title }}"><i class="fas fa-newspaper" aria-hidden="true"></i> Post</a>
     {% endif %}
     {% if project.demo %}
-      <a href="{{ project.demo }}"><i class="fas fa-play" aria-hidden="true"></i> Demo</a>
+      <a href="{{ project.demo }}" aria-label="Demo, {{ project.title }}"><i class="fas fa-play" aria-hidden="true"></i> Demo</a>
     {% endif %}
     {% if project.url %}
-      <a href="{{ project.url }}"><i class="fas fa-link" aria-hidden="true"></i> Website</a>
+      <a href="{{ project.url }}" aria-label="Website, {{ project.title }}"><i class="fas fa-link" aria-hidden="true"></i> Website</a>
     {% endif %}
     {% if project.code %}
-      <a href="{{ project.code }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+      <a href="{{ project.code }}" aria-label="Code, {{ project.title }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
     {% endif %}
     {% if project.paper %}
-      <a href="{{ project.paper }}"><i class="far fa-file-pdf" aria-hidden="true"></i> Paper</a>
+      <a href="{{ project.paper }}" aria-label="Paper, {{ project.title }}"><i class="far fa-file-pdf" aria-hidden="true"></i> Paper</a>
     {% endif %}
     {% if project.video %}
-      <a href="{{ project.video }}"><i class="fas fa-film" aria-hidden="true"></i> Video</a>
+      <a href="{{ project.video }}" aria-label="Video, {{ project.title }}"><i class="fas fa-film" aria-hidden="true"></i> Video</a>
     {% endif %}
     {% if project.recording %}
-      <a href="{{ project.recording }}"><i class="fas fa-video" aria-hidden="true"></i> Recording</a>
+      <a href="{{ project.recording }}" aria-label="Recording, {{ project.title }}"><i class="fas fa-video" aria-hidden="true"></i> Recording</a>
     {% endif %}
   </div>
 </div>
