@@ -11,9 +11,9 @@ class: home
 <div class="intro" markdown="1">
 I research, design, build, contribute to standards, and talk about things at the intersection of data work and accessibility.
 
-I'm a PhD student and researcher at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), data interaction researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>, and senior research scientist at [Fizz Studio](https://fizz.studio/).
+I'm a PhD student and researcher at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), some mix of contractor/intern doing data interaction research at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>, and senior research scientist at [Fizz Studio](https://fizz.studio/).
 
-At CMU, I am advised by Dominik Moritz and Patrick Carrington and a member of the [Data Interaction Group](https://dig.cmu.edu/) and [AXEL Lab](https://dig.cmu.edu/). I am also a [W3C invited expert in data visualization in the ARIA Working Group](https://www.w3.org/groups/wg/aria/participants#:~:text=Frank%20Elavsky) and volunteer my time with [several other efforts](https://github.com/dataviza11y/Why-We-Exist).
+At CMU, I am advised by Dominik Moritz and Patrick Carrington and a member of the [Data Interaction Group](https://dig.cmu.edu/) and [AXEL Lab](https://dig.cmu.edu/). I am also a [W3C invited expert in data visualization in the ARIA Working Group](https://www.w3.org/groups/wg/aria/participants#:~:text=Frank%20Elavsky) and volunteer my time with [other efforts](https://github.com/dataviza11y/Why-We-Exist).
 
 </div>
 
@@ -34,11 +34,11 @@ At CMU, I am advised by Dominik Moritz and Patrick Carrington and a member of th
 
 ## My background
 
-Before embarking on a PhD I was a staff software engineer at Visa on their Data Experience team and lead contributor to the accessibility efforts of their [first open source library](https://github.com/visa/visa-chart-components), [Visa Chart Components](https://developer.visa.com/pages/chart-components). We were able to do some pretty extraordinary things together and I am fortunate to have worked alongside such world-class folks.
+Before embarking on a PhD I was a staff software engineer at Visa on their Data Experience team and lead contributor to the accessibility efforts of their first open source library, [Visa Chart Components](https://github.com/visa/visa-chart-components). We were able to do some pretty extraordinary things together and I am fortunate to have worked alongside such world-class folks.
 
-Prior to Visa I had a high-octane 2 years at Northwestern University working for Research Computing Services providing data visualization support to over two dozen research projects across a wide range of disciplines. Several of my projects [won awards](https://www.frank.computer/cv/#awards) and have been featured in over 2 dozen research publications (including the privilege of being uncredited in the [2017 Nobel Lecture on Physics](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.040502)), 50+ web articles, 4 PhD theses, 6 graduate courses, and 2 textbooks.
+Prior to Visa I had a high-octane 2 years at Northwestern University working for Research Computing Services providing data visualization support to over two dozen research projects across a wide range of disciplines. Several of my projects [won awards](https://www.frank.computer/cv/#awards) and have been featured in over a dozen research publications (including the privilege of being uncredited in the [2017 Nobel Lecture on Physics](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.90.040502)), 50+ web articles, 4 PhD theses, 6 graduate courses, and 2 textbooks.
 
-In my early career (before Northwestern), I worked in federal policy analyzing large, complex datasets and building tools for lawyers and policymakers.
+In my early career (before Northwestern), I worked in federal policy analyzing large, complex medicare/medicaid datasets and building visualization tools for lawyers and policymakers.
 
 ## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
 
