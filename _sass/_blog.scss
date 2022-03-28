@@ -98,10 +98,11 @@
   .twitter {
     background-color: #1b95e0;
     border-radius: 3px;
-    padding: 3px 6px;
+    padding: 6px 12px;
     color: white;
     font-weight: bold;
-    font-size: 0.9rem;
+    font-size: 14pt;
+    text-shadow: 0px 0px 2px black, 0px 0px 2px black;
     &:hover {
       text-decoration: none;
     }
