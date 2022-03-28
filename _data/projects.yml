@@ -1,47 +1,60 @@
 - title: Chartability
+  type: "Accessibility-focused"
   url: https://chartability.fizz.studio
-  paper: /papers/2019-Falcon-CHI.pdf
-  image: chartability.jpg
-  description: "Chartability is a set of heuristics for evaluating the accessibility of data experiences."
+  code: https://github.com/Chartability/POUR-CAF
+  paper: /papers/2022-eurovis-chartability.pdf
+  image: chartability.png
+  imageDescription: "Chartability project and website."
+  description: "Chartability is a set of principles and heuristics for evaluating the accessibility of data experiences."
   highlight: 1
 
 - title: Visa Chart Components
+  type: "Accessibility-focused"
   url: https://developer.visa.com/pages/chart-components
   code: https://github.com/visa/visa-chart-components
-  image: vcc.jpg
-  description: "Visa Chart Components is an accessibility-focused design system library of charts and graphs."
+  demo: https://observablehq.com/@frankelavsky/chart-component-boilerplate
+  image: vcc.png
+  imageDescription: "Visa Chart Component example image and website."
+  description: "Visa Chart Components is an accessibility focused, framework agnostic set of data experience design systems components for the web."
   highlight: 2
 
 - title: Modeling Career Hot Streaks
-  url: https://github.com/uwdata/falcon
-  code: https://github.com/uwdata/falcon
-  demo: https://uwdata.github.io/falcon/flights
-  paper: /papers/2019-Falcon-CHI.pdf
-  image: falcon.jpg
-  description: "Falcon is an interactive system for real-time brushing and linking interactions among multiple visualizations of billion-record datasets."
+  type: "Older (No Accessibility Guaranteed)"
+  url: https://twitter.com/FrankElavsky/status/1020049325127282694?s=20&t=Tig8aApXGiR7baViOXRc8A
+  code: https://lu-liu.github.io/hotstreaks/
+  demo: https://nuitrcs.github.io/kellogg-insight-hot-streaks/
+  video: https://www.youtube.com/watch?v=zR9nM2DBHg8
+  paper: https://www.nature.com/articles/s41586-018-0315-8
+  image: HOT.png
+  imageDescription: "Screenshot of the Hot Streaks website. Fair warning: this website is not accessible and from mine olden days."
+  description: "Our interactive Hot Streaks model promoted Liu et al's research, visualizing over 1m data points on the web using SVG."
   highlight: 3
 
-- title: Massess in the Stellar Graveyard
-  url: https://github.com/uwdata/falcon
-  code: https://github.com/uwdata/falcon
-  demo: https://uwdata.github.io/falcon/flights
-  paper: /papers/2019-Falcon-CHI.pdf
-  image: falcon.jpg
-  description: "Falcon is an interactive system for real-time brushing and linking interactions among multiple visualizations of billion-record datasets."
+- title: Masses in the Stellar Graveyard
+  type: "Older (No Accessibility Guaranteed)"
+  url: https://www.ligo.caltech.edu/image/ligo20171016a
+  code: https://github.com/frankelavsky/LIGO-Virgo-Mass-Plot
+  demo: https://frankelavsky.github.io/LIGO-Virgo-Mass-Plot/
+  paper: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101
+  video: https://youtu.be/yanao9UvpGc?t=1513
+  image: mass.jpeg
+  imageDescription: "Screenshot of the Masses website. Fair warning: this website is not accessible and from mine olden days."
+  description: "Our Masses interactive promoted LIGO-Virgo's gravitational wave research and has been used in the Nobel Lecture on Physics, over a dozen research papers, and 2 textbooks."
   highlight: 4
 
-- title: Surface Wave Radiation Patterns
-  url: https://github.com/uwdata/falcon
-  code: https://github.com/uwdata/falcon
-  demo: https://uwdata.github.io/falcon/flights
-  paper: /papers/2019-Falcon-CHI.pdf
-  image: falcon.jpg
-  description: "Falcon is an interactive system for real-time brushing and linking interactions among multiple visualizations of billion-record datasets."
+- title: Surface-Wave Radiation Patterns
+  type: "Older (No Accessibility Guaranteed)"
+  url: https://ds.iris.edu/ds/products/surface-wave-radiation-patterns/
+  demo: http://ds.iris.edu/ds/products/surface-wave-radiation-patterns/tools/surface-wave-radiation-patterns/
+  paper: https://geophysics.earth.northwestern.edu/seismology/suzan/publications/89_Roesler_VdLee_SRL_2020.pdf
+  image: seismic.PNG
+  imageDescription: "Screenshot of the Surface-Wave tool. Fair warning: this website may or may not be accessible, I only a small built part of it."
+  description: "Our Surface-Wave Radiation Pattern tool is deployed and used by seismologists worldwide that visualizes radiation patterns of earthquakes based on arbitrary moment tensor inputs."
 
 - title: Automation and US Cities
-  url: https://github.com/uwdata/falcon
-  code: https://github.com/uwdata/falcon
-  demo: https://uwdata.github.io/falcon/flights
-  paper: /papers/2019-Falcon-CHI.pdf
-  image: falcon.jpg
-  description: "Falcon is an interactive system for real-time brushing and linking interactions among multiple visualizations of billion-record datasets."
+  type: "Older (No Accessibility Guaranteed)"
+  url: https://insight.kellogg.northwestern.edu/article/how-will-automation-affect-different-united-states-cities
+  paper: https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0946
+  image: city.PNG
+  imageDescription: "Screenshot of the cities automation tool. Fair warning: these tools are not accessible and from mine olden days."
+  description: "We collaborated with Hyejin Youn and Inho Hong to create 2 data interactives for their research on job automation across different US metro areas."
