@@ -7,8 +7,10 @@ tags:
 - scale
 - systems
 - visualization
-description: The scale of inaccessibility is enormous and things are looking too good.
+description: The scale of inaccessibility is enormous and things aren't looking too good.
 ---
+
+(This is a direct copy+paste from [my twitter thread](https://twitter.com/FrankElavsky/status/1507434583150805001?s=20&t=gnqOcTMQXPD4jeXAfzc_gQ). This blog post is intended as a placeholder first post until I get the chance to add more. I may or may not edit the contents below, but I recommend just reading the twitter thread instead!)
 
 Hi. I'm here to be annoying (hyper-pessimistic).
 
