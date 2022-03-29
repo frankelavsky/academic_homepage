@@ -25,7 +25,7 @@
   demo: https://nuitrcs.github.io/kellogg-insight-hot-streaks/
   video: https://www.youtube.com/watch?v=zR9nM2DBHg8
   paper: https://www.nature.com/articles/s41586-018-0315-8
-  image: HOT.png
+  image: hot.PNG
   imageDescription: "Screenshot of the Hot Streaks website. Fair warning: this website is not accessible and from mine olden days."
   description: "Our interactive Hot Streaks model promoted Liu et al's research, visualizing over 1m data points on the web using SVG."
   highlight: 3
