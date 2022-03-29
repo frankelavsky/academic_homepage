@@ -31,9 +31,9 @@ class: pubs
 
 </div> -->
 
-<div class="p1 db">
+<!-- <div class="p1 db">
   <input id="ft-search" type="search" placeholder="Search papers..." />
-</div>
+</div> -->
 
 <!-- <label id="only-highlight" class="hidden">
   <input type="checkbox" id="highlight">
