@@ -63,7 +63,7 @@ h6 {
 }
 
 h2, h3, h4, h5, h6 {
-  &:hover {
+  &:hover, &:focus {
     .anchor {
       opacity: 0.8;
       transition: opacity .08s ease-in;

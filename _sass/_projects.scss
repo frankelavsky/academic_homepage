@@ -20,7 +20,7 @@
 
       transition: box-shadow 0.2s ease;
 
-      &:hover {
+      &:hover, &:focus {
         box-shadow: #aaa 2px 2px 11px;
       }
 
@@ -53,7 +53,7 @@
 
         transition: background 1.5s;
 
-        &:hover {
+        &:hover, &:focus {
           opacity: 1;
           background-position: bottom right;
         }

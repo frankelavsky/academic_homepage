@@ -3,9 +3,9 @@
   overflow: scroll;
 
   /* It's not good to hide links but looks better in a CV. */
-  a {
-    color: $text-color;
-  }
+  // a {
+  //   color: $text-color;
+  // }
 
   strong, h1, h2, h3, h4 {
     font-weight: 500;
@@ -28,7 +28,7 @@
   h1, h1>a:hover {
     margin-top: 2rem;
     font-weight: 600;
-    text-decoration: none;
+    // text-decoration: none;
     font-size: 2.5rem;
   }
 
@@ -184,9 +184,9 @@
     font-weight: 600;
   }
 
-  .back a:hover {
-    text-decoration: none;
-  }
+  // .back a:hover {
+    // text-decoration: none;
+  // }
 
   @media print {
     font-size: 0.9rem;

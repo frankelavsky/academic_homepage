@@ -86,7 +86,7 @@
   font-weight: 500;
   cursor: pointer;
 
-  &:hover {
+  &:hover, &:focus {
     color: $text-color;
   }
 
@@ -176,7 +176,7 @@
     }
 
     .tweet {
-      &:hover {
+      &:hover, &:focus {
         text-decoration: none;
 
         .message {
@@ -203,7 +203,7 @@
         margin-right: 1em;
         white-space: nowrap;
 
-        &:hover {
+        &:hover, &:focus {
           text-decoration: none;
           border-bottom: 1px solid $link-color;
         }

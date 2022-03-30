@@ -125,11 +125,21 @@ ul.no-list {
 a {
   color: $link-color;
   text-decoration: none;
+  background-image: linear-gradient(transparent 80%, $link-underline 20%);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
 
-  &:hover {
-      opacity: .8;
-      text-decoration: underline;
+  &:hover, &:focus {
+    background-image: linear-gradient(transparent 85%, $link-color 15%);
+    background-size: 100% 110%;
+    transition: background-size 0.15s ease-in-out, background-image 0.15s ease-in-out;
   }
+
+  // &:hover, &:focus {
+  //     text-decoration: none;
+  //     border-bottom: 2px solid $link-color;
+  // }
 }
 
 
