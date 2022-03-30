@@ -13,7 +13,7 @@ title: CV
 <div class="header-columns">
   <div>
     <p>
-      PhD at CMU HCII and Researcher at Apple<br/>
+      PhD at CMU HCII and researching at Apple<br/>
     </p>
   </div>
   <div>
@@ -29,7 +29,7 @@ title: CV
 <h2>Research Area</h2>
 
 <p>
-To enhance people's ability to understand and communicate large and complex data, I develop methods that richly integrate the capabilities of both people and machines. I combine methods from <strong>visualization</strong>, <strong>data management</strong>, <strong>programming languages</strong>, and <strong>human-computer interaction</strong> to enable effective methods for data analysis and communication. My systems have won awards at premier academic venues, and are used by journalists, data enthusiasts, developers, educators, and the data science community.
+To <strong>break down barriers</strong> that exclude people from data work and data interfaces, I research methods that improve <strong>greater adoption of disability-aware practices</strong>, engineer tools and systems that <strong>improve accessible practitioner work</strong> and outcomes, and <strong>contribute to global technology standards</strong> bodies. I critically examine ways that sociotechnical systems exclude people with disabilities while also building and making. My research seeks to intervene in the technological spaces where practitioners produce inaccessible data visualizations, interfaces, and experiences in order to <strong>include and empower everyone with information<strong>.
 </p>
 
 
@@ -99,7 +99,9 @@ To enhance people's ability to understand and communicate large and complex data
 
 {% assign sorted_pubs = site.publications | reverse %}
 
-{% assign types = "Conference|Journal|Book Chapter|Demo|Workshop|Thesis" | split: "|" %}
+<!-- Conference|Journal|Book Chapter|Demo|Workshop|Thesis -->
+
+{% assign types = "Conference|Poster" | split: "|" %} 
 {% for type in types %}
   {% assign counter = 1 %}
   {% for pub in sorted_pubs %}
