@@ -65,6 +65,14 @@
         a {
           margin-right: 0.5em;
           white-space: nowrap;
+          background-position: top right;
+          background-image: linear-gradient(transparent 87%, $link-underline 13%);
+          background-size: 75% 100%;
+          &:hover, &:focus {
+            background-image: linear-gradient(transparent 90%, $link-color 10%);
+            background-size: 100% 100%;
+            transition: background-size 0.15s ease-in-out, background-image 0.15s ease-in-out;
+          }
         }
       }
     }

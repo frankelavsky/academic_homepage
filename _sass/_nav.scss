@@ -37,6 +37,7 @@ nav {
       border-bottom-color: #333;
       opacity: 1;
     }
+    background-image: linear-gradient(transparent 80%, $link-underline 20%);
     &:hover, &:focus {
       text-decoration: none;
       background-image: linear-gradient(transparent 90%, $link-underline 10%);
@@ -56,6 +57,16 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    a {
+      background-image: linear-gradient(transparent 100%, $link-underline 0%);
+      background-size: 100% 100%;
+      text-decoration: underline;
+      &:hover, &:focus {
+        padding-bottom: 0;
+        background-image: linear-gradient(transparent 100%, $link-color 0%);
+        background-size: 100% 100%;
+      }
+    }
   }
 
   .site-title-wrapper {

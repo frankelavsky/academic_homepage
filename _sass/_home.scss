@@ -118,7 +118,8 @@
           margin-right: 0.5em;
           white-space: nowrap;
           background-position: top right;
-          background-size: 70% 100%;
+          background-image: linear-gradient(transparent 87%, $link-underline 13%);
+          background-size: 75% 100%;
           &:hover, &:focus {
             background-image: linear-gradient(transparent 90%, $link-color 10%);
             background-size: 100% 100%;
@@ -137,6 +138,21 @@
       margin-bottom: 0.7em;
       display: block;
       color: $text-color;
+      
+      background-image: linear-gradient(transparent 100%, $link-underline 0%);
+      background-size: 100% 100%;
+      strong {
+        background-image: linear-gradient(transparent 80%, $link-underline 0%);
+        background-size: 100% 100%;
+      }
+      &:hover, &:focus {
+        background-image: linear-gradient(transparent 100%, $link-color 0%);
+        background-size: 100% 100%;
+        strong {
+          background-image: linear-gradient(transparent 90%, $link-color 0%);
+          background-size: 100% 100%;
+        }
+      }
 
       &:hover, &:focus {
         text-decoration: none;
