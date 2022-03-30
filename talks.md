@@ -5,7 +5,7 @@ title: Talks
 class: talks
 ---
 
-# Talks
+# Talks, Workshops, and Guest Lectures
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
