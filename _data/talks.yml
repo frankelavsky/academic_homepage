@@ -13,7 +13,7 @@
 - title: "Fireside Chat: Charts in Context"
   location: Data Visualization Society
   date: 2022-01-24
-  video: https://www.youtube.com/watch?v=rYVtNEH4e4o
+  recording: https://www.youtube.com/watch?v=rYVtNEH4e4o
   url: https://www.datavisualizationsociety.org/fireside-chats-1
 - title: "Inclusive Data Experiences"
   location: Jupyter Project
@@ -29,6 +29,7 @@
   location: PolicyViz
   date: 2021-12-28
   url: https://policyviz.com/podcast/episode-208-frank-elavsky/
+  recording: https://www.youtube.com/watch?v=7qLtSrCyW4U
 - title: "Data Visualization and Accessibility"
   location: Carnegie Mellon University
   date: 2021-11-11
@@ -37,7 +38,7 @@
 - title: "Fireside Chat: Accessibility in Data Visualization"
   location: Data Visualization Society
   date: 2021-07-28
-  video: https://www.youtube.com/watch?v=Aqx5PQwds80&t=28s
+  recording: https://www.youtube.com/watch?v=Aqx5PQwds80&t=28s
   url: https://www.datavisualizationsociety.org/fireside-chats-1
 - title: "Inclusive Data Experiences"
   location: DSxD
@@ -66,7 +67,7 @@
 - title: "Data Visualization and Accessibility"
   location: IRE-NICAR
   date: 2021-03-04
-  video: https://vimeo.com/551549654
+  recording: https://vimeo.com/551549654
   slides: /talks/2021-intro_to_chartability.pptx
 - title: "Data Visualization and Accessibility"
   location: CIDE, Mexico City
@@ -74,7 +75,7 @@
 - title: "Are Your Data Visualizations Excluding People?"
   location: Outlier
   date: 2021-02-04
-  video: https://www.youtube.com/watch?v=SWB-KLXN-Ok
+  recording: https://www.youtube.com/watch?v=SWB-KLXN-Ok
   slides: /talks/2021-are_your_data_visualizations_excluding.pptx
 - title: "Data Visualization and Accessibility"
   location: Maryland Institute College of Art
