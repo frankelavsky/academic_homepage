@@ -13,7 +13,7 @@ I research, design, build, contribute to standards, and talk about things at the
 
 I'm a PhD student and researcher at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), some mix of contractor/intern doing data interaction research at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>, and senior research scientist at [Fizz Studio](https://fizz.studio/).
 
-At CMU, I am advised by Dominik Moritz and Patrick Carrington and a member of the [Data Interaction Group](https://dig.cmu.edu/) and [AXEL Lab](https://dig.cmu.edu/). I am also a [W3C invited expert in data visualization in the ARIA Working Group](https://www.w3.org/groups/wg/aria/participants#:~:text=Frank%20Elavsky) and volunteer my time with [other efforts](https://github.com/dataviza11y/Why-We-Exist).
+At CMU, I am advised by Dominik Moritz and Patrick Carrington and a member of the [Data Interaction Group](https://dig.cmu.edu/) and [AXLE Lab](https://axle-lab.com/). I am also a [W3C invited expert in data visualization in the ARIA Working Group](https://www.w3.org/groups/wg/aria/participants#:~:text=Frank%20Elavsky) and volunteer my time with [other efforts](https://github.com/dataviza11y/Why-We-Exist).
 
 </div>
 
