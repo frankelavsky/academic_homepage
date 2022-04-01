@@ -48,13 +48,34 @@
   demo: http://ds.iris.edu/ds/products/surface-wave-radiation-patterns/tools/surface-wave-radiation-patterns/
   paper: https://geophysics.earth.northwestern.edu/seismology/suzan/publications/89_Roesler_VdLee_SRL_2020.pdf
   image: seismic.PNG
-  imageDescription: "Screenshot of the Surface-Wave tool. Fair warning: this website may or may not be accessible, I only a small built part of it."
+  imageDescription: "Screenshot of the Surface-Wave tool. Fair warning: this website may or may not be accessible, I only built one part of it."
   description: "Our Surface-Wave Radiation Pattern tool is deployed and used by seismologists worldwide that visualizes radiation patterns of earthquakes based on arbitrary moment tensor inputs."
+
+- title: Tie-Breaking Bias in the Supreme Court
+  type: "Older (No Accessibility Guaranteed)"
+  url: https://insight.kellogg.northwestern.edu/article/supreme-court-justices-become-less-impartial-and-more-ideological-when-casting-the-swing-vote
+  demo: https://nuitrcs.github.io/kellogg-insight-supreme-court/
+  code: 
+  paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3250082
+  image: supreme.png
+  imageDescription: "How Casting the Deciding Vote Influences Justices' Decisions. New research shows that Supreme Court justices are more likely to vote in line with their ideology when casting a pivotal vote. Fair warning: these tools are not accessible and from mine olden days."
+  description: "Our interactive figure helped promote Spenkuch's research that supreme court justices that break a tie will vote more often in line with their party than they would otherwise."
 
 - title: Automation and US Cities
   type: "Older (No Accessibility Guaranteed)"
   url: https://insight.kellogg.northwestern.edu/article/how-will-automation-affect-different-united-states-cities
   paper: https://royalsocietypublishing.org/doi/10.1098/rsif.2017.0946
+  code: https://github.com/nuitrcs/kellogg_insight_automation
   image: city.PNG
   imageDescription: "Screenshot of the cities automation tool. Fair warning: these tools are not accessible and from mine olden days."
   description: "We collaborated with Hyejin Youn and Inho Hong to create 2 data interactives for their research on job automation across different US metro areas."
+
+- title: Household Water Insecurity Experiences (HWISE) Global Map
+  type: "Older (No Accessibility Guaranteed)"
+  url: https://sites.northwestern.edu/hwise/study-sites/
+  demo: https://nuitrcs.github.io/water-insecurity-map/
+  code: https://github.com/nuitrcs/water-insecurity-map
+  paper: https://gh.bmj.com/content/4/5/e001750.abstract
+  image: hwise.png
+  imageDescription: "A map of research sites across the globe. Fair warning: these tools are not accessible and from mine olden days."
+  description: "Our interactive map was used to help Sera Young's lab keep track of their research sites across the world and promote their research mission."
