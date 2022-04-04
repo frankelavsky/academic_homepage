@@ -13,6 +13,8 @@ If you're curious about my shorter-form thoughts, follow me on my twitter accoun
 
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | absolute_url }}">via RSS</a></p>
 
+## Blog Posts
+
 <div class="post-list">
   {% for post in site.posts %}
     {% assign currentdate = post.date | date: "%Y" %}
@@ -27,6 +29,23 @@ If you're curious about my shorter-form thoughts, follow me on my twitter accoun
       </h3>
       <span class="post-meta" title="{{ post.date | date: "%b %-d Y" }}">{{ post.date | date: "%b %-d" }} <span class="meta-year">{{ currentdate }}</span></span>
       {% if post.description %}<p class="post-subtitle">{{ post.description }}</p>{% endif %}
+    </div>
+  {% endfor %}
+</div>
+
+## Good Twitter Threads
+A self-sommelier of sorts, selecting my favorite threads. (I love that [Crystal Lee did this on her blog](https://crystaljjlee.github.io/), so I am following suit!)
+
+<div class="post-list twitter-posts">
+  {% for post in site.data.threads %}
+    {% assign currentdate = post.date | date: "%Y" %}
+    {% if currentdate != date %}
+      {% assign date = currentdate %}
+    {% endif %}
+
+    <div class="post-block">
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-meta" title="{{ post.date | date: "%b %-d %Y" }}">{{ post.date | date: "%Y, %b %-d" }}</span>
     </div>
   {% endfor %}
 </div>

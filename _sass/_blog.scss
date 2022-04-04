@@ -68,6 +68,47 @@
   display: block;
 }
 
+.twitter-posts {
+  .post-block {
+    margin-left: 0px;
+    padding-left: 110px;
+    margin-bottom: 16px;
+
+    a {
+      margin: 0;
+      font-weight: normal;
+      text-decoration: underline;
+      background-image: linear-gradient(transparent 100%, #aadbcf 0%);
+
+      &:hover, &:focus {
+        background-image: linear-gradient(transparent 100%, $link-color 0%);
+        background-size: 100% 100%;
+      }
+    }
+
+    .post-meta {
+      top: 0;
+    }
+  }
+  @include media-query($on-palm) {
+    .year {
+      font-size: 1.75rem;
+      margin-top: 1.5rem;
+    }
+    .post-block {
+      margin: 0;
+      padding: 0;
+      .post-meta {
+        position: relative;
+        left: 0;
+
+        .meta-year {
+          visibility: visible;
+        }
+      }
+    }
+  }
+}
 
 
 /**
