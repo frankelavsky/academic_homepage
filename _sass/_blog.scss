@@ -66,6 +66,7 @@
 
 .post-link {
   display: block;
+  font-weight: 600;
 }
 
 .twitter-posts {
@@ -77,13 +78,7 @@
     a {
       margin: 0;
       font-weight: normal;
-      text-decoration: underline;
-      background-image: linear-gradient(transparent 100%, #aadbcf 0%);
-
-      &:hover, &:focus {
-        background-image: linear-gradient(transparent 100%, $link-color 0%);
-        background-size: 100% 100%;
-      }
+      display: inline;
     }
 
     .post-meta {

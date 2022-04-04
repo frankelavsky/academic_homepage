@@ -8,13 +8,16 @@
     border-bottom: none;
   }
 
+  .intro {
+    font-size: 1.1em;
+  }
+
   .columns {
     display: flex;
     flex-direction: row;
 
     .intro {
       flex: 1;
-      font-size: 1.1em;
     }
 
     .me {
