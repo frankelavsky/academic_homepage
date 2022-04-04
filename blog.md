@@ -9,7 +9,7 @@ There is very little quality assurance behind what goes in here, so keep that in
 
 If you're curious about my shorter-form thoughts, follow me on my twitter account [@FrankElavsky](https://twitter.com/FrankElavsky), where I am regularly harping just the same as here but in slightly-smaller doses.
 
-{% include search.html %}
+<!-- {% include search.html %} -->
 
 <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | absolute_url }}">via RSS</a></p>
 
