@@ -33,7 +33,7 @@
 
       &.in-query {
         color: black;
-        font-weight: 500;
+        font-weight: 600;
       }
 
       & > span {
@@ -83,7 +83,7 @@
 
 #clear-filters {
   color: $grey-color-dark;
-  font-weight: 500;
+  font-weight: 600;
   cursor: pointer;
 
   &:hover, &:focus {
@@ -171,7 +171,7 @@
 
     .awards {
       margin-top: 0.1em;
-      font-weight: 500;
+      font-weight: 600;
       color: firebrick;
     }
 
