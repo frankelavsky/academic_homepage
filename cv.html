@@ -78,23 +78,6 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 </article>
 {% endfor %}
 
-
-<h2>Notable Awards</h2>
-
-{% for award in site.data.awards %}
-<article>
-  <div class="date-container">
-    <span class="date">{{ award.years | replace: "-", "–" }}</span>
-    <strong class="fill">{{ award.name }}</strong>
-    <span class="right">{{ award.sponsor }}</span>
-  </div>
-  <p class="muted">
-    {{ award.description }}
-  </p>
-</article>
-{% endfor %}
-
-
 <h2>Publications <a href="{{ '/publications/' | absolute_url }}">[Interactive Version]</a></h2>
 
 {% assign sorted_pubs = site.publications | reverse %}
@@ -183,6 +166,22 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 {% endfor %}
 
 
+<h2>Notable Awards</h2>
+
+{% for award in site.data.awards %}
+<article>
+  <div class="date-container">
+    <span class="date">{{ award.years | replace: "-", "–" }}</span>
+    <strong class="fill">{{ award.name }}</strong>
+    <span class="right">{{ award.sponsor }}</span>
+  </div>
+  <p class="muted">
+    {{ award.description }}
+  </p>
+</article>
+{% endfor %}
+
+
 <h2>Mentoring</h2>
 
 {% assign filtered_mentoring = site.data.mentoring | where_exp:'item','item.hidden == null' %}
@@ -208,7 +207,7 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 {% endfor %}
 
 
-<h2>Talks  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
+<h2>Talks, Courses, Workshops  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
@@ -249,56 +248,50 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 {% endfor %} -->
 
 
-<!-- <h2>Service</h2>
+<h2>Service</h2>
 
 <p>
-  Reviewer for ACM CHI, IEEE VIS, TVCG, EuroVis, PacificVis, Computers & Graphics, HILDA, and DSIA.
-  Program committee for <a href="http://hilda.io/2018/">HILDA 2018</a>, <a href="http://hilda.io/2019/">HILDA 2019</a>, and <a href="http://hilda.io/2020/">HILDA 2020</a>, and program chair for <a href="https://hilda.io/2022/">HILDA 2022</a> at SIGMOD.
-  Organizer of <a href="https://www.interactive-analysis.org/year/2018/">DSIA 2018</a> and <a href="https://www.interactive-analysis.org/">DSIA 2019</a> at VIS.
-  Session chair at CHI 2019, VIS 2019, VIS 2020, VIS 2021. Program committee at VIS 2020 and 2021. Organizing commitee for VIS 2022.
-  Maintainer of many open source projects. <a href="https://arrow.apache.org/committers/">Apache Arrow commiter</a>.
-  <br/>
-  Member of the <a href="https://frictionlessdata.io/">Frictionless Data</a> working group that aims to submit a specification to the <a href="https://www.ietf.org/">IETF</a>.
-</p> -->
+  <!-- Reviewer for ACM CHI, IEEE VIS, TVCG, EuroVis, PacificVis, Computers & Graphics, HILDA, and DSIA. -->
+  <ul>
+    <li>W3C Invited Expert, <a href="https://www.w3.org/groups/wg/aria/participants#:~:text=Frank%20Elavsky">Accessible Internet Rich Applications (ARIA) Working Group</a>, a working group for web accessibility standards. 2021 - Present.</li>
+    <li>Co-founder and organizer, <a href="https://github.com/dataviza11y/Why-We-Exist">DataVizA11y</a>, a worldwide group of practitioners focused on accessibility in visualization. 2020 - Present.</li>
+    <li>Consultant, <a href="https://sf.gov/resource/2021/covid-19-data-and-reports">City of San Franciso's Data Team</a>, helping with a project to make COVID-19 dashboards more accessible. 2021.</li>
+    <li>Community organizer, various, organizing at the local and institutional level for housing, safety, and student rights issues. 2013-2016.</li>
+  </ul>
+</p>
 
-<!-- <h2>References</h2>
+<h2>References</h2>
 
 <div class="refs">
   <p>
-    <strong>Jeffrey Heer</strong><br/>
-    Professor of Computer Science & Engineering<br/>
-    <i>University of Washington</i><br/>
-    <a href="https://homes.cs.washington.edu/~jheer/">homes.cs.washington.edu/~jheer/</a>
+    <strong>Dominik Moritz</strong><br/>
+    Senior Project Scientist, Human-Computer Interaction Institute<br/>
+    <i>Carnegie Mellon University</i><br/>
   </p>
 
   <p>
-    <strong>Bill Howe</strong><br/>
-    Professor at the Information School<br/>
-    <i>University of Washington</i><br/>
-    <a href="https://faculty.washington.edu/billhowe/">faculty.washington.edu/billhowe/</a>
+    <strong>Patrick Carrington</strong><br/>
+    Assistant Professor, Human-Computer Interaction Institute<br/>
+    <i>Carnegie Mellon University</i><br/>
   </p>
 
   <p>
-    <strong>Danyel Fisher</strong><br/>
-    Principal Design Researcher<br/>
-    <i>Honeycomb</i><br/>
-    Former Senior Researcher at Microsoft Research<br/>
-    <a href="https://danyelfisher.info/">danyelfisher.info/</a>
+    <strong>Chris DeMartini</strong><br/>
+    Senior Director, Data Experience Team<br/>
+    <i>Visa</i><br/>
   </p>
 
   <p>
-    <strong>Tim Kraska</strong><br/>
-    Professor of Electrical Engineering & Computer Science<br/>
-    <i>Massachusetts Institute of Technology</i><br/>
-    <a href="https://people.csail.mit.edu/kraska/">people.csail.mit.edu/kraska/</a>
+    <strong>Gabriel Hankins</strong><br/>
+    Assistant Professor of English<br/>
+    <i>Clemson University</i><br/>
   </p>
 
   <p>
-    <strong>Steven Franconeri</strong><br/>
-    Professor of Psychology<br/>
-    <i>Northwestern University</i><br/>
-    <a href="https://psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html">psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html</a>
+    <strong>Vetria Byrd</strong><br/>
+    Assistant Professor of Computer Graphics Technology<br/>
+    <i>Purdue University</i><br/>
   </p>
 </div>
 
-</section> -->
+</section>
