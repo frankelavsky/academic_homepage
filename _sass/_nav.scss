@@ -144,18 +144,9 @@ nav {
     }
 
     a {
-      border-radius: 3px;
-      margin: 0;
-
-      &:hover, &:focus {
-        border-color: transparent;
-        background: lighten($brand-color, 55%);
-      }
-
+      margin: 0 5px;
       &[aria-current] {
-        border-color: transparent;
-        background: lighten($brand-color, 50%);
-        border-radius: 3px;
+        border-bottom-width: 4px;
       }
     }
   }
