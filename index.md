@@ -9,7 +9,7 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I research, design, build, contribute to standards, and talk about things at the intersection of data work and accessibility.
+I research, design, engineer, contribute to standards, and talk about things at the intersection of data work and accessibility. I consider myself a maker and a builder before anything else, but I like to think I also do this work critically.
 
 I'm a PhD student and researcher at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), some mix of contractor/intern doing data interaction research at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>, and senior research scientist at [Fizz Studio](https://fizz.studio/).
 
