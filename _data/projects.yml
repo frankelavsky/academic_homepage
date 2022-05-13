@@ -2,7 +2,8 @@
   type: "Accessibility-focused"
   url: https://chartability.fizz.studio
   code: https://github.com/Chartability/POUR-CAF
-  paper: /papers/2022-eurovis-chartability.pdf
+  paper: https://www.frank.computer/chartability/
+  demo: https://chartability.github.io/POUR-CAF/
   image: chartability.png
   imageDescription: "Chartability project and website."
   description: "Chartability is a set of principles and heuristics for evaluating the accessibility of data experiences."
