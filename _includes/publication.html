@@ -27,9 +27,15 @@
   {% endif %}
 
   {% if pub.tweet %}
-    <a href="https://twitter.com/intent/tweet?text={{ pub.tweet }}&url={{ site.production_url }}/publications/%23{{ anchor }}&via=frankelavsky&related=frankelavsky" class="tweet">
+    {% if pub.tweetLocation %}
+    <a href="{{ pub.tweetLocation }}" class="tweet">
       <i class="fab fa-twitter" aria-hidden="true"></i> <span class="message">{{ pub.tweet }}</span>
     </a>
+    {% else %}
+    <span class="tweet">
+      <span class="message">{{ pub.tweet }}</span>
+    </span>
+    {% endif %}
   {% endif %}
 
   {% if pub.awards %}
@@ -41,6 +47,11 @@
 
   {% if pub.link or pub.pdf or pub.video or pub.blog or pub.slides or pub.doi %}
     <div class="extra-links">
+    {% if pub.html %}
+      <a href="{{ pub.html }}">
+        <i class="fab fa-html5" aria-hidden="true"></i> HTML
+      </a>
+    {% endif %}
     {% if pub.pdf %}
       <a href="{{ pub.pdf }}">
         <i class="far fa-file-pdf" aria-hidden="true"></i> PDF
@@ -51,13 +62,9 @@
         <i class="fas fa-link" aria-hidden="true"></i> Project
       </a>
     {% endif %}
-    {% if pub.html %}
-      <a href="{{ pub.html }}">
-        <i class="fab fa-html5" aria-hidden="true"></i> HTML
-      </a>
-    {% elsif pub.arxiv %}
+    {% if pub.arxiv %}
       <a href="https://ar5iv.org/html/{{ pub.arxiv | cgi_escape }}">
-        <i class="fab fa-html5" aria-hidden="true"></i> HTML
+        <i class="fab fa-html5" aria-hidden="true"></i> Ar5iv
       </a>
     {% endif %}
     {% if pub.blog %}

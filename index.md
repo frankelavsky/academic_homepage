@@ -65,7 +65,7 @@ In my early career (before Northwestern), I worked in federal policy analyzing l
   {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
   {% for pub in sorted_publications %}
     {% if pub.highlight %}
-      <a href="{{ pub.pdf }}" class="publication">
+      <a href="{{ pub.html }}" class="publication">
         <strong>{{ pub.title }}</strong>
         <span class="authors">{% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>.
         <i>{% if pub.venue %}{{ pub.venue }}, {% endif %}{{ pub.year }}</i>.
