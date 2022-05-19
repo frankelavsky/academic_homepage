@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Chartability version 2!"
+title: "Chartability version 2"
 slug: chartability-v2
 tags:
 - visualization
 - accessibility
-- Chartability
-description: A post announcing Chartability v2 and our paper on the project, on GAAD 2022.
+- chartability
+description: Announcing Chartability v2 and our paper on the project, for GAAD 2022.
 ---
 
 (This post is copied straight from twitter, for easier reading.)
