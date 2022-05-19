@@ -9,8 +9,6 @@ tags:
 description: A post announcing Chartability v2 and our paper on the project, on GAAD 2022.
 ---
 
-# Chartability version 2!
-
 (This post is copied straight from twitter, for easier reading.)
 
 It is #GAAD!
