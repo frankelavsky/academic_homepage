@@ -145,7 +145,7 @@ Thanks so much to everyone using it and giving feedback!
 
 But Chartability needs help in order to adapt and survive throughout time! Standards, research, and practice evolve. Chartability should too.
 
-Here's how anyone (yes ANYONE) can get involved:
+Here's how anyone can get involved:
 [https://github.com/Chartability/POUR-CAF/discussions/1](https://github.com/Chartability/POUR-CAF/discussions/1)
 
 /end
