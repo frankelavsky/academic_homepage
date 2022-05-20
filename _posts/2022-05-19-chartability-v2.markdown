@@ -135,7 +135,7 @@ Section 8:
 
 Massive thanks to the wonderful community that helped us form, improve, and test Chartability:
 
-@demartsc @oysteinmoseng @RyanShugart @shepazu @DogGeneticsLLC @spcanelon @LeonieWatson @emilykund @SarahFossheim @tedgies1 @LareneLg @MMazanec22 @abmakulec @AmyCesal (and more!)
+@demartsc @oysteinmoseng @ProQuesAsker @RyanShugart @shepazu @DogGeneticsLLC @spcanelon @LeonieWatson @emilykund @SarahFossheim @tedgies1 @LareneLg @MMazanec22 @abmakulec @AmyCesal
 
 So many folks helped who prefer to remain anonymous (preference or due to IP concerns), but you know who you are!
 
