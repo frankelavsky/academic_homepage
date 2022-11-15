@@ -1,3 +1,15 @@
+- title: "Accessible Research"
+  location: University of Washington
+  date: 2022-11-15
+  slides: /talks/2022-UW-data_visualization_and_accessibility.pptx
+- title: "Data Visualization and Accessibility"
+  location: IEEE Vis, VisInPractice
+  date: 2022-10-17
+  slides: /talks/2022-vis-in-practice.pptx
+- title: "Chartability"
+  location: Carnegie Mellon University
+  date: 2022-09-30
+  slides: /talks/2022-comm-talk.pptx
 - title: "Data Visualization and Accessibility"
   location: University of Cincinnati
   date: 2022-09-01
