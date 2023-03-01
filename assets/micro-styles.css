@@ -472,15 +472,6 @@ code{white-space: pre-wrap;}
         text-decoration-skip-ink: auto;
       }
 
-      nav a {
-        text-decoration: none;
-      }
-
-      nav a:hover,
-      nav a:focus {
-        text-decoration: underline;
-      }
-
       a:visited {
         color: inherit;
       }
@@ -512,9 +503,6 @@ code{white-space: pre-wrap;}
 
       .main-wrapper li p {
         margin: 0;
-      }
-      nav > ol > li > a {
-        padding-right: 2em;
       }
       details {
         position: relative;
