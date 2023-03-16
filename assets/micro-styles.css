@@ -578,6 +578,7 @@ code{white-space: pre-wrap;}
           margin: 1em;
         }
         header {
+          width: 25%;
           top: 1.4em;
           float: left;
           position: sticky;
