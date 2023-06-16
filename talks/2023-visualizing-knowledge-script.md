@@ -2,6 +2,8 @@
 ### Frank Elavsky
 Welcome, thanks so much for having me and thanks for the introduction.
 
+I talk often about how we can make data visualizations more accessible for people with disabilities. But today, I will be taking a step back and giving a bit of a meta talk about myself and my journey doing this work.
+
 ---
 # What is design?
 As a designer, I would say that I believe I know less now about what design is and what it means to be a designer than I did 8 years ago.
