@@ -82,6 +82,8 @@ We wanted to build smart, declarative components that could scale quality design
 
 I now had to design and engineer a system that *other* people used to design. An interesting new step for me!
 
+To build off of Moritz's talk, I went from spark work to ember work.
+
 And back in 2018, a few other design systems had emerged for visualization, like IBM's. But our vision was the first to have robust accessibility built in from the start.
 
 Accessibility was the majority of my intellectual work for 2.5 years.
