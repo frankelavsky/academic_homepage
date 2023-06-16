@@ -34,7 +34,9 @@ I've been thinking a lot lately, what does it mean to design?
 
 # What does it mean to be a *designer*?
 
-A while ago, I was a community organizer and a student of philosophy and theology. I know, probably the most annoying two things combined into one.
+Asking what design is is a harder question to start with than what does it mean to *be* a designer. From here, I can tell my story.
+
+So, a while ago, I was a community organizer and a student of philosophy and theology. I know, probably the most annoying two things combined into one.
 
 ---
 ## Community organizing helped me see the power of social action
