@@ -73,6 +73,8 @@ That was great work, but I was ready for something new.
 
 Visa hired me to be part of a core group of staff level engineers and designers who would build a visualization charting library from scratch. This library was intended to support 2000+ developers and designers working on about 200 data products.
 
+We wanted to build smart, declarative components that could scale quality design decisions, like accessibility to save others time and energy.
+
 I now had to design and engineer a system that *other* people used to design. An interesting new step for me!
 
 And I thought I had a good handle on accessibility coming into that job.
@@ -168,7 +170,9 @@ It should come as no surprise, but it turns out that people with disabilities ar
 
 /assets/Rectangle 1.png
 
-An example of this is on the left I'm showing how we might describe a single bar inside of a stacked bar chart. This description is visually hidden but read by technology called a screen reader. Blind folks are the most common users of screen readers, but are not the only ones.
+This is an example of one of our design system components at Visa, a stacked bar chart using almost entirely default settings for color, spacing, typography, and accessibility.
+
+In this particular example, I'm showing how we described a single bar inside of a stacked bar chart. This description is visually hidden but read by technology called a screen reader. Blind folks are the most common users of screen readers, but are not the only ones.
 
 The text at the bottom shows the screen reader announcing Product Category: 2. Building: A. Count: 15. Stacked bar 2 of 3. This matches the visual tooltip on the chart.
 
@@ -284,7 +288,7 @@ It occurred to me, if so much of what I do isn't actually truly certain.
 
 Why not seek out those places we haven't been?
 ---
-### Is the a better world always going to be built out of what we have already seen and done before?
+### Is a better world always going to be built out of what we have already seen and done before?
 
 Looking forward, two examples of uncharted territory for me are both related to access friction:
 
