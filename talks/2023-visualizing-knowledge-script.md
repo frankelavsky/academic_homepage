@@ -82,12 +82,14 @@ We wanted to build smart, declarative components that could scale quality design
 
 I now had to design and engineer a system that *other* people used to design. An interesting new step for me!
 
-And I thought I had a good handle on accessibility coming into that job.
+And back in 2018, a few other design systems had emerged for visualization, like IBM's. But our vision was the first to have robust accessibility built in from the start.
+
+Accessibility was the majority of my intellectual work for 2.5 years.
 
 ---
 
 
-Colorblind safe palettes and alt text were all I thought I needed to know about to do the job well.
+Initially, colorblind safe palettes and alt text were all I thought our designers and developers needed. This was my background.
 
 But Visa, a company that operates in virtually every country in the world, must comply with every country's accessibility laws.
 
