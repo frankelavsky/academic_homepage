@@ -78,6 +78,8 @@ That was great work, but I was ready for something new.
 
 Visa hired me to be part of a core group of staff level engineers and designers who would build a visualization charting library from scratch. This library was intended to support 2000+ developers and designers working on about 200 data products.
 
+We wanted to build smart, declarative components that could scale quality design decisions, like accessibility to save others time and energy.
+
 I now had to design and engineer a system that *other* people used to design. An interesting new step for me!
 
 And I thought I had a good handle on accessibility coming into that job.
