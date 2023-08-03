@@ -1,3 +1,17 @@
+- title: "Philosophy of Design"
+  location: Visualizing Knowledge, Aalto University
+  date: 2023-06-16
+  url: https://vizknowledge.aalto.fi/schedule.html
+  slides: /talks/2023-visualizing-knowledge/presentation.htm
+- title: "Data Visualization and Accessibility"
+  location: Visualizing Knowledge, Aalto University
+  date: 2023-06-15
+  url: https://vizknowledge.aalto.fi/workshops.html
+  slides: /talks/2023-Visualizing-Knowledge-Workshop.pptx
+- title: "Data Visualization and Accessibility"
+  location: Maryland Institute College of Art
+  date: 2023-06-05
+  slides: /talks/2023-MICA.pptx
 - title: "Accessible Research"
   location: arXiv Accessibility Forum
   date: 2023-04-17
