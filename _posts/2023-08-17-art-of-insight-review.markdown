@@ -24,7 +24,7 @@ And this book, while about the art of insight, visualization, and discourses, is
 
 Every chapter is a new person. And Alberto, using his journalistic prowess, really investigates who they are and why they visualize. What we are left with is a tapestry of people, all wrestling with the world in their own way through our shared art.
 
-It is hard to overstate that this may be the single most important piece of literature to arise out of our field. 
+<hr> 
 
 Alberto is to many a father. We can point to Bertin or Tufte (oof) or back further to Nightingale, Du Bois, or others. But a father is the one who is with us right now, not an ancestor like Nightingale.
 
