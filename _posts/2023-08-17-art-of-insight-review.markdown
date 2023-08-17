@@ -26,13 +26,11 @@ Every chapter is a new person. And Alberto, using his journalistic prowess, real
 
 <hr> 
 
-Alberto is to many a father. We can point to Bertin or Tufte (oof) or back further to Nightingale, Du Bois, or others. But a father is the one who is with us right now, not an ancestor like Nightingale.
+Alberto is a caretaker of the lost, someone who mentors and connects with those who are growing. He is a ferociously talented person but has managed to live with more generosity than our field deserves. Alberto's love for the people who visualize shines through in this book. He is present with us.
 
-To me it feels strange to call him a "father," but it is true. I am wary of phrases like "father of data visualization" because there is this assumption that the title "father" is a progenitor, trailblazer, or hero. And he isn't really any of those things. But Alberto is a caretaker of the lost, someone who mentors and connects with those who are growing. He is a ferociously talented person but has managed to live with more generosity than our field deserves. Alberto's love for *us* shines through in this book. He is present with us.
+Alberto has, in my own life and career, been a constant support. He offered me feedback on my work, put my words and ideas in front of others, connected me to people, and encouraged me when I felt lost. We've played board games together and discussed many fun, philosophical, and political things that we were burning up about.
 
-Alberto has, in my own life and career, been a constant support. He offered me feedback on my work, put my words and ideas in front of others, connected me to people, and encouraged me when I felt lost. We've played board games together and discussed many philosophical, hedonistic, and political things that we were burning up about.
-
-The Art of Insight feels more like a family portrait, a snapshot in time, meant to be celebrated and remembered, than some static, unmoving monolith that says claims the Capital-T Truth of whatever visualization really is. The Art of Insight shows that visualization is who we are, right now. It will become who we become with us. And that is beautiful.
+So in some ways, The Art of Insight feels more like a family portrait as a snapshot in time, meant to be celebrated and remembered, than some static, unmoving monolith that claims the Capital-T Truth of whatever visualization really is. The Art of Insight shows that visualization is who *we* are, right now. It will become who we become with us. And that is beautiful.
 
 I have known for years that he is someone with a deep love of our relatively obscure field of practice. But this book shows that his love of our field of practice is, really, a love of the people in it.
 
