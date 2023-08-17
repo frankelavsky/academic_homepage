@@ -10,7 +10,7 @@ description: What books should I read to learn data visualization? Where do I le
 
 A friend and former colleague emailed me the question, "What books should I read to learn data visualization? I'm also interested in keeping up with current trends and best practices." and I decided to publish my answer (slightly edited), in case this is helpful for anyone else.
 
-And I mention this in my [review of Alberto Cairo's Art of Insight](https://www.frank.computer/blog/2023/08/art-of-insight-review.html), but I have read quite a lot of our field's work. I'm passionate about this subject! But if you feel like I'm missing something here, tweet at me and maybe I'll change my mind.
+I have read quite a lot of our field's work. I'm passionate about this subject! But if you feel like I'm missing something here, [tweet](https://twitter.com/FrankElavsky) at me and maybe I'll change my mind.
 
 I hope this list of recommendations can help you too, if you find yourself reading this.
 
@@ -46,6 +46,6 @@ I'm probably forgetting a major pillar or two lol! But these are all I could rec
 
 ## Last but not least
 
-And while this final section wasn't part of my original email, I cannot recommend enough how important Alberto Cairo's forthcoming book, The Art of Insight, will be for getting a sense of our whole field. Seriously! [I wrote a glowing review of it](https://www.frank.computer/blog/2023/08/art-of-insight-review.html).
+And while this final section wasn't part of my original email, I cannot recommend enough how important Alberto Cairo's forthcoming book, [The Art of Insight](https://www.wiley.com/en-us/The+Art+of+Insight%3A+How+Great+Visualization+Designers+Think-p-9781119797395), will be for getting a sense of our whole field. Seriously! [I wrote a glowing review of it](https://www.frank.computer/blog/2023/08/art-of-insight-review.html).
 
 If you want to browse around for inspiration, I might recommend looking at the field of data journalism, the Information is Beautiful Awards, or conferences like Outlier. But if you want a book that inspires you to see how diverse our practice is, then read this last book on my list for sure.
