@@ -8,9 +8,6 @@ tags:
 description: Frank Elavsky's review of Alberto Cairo's forthcoming book, The Art of Insight.
 ---
 
-# The Art of Insight, a picture of ourselves
-Frank Elavsky's review of Alberto Cairo's forthcoming book, The Art of Insight.
-
 It is quite difficult to write a review for this work. I have put this off for several months now, long past the "final date" Alberto mentioned to me if I wanted my blurb to appear as a quote he'd use.
 
 But this work is just monumental. It's stupendous. I feel so strange speaking in such hyperbole about it. It gives me a sense of connection to our field of practice and how diverse we are within it.
