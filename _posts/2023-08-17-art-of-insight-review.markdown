@@ -10,13 +10,15 @@ description: Frank Elavsky's review of Alberto Cairo's forthcoming book, The Art
 
 It is quite difficult to write a review for Alberto's [The Art of Insight](https://www.wiley.com/en-us/The+Art+of+Insight%3A+How+Great+Visualization+Designers+Think-p-9781119797395). I have put this off for several months now, long past the "final date" Alberto mentioned to me if I wanted my blurb to appear as a quote he'd use.
 
-But this work is just monumental. It's stupendous. I feel so strange speaking in such hyperbole about it. It gives me a sense of connection to our field of practice and how diverse we are within it.
+But this work is just monumental. It's stupendous. I feel so strange speaking in such superlatives about it. It gives me a sense of connection to our field of practice and how diverse we are within it.
 
 As part of publishing this review, I am also publishing another post that is an email that I sent to a friend and former colleague about their question to me, "[what books should I read to learn the basics of visualization](https://www.frank.computer/blog/2023/08/visualization-recommendations.html)?"
 
-And to be fair, I didn't put this book on that list. Of course, that is because it isn't out yet! But I want to solidfiy that I've read quite a lot of our field's work. I've followed it for years. I very much consider the core of my professional identity as "part of the visualization community."
+And to be fair, I didn't put this book on that list. Of course, that is because it isn't out yet!
 
-So why do I think this book is monumental? Perhaps the greatest book about our field ever to be published?
+But I want to solidify that I've read quite a lot of our field's work. I've followed it for years. I very much consider the core of my professional identity as "part of the visualization community." That post is meant to showcase many of the other books that I also think are worthwhile for someone to read.
+
+So why do I think *this* book is monumental? Perhaps the greatest book about our field ever to be published?
 
 In Chapter 7 (about my favorite visualization designer, Federica Fragapane) Alberto opens with a quote from Giorgia Lupi (perhaps my second favorite visualization designer), "We are ready to question the impersonality of a merely technical approach to data and to begin designing ways to connect numbers to what they really stand for: knowledge, behaviours, people."
 
