@@ -1,3 +1,14 @@
+- title: Data Navigator
+  type: "Accessibility-focused"
+  url: https://dig.cmu.edu/data-navigator
+  code: https://github.com/cmudig/data-navigator
+  paper: https://arxiv.org/abs/2308.08475
+  demo: https://dig.cmu.edu/data-navigator
+  image: data-navigator.png
+  imageDescription: "Data Navigator project and website."
+  description: "Data Navigator is a system for creating accessible data structures that can be navigated with a variety of assistive technologies."
+  highlight: 1
+
 - title: Chartability
   type: "Accessibility-focused"
   url: https://chartability.fizz.studio
@@ -7,7 +18,7 @@
   image: chartability.png
   imageDescription: "Chartability project and website."
   description: "Chartability is a set of principles and heuristics for evaluating the accessibility of data experiences."
-  highlight: 1
+  highlight: 2
 
 - title: Visa Chart Components
   type: "Accessibility-focused"
@@ -17,7 +28,7 @@
   image: vcc.png
   imageDescription: "Visa Chart Component example image and website."
   description: "Visa Chart Components is an accessibility focused, framework agnostic set of data experience design systems components for the web."
-  highlight: 2
+  highlight: 3
 
 - title: Modeling Career Hot Streaks
   type: "Older (No Accessibility Guaranteed)"
@@ -29,7 +40,6 @@
   image: hot.PNG
   imageDescription: "Screenshot of the Hot Streaks website. Fair warning: this website is not accessible and from mine olden days."
   description: "Our interactive Hot Streaks model promoted Liu et al's research, visualizing over 1m data points on the web using SVG."
-  highlight: 3
 
 - title: Masses in the Stellar Graveyard
   type: "Older (No Accessibility Guaranteed)"
