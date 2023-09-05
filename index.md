@@ -22,7 +22,7 @@ At CMU, I am advised by Dominik Moritz and Patrick Carrington and a member of th
   <source srcset='/images/frank.jpg' type='image/jpg' />
   <img
     src='/images/frank.jpg'
-    alt="It's me! A white man with medium-length brown hair, glasses, and a black turtleneck.">
+    alt="It's me! A white man smiling with medium-short brown hair, glasses, and a grey t-shirt.">
 </picture>
 
 {:.no-list}
