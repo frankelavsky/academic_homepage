@@ -1,0 +1,346 @@
+0:00:00.420,0:00:05.340
+I’m Frank Elavsky and this is my latest project: 
+Data Navigator: an accessibility-centered data
+
+0:00:05.340,0:00:09.660
+navigation toolkit. This work was in collaboration 
+with Lucas Nadolskis and Dominik Moritz.
+
+0:00:10.560,0:00:13.260
+This is a bar chart. Let’s say it’s interactive.
+
+0:00:13.260,0:00:16.440
+I might be able to hover using 
+a mouse to see a tooltip.
+
+0:00:16.440,0:00:19.020
+Or perhaps I can even click the 
+bars in order to do something
+
+0:00:19.020,0:00:22.020
+like open some data or filter or go to a webpage.
+
+0:00:22.620,0:00:27.180
+But data visualizations often only have mouse 
+support. Sometimes limited touch support.
+
+0:00:27.840,0:00:30.540
+Support for screen readers or 
+other assistive technologies
+
+0:00:30.540,0:00:34.080
+and input modalities pretty much 
+doesn’t exist in most toolkits.
+
+0:00:34.080,0:00:39.540
+Making data visualizations accessible for people 
+with disabilities is, of course, important. But
+
+0:00:39.540,0:00:44.340
+how do we get there? How can we realize this goal? 
+Research on what users with disabilities want and
+
+0:00:45.120,0:00:50.280
+accessibility standards and guidelines aren’t 
+enough. The toolkits and ecosystems we use to
+
+0:00:50.280,0:00:54.240
+craft data visualizations must give visualization 
+designers and developers the ability to follow
+
+0:00:54.240,0:00:58.740
+best practices and explore new design ideas. 
+But as it stands, toolkits have a ways to go.
+
+0:00:59.520,0:01:03.660
+Access for many assistive technologies is 
+a navigation problem. And most toolkits out
+
+0:01:03.660,0:01:07.920
+there offer virtually nothing to developers 
+to design and control navigation experiences.
+
+0:01:07.920,0:01:10.860
+For example, screen readers, which are typically
+
+0:01:10.860,0:01:16.320
+used by blind and low vision users, navigate. 
+And other devices may rely on keyboard, voice,
+
+0:01:16.320,0:01:21.960
+or gesture inputs. These typically have discrete 
+or direct navigation controls are may be used by
+
+0:01:21.960,0:01:26.340
+people with motor or dexterity disabilities. Some 
+of these devices have been around a long time.
+
+0:01:26.340,0:01:32.100
+For example, shown is a wheelchair user who is 
+using a sip and puff device from the 1960s. This
+
+0:01:32.100,0:01:36.600
+controls and navigates a computer using breathing 
+patterns. These devices are still used today.
+
+0:01:37.260,0:01:41.640
+And what about the future of input devices? 
+Future and fabricated interfaces in particular
+
+0:01:41.640,0:01:44.520
+are a subject of study in accessibility 
+contexts such as physical therapy,
+
+0:01:44.520,0:01:47.760
+rehabilitation, working with children 
+with disabilities, and the elderly.
+
+0:01:47.760,0:01:51.960
+One particular study that I love from 2014 
+used objects that could be found in a kitchen,
+
+0:01:51.960,0:01:55.980
+primarily produce, to create a tangible 
+interface in an aging community setting.
+
+0:01:56.640,0:01:59.160
+Visualization toolkits currently cannot handle the
+
+0:01:59.160,0:02:01.740
+assistive technologies of the 
+past, let alone the future.
+
+0:02:02.520,0:02:06.360
+So I would like to present our project, Data 
+Navigator. It is a system that provides an
+
+0:02:06.360,0:02:09.960
+entirely new accessibility substrate. 
+Data navigator adds navigable structure,
+
+0:02:09.960,0:02:12.900
+input handling, and rendering 
+capabilities to data visualizations.
+
+0:02:12.900,0:02:15.960
+We intend for our system to 
+work in tandem with toolkits,
+
+0:02:15.960,0:02:20.040
+allowing them to provide robust accessibility 
+capabilities downstream to their users.
+
+0:02:20.700,0:02:25.320
+I’ll give a brief demo. This is a png chart 
+from highcharts. This chart isn’t interactive,
+
+0:02:25.320,0:02:29.400
+it is literally just pixels, but I used 
+data navigator to make it navigable and
+
+0:02:29.400,0:02:33.780
+interactive. I am first navigating 
+this chart using a keyboard. The title, axes,
+
+0:02:33.780,0:02:36.660
+legend, and all the bars in the bar chart 
+are now accessible thanks to Data Navigator.
+
+0:02:36.660,0:02:41.220
+And Data navigator’s renderer also adds semantics 
+and text descriptions for screen readers.
+
+0:02:41.760,0:02:43.800
+Using our input handling subsystem I can
+
+0:02:43.800,0:02:46.500
+navigate by swiping in various 
+directions on a touch device,
+
+0:02:46.500,0:02:50.940
+And even gesture with my hands using 
+a simple gesture detection model.
+
+0:02:51.600,0:02:55.620
+Voice commands and typed text also work, 
+which are in our live demo but not shown
+
+0:02:55.620,0:02:57.499
+here. And we also wanted to validate and test future interfaces so we
+
+0:02:57.499,0:03:01.498
+replicated version of Rogers et al’s fabricated
+
+0:03:01.500,0:03:04.830
+produce-based input system, just to show 
+the power of Data Navigator.
+
+0:03:04.830,0:03:08.580
+You’re welcome to explore our live demo yourself 
+too. You can find the link in our paper.
+
+0:03:09.240,0:03:13.320
+So data navigator is actually built on a 
+graph structure. A graph is formed out of
+
+0:03:13.320,0:03:15.600
+nodes and edges. These are our primitive elements.
+
+0:03:15.600,0:03:20.640
+And nodes and edges can, of course, be used to 
+represent almost every other data structure:
+
+0:03:20.640,0:03:23.160
+they can create tables, lists, and hierarchies.
+
+0:03:23.160,0:03:27.540
+But they also can be used to represent network 
+graphs, infographic and mathematical diagrams,
+
+0:03:27.540,0:03:31.980
+flows, spatial structures like maps, and even 
+custom paths through a visualization's story.
+
+0:03:31.980,0:03:35.700
+Nodes can be virtually anything, 
+structurally: individual data points,
+
+0:03:35.700,0:03:38.280
+groups of data points, or even information that 
+isn't originally part of a dataset like a title,
+
+0:03:38.280,0:03:40.140
+axis label, visual feature, or annotation.
+
+0:03:40.740,0:03:45.300
+Our edges, which have navigation rules, can 
+also be anything. Our rules are abstract!
+
+0:03:45.960,0:03:49.860
+So left, right, up down, or even 
+a rule like Legend can exist on an
+
+0:03:49.860,0:03:52.440
+edge. Our rules are whatever 
+makes sense for the visual.
+
+0:03:53.160,0:03:56.880
+Lastly, rendering is an issue for 
+toolkits. As an example of this,
+
+0:03:56.880,0:04:00.960
+the charting library Highcharts has both 
+SVG and raster based rendering options,
+
+0:04:02.460,0:04:06.600
+like from our demo earlier. You can render the 
+exact same visualization using either method.
+
+0:04:06.600,0:04:13.680
+But rendering using SVG is typically much more 
+accessible while raster rendering is much faster.
+
+0:04:13.680,0:04:16.080
+This means toolkit developers are in a bad place:
+
+0:04:16.740,0:04:19.800
+offering a more efficient technology 
+that excludes people with disabilities.
+
+0:04:21.480,0:04:26.040
+However, Data Navigator’s rendering 
+subsystem creates an accessible HTML layer,
+
+0:04:26.040,0:04:29.460
+and provides full control to developers 
+over the styling and semantics so it
+
+0:04:29.460,0:04:33.180
+can integrate seamlessly into the visual’s 
+design. This HTML layer can be placed over
+
+0:04:33.180,0:04:39.480
+any graphic. Our whole subsystem lazy-loads each 
+element, which means that it is really fast too.
+
+0:04:39.480,0:04:43.380
+In our paper we added data navigator to 
+Vega-lite’s canvas rendering programmatically.
+
+0:04:43.380,0:04:47.880
+This allowed us to automatically add navigable 
+accessibility to quite a lot of basic visualization
+
+0:04:47.880,0:04:51.360
+that vega-lite renders. And the best part 
+is that our system is quite lightweight,
+
+0:04:51.360,0:04:55.620
+initializing in 10 milliseconds for a 
+chart with 20,000 data points. That’s fast.
+
+0:04:55.620,0:05:00.360
+And data navigator can be used for exploring 
+novel and unaddressed navigation designs. Our
+
+0:05:00.360,0:05:04.200
+blind co-author and co-designer Lucas Nadolskis 
+and I designed schemas for navigating vector
+
+0:05:04.200,0:05:08.460
+and set diagrams and made prototypes using 
+Data Navigator. Check out the paper for more.
+
+0:05:09.240,0:05:13.380
+So what’s next? Well, we believe that our 
+technical contribution opens up several
+
+0:05:13.380,0:05:17.100
+lines of co-design and human studies work. 
+What do users whose disabilities have been
+
+0:05:17.100,0:05:19.560
+unaddressed by current literature 
+want and need from an accessible,
+
+0:05:19.560,0:05:23.460
+interactive visualization experience? We should 
+work to establish ideal patterns for use,
+
+0:05:23.460,0:05:26.160
+especially for visualization 
+types that are not well studied.
+
+0:05:27.060,0:05:29.820
+And our most immediate future 
+work is towards practical aims:
+
+0:05:29.820,0:05:32.760
+we intend to provide a user interface 
+for building navigation structures.
+
+0:05:32.760,0:05:35.880
+Users could create nodes, connect them with edges,
+
+0:05:35.880,0:05:38.520
+and declare navigation rules.
+We hope this will help teams
+
+0:05:38.520,0:05:41.880
+such as data journalists who might build 
+charts and graphs that need design finesse
+
+0:05:41.880,0:05:45.720
+really control their accessible navigation 
+experience without having to write code.
+
+0:05:46.620,0:05:50.280
+And we’re looking for collaborations! Are you 
+building a charting library or are part of a team,
+
+0:05:50.280,0:05:54.840
+such as a news organization, that puts out charts 
+and graphs? I’d love to talk. Please reach out.
+
+0:05:55.380,0:05:56.040
+Thank you.
