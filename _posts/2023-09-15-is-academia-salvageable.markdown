@@ -13,7 +13,7 @@ Amy Ko has recently announced [Wordplay](https://www.nature.com/articles/d41586-
 
 Instead, I want to talk about radical projects. I want to muse whether they are really possible in academia, without every force in the universe aligning in your favor.
 
-Ko remarked in her talk that this was her sabatical project and that it really has been something she was stewing on for a long time. It's such a fundamental shift from the way the hegemony of language in computer programming has operated, that it makes sense she had to wait for tenure and a sabbatical to find the time, energy, and resources to explore this.
+Ko remarked in her talk that this was her sabbatical project and that it really has been something she was stewing on for a long time. It's such a fundamental shift from the way the hegemony of language in computer programming has operated, that it makes sense she had to wait for tenure and a sabbatical to find the time, energy, and resources to explore this.
 
 And that is largely because, I believe, radical projects are not something supported in the academic ecosystem anymore. Perhaps in the past ideas could have been conjured up that don't explicitly contribute to some kind of military venture or corporate interests, but virtually every grant for technological research today is from one of those two sources. Either we reinforce state violence or we pursue questions that are potentially profitable.
 
