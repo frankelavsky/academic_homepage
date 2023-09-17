@@ -2,7 +2,7 @@
   type: "Accessibility-focused"
   url: https://dig.cmu.edu/data-navigator
   code: https://github.com/cmudig/data-navigator
-  paper: https://arxiv.org/abs/2308.08475
+  paper: https://www.frank.computer/data-navigator/
   demo: https://dig.cmu.edu/data-navigator
   image: data-navigator.png
   imageDescription: "Data Navigator project and website."
