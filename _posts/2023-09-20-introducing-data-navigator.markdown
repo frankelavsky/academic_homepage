@@ -9,7 +9,7 @@ tags:
 description: I'm happy to announce my latest project, Data Navigator! Making interactive data visualizations work with assistive technologies that navigate content is complex and difficult work. Data Navigator aims to make this easier.
 ---
 
-## The TL;DR
+## The short and sweet of it
 We designed a system that developers can use to make their data visualizations navigable. This is important for supporting assistive technology input as well as the design of future data navigation interfaces.
 
 We have a lot of work left to do though: now that visualizations *can* work with different assistive technologies, it's time to co-design, validate, and establish what it means to create good data navigation experiences.
@@ -35,7 +35,7 @@ Want to get started? Here are all of the links related to Data Navigator:
 - [Our codebase on GitHub](https://github.com/cmudig/data-navigator): if you want to check out our codebase, typescript types, and follow for future developments.
 - [Data Navigator on NPM](https://www.npmjs.com/package/data-navigator?activeTab=readme): if you're ready to get started and try it out.
 
-## The full rundown of our latest project
+## The rundown: Why make a tool like Data Navigator?
 We've made great strides in recent years for data visualization accessibility.
 
 In [Chartability](https://www.frank.computer/chartability/), my set of guidelines for accessible visualization, there are [50 different things worth checking](https://chartability.github.io/POUR-CAF/#thetests) that can cause barriers for people with disabilities. And I've performed over 120,000 tests with Chartability to date. Every data visualization I've evaluated contained at least one failed Chartability test.
