@@ -102,16 +102,3 @@ Our first example shows off how we made a png image of a stacked bar chart navig
 Our [second case example](https://www.frank.computer/data-navigator/#section:ecosystem) shows how (with just a small amount of code) Data Navigator can add an accessibility substrate to most data visualizations produced by a charting library. We demo this using vega-lite. If you are someone who builds charting libraries or toolkits, I recommend you check out the code we used and our discussion in the paper.
 
 Our [final case example](https://www.frank.computer/data-navigator/#section:codesign) is where we showcase how Data Navigator (as a system) can guide and inspire co-design work that engages novel and unaddressed visualization types. I recommend you check out our paper if you're a researcher or practitioner who wants to explore new horizons but is intimidated by the idea of co-designing with people with disabilities. We show that this work doesn't have to be a monumental effort, but can actually be fun.
-
-## Cite our paper
-
-<pre focusable="true" tabindex="0"><code id="bibtex">
-@article{2023-elavsky-data-navigator,
-    title = {{Data Navigator}: An Accessibility-Centered Data Navigation Toolkit},
-    publisher = {{IEEE}},
-    author = {Frank Elavsky and Lucas Nadolskis and Dominik Moritz},
-    journal = {{IEEE} Transactions on Visualization and Computer Graphics},
-    year = {2023},
-    url = {http://dig.cmu.edu/data-navigator/}
-}
-</code></pre>
