@@ -102,3 +102,51 @@ Our first example shows off how we made a png image of a stacked bar chart navig
 Our [second case example](https://www.frank.computer/data-navigator/#section:ecosystem) shows how (with just a small amount of code) Data Navigator can add an accessibility substrate to most data visualizations produced by a charting library. We demo this using vega-lite. If you are someone who builds charting libraries or toolkits, I recommend you check out the code we used and our discussion in the paper.
 
 Our [final case example](https://www.frank.computer/data-navigator/#section:codesign) is where we showcase how Data Navigator (as a system) can guide and inspire co-design work that engages novel and unaddressed visualization types. I recommend you check out our paper if you're a researcher or practitioner who wants to explore new horizons but is intimidated by the idea of co-designing with people with disabilities. We show that this work doesn't have to be a monumental effort, but can actually be fun.
+
+<h2>
+    Cite our paper
+    <button id="bib-copy" class="bib" href="#" title="Copy to clipboard" aria-label="Copy to clipboard">
+        <span class="far fa-copy">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <path d="M208 0H332.1c12.7 0 24.9 5.1 33.9 14.1l67.9 67.9c9 9 14.1 21.2 14.1 33.9V336c0 26.5-21.5 48-48 48H208c-26.5 0-48-21.5-48-48V48c0-26.5 21.5-48 48-48zM48 128h80v64H64V448H256V416h64v48c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V176c0-26.5 21.5-48 48-48z"></path>
+            </svg>
+        </span>
+    </button>
+    <span aria-live="polite" id="copy-announcer"></span>
+</h2>
+
+<pre focusable="true" tabindex="0"><code id="bibtex">
+@article{2023-elavsky-data-navigator,
+    title = {{Data Navigator}: An Accessibility-Centered Data Navigation Toolkit},
+    publisher = {{IEEE}},
+    author = {Frank Elavsky and Lucas Nadolskis and Dominik Moritz},
+    journal = {{IEEE} Transactions on Visualization and Computer Graphics},
+    year = {2023},
+    url = {http://dig.cmu.edu/data-navigator/}
+}
+</code></pre>
+<script>
+    // taken from the wonderful folks at MIT Vis Lab
+    // https://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences/
+    document.addEventListener('DOMContentLoaded', function () {
+        document.getElementById('bib-copy').addEventListener('click', function (evt) {
+            const announce = document.getElementById('copy-announcer');
+            const setText = txt => () => {
+                announce.innerText = txt;
+                window.setTimeout(() => (announce.innerText = ''), 1500);
+            };
+            console.log(bibtex);
+            navigator.permissions
+                .query({
+                    name: 'clipboard-write'
+                })
+                .then(result => {
+                    if (result.state == 'granted' || result.state == 'prompt') {
+                        navigator.clipboard
+                            .writeText(bibtex.innerText)
+                            .then(setText(' Copied!'), setText(' Failed.'));
+                    }
+                });
+        });
+    });
+</script>
