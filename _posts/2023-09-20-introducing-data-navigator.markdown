@@ -97,6 +97,9 @@ Our third and final contribution are our demonstrations of our system design and
 
 Our first example shows off how we made a png image of a stacked bar chart navigable. In [our live demo](https://dig.cmu.edu/data-navigator/) you can use keyboard-based input, desktop and mobile screen readers, voice commands, text input commands, and even hand gestures. Of course, this is just a sample of what is possible, but we hope it inspires much more work.
 
+<a href="https://dig.cmu.edu/data-navigator/">
+    <img src="https://www.frank.computer/images/point.png" alt="Our demo application.">
+</a>
 **I cannot stress enough: [try out the demo](https://dig.cmu.edu/data-navigator/) to really get a sense of what Data Navigator can do!**
 
 Our [second case example](https://www.frank.computer/data-navigator/#section:ecosystem) shows how (with just a small amount of code) Data Navigator can add an accessibility substrate to most data visualizations produced by a charting library. We demo this using vega-lite. If you are someone who builds charting libraries or toolkits, I recommend you check out the code we used and our discussion in the paper.
