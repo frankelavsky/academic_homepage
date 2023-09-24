@@ -90,7 +90,7 @@ Because edges are relationships in our system design, navigation along them can 
 
 Many data visualization types (maps especially) have significant research, standards, and guidelines gaps when it comes to accessible navigation. And many people who use assistive technologies other than screen readers are currently *entirely* unaddressed by data visualization and accessibility research literature.
 
-We want Data Navigator to become a practical tool that sparks a new generation of experimenting with design ideas. What interaction barriers are un- or under-studied? What do people with motor and dexterity disabilities who leverage navigation input technologies want and need from interactive data vsualizations? And which chart types pose complex design challenges for navigation technologies? How can we imagine addressing things like dense scatterplots, maps, flow diagrams, network visualizations, and future rendering strategies (3D, AR, VR, and beyond)?
+We want Data Navigator to become a practical tool that sparks a new generation of experimenting with design ideas. What interaction barriers are un- or under-studied? What do people with motor and dexterity disabilities who leverage navigation input technologies want and need from interactive data visualizations? And which chart types pose complex design challenges for navigation technologies? How can we imagine addressing things like dense scatterplots, maps, flow diagrams, network visualizations, and future rendering strategies (3D, AR, VR, and beyond)?
 
 ### Contribution 3: Demos
 Our third and final contribution are our demonstrations of our system design and implementation: we built three case examples!
