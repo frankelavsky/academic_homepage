@@ -34,7 +34,7 @@ If you're curious about my shorter-form thoughts, follow me on my twitter accoun
 </div>
 
 ## Good Twitter Threads I've Written
-A self-sommelier of sorts, selecting my favorite threads. (I love that [Crystal Lee did this on her blog](https://crystaljjlee.github.io/), so I am following suit!)
+A self-sommelier of sorts, selecting my favorite threads. (I love that [Crystal Lee did this on her blog](https://crystaljjlee.com/index/), so I am following suit!)
 
 <div class="post-list twitter-posts">
   {% for post in site.data.threads %}
