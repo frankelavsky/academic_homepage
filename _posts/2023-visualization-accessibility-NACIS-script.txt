@@ -1,0 +1,176 @@
+Hey everyone, I am Frank Elavsky, a PhD student and researcher at Carnegie Mellon University. I research, engineer, design, and contribute to standards at the intersection of accessibility and visualization. This is my jam.
+
+Today I hope to go over the important concepts, history, practice for what accessibility and visualization means as well as focus a little on mapping in the process.
+
+Before we start I just want to remind you to add alt text if you post any photos of this talk to social media. It would be really ironic if you forgot it.
+
+So what I have here is a video by Sarah Fossheim showing what an online map of the US 2020 presidential elections sounds like to a screen reader. I love this video and have shared it many times over the years in my talks. So a screen reader navigates content on a screen and announces information about that content to its user. This assistive technology is most commonly used by folks who are blind or low vision, although others use screen readers too. And in this video Sarah is swiping to navigate this map. The navigation is shown visually with a white border outline called a focus indicator. But all that is read out is "image, image, image" repeatedly. That means that proper alternative text or labels were not supplied to each of these states.
+
+Ideally, someone who uses a screen reader will need to know what state they've navigated to and who won that state. That's what is shown visually.
+
+And this experience I shared here is incredibly common for screen reader users. Most data visualizations and maps are inaccessible. Often even worse than this.
+
+So what IS accessibility? What do I mean when I use that word?
+
+There are two common definitions. The first is broad: “Accessibility is the qualities that make an experience open or usable to all.” We might use this to say we are teaching data science to high schoolers, making the material more accessible. Or broadband internet access would be considered accessibility under this definition.
+
+The second definition is more specific: The qualities that make an experience open or usable specifically for people with disabilities. An important shift in focus. This is the definition we are using today.
+
+So why? Why do we do accessibility work? I ask this in virtually every talk I give because I want everyone to really think about this question. It’s important.
+
+The best answer to the question is that accessibility for people with disabilities is a human right. There are some great articles drafted by the united nations on the rights of people with disabilities.
+
+We should do this work because it is right to do. Simple enough.
+
+Who is disabled? And what does disability look like?
+
+According to the CDC’s research, 27% of people living in the United States self-report living with a disability that affects their daily life.
+
+Here we see what those might look like, and keep in mind that nest numbers don’t add up to 27% because they aren’t exclusive:
+4.1% have color vision deficiency, 4.5% are blind or low vision, 10.8% have cognitive or neurological disability, 13.7% -the largest- is for motor, dexterity and mobility related disability, and 7.4% is related to vestibular, motion, and balance disorders.
+
+And every type of disability informs the design of an accessible visualization or map. From the visual and non-visual design considerations, to the stories and statistics we discuss, the interaction design, device considerations, and animations and use of motion.
+
+We should be designing for and with people with disabilities in every aspect of our work.
+
+So what is the state of accessibility right now? I have a silly little diagram I use to set the mood here.
+
+Creators
+
+Use tools
+
+To make things
+
+And over time, we make more and more things.
+
+Does anyone want to guess what percentage of stuff out there is inaccessible in at least one way for people with disabilities? What percentage do we think this number looks like?
+
+On the web? Almost all of it. On a given year, between 97 and 99% of stuff is inaccessible in some way. And on social media, research studies show it is between 98 and 99.99% inaccessible, depending on the method of measurement.
+
+You know what scares me? This rate stays roughly the same, but each year we are putting more and more stuff out there. That’s a terribly hostile landscape for people with disabilities to navigate.
+
+Okay now that I hope you’re all a little depressed. Our first major concept. This is a curb. We’ve all encountered them. A curb is a raised difference between a sidewalk and a street. Heh, the curb isn’t the concept though.
+
+We are going to use the curb to talk about the medical and social models of disability.
+
+So curbs and wheelchairs don’t mix. This is a real, historical problem. And historically for the last couple hundred years, the medical model of disability has been the dominant approach to problems like our curb-wheelchair dilemma.
+
+The medical model believes that the body is the cause of disability. Or really, that the body is where disability is located. This is according to normative standards. Generally speaking, this is how medicine operated for a long time (and still philosophically is how many people think of disability still). We can, in some ways, thank the medical model for some stuff. The wheelchair is a result of the medical model. Medicine, which is great, is also largely the result of the medical model.
+
+But in the curb-wheelchair dilemma, the medical model would seek to augment or “cure” the body. And a lot of medical and technological projects still to this day look to augment or cure an individual’s disability in order to overcome things like stairs or curbs.
+
+But this puts the burden on an individual to access and afford these fancy new inventions, which are often really impractical. Most stair climbing prototype wheelchairs are over 1000 pounds and 15000 dollars or more to produce.
+
+But there is another way to frame disability. And that is that the curb, which is an artificial thing that we humans have made, is the barrier. And these artificial barriers are where disability is located. Disability then, in the social model, is produced by human-made things - whether those are laws and norms, or physical or technological structures.
+
+So the social model takes action on the environment, on the constructed things. The social model cuts the curb.
+
+Why do we call it the social model? Because in the medical model, medicine “solves” disability on the body, but in the social model, WE, the creators of the world around us, are the ones who get rid of barriers. Historically speaking, it took advocacy to get curbs cut and standardized. And largely, people benefitted from cutting curbs, even folks who don’t use wheelchairs. People are much safer when crossing streets. The studies related to this phenomenon call this the “curb-cut” effect.
+
+That leads us to the next concept: situational impairment. And this one is usually when lights start going off in people’s heads. My own advisor at CMU said that when he learned this, it’s when accessibility really clicked.
+
+So some folks have a permanent condition. In a medicalizing framing, we’d say they have a permanent disability. Someone might be born quadriplegic or lost a limb due to an accident. They permanently do not have use of a limb.
+
+But other folks, like someone who fell playing football, simply broke their arm. This is a temporary impairment, what we might call temporary disability.
+
+And lastly are situational impairments. This might be a parent holding a baby with one arm.
+
+So accessibility work that is designed for folks with permanent conditions often also has downstream benefits for folks who are experiencing temporary or situational impairment. This is an extension of the idea behind the curb cut effect. Everyone in this room has experienced situational and temporary impairments in life. And as we age, disability comes for all of us.
+
+The phrase “design for one, extend to all” is used by Microsoft to capture this idea.
+
+For a lot of folks, this is when they start to realize that accessibility is already all around us. It’s everywhere and has made the worlds we inhabit, both physically and digitally, immensely better. We often take for granted what accessibility has already done for us.
+
+I often use my phone as an example of this. It had a hardware update about 2.5 years ago and since then it no longer automatically adjusts contrast. I have to manually do this and only really dark or really bright settings are usable. I’m situationally impaired on a bright day. I often cannot even see the surface of my phone when out in the sun. I took for granted that automatically adjusting contrast protects us from the situational impairment of the sun. I’m constantly thinking about the sun now in ways I didn’t used to.
+
+But does this “design for one, extend to all” have limits? Or problems, even?
+
+Yes. It isn’t the start OR end of accessibility work.
+
+So the last, and most-important concept I want to talk about today is disability-centered design. This frames both some of our oldest and newest projects.
+
+Back in ’77 there was a famous protest that started in San Francisco. The 504 sit in. It centered around the idea that disability rights needed to be enshrined in law AND that anything about people with disabilities must include people with disabilities. The phrase “nothing about us without us” is sacred in disability circles and still absolutely vital today.
+
+And disability-centered work is really that simple: that whenever we build, design, standardize, legislate, research, or engineer for people with disabilities, we must do it with them too.
+
+But over time, especially in the 90s, 2000s, and 2010s, work that was assumed to have more of a curb-cut effect was prioritized. It just sounds better to the business folks to do things that help non-disabled people. “Design for one, extend to all” is a great business proposition. And 27% of the population to someone crunching numbers, just hasn’t been enough of a reason to pursue human rights.
+
+But that is changing. Recently disability-centered work, in the form of co-design and participatory design, has been making a return.
+
+And some stuff, really some of the best stuff out there, may never fully extend to others. Here we have 8 different beautiful, historical tactile maps that the Perkins School for the blind has archived. Some of these date back to the early 1800s. Our oldest tactile graphics that were made with blind people in mind.
+
+But braille embossed maps, in particular, require someone to know how to read braille. This means that these maps are not really helpful for someone with a temporary or situational vision impairment. These are for experts. This design does not extend.
+
+But it is invaluable!
+
+I’ve done co-design work myself. I cannot stress enough how impactful something like a tactile map can be compared to a textual description or screen-reader navigable map. It just helps spatial relationships click in ways that audio can’t do justice to.
+
+So I’d argue that our modern technical tools have made us a bit tool-dependent. We get whatever accessibility they give us. But we used to have maps like this. So I hope that all of you can get a little inspired to think beyond what your favorite tools can do right now. Perhaps try something new. Maybe even make friends with your local blind library and offer to help make some tactile maps of your neighborhoods and cities. Most major cities have a blind library and they are eager for help.
+
+For example if you still have time today, they are closed on Saturday, check out the Library of Accessible Media for Pennsylvanians, or LAMP here in Pittsburgh. Tell Mark Lee I said hi. They do tours sometimes, perhaps you’ll get lucky. They’re great so check them out if you can.
+
+So the next section of the talk is practical. A little bit of how-to.
+
+So in most of my practical workshops I give, the most important thing I hope folks can walk away with is an improved ability to detect barriers. I want you to learn how to see the curbs all around us. I came up with a project called Chartability, which helps folks evaluate the accessibility of their data visualizations. I’ve even used this in quite a lot of industry collaborations too. I’ve personally done about 120,000 tests with Chartability to date.
+
+And this online, interactive map of the US 2020 presidential elections by CNN?
+
+I found nearly 1000 accessibility barriers in about an hour of work.
+
+In this section we will breeze very quickly through some of the high level skills and techniques used in evaluation. In time you can get to a place where checking for accessibility in your own projects takes very little effort.
+
+So accessibility work is organized into principles. Accessibility standards bodies, like the Web Accessibility Initiative’s Web Content Accessibility Guidelines, use 4 principles. We will just touch on 3 today, very briefly.
+
+The first principle for accessibility evaluation is Perceivable. And this principle should help you think of the simple questions: “Can someone perceive this thing I’m evaluating in multiple ways? And is each way easy?”
+
+That might look like designing for high contrast. On the left, a bunch of text and bars with low contrast. Very hard to see but this is common in design (especially maps!). On the right is considered high contrast. A minimum level of contrast is important because it helps folks visually distinguish between one thing and other, often just a foreground object and its background.
+
+There are tests for these too. Just google accessibility contrast checker to dig in to this.
+
+Another thing to check is whether color alone is used to communicate meaning. In maps, it’s important for highways, roads, and trails to use different thickness or patterns to be distinguishable from one another.
+
+Color vision deficiency, or CVD, is often the motivation for avoiding color-only approaches. There are plenty of cool techniques in this space too, and color is where I actually got started in accessibility.
+
+For example, ESRI actually has an enhanced contrast map that uses texture on rivers, thickness differences between road types, very high contrast text labels with white outlines, and more. It’s a great map to use when you’re first getting started (or just to borrow techniques from).
+
+And of course, perception isn’t just visual. So adding alt text is the single most important thing you can do to make visual content accessible to blind, deaf blind, and low vision folks. There are some good guides out there for describing charts, graphs, and maps. But the most important thing is that you all know you should do it and you shouldn’t be afraid of trying your best. Crafting text experiences is quite an artful skill to get good at, so don’t get intimidated early on. Just try to be as concise, descriptive, and practical as possible.
+
+The next principle is Operable. Similar questions: Can someone operate this in multiple ways? And is each way easy?
+
+Mouse and touch, called direct pointers, rule all. They dominate interaction assumptions and paradigms in computing. But many, many assistive technologies actually navigate content instead. And these have been around since the early days of computing. Shown here is a person in a wheelchair in 1960 operating an computer using a sip and puff device, which uses their breath to control a computer.
+
+Sip and puffs are still used today!
+
+But an easy heuristic for you all is simply to try using your keyboard. If you can do anything at all with your mouse that has a functional or informational purpose, your keyboard should also be able to accomplish that purpose in some way as well. 
+
+This is what WCAG calls a “single A” standard, or an absolute bare minimum. Keyboards are foundational to most tech that navigates, including screen readers. Normally at this point in a focused workshop, we would all try out using a screen reader. But today we don’t have time. So I highly recommend everyone tries using a screen reader literally today if you can. Just google how to get started on your chosen device.
+
+The final principle we are talking about today is understandable. Same type of questions: Can someone understand this in multiple ways? Is each way easy?
+
+And there is a lot to this principle, but we will just talk about the “easy” part of it. A lot of stuff we write is actually hard to understand. And clear, simple writing is literally better for everyone. I often say that cognitively accessible text has the ultimate curb cut effect: people with disabilities benefit but so does any reader: even technical folks and academics have been shown to retain more information, recall it faster, and understand it with better accuracy, when it is written as plainly as possible.
+
+And there is a great tool for testing the reading comprehension level of your writing, in US school grades. You want grade 9 or below according to accessibility standards. The effect from simplifying and clarifying your text is huge, I cannot stress that enough.
+
+So this was just a sample of the first 3 principles. In web standards there are 4 total. In Chartability, there are 7. Chartability has 50 total heuristics you can use to test your work. Highly recommend checking it out. Most of it easily applies to mapping contexts.
+
+And my second and latest project, Data Navigator, I just want to plug. It is a tool that adds an accessible substrate to any visual, be it an image, chart, or map, whatever. This interactive layer enables interactivity with a huge swathe of assistive technologies and input modalities. It’s really neat! I’m especially hoping that the mapping community can start using it, because we have a lot of work to do making maps navigable.
+
+Thanks y’all, I am looking forward to the panel and going over questions. Feel free to seek me out after if you have questions. And you can get these slides, as well as many more resources, at frank.computer, shown here with the arrow pointing to it.
+
+I’ll upload them later today.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
