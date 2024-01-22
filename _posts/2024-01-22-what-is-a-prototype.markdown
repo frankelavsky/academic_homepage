@@ -45,7 +45,7 @@ Faithfulness then is about being faithful to an idea: having a strong sense of c
 
 In a philosophical sense, there is a platonic order, an *essence*, that we want to demonstrate with a prototype. Prototypes are relatively *non-existential*. What I mean by that is that they typically begin with an idea and then are brought into existence to test and demonstrate that idea. With prototypes, essence precedes existence. (I wonder what Sarte and peers would have to say about prototypes?)
 
-## What does "fidelity" allow us to do?
+## What does low versus high fidelity allow us to do?
 I was also somewhat disappointed with the “low versus high fidelity” reading because it also seemed to leave out some of the best parts of low fidelity prototypes. If fidelity is about faithfulness to an idea, then low faith is actually a space of liberating exploration. Low faith is about *permission* and *possibility*. Low faith is about unknowing, uncertainty, and openness to change. This means that low fidelity prototypes can be easier to collaborate on. If the creator and the prototype aren't all that faithful to an idea, then the idea and the prototypes can be influenced, shaped, and refined. 
 
 Higher fidelity ideas tend to invite critique about specifics. Lower fidelity prototypes tend to invite collaboration on higher-level concepts and intentions. Higher fidelity prototypes aren’t just more expensive, but also packed with more assumptions and opinions about the artifact’s particulars. They become more explanatory than exploratory. Low/high fidelity in this piece seemed to focus on cost and economics between the two, rather than particular qualities and strengths that actually define how low or high fidelity can or should be used. 
