@@ -8,8 +8,8 @@ tags:
 - ontology
 description: In this short reflection, I explore a rather unorthodox answer to "what is a prototype?" that involves rhetoric, reflexivity, and a touch of theology.
 ---
-<div style="max-height: 400px; position: relative; overflow: hidden;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Design_Thinking_Workshop_WMDE_Prototyp_Wiki-Dorf.jpg" style="top: -150px;position: relative;" alt="A paper and pipe cleaner prototype that is constructed in three dimensions, with hand written text in German and little figures of people, buildings, and a robot.">
+<div style="max-height: 400px; overflow: hidden;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Design_Thinking_Workshop_WMDE_Prototyp_Wiki-Dorf.jpg" alt="A paper and pipe cleaner prototype that is constructed in three dimensions, with hand written text in German and little figures of people, buildings, and a robot.">
 </div>
 <em>A prototype. <a href="https://commons.wikimedia.org/wiki/File:Design_Thinking_Workshop_WMDE_Prototyp_Wiki-Dorf.jpg">Corinna Schuster (WMDE)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</em>
 
