@@ -67,7 +67,7 @@ This provocation ("I am enough, so now what?") has been something I just can't s
 
 But there was something that was (in some ways) truer about my work as a barista than everything else that followed since: I wasn't "solving problems" by making coffee for people. I was providing other folks with something that I hoped would bring them joy. And I loved making coffee. In fact I still do. Every morning I make drinks for myself, my partner, and our pets (who get "pawttes") and find deep join making drinks any time we have guests.
 
-<img src="../images/coffee.jpg" alt="A swirling design of milk foam rests on top of a soft bed of coffee crema. It resembles a whirlpool or as if a fern leaf was twisted into a spiral." style="display: block; width: 50%; margin-left: auto; margin-right: auto;"/>
+<img src="https://www.frank.computer/images/coffee.jpg" alt="A swirling design of milk foam rests on top of a soft bed of coffee crema. It resembles a whirlpool or as if a fern leaf was twisted into a spiral." style="display: block; width: 50%; margin-left: auto; margin-right: auto;"/>
 
 So what? Do I quit my PhD and open a coffee shop?
 
