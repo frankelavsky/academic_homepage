@@ -71,7 +71,7 @@ Overall? The prototype was a success. Folks had fun and were able to complete th
 
 Of course, since this was for a class project and the prototype sessions were relatively long (about 20 - 30 minutes from start to finish, including setup, working, and follow-up), I only had 4 total participants.
 
-I'd love to further this prototype and study, especially to explore more deeply
+I'd love to further this prototype and study, especially to explore more deeply potentially negative downsides (a sort of experiential risk assessment, if you would).
 
 Some of the questions and responses from participants (all anonymized here, I just selected some of my favorite responses):
 ### Did using an avatar make you feel more or less comfortable when co-working with a stranger?
