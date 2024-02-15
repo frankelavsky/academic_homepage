@@ -77,7 +77,7 @@ I had volunteers (both from class and also my personal social network) sign up, 
 ## Findings
 Overall? The prototype was a success. Folks had fun and were able to complete their tasks as well. Response to the avatars helped provide some supporting evidence for some of our positive extrema hypotheses.
 
-Of course, since this was for a class project and the prototype sessions were relatively long (about 20 - 30 minutes from start to finish, including setup, working, and follow-up), I only had 4 total participants.
+Of course, since this was for a class project and the prototype sessions were relatively long (about 20 - 30 minutes from start to finish, including setup, working, and follow-up), I only had 4 total participants. Interestingly, without prompting or asking, 3 of the 4 participants self-identified as neurodivergent in some way when we mentioned this was a body-doubling prototype experience. I didn't ask the 4th whether they were or not, but it is good to know I managed to select participants whose feedback would be valuable for this kind of activity.
 
 I'd love to further this prototype and study, especially to explore more deeply potentially negative downsides (a sort of experiential risk assessment, if you would).
 
@@ -104,7 +104,6 @@ Some of the questions and responses from participants (all anonymized here, I ju
 - "I definitely wanted to play around a bit at first. Once that novelty wears off a little, it's not distracting, but more feels comfortable."
 
 ### How would you feel about sharing your own screen? Do you feel that would be important or necessary for the exercise? What concerns would you have about sharing?
-- "I think sharing my own video was necessary because if I was on the receiving end of a call with no screen/avatar partner, I would feel ignored and vulnerable. It would make me feel left out and I would be completely distracted trying to figure out why I was alone. Having a "person" visible, even through an avatar, creates a personal connection."
 - "I would not feel comfortable sharing my screen with a stranger."
 - "Probably wouldn't want to do that, I'd have to worry about a lot if I did that."
 
