@@ -121,9 +121,9 @@ Of course, this was a prototype but in the future it would be great to use a hig
 Also, we love the idea of exploring personalization more with the avatars as well as intentionally pairing participants who don't speak the same language, to see if translation-bots or assistants can help bridge gaps in a natural way that doesn't feel distracting. I think that having avatars capable of waving, dancing, cheering, or performing some other simple actions with their hands or arms also might be worth exploring further as well. Oh, and profile pictures should reflect the person's current avatar too.
 
 ## Meta-reflections
-Of course, because this is me and I'm gonna do my thing, I've been stewing a bit on our exercise (which is to explore productivity + technology + algorithmic experiences). Here's where I do some navel-gazing, after watching other groups present their work:
+Of course, because this is me and I'm gonna do my thing, I've been stewing a bit on our exercise (which is to explore productivity + technology + algorithmic experiences). Here's where I do some navel-gazing, after watching other groups present their work.
 
-I think it is really interesting that in this productivity exercise, many of the other students in our class carry some assumptions about what productivity is or how to frame their problem space:
+I think it is really interesting that in this productivity exercise, many of the other students in our class carry some assumptions about what productivity is or how to frame their problem or solution spaces. For example:
 - There are normative "good" things that people should conform to (such as concepts like "self-motivation")
 - Continuing that, individualistic productivity is an ideal outcome (people should be productive all on their own)
 - The idea that "intrinsic" motivation is even real (cognitive science would argue that most everything is external)
@@ -132,5 +132,6 @@ I think it is really interesting that in this productivity exercise, many of the
 - The experiential neutrality of tech intervention (IE, that a pop-up or reminder isn't good or bad, painful or wonderful, it's just neutral)
 - Why some people experience a lack of productivity (behaviorally), for example having low-dopamine production or response (like ADHD), intersections with poverty or abuse or other socio-economic factors, negative associations with failure/inability or starting/finishing something, perfectionism/OCD, lack of social support, chronic illness, lack of interest/stimulation, or depression.
 - Historically, what factors have contributed the most to productivity (war, colonialism, Protestant guilt aka the "Protestant work ethic," funding, egalitarian revolution, managerial capitalism, etc).
+- Socially/personally, what conditions are when people are/have been most "productive" (caring for a newborn, when playing a video game, when working a job, when you have an administrative assistant, etc)
 
 Having assumptions isn't necessarily bad, per se. We all have them, of course. But I think that good prototyping comes about when we are willing to question our assumptions. Really novel, spicy and provocative ideas emerge when we are willing to interrogate our most formative assumptions about our own values, understanding, and intentions. I'm wondering if there could be some kind of way to teach students (or have them learn by example) what questioning your own assumptions can look like, without falling into some Philosophy 101 course. Or perhaps, as things tend to be with me, all roads lead back to philosophy eventually.
