@@ -34,7 +34,7 @@ So I wondered: what if we weren't really ourselves in these spaces? And what if 
 
 First, I took inspiration from [VTubers](https://en.wikipedia.org/wiki/VTuber) or "virtual youtubers." These are avatars (typically custom 2D or 3D character models), rigged with facial-recognition capabilities. VTubers will typically stream or create online video content appearing as this character. And due to their popularity, some companies even feature Vtuber characters as official spokespeople or mascots.
 
-My assumption is that if everyone looks different than their normal selves, they might feel less obligated to act according to particular social conventions, may feel safer being themselves, and have less opportunities to be prejudiced towards their partner.
+My assumption is that if everyone looks different than their normal selves, they might feel less obligated to act according to particular social conventions, may feel safer being themselves, and have less opportunities to be prejudiced towards their partner. I reckon this will have a positive impact on their experience and productivity (that's my conjecture, at least).
 
 <figure>
     <img src="https://www.frank.computer/images/gawr_gura.png" alt="An anime character who is wearing a shark hoodie. Behind them is a screen that says All about bloop (with bloop written in scratchy hand-writing). Just the facts! Name: Gawr Gura. Birthday: Jun 20. Age 9927. Height: 141cm. My favorites! Color: Blue. Food: Salman. Likes: Food. PWWIE. Dislikes: Hot sand. Biggest fear: Loud Stomak."/>
