@@ -20,9 +20,9 @@ But of course, body doubling is something generally done in person with someone 
 ## Challenges and Goals
 So I wondered: what if your body double was a stranger? And what if there was some kind of match-making magic that just paired you with another person? (As a note, someone else on my team was exploring what that *magic* might look like as their contribution to our parallel prototyping.)
 
-I believe this might help with fast match-making, taking away much of the executive difficulties of coordinating a session. In addition, this could also help facilitate on-demand productivity, which might actually benefit and compliment some [ADHD productivity habits](https://www.reddit.com/r/ADHD/comments/mtlmp5/are_spontaneous_bursts_of_productivity_common/).
+I believe this might help with fast match-making, taking away much of the executive difficulties of coordinating a session. In addition, this could also help facilitate on-demand productivity, which might actually benefit and compliment some [ADHD productivity habits](https://www.reddit.com/r/ADHD/comments/mtlmp5/are_spontaneous_bursts_of_productivity_common/). In particular, the fact that some ADHD folks are highly productive in short, unpredictable bursts is not something I wanted to frame as a negative trait or design against. Instead, I wanted to imagine how to empower this existing productivity behavior through on-demand body-doubling.
 
-But if you were paired with someone who was a stranger, there are some potential issues. First, is that you might not feel safe or could be uncomfortable having to introduce yourself or interact according to social expectations of some kind. And of course, I reckon that we might run into what I'm dubbing "the Omegle problem" (obscenity, nudity, offensive behavior, etc).
+But if you were paired with someone who was a stranger, there are some potential issues we need to consider. First, is that you might not feel safe or could be uncomfortable having to introduce yourself or interact according to social expectations of some kind. What if the other person is racist or sexist? What if you don't feel fully able to be yourself and instead want to [mask](https://add.org/adhd-masking/) in the other person's presence? And of course, I reckon that we might run into what I'm dubbing "the Omegle problem" (obscenity, nudity, offensive behavior, etc).
 
 So I wondered: what if we weren't really ourselves in these spaces? And what if what we could do when we interact with others was limited to a set of certain actions or behaviors?
 
@@ -126,7 +126,7 @@ Of course, because this is me and I'm gonna do my thing, I've been stewing a bit
 I think it is really interesting that in this productivity exercise, many of the other students in our class carry some assumptions about what productivity is or how to frame their problem or solution spaces. For example:
 - There are normative "good" things that people should conform to (such as concepts like "self-motivation")
 - Continuing that, individualistic productivity is an ideal outcome (people should be productive all on their own)
-- The idea that "intrinsic" motivation is even real (cognitive science would argue that most everything is external)
+- The idea that "intrinsic" motivation is even real (cognitive science would argue that most all cognitive activity is a result of external stimulus in some way or another, whether based on present, past, or future stimulus or imagined stimulus)
 - A lack of productivity is *bad* (perhaps the exercise itself motivates this) and should be "solved"
 - "Habits" are intrinsically related to productivity (what even IS a habit?)
 - The experiential neutrality of tech intervention (IE, that a pop-up or reminder isn't good or bad, painful or wonderful, it's just neutral)
