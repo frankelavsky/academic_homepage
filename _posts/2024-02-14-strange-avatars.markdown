@@ -30,14 +30,14 @@ First, I took inspiration from [VTubers](https://en.wikipedia.org/wiki/VTuber) o
 
 <figure>
     <img src="https://www.frank.computer/images/gawr_gura.png" alt="An anime character who is wearing a shark hoodie. Behind them is a screen that says All about bloop (with bloop written in scratchy hand-writing). Just the facts! Name: Gawr Gura. Birthday: Jun 20. Age 9927. Height: 141cm. My favorites! Color: Blue. Food: Salman. Likes: Food. PWWIE. Dislikes: Hot sand. Biggest fear: Loud Stomak."/>
-    <figcaption>[Gawr Gura](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g), one of the most popular, family-friendly Vtubers on YouTube. Screenshot taken from her debut video stream.</figcaption>
+    <figcaption><a src="https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g">Gawr Gura</a>, considered one of the most popular, family-friendly Vtubers on YouTube. Screenshot taken from her debut video stream.</figcaption>
 </figure>
 
 And to help keep activity regulated and safe, I drew inspiration from online multiplayer video games and the concepts of avatars with emotes: in games, such as World of Warcraft, Fortnite, or the indie game Lethal Company, players look like in-game characters but have a limited set of actions that they are capable of making.
 
 <figure>
     <img src="https://www.frank.computer/images/lethal_dance.png" alt="Two players in Lethal Company, dancing. They are wearing their company-issued hazmat suits. Their dancing looks awkward and dorky, which is likely an intentional design choice by the game developers."/>
-    <figcaption>Players using the "Dance" emote in [Lethal Company](https://en.wikipedia.org/wiki/Lethal_Company), an indie game about salvaging in horrific conditions for an even-more-horrific space-capitalist mega-corp.</figcaption>
+    <figcaption>Players using the "Dance" emote in <a src="https://en.wikipedia.org/wiki/Lethal_Company">Lethal Company</a>, an indie game about salvaging in horrific conditions for an even-more-horrific space-capitalist mega-corp.</figcaption>
 </figure>
 
 So my idea: What if we used the facial recognition features of Vtubers to help make avatars feel alive to maintain a sense of presence with another person, but limited what other actions the avatar was capable of, in order to help participants stay focused and productive?
@@ -112,7 +112,7 @@ Some of the questions and responses from participants (all anonymized here, I ju
 Well, controlling the environment with zoom had a few unexpected accidents. Namely, a participant accidentally turned on their mic at one point and a participant in each session still had their profile picture shown (which meant they weren't totally anonymous).
 
 <figure>
-    <img src="https://www.frank.computer/images/moovatar.png" alt="A fox and a cow participant in a call together."/>
+    <img src="https://www.frank.computer/images/moovatar.png" alt="A racoon and a cow participant in a call together."/>
     <figcaption>The cow's highlight ring is showing, meaning their microphone was broadcasting. Profile pictures in chat have been scrubbed from this image, but in the original one person had a selfie of themselves shown next to each message they typed into chat (zoom's default behavior).</figcaption>
 </figure>
 
