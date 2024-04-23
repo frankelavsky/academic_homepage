@@ -33,7 +33,13 @@ The core idea for the project has been mine for a while now (a couple of years, 
 The technology used for this idea is inspired by two separate research projects: first is the idea of "[ambient co-presence](https://maggieappleton.com/ambient-copresence)." Here, we are exploring an *ambient co-repair*, where the vestiges and lingering traces of others aren't just ghostlike or aesthetic, but rather people leave their mark through the subtle and careful repair of the shared digital spaces we inhabit. The other idea is inspired by a project from CSCW where users had a browser extension and could [change the headlines on news articles to fix sensationalized and click-baity language](https://dl.acm.org/doi/10.1145/3555643) into something factual or more reasonable.
 
 ## Our case example and context: a really bad article on how "accessibility has failed"
+
 I focused my repair on a single article by the now-infamous Jakob Nielsen that is ironically titled, ["Accessibility Has Failed: Try Generative UI = Individualized UX"](https://jakobnielsenphd.substack.com/p/accessibility-generative-ui). My fellow groupmate Julia brought the article to our group and it is a perfect example of a website with content that is sorely inaccessible.
+
+<figure>
+    <img src="https://www.frank.computer/images/failed.png" alt="Screenshot of Jakob Nielsen's article. VoiceOver screen reader is on a navbar icon of Jakob's face and the screen reader is announcing Unlabeled Image, Unlabeled Image."/>
+    <figcaption>The very first element a screen reader accesses in the article for "Accessibility has failed" is a link that is unlabeled that contains an image without a description. Not a great start!</figcaption>
+</figure>
 
 The page has no alt text on any images, in the article and outside of the article (in images across the rest of the page). It also notably uses images as links (`<a>` elements), but they operate like `<button>` elements, and have no label, or ARIA information at all. To a blind person, this article would be a barren landscape.
 
