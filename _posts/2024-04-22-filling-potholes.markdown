@@ -52,6 +52,11 @@ I reached out to two blind folks I know, both of whom are fairly technical peopl
 
 I showed them both the original article, watched them parse the page with their screen reader, and then we had a discussion about the piece.
 
+<figure>
+    <img src="https://www.frank.computer/images/filled.png" alt="Screenshot of Jakob Nielsen's article. VoiceOver screen reader is on a navbar icon of Jakob's face and the screen reader is announcing visited, link, image, Home page. Pothole filled by user @frankElavsky 04/18/24."/>
+    <figcaption>I've added alt text and improved accessibility markup across the page.</figcaption>
+</figure>
+
 After that, I had them install my extension and then parse the page again. We discussed the idea behind the extension and I got their thoughts and feedback.
 
 Overall, my friends were relatively reserved and concerned with the practicality of the idea both socially and technically. The idea seemed good if enough people were involved and the stuff out there on the web lasted long enough.
