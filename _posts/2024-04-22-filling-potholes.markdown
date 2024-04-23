@@ -54,7 +54,7 @@ I showed them both the original article, watched them parse the page with their 
 
 <figure>
     <img src="https://www.frank.computer/images/filled.png" alt="Screenshot of Jakob Nielsen's article. VoiceOver screen reader is on a navbar icon of Jakob's face and the screen reader is announcing visited, link, image, Home page. Pothole filled by user @frankElavsky 04/18/24."/>
-    <figcaption>I've added alt text and improved accessibility markup across the page.</figcaption>
+    <figcaption>I've added alt text and improved accessibility markup across the page. I pretended to fill most of the elements honestly, but one element was filled by an "angryUser" who left unkind remarks about Jakob's face and another element was filled by "ChatGPT" (which was the same text Jakob used in the article for that same image).</figcaption>
 </figure>
 
 After that, I had them install my extension and then parse the page again. We discussed the idea behind the extension and I got their thoughts and feedback.
