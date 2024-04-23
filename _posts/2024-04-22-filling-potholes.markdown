@@ -41,7 +41,7 @@ I focused my repair on a single article by the now-infamous Jakob Nielsen that i
     <figcaption>The very first element a screen reader accesses in the article for "Accessibility has failed" is a link that is unlabeled that contains an image without a description. Not a great start!</figcaption>
 </figure>
 
-The page has no alt text on any images, in the article and outside of the article (in images across the rest of the page). It also notably uses images as links (`<a>` elements), but they operate like `<button>` elements, and have no label, or ARIA information at all. To a blind person, this article would be a barren landscape.
+The page has no alt text on any images, in the article and outside of the article (in images across the rest of the page). It also notably uses images as links (`<a>` elements), but they operate like `<button>` elements, and have no label, or ARIA information at all. The page also hides the keyboard's default focus indicator within the article and provides no label for many buttons on the page. To a screen reader user (especially if blind), this article would be a barren, confusing landscape.
 
 Painfully, the article's main point is that large-language models might someday empower people with disabilities to build their own interfaces. If we use the metaphor of broken infrastructure, this would be like expecting wheelchair users in the 1970s to cut their own curbs. The assumption would then be that if demolition and construction equipment was cheap enough, surely wheelchair users would have the time, energy, and knowledge to cut the curbs that the city and legislators failed to.
 
