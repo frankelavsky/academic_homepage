@@ -18,7 +18,7 @@ Unlike the web, in realspace communities can come together to take action to rep
 
 But in digital spaces, like on the web, we might "share" social media content with each other. However, we don't share the same material infrastructure in the same way realspace is shared. As the anarchists in Portland identified, ["coercive hierarchies" can often prevent direct action and repair in times of need](https://www.oregonlive.com/commuting/2017/03/why_portland_anarchists_are_pa.html).
 
-If someone "repairs" a website, to make it more accessible for people with disabilities for example, those changes to the HTML, CSS, or JavaScript only persist for that person and during that session. If they reload their webpage, they get the same page infrastructure dished up to them from a server as everyone else would. All the labor of that repair is lost in an instant.
+If someone "repairs" a website to make it more accessible for people with disabilities, those changes to the HTML, CSS, or JavaScript only persist for that person and during that session. If they reload their webpage, they get the same page infrastructure dished up to them from a server as everyone else would. All the labor of that repair is lost in an instant.
 
 The web's technological infrastructure is governed by careful control of codebases, each managed and maintained by different organizations, communities, and companies. Even an "open source" website still regulates who can make changes to the code that lives on a server.
 
