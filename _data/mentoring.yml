@@ -5,11 +5,12 @@
   who:
     - Ihita Mandal
 - title: "Undergraduate Mentoring"
-  year: 2022
+  year: 2022,2024
   location: Carnegie Mellon University
-  description: I mentored an undergraduate student for a semester, researching machine-learning design methods intended to elicit critical engagement of machine failures.
+  description: "Semester-long mentorships on the following topics: accessibility, machine-learning design, user interface design, software engineering, graph theory, assistive technology research."
   who:
     - Ihita Mandal
+    - Chieri Nnadozie
 - title: "Undergraduate Mentoring"
   year: 2018
   location: Northwestern University
