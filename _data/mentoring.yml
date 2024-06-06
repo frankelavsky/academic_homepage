@@ -5,7 +5,7 @@
   who:
     - Ihita Mandal
 - title: "Undergraduate Mentoring"
-  year: 2022,2024
+  year: "2022,2024"
   location: Carnegie Mellon University
   description: "Semester-long mentorships on the following topics: accessibility, machine-learning design, user interface design, software engineering, graph theory, assistive technology research."
   who:
