@@ -11,9 +11,9 @@ description: "Large-language models aren't just coming for our jobs, their comin
 ---
 Opening caveat before I begin: I don't know anything about cognitive science (and I don't really know much about anything else either). But I definitely know the vibes I feel. And I want to talk about the vibes I feel when I work with big, complex systems and do analytical work. So this is a post about my own vibes, really.
 
-So to start, I don't get up in the morning with any excitement to work with large-language models (LLMs). (This's something a friend of mine Lukas first said of themselves and its become a reflection of my own ever since.) And I do work with them. (I *have to*, really if I want to survive in a computational role for work over the next 10 years.)
+So to start, I don't get up in the morning with any excitement to work with large-language models (LLMs). (This's something a friend of mine Lukas first said of themselves and its become a reflection of my own ever since.)
 
-But I simply love the feeling of developing an understanding of and relationship with a system at a lower level. I like the feeling of some degree of manipulation and control of small details and deterministic functionalities. I like clearly expressing myself with a logic that can be consistently interpreted every time. The consistent interpretation of my expressions help me validate my own thoughts, find problems, and iterate.
+I simply love the feeling of developing an understanding of and relationship with a system at a lower level. I like the feeling of some degree of manipulation and control of small details and deterministic functionalities. I like clearly expressing myself with a logic that can be consistently interpreted every time. The consistent interpretation of my expressions help me validate my own thoughts, find problems, and iterate.
 
 Part of what I love about technical work is discovering *myself* as I reflexively work with technical materials. I have assumptions of how something should work and then can consistently test those assumptions quickly and directly against a system that provides fast, interpretable feedback. I enjoy code because it helps me feel a sense of confidence and understanding of my own thoughts.
 
