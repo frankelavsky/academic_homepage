@@ -7,7 +7,7 @@ tags:
 - llms
 - thinking
 - vibes
-description: "Large-language models don't just automate work for us, they take away some of the best vibes we have in life."
+description: "Large-language models aren't just coming for our jobs, their coming for our thoughts and vibes."
 ---
 Opening caveat before I begin: I don't know anything about cognitive science (and I don't really know much about anything else either). But I definitely know the vibes I feel. And I want to talk about the vibes I feel when I work with big, complex systems and do analytical work. So this is a post about my own vibes, really.
 
