@@ -21,7 +21,7 @@ See the project here: [dig.cmu.edu/counterpoint/](dig.cmu.edu/counterpoint/)
     <img src="https://www.frank.computer/images/counterpoint.jpeg" alt='Example: Accessible Gapminder Chart
     Below is a responsive, screen-reader-navigable version of the chart shown on the homepage. Press Navigate to enter keyboard navigation. Or, change your "prefers reduced motion" system setting to see fade animations instead of motion.
     A bubble chart is shown with animation controls for play/pause, a year slider, x and y axis options, radius options, and zoom reset.'/>
-    <figcaption>An accessibility-focused demo of Counterpoint.</figcaption>
+    <figcaption><a src="https://dig.cmu.edu/counterpoint/2024/04/30/gapminder-accessible">An accessibility-focused demo</a> of Counterpoint.</figcaption>
 </figure>
 
 The best part of Counterpoint is that Sivaraman's approach easily enables a low-level accessibility toolkit like Data Navigator by converting state into a graph structure.
