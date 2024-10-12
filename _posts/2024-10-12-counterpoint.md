@@ -13,7 +13,7 @@ description: Announcing an awesome new large-scale animated visualization tool f
 ## The researchy abstract
 Custom animated visualizations of large, complex datasets are helpful across many domains, but they are hard to develop. Much of the difficulty arises from maintaining visualization state across many animated graphical elements that may change in number over time. We contribute Counterpoint, a framework for state management designed to help implement such visualizations in JavaScript. Using Counterpoint, developers can manipulate large collections of marks with reactive attributes that are easy to render in scalable APIs such as Canvas and WebGL. Counterpoint also helps orchestrate the entry and exit of graphical elements using the concept of a rendering "stage." Through a performance evaluation, we show that Counterpoint adds minimal overhead over current high-performance rendering techniques while simplifying implementation. We provide two examples of visualizations created using Counterpoint that illustrate its flexibility and compatibility with other visualization toolkits as well as considerations for users with disabilities.
 
-See the project here: [dig.cmu.edu/counterpoint/](dig.cmu.edu/counterpoint/)
+See the project here: [https://dig.cmu.edu/counterpoint/](https://dig.cmu.edu/counterpoint/)
 
 ## The best part: An accessibility-focused infrastructure
 
