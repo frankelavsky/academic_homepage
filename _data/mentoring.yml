@@ -1,9 +1,9 @@
-- title: "Graduate Student Mentoring"
-  year: 2022-2023
+- title: "Industry Professional Mentoring"
+  year: 2024
   location: Carnegie Mellon University
-  description: I mentored a graduate student during their research-focused Master's in CS at CMU, exploring the space of machine learning descriptions of visualizations.
+  description: I mentored an industry professional who is working on making an infinite canvas tool, tldraw, more accessible. "Creative support tools" (CSTs) are notoriously hard to make accessible as they are largely visual-only. We explored the problem space, ideated, and developed prototypes.
   who:
-    - Ihita Mandal
+    - Taha Hassan
 - title: "Undergraduate Mentoring"
   year: "2022,2024"
   location: Carnegie Mellon University
@@ -11,6 +11,13 @@
   who:
     - Ihita Mandal
     - Chieri Nnadozie
+    - Iman Ouzzan
+- title: "Graduate Student Mentoring"
+  year: 2022-2023
+  location: Carnegie Mellon University
+  description: I mentored a graduate student during their research-focused Master's in CS at CMU, exploring the space of machine learning descriptions of visualizations.
+  who:
+    - Ihita Mandal
 - title: "Undergraduate Mentoring"
   year: 2018
   location: Northwestern University
