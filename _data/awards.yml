@@ -1,3 +1,11 @@
+- name: Access and Inclusion for Blind and Low Vision People in Data Products, Services, and Tools
+  years: 2024
+  sponsor: Adobe
+  description: In partnership with internal individuals and teams at Adobe, we were awarded an internal grant for our work to make Adobe's data visualization tooling and analytical products and services more accessible for blind and low vision data workers.
+- name: Accessible Interactive Data Visualizations
+  years: 2024
+  sponsor: Chan Zuckerberg Initiative
+  description: In partnership with Quansight Labs, I am listed as key personnel on a CZI EOSS 6 grant for making the Bokeh python visualization library more accessible. I am the leading consultant, advisor, auditor, and architect for the accessibility efforts of this grant.
 - name: Impactful Community Leadership, shortlist
   years: 2023
   sponsor: Information is Beautiful Awards
