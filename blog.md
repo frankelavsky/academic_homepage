@@ -7,7 +7,7 @@ title: Blog posts
 # Being Frank on the Computer
 There is very little quality assurance behind what goes in here, so keep that in mind. You can expect a mix of ranting and praise for things at the intersection of accessibility and data work, sometimes with other topics thrown in (aesthetics, epistemology, games, media, etc). I do plenty of navel-gazing, especially as it relates to research in Human-Computer Interaction. If you're into these sorts of things, welcome to my blog.
 
-If you're curious about my shorter-form thoughts, follow me on my twitter account [@FrankElavsky](https://twitter.com/FrankElavsky), where I am regularly harping just the same as here but in slightly-smaller doses.
+If you're curious about my shorter-form thoughts, follow me on bluesky [@FrankElavsky.bsky.social](https://bsky.app/profile/frankelavsky.bsky.social), where I am regularly harping just the same as here but in slightly-smaller doses.
 
 <!-- {% include search.html %} -->
 
@@ -34,7 +34,7 @@ If you're curious about my shorter-form thoughts, follow me on my twitter accoun
 </div>
 
 ## Good Twitter Threads I've Written
-A self-sommelier of sorts, selecting my favorite threads. (I love that [Crystal Lee did this on her blog](https://crystaljjlee.com/index/), so I am following suit!)
+I love that [Crystal Lee did this on her blog](https://crystaljjlee.com/index/), so I am following suit. Unfortunately I am mostly transitioning off of twitter, so consider these to be an endangered species of post from me:
 
 <div class="post-list twitter-posts">
   {% for post in site.data.threads %}

@@ -3,7 +3,7 @@ title: Frank Elavsky
 email: fje@cmu.edu
 address: Pittsburgh, PA
 description: > # this means to ignore newlines until "baseurl:"
-   PhD at Carnegie Mellon University investigating accessibility and data interaction. Previously: data interaction R&D at Apple and staff software engineer at Visa.
+   PhD at Carnegie Mellon University investigating accessibility and data interaction. Previously: data interaction R&D at Adobe, Highsoft, Apple, Visa, + others.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.frank.computer" # the base hostname & protocol for your site
 production_url: "https://www.frank.computer"
