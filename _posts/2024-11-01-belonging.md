@@ -37,11 +37,13 @@ And I'm toying with the word "fit" here, because I understand that "fitting in" 
 ## Surviving does things to your sense of worth
 And not only do I have impostor syndrome, feel alienated, and like a poor fit, but I have survivor's guilt too. This *also* keeps me from feeling like I belong.
 
-I have always doubted whether I am worthy of taking up space and resources from this world. I've always felt a sense of deep shame for continuing to live, waking up every day with indecision about why I am still moving forward. And the fact that I am at a great school, in a great program, with a great advisor that encourages me to pursue my dreams is predicated on the fact that I believe that I stole a seat from someone else who deserved it more. Someone else should have been able to pursue their dreams too. Why did it have to be me?
+I have always doubted whether I am worthy of taking up space and resources from this world. I've always felt a sense of deep shame for continuing to live, waking up every day with indecision about why I am still moving forward. And the fact that I am at a great school, in a great program, with a great advisor all encourage me to pursue my dreams. But this is haunted by the fact that I believe that I stole a seat from someone else who deserved it *more*. Someone else should have been able to pursue their dreams too. Why did it have to be me?
 
-Surviving a rough childhood, surviving a terrible disease, surviving the dramatic closing of my undergrad institution, surviving various jobs, and then surviving in a PhD all make me feel as though I've been given too much. Where I'm at is a place that belongs either to someone who doesn't need to work so hard to survive or someone who was like me, and needs an opportunity to finally survive.
+Surviving a rough childhood, surviving a terrible disease, surviving the dramatic closing of my undergrad institution, surviving various jobs, and then surviving in a PhD all make me feel as though I've been given too much. Where I'm at is a place that belongs either to someone who doesn't need to work so hard to survive or someone who was like me, and needs an opportunity to finally get a break in life.
 
 Why do I get to have a beautiful home, loving wife, perfect dog and cat, friends who love me, and the chance to do work that excites me? Why do I get quiet mornings when I can make a little espresso for the person I love, cortado for myself, and a chance to even write this journal? Why do I get to have these things?
+
+And as an existentialist (and absurdist), the real answer to those questions is that we *construct* the "why" of life. "Why?" is a question that we craft a posteriori. "Why?" is the essence of life, and "existence precedes essence" as the philosophers say. So perhaps constructivism and absurdism can help us answer all of these impossible questions.
 
 ## Whether I belong or not, I'm responsible now
 
