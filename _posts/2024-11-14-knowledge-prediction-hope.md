@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Knowledge, prediction, and hope: a surprising podcast experience"
-slug: belonging
+slug: knowledge-prediction-hope
 tags:
 - journaling
 - academia
