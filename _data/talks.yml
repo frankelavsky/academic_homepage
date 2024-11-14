@@ -6,6 +6,8 @@
 - title: "Workshop on Web Frameworks"
   location: Carnegie Mellon University
   date: 2024-11-14
+  slides: /talks/2024-web-frameworks.pptx
+  url: https://github.com/frankelavsky/intro-to-web-frameworks-bar-chart
 - title: "Software Structures of Assistive Technologies"
   location: Carnegie Mellon University
   date: 2024-11-06
