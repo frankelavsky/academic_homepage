@@ -26,14 +26,14 @@ title: CV
 </div>
 
 
-<h2>Research Area</h2>
+<h2 id="statement">Research Area</h2>
 
 <p>
 To <strong>break down barriers</strong> that exclude people from data work and data interfaces, I research methods that improve <strong>greater adoption of accessibility practices</strong>, engineer tools and systems that <strong>improve inclusive practitioner work</strong> and outcomes, and <strong>contribute to global technology standards</strong> bodies. I critically examine ways that sociotechnical systems exclude people with disabilities while also building and making. My research seeks to intervene in the technological spaces where practitioners produce inaccessible data visualizations, interfaces, and experiences in order to <strong>include and empower everyone with information<strong>.
 </p>
 
 
-<h2>Positions</h2>
+<h2 id="positions">Positions</h2>
 
 {% assign filtered_positions = site.data.positions | where_exp:'item','item.hidden == null' %}
 {% for pos in filtered_positions %}
@@ -61,7 +61,7 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 {% endfor %}
 
 
-<h2>Education</h2>
+<h2 id="education">Education</h2>
 
 {% for ed in site.data.education %}
 <article>
@@ -78,7 +78,7 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 </article>
 {% endfor %}
 
-<h2>Publications <a href="{{ '/publications/' | absolute_url }}">[Interactive Version]</a></h2>
+<h2 id="publications">Publications <a href="{{ '/publications/' | absolute_url }}">[Interactive Version]</a></h2>
 
 {% assign sorted_pubs = site.publications | reverse %}
 
@@ -149,7 +149,7 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 {% endfor %}
 
 
-<h2>Patents</h2>
+<h2 id="patents">Patents</h2>
 
 {% for patent in site.data.patents %}
   <div class="date-container">
@@ -182,7 +182,7 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 {% endfor %}
 
 
-<h2>Mentoring</h2>
+<h2 id="mentoring">Mentoring</h2>
 
 {% assign filtered_mentoring = site.data.mentoring | where_exp:'item','item.hidden == null' %}
 {% for mentor in filtered_mentoring %}
@@ -207,7 +207,7 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 {% endfor %}
 
 
-<h2>Talks, Courses, Workshops  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
+<h2 id="talks">Talks, Courses, Workshops  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
@@ -248,7 +248,7 @@ To <strong>break down barriers</strong> that exclude people from data work and d
 {% endfor %} -->
 
 
-<h2>Service</h2>
+<h2 id="service">Service</h2>
 
 <p>
   <!-- Reviewer for ACM CHI, IEEE VIS, TVCG, EuroVis, PacificVis, Computers & Graphics, HILDA, and DSIA. -->
@@ -263,7 +263,7 @@ To <strong>break down barriers</strong> that exclude people from data work and d
   </ul>
 </p>
 
-<h2>References</h2>
+<h2 id="references">References</h2>
 
 <div class="refs">
   <p>
