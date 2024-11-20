@@ -7,7 +7,7 @@ title: Blog posts
 # Being Frank on the Computer
 There is very little quality assurance behind what goes in here, so keep that in mind. You can expect a mix of ranting and praise for things at the intersection of accessibility and data work, sometimes with other topics thrown in (aesthetics, epistemology, games, media, etc). I do plenty of navel-gazing, especially as it relates to research in Human-Computer Interaction. If you're into these sorts of things, welcome to my blog.
 
-If you're curious about my shorter-form thoughts, follow me on bluesky [@FrankElavsky.bsky.social](https://bsky.app/profile/frankelavsky.bsky.social), where I am regularly harping just the same as here but in slightly-smaller doses.
+If you're curious about my shorter-form thoughts, follow me on bluesky [@frank.computer](https://bsky.app/profile/frank.computer), where I am regularly harping just the same as here but in slightly-smaller doses.
 
 <!-- {% include search.html %} -->
 
