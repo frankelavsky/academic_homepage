@@ -53,7 +53,7 @@ And lastly, if you connect to your audience and you are taking care of them (to 
 So in order to make sure that the solutions, innovations, methods, or imperatives that you give the audience are effective, they should seem almost obvious.
 
 ## It is also an engaging *performance*
-I’m a theater kid. I think other theater kids can clock me pretty fast (as I can sometimes do to them), but to average, everyday (non-theater) people, I may seem a bit… *eccentric*. At the very least, I a pretty obviously *dramatic* in most of my interactions with others. But my behavior is actually a heavily-rehearsed expertise. I am constantly adapting what I do and how I do it according to the people around me, our shared (or conflicting) goals, and the overall vibes of a situation. Plus, I like to keep things interesting (and funny) whenever I can.
+I’m a theater kid. I think other theater kids can clock me pretty fast (as I can sometimes do to them), but to average, everyday (non-theater) people, I may seem a bit… *eccentric*. At the very least, I am pretty obviously *dramatic* in most of my interactions with others. But my behavior is actually a heavily-rehearsed expertise. I am constantly adapting what I do and how I do it according to the people around me, our shared (or conflicting) goals, and the overall vibes of a situation. Plus, I like to keep things interesting (and funny) whenever I can.
 
 A talk is a performance. I really do think that most academics fail to recognize this. In fact, I'd go so far as to say that academics actively *deny* this. For those that do, they are wrong. A good talk is almost completely performative. A good talk requires us to carry ourselves differently, enunciate more clearly, hold fewer breaks in our speaking, and avoid certain phrases and verbal fallbacks (such as “umm”). We need to move our eyes across a room with commanding confidence, carry an awareness of the vibes in the room and how we come across, and we need to understand the importance of rising tension and timing.
 
@@ -62,12 +62,19 @@ This is all a performance. And while the fundamental performative parts of a tal
 You want to really *engage* your audience. And I hate to admit it, but in the age of TikTok, we can see how bad most engagement strategies are in talk performances.
 
 One of the best examples of a really fun and engaging strategy was employed by Don Knuth in his “Earthshaking Announcement” talk where he revealed iTex in 2010 to the TeX Users Group and rang a bell every time he said the name of his system “iTex.” The whole room was buzzing and laughing and absolutely riveted by his old school style of swapping transparencies on a projector instead of sharing his computer screen or having powerpoint slides.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eKaI78K_rgA?si=5JjsvRMcIxSEZ-2M&amp;start=805" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position:relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
+  <iframe
+      style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/eKaI78K_rgA?si=5JjsvRMcIxSEZ-2M&amp;start=805" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
 
 And I think of “the mother of all demos” by Douglas Englebart as another excellent example of engagement. The part of that demo, from 1968, that really stood out to me was that he opens by mentioning a “team” of people supporting him from over 30 miles away and then eventually shows Don Andrews’ hand manipulating what would eventually become known as the modern computer mouse. He dropped hypertext, the computer mouse, collaborative text editing, video conferencing AND collaborating teleconferencing all in the same demo. I can’t imagine how monumental it must have been to experience this talk.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yJDv-zdhzMY?si=ulRPeDqjhA3oJcyD&amp;start=1886" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position:relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
+  <iframe
+      style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/yJDv-zdhzMY?si=ulRPeDqjhA3oJcyD&amp;start=1886" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+      <br>
 
 Most recently, my favorite talk I attend that had excellent engagement was by Andrea Batch at IEEE VIS 2023. Batch was speaking on "[Wizualization: a Hard-Magic Visualization System for Immersive and Ubiquitous Analytics.](https://virtual.ieeevis.org/year/2023/paper_v-full-1492.html)" The whole research project and talk were themed around magic, and Batch as well as several supporters and co-authors present were dressed as wizards (with beards and wide-brimmed, pointy hats). It was utterly delightful and I was absolutely engrossed in the performance of the talk.
 
