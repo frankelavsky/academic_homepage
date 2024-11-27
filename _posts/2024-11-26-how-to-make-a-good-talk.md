@@ -73,8 +73,8 @@ And I think of “the mother of all demos” by Douglas Englebart as another exc
 <div style="position:relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
   <iframe
       style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/yJDv-zdhzMY?si=ulRPeDqjhA3oJcyD&amp;start=1886" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      </div>
-      <br>
+</div>
+<br>
 
 Most recently, my favorite talk I attend that had excellent engagement was by Andrea Batch at IEEE VIS 2023. Batch was speaking on "[Wizualization: a Hard-Magic Visualization System for Immersive and Ubiquitous Analytics.](https://virtual.ieeevis.org/year/2023/paper_v-full-1492.html)" The whole research project and talk were themed around magic, and Batch as well as several supporters and co-authors present were dressed as wizards (with beards and wide-brimmed, pointy hats). It was utterly delightful and I was absolutely engrossed in the performance of the talk.
 
