@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to make a good talk (and why are academics so bad at this)?"
+title: "How to make a good talk (and why are academics so bad at this?)"
 slug: how-to-make-a-good-talk
 tags:
 - academics
