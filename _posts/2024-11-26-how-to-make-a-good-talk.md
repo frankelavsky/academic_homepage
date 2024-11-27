@@ -59,7 +59,7 @@ And a talk is a performance. I really do think that most academics fail to recog
 
 This is all a performance. And while the fundamental performative parts of a talk aren’t too interesting at first (like just how to present yourself confidently and clearly), what makes a talk really exciting is when the speaker knows when to move beyond conventions. Remember: a talk is an opportunity, a rare chance to exist at the same time as other people and impart something onto them.
 
-You want to really *engage* your audience. And I hate to admit it, but in the age of TikTok, we can see how bad most engagement strategies are in talk performances.
+You want to really *engage* your audience. And I hate to admit it, but in the age of TikTok, we can see how bad most engagement strategies are in talk performances. You don't need to design your talk like a 20 second video that is designed for people with 4 second attention spans, doomscrolling for dopamine. But it wouldn't hurt to learn from some of the strategies that more interesting people employ, TikTok and social media included.
 
 One of the best examples of a really fun and engaging strategy was employed by Don Knuth in his “Earthshaking Announcement” talk where he revealed iTex in 2010 to the TeX Users Group and rang a bell every time he said the name of his system “iTex.” The whole room was buzzing and laughing and absolutely riveted by his old school style of swapping transparencies on a projector instead of sharing his computer screen or having powerpoint slides.
 <div style="position:relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
