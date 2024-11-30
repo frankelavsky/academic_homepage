@@ -78,7 +78,7 @@ David Pye writes about uncertainty in "The Nature and Art of Workmanship" and I 
 
 Again: my love of systems lies in *constraints*. And constraints are, in a sense, an intentional scarcity of options. Systems that I love thrive when given fewer choices than *infinity*. LLMs offer the illusion of infinity.
 
-I love having a sense of *control* and *a posteriori* predictive power over the systems and tools I use and play with. This is because I love using tools over time. The more I hypothesize, test, and learn, the more I gain a close relationship to the tool. My behaviors change. My needs from the tools change. I adapt the tool and it adapts me.
+I love having a sense of *control*, gaining *a posteriori* feedback about my assumptions, and then developing a sense of predictive power over the systems and tools I use and play with. This is because I love using tools over time. The more I hypothesize, test, and learn, the more I gain a close relationship to the tool. My behaviors change. My needs from the tools change. I adapt the tool and it adapts me.
 
 But LLMs carry a sort randomness and lack of control to them. [LLMs are tools for delegation and management](https://www.frank.computer/blog/2024/06/llms-and-thoughts.html) and despite appearing to offer infinite, limitless potential actually [homogenize our creativity at scale](https://drive.google.com/file/d/1K3nSFdrKwg4h314skO3kT--Rso3xQ1Dd/view).
 
