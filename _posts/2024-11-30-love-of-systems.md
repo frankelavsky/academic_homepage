@@ -48,7 +48,7 @@ People don't just make adaptations to their systems and tools but also can adapt
 
 <figure>
     <img src="https://www.frank.computer/images/recreational-analytics/parse-header.png" alt='Expansion All-Stars. Normal Amirdrassil 948.94 points. 9 out of 9. Rank 1. Normal Aberrus. 9 out of 9. Rank 2. Normal Vault. 8 out of 8. Rank 5.'/>
-    <figcaption>Originally, the draft post on "parsing" was about how I hit the [Rank 1 spot in the entire world for my raid performance in a particular season](https://www.warcraftlogs.com/character/us/wyrmrest-accord/merovegas?zone=35#difficulty=3), out of tens of thousands of competitors. (Note Rank 2 and 5 in the seasons and raids leading up to it too!)</figcaption>
+    <figcaption>Originally, the draft post on "parsing" was about how I hit the <a href="https://www.warcraftlogs.com/character/us/wyrmrest-accord/merovegas?zone=35#difficulty=3">Rank 1 spot in the entire world for my raid performance in a particular season</a>, out of tens of thousands of competitors. (Note Rank 2 and 5 in the seasons and raids leading up to it too!)</figcaption>
 </figure>
 
 Hitting number one was a pretty big deal for me! I beat out people who play World of Warcraft professionally and I did it by "pugging" (which means to play with random people on your team, a significant disadvantage). I felt really good about myself at the time.
