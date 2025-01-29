@@ -146,6 +146,7 @@ I want to design a game that feels like you can safely experiment. So part of th
 In my game the hardest puzzle will involve players getting everything they can and then *intentionally* going *back* to jail so that they can open the jail door with their new tool and new skill. But my biggest worry is whether folks can actually figure this out!
 
 ### My play-test hypotheses:
+These are my "questions" that I intend to "test" by observing the players and (in some cases) following up with further questions:
 - This will be fun for someone who likes getting into trouble, but you probably need to be comfortable with "stealing" and "going to jail for your crimes"
 - Someone might not find the game fun if they aren't familiar enough with text games in general (they can be a bit clunky at first)
 - The main puzzle (going back to jail on purpose in order to break into the palace) might be too hard to figure out with the current level of signposting I have
@@ -179,6 +180,29 @@ I was able to identify a few areas that were buggy, some areas where I could add
 On that last point: During the game, you see "Score: 0/10" the whole time. I added that because I want players to expect to be judged on their performance when the game ends and also to instill the idea that completing the game is not the same as getting a perfect score. But it was unclear what affected that score while they played!
 
 The player who finished got a perfect score, but that was because she (in her own words), "really loves stealing mechanics in games, so I wanted to get my loot back." But if the score went up *while* loot was in your inventory and then went back down when the guards confiscated it, it might encourage players to go back and do that optional path in the narrative.
+
+**Bugs/typos/mistakes**:
+<ul>
+    <li>Tiger doesn't appear</li>
+    <li>Secret path is bugged (doesn't let you re-use it)</li>
+    <li>Jail lets you re-enter it (and takes your items if you do)</li>
+    <li>Pebble doesn't return to monkey if you misdirect the baker</li>
+    <li>Remove the "take" command from the verb list for the bakery stall</li>
+    <li>"Carrying" is spelled as "carring"</li>
+</ul>
+
+**Unclear moments/things to improve**:
+<ul>
+    <li>Would be nice to keep score while you play (even if it goes down in the jail)</li>
+    <li>Should clarify what "north" is in the vizier's room</li>
+    <li>Need more messages when something fails (like misdirecting)</li>
+    <li>Consider alternatives to "look at hairpin" and "look at pebble" for unlocking new abilities</li>
+    <li>Give some beginner instructions/tips at the start of the game like: "Try LOOK AT on everything at least once!" "Check your inventory and the scene details often" etc</li>
+    <li>Give more feedback when new objects are added to the scene (monkey pocket/poor woman's pouch, etc)</li>
+    <li>Notify more clearly when you lose your pebble</li>
+    <li>Consider more fun vibes-based interactions ("speak to," "buy," funny failures, etc)</li>
+    <li>Maybe add special abilities to the "HELP" command?</li>
+</ul>
 
 ## Reflection
 Overall, it was fun to build a simple game and run some play-tests. The game will be polished a bit more, so expect another (probably shorter) post from me once it is released, so you can play it if you want (although this blog post probably spoiled it quite a bit!).
