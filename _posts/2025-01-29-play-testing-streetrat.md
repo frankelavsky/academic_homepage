@@ -112,7 +112,6 @@ Here's mine:
     </div>
 </details>
 
-<br>
 
 ## Building a prototype
 So I built a first pass of the game in Quest, which took me far longer than I thought. It's a visual code editor, so rather than just writing code as text, there are dropdowns and pre-chosen units of logic written that help you assemble the game easily.
