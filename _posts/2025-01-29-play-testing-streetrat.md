@@ -88,7 +88,7 @@ Here's mine:
             <li>Wait and pick the jail door with the hairpin and then go to the palace hall.</li>
         </ol>
         <h5>Taking the jewels and opening a window in the vizier's room</h5>
-        <p>Taking the jewels and the 2-part branch of the narrative where you open the window and jump out in the vizier's room share only has one dependency:</p>
+        <p>Taking the jewels and the 2-part branch of the narrative where you open the window and jump out in the vizier's room share only one dependency:</p>
         <ol>
             <li>Misdirect the vizier, go to the vizier's secret chamber, and find the jewels.</li>
         </ol>
