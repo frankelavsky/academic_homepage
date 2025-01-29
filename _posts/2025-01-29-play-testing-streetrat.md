@@ -152,15 +152,13 @@ In my game the hardest puzzle will involve players getting everything they can a
 - My mechanics for misdirecting might be too hard to figure out (you need to guess who to target with the pebble before doing something sneaky)
 - While I tried to set the vibes with rich descriptions, I might have written too much (or written so many *vibes* that it overpowers the subtle *hints* written alongside things)
 
-### Observations from my 2 play-tests
-I had 
+### Discussion/learnings from my 2 play-tests
 
+#### Observational notes
 <figure>
     <img src="https://www.frank.computer/images/text_adventure_user_session.jpg" alt='Two sticky notes. Too much writing? -> Say more in less? Forget about "watch"? Need fail messages. Notify loss of pebble. "look at" hairpin?? -> too hard. "buy baguette" lol. Tiger doesnt appear. "coins you have been carring." Pebble appears when misdirecting baker. Secret path bugged when re-visiting. Avoid jail re-entry. Clarify "north" in viziers room. Keep score as you go.'/>
     <figcaption>My notes observing 2 players try out <i>Streetrat</i>.</figcaption>
 </figure>
-
-### Discussion/learnings from my 2 play-tests
 
 #### Was it fun?
 Good news: I think the core design is pretty fun. Both players enjoyed getting into trouble, one definitely spent a lot more time than the other trying out verbs that weren't part of the game like "sneak" and "steal" and "distract" (even tried "distract" before they got the ability to "misdirect"). One of them was much more hesitant about going *back* to jail, but they actually figured out that they *needed to* relatively quickly.
