@@ -76,7 +76,7 @@ Here's mine:
         <p>I'm not sure how best to describe a non-linear structure, without using something like my <a href="https://dig.cmu.edu/data-navigator">Data Navigator</a> project (which is designed literally with non-linear data navigation in mind). But that being said, I'm going to describe this chart from the ending to the start, since it is about dependencies. It's easier to talk about dependencies in reverse order like "this thing depends on this other thing, which depends on this other thing," and so on.</p>
         <h5>The ending</h5>
         <p>The game ends with a scoring screen: 8 points for jewels, 1 for coin, and 1 for watch.</p>
-        <p>The ending has three dependencies:<p>
+        <p>The ending has three dependencies:</p>
         <ol>
             <li>The optional, bonus part of the game, which involves taking the secret path, misdirecting the rich man, picking the man's pockets and taking the watch, going to the market, picking the monkey's pocket, going to the courtyard, and then taking the secret path back.</li>
             <li>Taking the jewels</li>
