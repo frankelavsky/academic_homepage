@@ -894,7 +894,7 @@ My thorough playthrough is detailed below. In this session I try out every major
         <div id="divOutputAlign257" style="text-align: left" class="section105"></div>
       </div>
       <div id="gamePanesFinished" style="display: block">
-        <h2>Game Over</h2>
+        <h3>Game Over</h3>
         <p>This game has finished.</p>
       </div>
     </div>
