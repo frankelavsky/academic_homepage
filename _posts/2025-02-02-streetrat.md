@@ -27,6 +27,8 @@ Give it a try! I'd love to hear your feedback. It can probably be beaten in 15 t
 
 My thorough playthrough is detailed below. In this session I try out every major command at least once, on at least every interactive object in the game, and visit every location. I also end the game with a perfect score. Note: This walkthrough is a copy+paste of the HTML from the game's text log output.
 
+With extra paragraph breaks removed, pasting the text below into [google docs results in a 28-page adventure](https://docs.google.com/document/d/1b0FQZwSLakh9c1cDO7kwjeINC7P1St_SNza8Nh-3DBI/edit?usp=sharing)! That's pretty neat to think about. 28 pages is a decent amount of writing! Now I wish I had done this sooner though, because I can see that I've misspelled "chails" (chains), "aquaducts" (aqueducts), "purfumes" (perfumes), "entrace" (entrance), "mischeivious" (mischeivous), "keyhold" (keyhole), and "unkept" (unkempt). Oof! Too bad quest doesn't have built-in spell checking.
+
 <details>
     <summary>Open playthrough (<i>spoiler warning</i>)</summary>
     <div id="gameContent" style="width: 700px">
