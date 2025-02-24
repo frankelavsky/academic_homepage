@@ -1,3 +1,14 @@
+- title: Softerware
+  type: "Accessibility-focused"
+  url: https://github.com/highcharts/highcharts-a11y-prototyping
+  code: https://github.com/highcharts/highcharts-a11y-prototyping
+  paper: https://www.frank.computer/papers/2025-cga-softerware.pdf
+  demo: https://highcharts.github.io/highcharts-a11y-prototyping/early_explo/examples/menu/menu.html
+  image: softerware.png
+  imageDescription: "Softerware project page."
+  description: "Softerware is an approach for designing systems that can be customized and personalized by people with disabilities."
+  highlight: 1
+
 - title: Data Navigator
   type: "Accessibility-focused"
   url: https://dig.cmu.edu/data-navigator
@@ -7,7 +18,7 @@
   image: data-navigator.png
   imageDescription: "Data Navigator project and website."
   description: "Data Navigator is a system for creating accessible data structures that can be navigated with a variety of assistive technologies."
-  highlight: 1
+  highlight: 2
 
 - title: Chartability
   type: "Accessibility-focused"
@@ -18,7 +29,7 @@
   image: chartability.png
   imageDescription: "Chartability project and website."
   description: "Chartability is a set of principles and heuristics for evaluating the accessibility of data experiences."
-  highlight: 2
+  highlight: 3
 
 - title: Visa Chart Components
   type: "Accessibility-focused"
@@ -28,7 +39,7 @@
   image: vcc.png
   imageDescription: "Visa Chart Component example image and website."
   description: "Visa Chart Components is an accessibility focused, framework agnostic set of data experience design systems components for the web."
-  highlight: 3
+  highlight: 4
 
 - title: Modeling Career Hot Streaks
   type: "Older (No Accessibility Guaranteed)"
@@ -51,7 +62,6 @@
   image: mass.jpeg
   imageDescription: "Screenshot of the Masses website. Fair warning: this website is not accessible and from mine olden days."
   description: "Our Masses interactive promoted LIGO-Virgo's gravitational wave research and has been used in the Nobel Lecture on Physics, over 50 research papers, and 9 textbooks."
-  highlight: 4
 
 - title: Surface-Wave Radiation Patterns
   type: "Older (No Accessibility Guaranteed)"
