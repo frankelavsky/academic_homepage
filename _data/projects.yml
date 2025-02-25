@@ -1,3 +1,14 @@
+- title: Bokeh Audit
+  type: "Accessibility-focused"
+  url: https://bokeh-a11y-audit.readthedocs.io/
+  code: https://github.com/Quansight-Labs/bokeh-a11y-audit
+  paper: https://bokeh-a11y-audit.readthedocs.io/
+  demo: https://bokeh-a11y-audit.readthedocs.io/
+  image: bokeh-audit.png
+  imageDescription: "Bokeh audit main page."
+  description: "We performed an in-depth accessibility evaluation for the interactive data visualization Python library, Bokeh."
+  highlight: 1
+
 - title: Softerware
   type: "Accessibility-focused"
   url: https://github.com/highcharts/highcharts-a11y-prototyping
@@ -7,7 +18,7 @@
   image: softerware.png
   imageDescription: "Softerware project page."
   description: "Softerware is an approach for designing systems that can be customized and personalized by people with disabilities."
-  highlight: 1
+  highlight: 2
 
 - title: Data Navigator
   type: "Accessibility-focused"
@@ -18,7 +29,7 @@
   image: data-navigator.png
   imageDescription: "Data Navigator project and website."
   description: "Data Navigator is a system for creating accessible data structures that can be navigated with a variety of assistive technologies."
-  highlight: 2
+  highlight: 3
 
 - title: Chartability
   type: "Accessibility-focused"
@@ -29,7 +40,7 @@
   image: chartability.png
   imageDescription: "Chartability project and website."
   description: "Chartability is a set of principles and heuristics for evaluating the accessibility of data experiences."
-  highlight: 3
+  highlight: 4
 
 - title: Visa Chart Components
   type: "Accessibility-focused"
@@ -39,7 +50,6 @@
   image: vcc.png
   imageDescription: "Visa Chart Component example image and website."
   description: "Visa Chart Components is an accessibility focused, framework agnostic set of data experience design systems components for the web."
-  highlight: 4
 
 - title: Modeling Career Hot Streaks
   type: "Older (No Accessibility Guaranteed)"
