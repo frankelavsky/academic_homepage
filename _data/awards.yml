@@ -1,11 +1,19 @@
-- name: Access and Inclusion for Blind and Low Vision People in Data Products, Services, and Tools
-  years: 2024-2025
-  sponsor: Adobe
-  description: In partnership with internal individuals and teams at Adobe, we were awarded an internal grant for our work to make Adobe's data visualization tooling and analytical products and services more accessible for blind and low vision data workers.
 - name: Accessible Interactive Data Visualizations
   years: 2024-2026
   sponsor: Chan Zuckerberg Initiative
-  description: In partnership with Quansight Labs, I am listed as key personnel on a 2-year CZI EOSS 6 grant for making the Bokeh python visualization library more accessible. I am the leading consultant, advisor, auditor, and architect for the accessibility efforts of this grant.
+  description: In partnership with Quansight Labs, I am listed as key personnel on a $200,000 2-year CZI EOSS 6 grant for making the Bokeh python visualization library more accessible. I am the leading consultant, advisor, auditor, and architect for the accessibility efforts of this grant.
+- name: Accessibility and Visualization Course Development
+  years: 2025
+  sponsor: Open Visualization Academy
+  description: The Open Visualization Academy (OVA) has awarded me a $5,000 stipend to prepare course materials for a free and open course on accessibility and visualization, to be offered as part of OVA's flagship curriculum on visualization.
+- name: Access and Inclusion for Blind and Low Vision People in Data Products, Services, and Tools
+  years: 2024-2025
+  sponsor: Adobe
+  description: In partnership with internal individuals and teams at Adobe, we were awarded an internal $40,000 grant for our work to make Adobe's data visualization tooling and analytical products and services more accessible for blind and low vision data workers.
+- name: Accessibility and Personalization Research and Development
+  years: 2024
+  sponsor: Highsoft
+  description: In partnership with Highsoft, we were awarded an internal $40,000 grant for our work to investigate and research customization and personalization of data visualizations by individuals with disabilities.
 - name: Impactful Community Leadership, shortlist
   years: 2023
   sponsor: Information is Beautiful Awards
