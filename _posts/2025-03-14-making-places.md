@@ -19,9 +19,9 @@ But we can't just find *spaces* and hope something happens. A "place" is a space
 
 We need something else.
 
-Smart people are thinking about *urban planning* that focuses on third places, designing *digital* third places, and *retro-fitting traditional* third places (churches, libraries, plazas) into new kinds of third places.
+Smart people are thinking about *urban planning* that focuses on third places, designing *digital* third places, and *retro-fitting traditional* third places (churches, libraries, plazas) into new kinds of third places. I don't think I'm really qualified to speak to the problems and challenges of building third places.
 
-But I'm going to propose the idea of a "**Second and a Half**" place: a professionally-centered community that focuses on building a sense of belonging, where we can come together just because of our shared niche of expertise. Second and a half places shouldn't focus on work in any top-down sense, but just focus on facilitating a *space* for like-minded people to come together. What we need are these places to come together. A second and a half place doesn't require that anything gets done, it just helps us connect, talk, and share what we're passionate about without any sort of external pressures. It's a free space for ideas.
+So I'm going to propose the idea of a "**Second and a Half**" place: a professionally-centered community that focuses on building a sense of belonging, where we can come together just because of our shared niche of expertise. Second and a half places shouldn't focus on work in any top-down sense, but just focus on facilitating a *place* for like-minded people to come together. What we need are these places to come together. A second and a half place doesn't require that anything gets done, it just helps us connect, talk, and share what we're passionate about without any sort of external pressures. It's a free space for ideas.
 
 But to pull off a second and a half place, it takes intentionality. We can easily turn these spaces into work or another job or worse, some kind of forum or help-desk for other people to come and interact with "the experts." Balancing inclusion and identity can be difficult. These spaces and places are fragile.
 
