@@ -176,4 +176,4 @@ We are all like bridges in a way, *between* different spaces and places in our l
 
 So far the approach that seems to work well is: bring people together who have existing and similar expertise, create a space for ideas and connections to flow freely, and remind everyone explicitly that they are invited and belong to be there. (In particular, the folks who couldn't make it to the CSUN lunch: I hope they know that I would have invited them if we had room on the reservation but our list was simply too long!)
 
-Looking forward to next time. Cheers to you all and don't be afraid to assemble your own spaces, too. Even when folks can't make it, being invited is still a good reminder that you're thinking of them.
+Looking forward to next time. Cheers to you all and don't be afraid to assemble your own spaces into places, too. Even when folks can't make it, being invited is still a good reminder that you're thinking of them.
