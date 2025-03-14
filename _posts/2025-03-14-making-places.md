@@ -84,11 +84,13 @@ And a second (although not accessibility-focused) with:
 3. [Lucas Nadolskis](https://www.dyns.ucsb.edu/people/students/lucas-nadolskis)
 
 And a whole bunch of lovely meals and activities (stand up, penguins, etc) with:
-1. [Larene le Gassick](https://www.linkedin.com/in/larene/?originalSubdomain=au)
+1. [Larene Le Gassick](https://www.linkedin.com/in/larene/?originalSubdomain=au)
 2. [Damian Maclennan](https://damianm.com/)
 3. [Lucas Nadolskis](https://www.dyns.ucsb.edu/people/students/lucas-nadolskis)
 
-(Unrelated, but we also had a gorgeous meal made in a chef's condo overlooking the bay, thanks to Lucas's incredible network of friends. This included meeting [Fanni Melles](https://fannimelles.com/) and our eventual [podcast episode](https://www.frank.computer/blog/2024/11/knowledge-prediction-hope.html) together. Lucas and I also ate some really incredible meals and had some of the best coffee in the world here. Melbourne was an outstanding trip.)
+Meeting Larene for the first time was really awesome. We'd spent plenty of time chatting and discussing things over the years (and even gave a [talk together at outlier with Sarah](https://www.youtube.com/watch?v=SWB-KLXN-Ok)). But Australia is a whole world away! I feel like getting the chance for our paths to cross was pretty magical. I'm deeply thankful to have been able to meet Larene, who is the most-isolated member of the DatavizA11y group! Thanks to the original formation of our group, I now consider Larene a wonderful, wonderful friend. She was a more-than-generous host, showed both Lucas and us a great time, and finally helped give Lucas someone music-savvy to talk to (thanks to Damian!).
+
+(Unrelated, but we also had a magical meal made in a chef's condo overlooking the bay, thanks to Lucas's impressive network of friends. This included meeting [Fanni Melles](https://fannimelles.com/) and our eventual [podcast episode](https://www.frank.computer/blog/2024/11/knowledge-prediction-hope.html) together. Lucas and I also ate some really good meals and had some of the best coffee in the world here. Melbourne was an outstanding trip.)
 
 
 ### (2024) IEEE VIS's AccessViz Workshop
@@ -108,6 +110,8 @@ The organizer list (plus keynote speaker):
 11. [Niklas Elmqvist](https://cs.au.dk/~elm/)
 12. (Keynote speaker) [Chancey Fleet](https://www.linkedin.com/in/chancey-fleet-35063317/)
 
+I gave the second "keynote" which was a short [state-of-the-art talk](https://www.youtube.com/live/GFjcYdUIC7k?si=vxhabZ9TbD0gpbpB&t=6660). It was a blast. You can check out our whole workshop on youtube, too.
+
 ### (2024) ASSETS Lunch, St. John's, Newfoundland
 I threw together an impromptu lunch at ASSETS in 2024, which was also the subject of my [blog post on belonging in academia](https://www.frank.computer/blog/2024/11/belonging.html).
 
@@ -120,9 +124,10 @@ In attendance (my memory isn't too great - I may have forgotten some!):
 6. [JooYoung Seo](http://jooyoungseo.me/)
 7. [Rachel Wood](https://scholar.google.com/citations?user=vhOBYqQAAAAJ&hl=en)
 8. [Sanchita Kamath](https://sanchitakamath.com/)
-9.  [Aziz Zeidieh](https://informatics.ischool.illinois.edu/person/aziz-zeidieh/)
+9. [Aziz Zeidieh](https://informatics.ischool.illinois.edu/person/aziz-zeidieh/)
+10. [Nathan Perez](https://www.nathanperez.dev/)
 
-There was also an undergrad student who sat next to me whose name I didn't write down! I also can't seem to remember whether [Ather Sharif](https://athersharif.me/) made it to the lunch or not, but either way - I managed to chat with him!
+I can't seem to remember whether [Ather Sharif](https://athersharif.me/) made it to the lunch or not, but either way - I managed to chat with him!
 
 ### (2025) CSUN, Accessibility + Data Lunch of Legends, Anaheim, CA
 Our latest get-together was a lunch at CSUN and I couldn't believe how many people made it out. 
