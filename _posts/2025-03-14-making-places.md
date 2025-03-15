@@ -94,7 +94,7 @@ Meeting Larene for the first time was really awesome. We'd spent plenty of time 
 
 
 ### (2024) IEEE VIS's AccessViz Workshop
-I was an assistant organizer for the first-ever Workshop on Accessible Visualization at IEEE VIS in 2024. We were remote (thanks, hurricanes!) but had a great time. The spirit of an academic workshop is very similar to the spirit of a second and a half place, so I thought I'd mention this here too. The one (major) limitation of an academic workshop is that it primarily only attracts academics. But that being said, the spirit of this absolutely fits the bill.
+I was an assistant organizer for the first-ever [Workshop on Accessible Visualization](https://accessviz.github.io/) at IEEE VIS in 2024. We were remote (thanks, hurricanes!) but had a great time. The spirit of an academic workshop is very similar to the spirit of a second and a half place, so I thought I'd mention this here too. The one (major) limitation of an academic workshop is that it primarily only attracts academics. But that being said, the spirit of this absolutely fits the bill.
 
 The organizer list (plus keynote speaker):
 1. [Naimul Hoque](https://naimulh0que.github.io/)
