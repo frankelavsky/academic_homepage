@@ -21,7 +21,7 @@ collections:
     output: false
 
 jekyll-mentions:
-  base_url: https://twitter.com
+  base_url: https://bsky.app/profile/
 
 plugins:
   - jekyll-sitemap
