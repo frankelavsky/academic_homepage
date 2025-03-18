@@ -35,4 +35,22 @@ layout: default
     <span class="spacer"></span>
   {% endif %}
   </div>
+  <script>
+    // <meta property="og:image" content="http://www.frank.computer/images/frank.jpg" />
+    console.log(document.head)
+    if (document.head?.children?.length) {
+      const headImage = document.querySelector('meta[property="og:image"]')
+      const headAlt = document.querySelector('meta[property="og:image:alt"]')
+      if (headImage) {
+        console.log("old:",headImage.getAttribute('content'))
+        const newImage = document.querySelector("article img")
+        if (newImage && newImage.getAttribute("alt")) {
+          headImage.setAttribute("content", newImage.getAttribute("src"))
+          headAlt.setAttribute("content", newImage.getAttribute("alt"))
+          console.log("setting new:",headImage.getAttribute('content'))
+          console.log(headAlt.getAttribute('content'))
+        }
+      }
+    }
+  </script>
 </section>
