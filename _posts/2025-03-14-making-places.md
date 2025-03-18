@@ -126,6 +126,7 @@ In attendance (my memory isn't too great - I may have forgotten some!):
 8. [Sanchita Kamath](https://sanchitakamath.com/)
 9. [Aziz Zeidieh](https://informatics.ischool.illinois.edu/person/aziz-zeidieh/)
 10. [Nathan Perez](https://www.nathanperez.dev/)
+11. [Shira Abramovich](https://shiraab.github.io/)
 
 I can't seem to remember whether [Ather Sharif](https://athersharif.me/) made it to the lunch or not, but either way - I managed to chat with him!
 
