@@ -20,3 +20,7 @@ But that means that figuring out how to make AI transparent, fair, verifiable, b
 But we need way more people who actually want to be involved but are still skeptical, cynical, or apprehensive about the "good" of AI right now. We need smarter, more critical minds and not just sycophants and power-users. I hope people that care stay involved and don't just spend their time at the margins, yelling into the void, or worse: check out entirely and leave the conversation.
 
 As [Karl Grove writes](https://karlgroves.com/ai-is-the-future-of-accessibility/), "If accessibility advocates aren’t at the table now, AI systems will continue to reflect the same exclusions we’ve been fighting for decades."
+
+One of the best places to get involved right now is unfolding in conversations on Github, where web standards are created and negotiated and edited.
+
+There is a [conversation on the ethical impact of AI](https://github.com/w3c/ai-accessibility/issues/13) (opened 5 days ago) in the ai + accessibility group. That same group also has a fresh (as of 30 minutes ago) [conversation specifically on the environmental impact](https://github.com/w3c/ai-accessibility/issues/15) of modern models. Decisions are also being made in all kinds of corners of virtually every major company. Try to get a seat at any table you can. The time to say something is now.
