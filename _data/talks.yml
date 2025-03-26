@@ -14,8 +14,9 @@
   location: (upcoming) Carnegie Mellon University
   date: 2025-03-27
 - title: "Data Visualization and Accessibility"
-  location: (upcoming) University of Michigan
+  location: University of Michigan
   date: 2025-03-26
+  slides: /talks/2025-michigan-accessible-visualization-lecture.pdf
 - title: "Softerware: Accessibility and Malleable Interfaces"
   location: CSUN, Anaheim, CA
   date: 2025-03-12
