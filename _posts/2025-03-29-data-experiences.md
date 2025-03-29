@@ -71,17 +71,23 @@ And in our Fireside Chat on Accessible Data Visualization with the Data Visualiz
 
 Lastly, and this is more of a passing remark than anything else, but just before I started my PhD in 2021, the immortal Alberto Cairo was having a chat with me and I was explaining "data experiences" to him. At the time, he was courting the idea to me that I should write a book on accessible visualization, which would have required me to put my PhD on hold for a year. But when I explained the term to him he replied, "Data experiences? That should be the title of your book!"
 
-So perhaps the onus was on me, all along. If I wanted our definition of "data experiences" to really be about people with disabilities, I should have said it sooner on a bigger stage.
+So perhaps the onus was on me, all along. If I wanted our definition of "data experiences" to really be explicit about the inclusion of people with disabilities, I should have said it sooner on a bigger stage.
 
 And of course, there is still time to change people's minds on all of this. There is still time for the big players, the Shirley Wu's out there, to realize that one of the largest valleys (a canyon, really) is still the exclusion of people with disabilities from meaningful interaction experiences with data.
 
 ## What matters? What should **you**, reader, take away from this?
-Why did I even write all of this? Well, I wrote it with the simple point: that **"data experiences" matter because they *include* people left at the margins**.
+Why did I even write all of this? Well, I wrote it with the simple point: that **"data experiences" matter because they *include* people left at the margins**, and that people with disabilities are still among the most excluded.
 
-"Data experiences" is a term already claimed by feminists artists and designers, disability advocates, researchers, and working professionals. And we claim it because of what it does and what it means for our field: we're becoming more inclusive.
+Disability intersects and compounds with race-based exclusion, economic exclusion, exclusion based on gender and sexuality, lack of access to healthcare, lack of access to broadband internet, fascist, imperialist, colonial, and authoritarian oppression, and more. Disability is a thread woven across virtually every community. And if "data experiences" as a term fails to acknowledge that, it still has maturing to do.
 
-So it might seem like our field (visualization) has "hit a plateau" in recent years. But people with disabilities are still in a canyon, a rift in the earth that is wide and deep.
+"Data experiences" is a term already claimed by feminists artists and designers, disability advocates, researchers, and working professionals. And we claim it because of what it does and what it means for our field: we're becoming more inclusive. 
 
-The good news is that we've seen a meteoric rise in interest related to making data, charts, and graphs more accessible for people with disabilities. So hopefully that interest materializes into meaningful innovation and collaboration alongside people with disabilities.
+So it might seem like visualization has "hit a plateau" in recent years. But people with disabilities are still in a canyon, a rift in the earth that is wide and deep.
 
-We still have quite a climb ahead of us.
+The good news is that we've seen a meteoric rise in interest related to making data, charts, and graphs more accessible for people with disabilities, almost conveniently coinciding with the ubiquity and breadth of visualization's adoption (which is the primary condition for its plateau'ing). So hopefully the momentum we have right now continues to materialize into meaningful innovation and collaboration alongside people with disabilities.
+
+Shirley remarks that she is glad for the plateau for many reasons. And I'd argue that practitioners should be thankful as well. A plateau is a good sign.
+
+But in my work? We still have quite a climb ahead of us, even just to catch up, let alone freely innovate towards new, possible futures.
+
+Our own plateau is still far, far away.
