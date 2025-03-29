@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data experiences are about inclusion: thinking about the canyon of erasure, exclusion, and inaccessibility"
-slug: get-involved
+slug: data-experiences
 tags:
 - accessibility
 - disability
