@@ -9,7 +9,7 @@ tags:
 - data
 - erasure
 - exclusion
-description: "There is a just-emerging conversation by big names in the field of visualization, proposing to rebrand from 'visualization' towards 'data experiences.' While I love this, folks either seem to be unaware or actively shifting the conversation from where it first focused: on including people at the margins."
+description: "There is a just-emerging conversation by big names in the field of visualization, proposing to rebrand from 'visualization' towards 'data experiences.' While I love this, folks either seem to be unaware or actively shifting the conversation from where we have been focusing the last few years: including people with disabilities. I hope we aren't forgotten in this new turn for our field."
 ---
 
 I want to open with the statement that Shirley Wu is one of my favorite people in our field. Shirley does excellent work, is a deeply thoughtful person, and is broadly recognized by our peers as one of the most important people of our time.
