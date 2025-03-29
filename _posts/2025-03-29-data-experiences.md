@@ -29,11 +29,13 @@ And that is where I am a bit depressed. Does she not know? Perhaps my space (inc
 
 So sure, Shirley's definition can be the one we use. She likely has a large enough readership and is respected well enough that this is probably going to be where we mark the watershed moment for our field and offer credit. I'm actually 100% okay with that.
 
-But it feels important to me to really impress on the community that the reason **we've *already* been using this term and why this term *actually matters* is because of *inclusion***. In Shirley's blog, she writes that the term is "inclusive" because is definitionally or semantically inclusive (it applies to visualizations, sonificiations, physicalizations, etc).
+But it feels important to me to really impress on the community that the reason **we've *already* been using this term is because of the inclusion of people with disabilities**. In Shirley's blog, she writes that the term is "inclusive" because is definitionally or semantically inclusive (it applies to visualizations, sonificiations, physicalizations, etc). She also writes extensively (in the whole first half of the blog) that the point is about inclusion. So, I'm sure she'd agree with me when I say that I just don't want us to forget people with disabilities in all of this.
+
+Explicitly naming who has been excluded *and why*, really matters. And I felt compelled to write this blog just as a reminder, in case we forget (because we are often forgotten).
 
 <!-- > I would argue, as people who came before me (like Lean) have already argued: data experiences are "inclusive" because they include more *people* and not just more definitions. -->
 
-And to be clear: Shirley also points out (in the whole first section of her piece) that the point of all of this is to be more inclusive. Our community is growing. We have a bigger tent now.
+And to be clear: Shirley *clearly* points out (in the whole first section of her piece) that the point of all of this is to be more inclusive. Our community is growing. We have a bigger tent now.
 
 **But why isn't there any mention of "disability" or people with disabilities?** And why is the only mention of "accessibility" really just the broad use of the term (not specifically about the field of accessibility as it centers on people with disabilities)?
 
