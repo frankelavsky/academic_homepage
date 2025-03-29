@@ -20,32 +20,38 @@ But I'm a bit disheartened. In her recent blog post "[Beyond the Plateau](https:
 > 
 > I’m defining data experience as anything that enables us to personally encounter data as a way to expand our personal and collective knowledge.  I like this definition because it is intentionally broad and inclusive.  It can contain within it data visualizations, sonifications, physicalizations, smellifications, or things we have yet to define and be inspired by.
 
-Of course, *I love this*. I just want that to be clear. **But we've been talking about "data experiences" already for years**. And to make matters worse: my little sub-field (accessibility) is in a *canyon*, a rift far below sea level. We've been trying to climb out of this for decades.
+Of course, *I love this*. I just want that to be clear. **But we've been talking about "data experiences" already for years**. Our definition of this term might differ (and Shirley's is arguably more romantic), but the way we have used it for years now has been centered on people with disabilities. "Data experiences" was a way for us to peel apart and de-center this idea that visualization alone will save us, but data experiences can bring us together.
 
-And that is where I am a bit depressed. Does she not know? Perhaps my space (inclusion, disability, etc) has just been too far divorced from the spaces she occupies? Perhaps our rift is so wide and deep that she can't see us from all the way up on her plateau.
+And to complicate this conversation (if you can call a blog post responding to a blog post a conversation at all): my little subfield of accessibility is in a *canyon*, a rift far below sea level. We've been trying to climb out of this for decades. We are far from being ubiquitous and certainly not at a place where our creativity (or demand for it) is at a plateau.
+
+And that is where I am a bit depressed. Does she not know? More importantly: does our field? Perhaps my space (inclusion, disability, etc) has just been too far divorced from the rest of our community? Perhaps our rift is so wide and deep that everyone can't see us from all the way up on this plateau.
 
 ## Origins and why "data experiences" matter
 [Marion Lean](https://www.marionlean.co.uk/), whose 2020 PhD thesis was titled "[Materializing Data Experience](https://researchonline.rca.ac.uk/4443/)" is focused on a wonderful and provocative ethos for *why* "data experiences" are worth it: *they include people in meaningful experiences*. Lean's entire thesis focuses on this ethical dimension, [framed from a feminist direction](https://www.tandfonline.com/doi/full/10.1080/20511787.2021.1928987), as an imperative for understanding that human-to-data relationships are interactive and can produce deep and meaningful experiences. And that if we take this for what it can accomplish, then the best use of data experiences are towards including people who have been excluded or left at the margins. Lean's current professional work focuses on that now.
 
-So sure, Shirley's definition can be the one we use. She likely has a large enough readership and is respected well enough that this is probably going to be where we mark the watershed moment for our field and offer credit. I'm actually 100% okay with that.
+So sure, Shirley's definition can be the one we use. I like it. Inclusion is at the heart of her argument, too. And Shirley likely has a large enough readership (and is respected well enough) that this is probably going to be where we mark the watershed moment for our field. I'm actually 100% okay with that.
 
-But it feels important to me to really impress on the community that the reason **we've *already* been using this term is because of the inclusion of people with disabilities**. In Shirley's blog, she writes that the term is "inclusive" because is definitionally or semantically inclusive (it applies to visualizations, sonificiations, physicalizations, etc). She also writes extensively (in the whole first half of the blog) that the point is about inclusion. So, I'm sure she'd agree with me when I say that I just don't want us to forget people with disabilities in all of this.
+But it feels important to me to really impress on the community that the reason **we've *already* been using this term is because of the inclusion of people with disabilities**. It's okay with me if we re-purpose "data experiences" to broaden the umbrella. Maybe we *should*.
 
-Explicitly naming who has been excluded *and why*, really matters. And I felt compelled to write this blog just as a reminder, in case we forget (because we are often forgotten).
+In Shirley's blog, she writes that the term is "inclusive" because is definitionally or semantically inclusive (it applies to visualizations, sonificiations, physicalizations, etc). She also writes extensively (in the whole first half of the blog) that the point is about inclusion. So, I'm sure she'd agree with me when I say that I just don't want us to forget people with disabilities in all of this. If we de-center people with disabilities, I just don't want us to become forgotten.
+
+Explicitly naming who has been excluded *and why*, really matters. This was at the heart of our use of the term for the past few years. And I felt compelled to write this blog just as a reminder of our story, in case we forget (because we are often forgotten).
 
 <!-- > I would argue, as people who came before me (like Lean) have already argued: data experiences are "inclusive" because they include more *people* and not just more definitions. -->
 
-And to be clear: Shirley *clearly* points out (in the whole first section of her piece) that the point of all of this is to be more inclusive. Our community is growing. We have a bigger tent now.
+And to be clear: The point of all of this is to be more inclusive. Our community is growing. We have a bigger tent now.
 
-**But why isn't there any mention of "disability" or people with disabilities?** And why is the only mention of "accessibility" really just the broad use of the term (not specifically about the field of accessibility as it centers on people with disabilities)?
+But my challenge to Shirley (and our field) is this: **why isn't there any mention of "disability" or people with disabilities in this vision of the future?** And why is the only mention of "accessibility" really just the broad use of the term (not specifically about the field of accessibility as it centers on people with disabilities)?
 
-I know that Shirley has her finger on the pulse of our field. Surely Shirley is aware that one of the *major* advancements in our field in the last 5 years has centered on how we think about designing for and with people with disabilities? But perhaps not!
+I hope that broadening our language doesn't come at a cost! Our little history, our hard-fought battles on twitter and linkedin, our talks and articles and prototypes... these are all part of the "data experiences" I know. But to our fault, we are still pretty obscure.
 
-If we aren't being consciously or actively excluded (which I really doubt is the case), then is our work actually less relevant than I thought? Perhaps this isn't exclusion or erasure but just, yet again, a moment where I confront how far we still have to go.
+I know that Shirley has her finger on the pulse of our field. Reading the article this morning I thought to myself, "Surely Shirley is aware that one of the *major* advancements in our field in the last 5 years has centered on how we think about designing for and with people with disabilities?" But perhaps not!
 
-A leading person in our field has proposed a "new" definition for term we have already been using for well over half a decade. It makes me a bit depressed, in some ways. Will we ever be part of the tent? Will our community ever really come around?
+If we aren't being consciously or actively excluded (I really doubt Shirley knew about our use of the term beforehand), then is our work actually less relevant than I thought? Perhaps, yet again, this is a moment where I confront how far we still have to go.
 
-(I know this entire blog post might seem frantic or even confrontational, but that is only because I simply don't have time to write this up with better prose. Her post is *now* and I have deadlines in 2 days. Shirley is a widely impactful artist and thinker in our field and if I wait too long to say my thoughts, time will have passed. I already have the disadvantage of my relative insignificance, so I want to at least join the conversation before it is over.)
+It makes me a bit depressed, in some ways. Will we ever be part of the tent? Will our community ever really come around?
+
+(I know this entire blog post might seem frantic, misguided, or even confrontational, but that is only because I simply don't have time to write this up with better prose. Her post is *now* and I have deadlines in 2 days. Shirley is a widely impactful artist and thinker in our field and if I wait too long to say my thoughts, time will have passed. I already have the disadvantage of my relative insignificance, so I want to at least join the conversation before it is over.)
 
 ## My focus on "data experiences"
 In 2018 or so, I was at Visa. And Chris DeMartini, with immense foresight, decided to name our group the "Visa Data Experience Team." And if I recall correctly, Eric William Lin's team in 2021 at CNN (or was it Capital One before that?) was also a "Data Experience" team. So in the professional world of things, the idea of a more inclusive term was already being kicked around.
