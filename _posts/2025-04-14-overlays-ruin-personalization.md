@@ -127,6 +127,6 @@ Personalization should be founded in a meaningful, persistent, and personal *rel
 
 This is why in my work on *Softerware*, we argued that we need better infrastructure for interoperability. Right now, our infrastructures primarily concern themselves with scale. But we need infrastructure that is also concerned with *care*, *agency*, and *convenience*. This is why our computers and devices should be where all of the options we find in an overlay should exist. And ideally, we have a "profile" in an ecosystem (not to just harp for Apple here) like Apple: we set up something about ourselves that can persist across devices and every application and experience within that device.
 
-And that way, *every* website we visit won't need an overlay, it instead just needs to ingest your own settings. Whether it is video games, data visualizations, or future interfaces, we can't expect impersonal things (like a website) to be where our personalization lives and operates.
+And that way, *every* website we visit won't need an overlay, it instead just needs to ingest your own settings. Whether it is websites, data visualizations, or future interfaces, we can't expect impersonal things to be where our personalization lives and operates.
 
 We need to keep the web *impersonal-but-caring*: it should provide a hospitable environment (be as accessible as possible by default) and then just do the things we've asked of it.
