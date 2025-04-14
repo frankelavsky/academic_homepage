@@ -98,7 +98,7 @@ So overlays are probably using cookies, even though I wasn't asked about which c
 
 But to make matters worse, overlays don't have persistence *across* domains. If I change some options on [Hormbles Chormbles](https://hormbles.com/) and then go over to [Data Literacy](https://dataliteracy.com/), those options don't follow me. What a massive waste of my time and effort.
 
-And of course, overlays don't share data with other overlay companies (which would be a nightmare). Userway, audioeye, and accessiBe are some of the more-notorious ones, but there are actually [quite a lot of different companies that offer overlay-like solutions](https://overlayfactsheet.com/en/). All of them offer different user experiences, capabilities, and methods for "automatically" making something more accessible.
+And of course, overlays don't share data with other overlay companies (which would be a nightmare). Userway, audioeye, and accessiBe are some of the more-notorious overlay companies, but there are actually [quite a lot of different companies that offer overlay-like solutions](https://overlayfactsheet.com/en/). All of them offer different user experiences, capabilities, and methods for "automatically" making something more accessible. Getting them to play nice with each other is probably impossible (since historically this rarely happens between competitors).
 
 I think that overlay companies don't really care whether or not their product actually gets used, they just want business owners to buy it. Adrian Roselli wrote in 2016 about his own work on text-size widgets: [people don't use them at all](https://adrianroselli.com/2016/12/dont-re-create-browser-features.html).
 
