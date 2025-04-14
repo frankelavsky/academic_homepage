@@ -78,7 +78,7 @@ But one of the major reasons that something as simple as personalizing text size
 Just recently, I was looking up some kind of artificially-sweetened "candy" bar called Hormbles Chormbles and noticed they had an accessiBe overlay. When you click it, the following screen appears:
 
 <figure>
-    <img src="https://www.frank.computer/images/accessiBe.png" alt="Hormbles Chormbles website with an overlay open. The overlay belongs to accessiBe and has a wide array of options shown, including high level profiles that promise they are 'seizure-safe' to options that claim to enable keyboard and screen reader navigation."/>
+    <img src="https://www.frank.computer/images/hormbles.png" alt="Hormbles Chormbles website with an overlay open. The overlay belongs to accessiBe and has a wide array of options shown, including high level profiles that promise they are 'seizure-safe' to options that claim to enable keyboard and screen reader navigation."/>
     <figcaption>"Hormbles Chormbles?" more like horrible chore-able for anyone who has to use this personalization menu.</figcaption>
 </figure>
 
