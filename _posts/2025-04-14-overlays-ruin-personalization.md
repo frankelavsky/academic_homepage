@@ -57,7 +57,7 @@ So all of this leads me to the thing that I actually want to talk about: overlay
 Personalization, especially for accessibility, should be about setting up how you want a computer, game, or digital experience to work for you. I love the idea of personalization and have [written about it for a while now](https://www.frank.computer/option-driven-design). Personalization is at the heart of Apple's accessibility with "make it yours" and was the motivation for my latest project, [*Softerware*](https://arxiv.org/abs/2502.18348).
 
 <figure>
-    <video controls aria-label="Make it yours, animation of Apple accessibility features - big, Zoom, clear volume up, speak selected text, listen Dictation, simple On switch, make Apple yours.">
+    <video style="width: 100%" controls aria-label="Make it yours, animation of Apple accessibility features - big, Zoom, clear volume up, speak selected text, listen Dictation, simple On switch, make Apple yours.">
         <source src="https://www.apple.com/105/media/us/accessibility/2021/61578763-87f7-4dfe-a16f-76ca90775492/anim/hero/medium_2x.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
