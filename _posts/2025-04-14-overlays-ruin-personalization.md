@@ -115,7 +115,7 @@ And looking over to Apple again, their philosophy for accessibility is still the
 
 One of my favorite pieces of all time is by Hickman and Hagerty, "[Standardized access: the tension between scale and fit](https://www.adalovelaceinstitute.org/blog/standardised-access-tension-scale-fit/)." And good accessibility is, as they write, about *fit*. Something that fits perfectly, would be a well-tailored, highly personal artifact or experience. But doing this work takes time and energy, which is why it is always in tension with scale. Scale doesn't have time to solve every issue for all people, so it shoots for means, averages, and majorities whenever possible. [Scale doesn't care about the margins](https://arxiv.org/pdf/2010.08850).
 
-So why is personalization of hardware, an operating system, or in award-winning video games, somehow better than personalization of a website, using an overlay? Well, because overlays have applied personalization to an *impersonal* context. This is because overlay companies are far more interested in scale than real access. They have money to make.
+So why is personalization of hardware, an operating system, or in award-winning video games, somehow better than personalization of a website, using an overlay? Well, because **overlays have applied personalization to an *impersonal* context**. This is because overlay companies are far more interested in scale than real access. They have money to make.
 
 So let's revisit Apple's motto "make it yours:" Overlays don't (and shouldn't) really "know" who you are. And you don't really get to make an overlay your *own*, either. Even the idea of making a single website your own seems absurd. Websites are like other people's houses: they are definitely someone else's space and someone else's curation of information and content. But a computer that you own *should* work for you. I want to personalize my machine so that when I go to a website, it works they way I'd want it to. This is also why a video game can be personalized too: you buy the game; it's yours. That is enough of a reason to want to personalize it.
 
@@ -127,8 +127,34 @@ So it's *persistence* that really matters: persistence of a thing, the continued
 
 The ontology of what makes something *personal* to something else is grounded in a *relationship*. Personalization, then, should be founded in a meaningful, persistent, and existing relationship that someone has with an artifact or experience.
 
-This is why in my work on *Softerware*, we argued that we need better infrastructure. Right now, our infrastructures primarily concern themselves with scale. But we need infrastructure that is also concerned with *care*, *agency*, and *convenience*. This is why our computers and devices should be where all of the options we find in an overlay should exist. And ideally, we have a "profile" in an ecosystem (not to just harp for Apple here) like Apple: we set up something about ourselves that can persist across devices and every application and experience within that device.
+This is why in my work on *Softerware*, we argued that we need better infrastructure. Right now, our infrastructures primarily concern themselves with scale. But we need infrastructure that is also concerned with *care*, *agency*, and *convenience*. This is why our computers and devices, and ultimately our bodies, should be where all of the options we find in an overlay should exist. The closer our artifacts are to our agency and the more opportunities exist for those artifacts to provide care and convenience, the better of a candidate that thing becomes for *softerware*.
 
-And that way, *every* website we visit won't need an overlay, it instead just needs to ingest your own settings. Whether it is websites, data visualizations, or future interfaces, we can't expect impersonal things to be where our personalization lives and operates.
+And ideally, we have a "profile" or "agent" in an ecosystem: a system either learns to adapt from us or we tell it something about ourselves. This profile or agent then can persist across devices and every application and experience we encounter.
 
-We need to keep the web *impersonal-but-caring*: it should provide a hospitable environment (be as accessible as possible by default) and then just do the things we've asked of it.
+And that way, *every* website we visit isn't asking us what we want, instead websites just listen to whatever we have already established.
+
+## We need to fight against this pattern of de-personalization
+Personalization has been co-opted, *appropriated* even, by modern overlay companies. They dismiss the real labor involved in making something accessible and put the burden on every website visitor to fix that website's problems.
+
+Imagine walking in to a dysfunctional restaurant that has a big sign on the door: "make it yours." *Wow*, you think to yourself, *that is just like Apple!* 
+
+But when you walk in, the restaurant is a cold, empty room. Someone approaches and asks: what would you like?
+
+And then you tell them that you'd like to have food served to you in exchange for money (*shouldn't this be obvious?* you think to yourself).
+
+They seem to require thorough instructions to do anything at all. So you tell them that in order to eat and enjoy their food, you would also like to have a table to sit at (which should be cleaned), a chair to sit on (which should be sturdy and comfortable), and you will require a fork, spoon, knife, and napkins, as well as a water served to you when you're seated.
+
+To your surprise, the restaurant brings out a plastic table and gives you flimsy plastic cutlery. They give you scraps of wood and a plastic chair with a broken leg. They clarify: you can use the wood to "make the chair sturdy, as you requested." They smile and wink at you, proud of themselves for coming up with this solution to your "sturdy chair accessibility needs." The water they serve you is unfiltered and metallic from lead piping; it looks brown. Then they place on the table all of the ingredients you'd need in order to cook your own food and leave you to "make it yours."
+
+<figure>
+    <img src="https://www.frank.computer/images/monobloc.jpg" alt="A plastic lawn chair that is filthy and has a shattered leg. The gap where the leg used to be is patched with a variety of wood pieces, barely held together." style="display: block; width: 50%; margin-left: auto; margin-right: auto;">
+    <figcaption>A monobloc chair that has seen better days. This is a metaphor for what web overlays often feel like: you get a broken chair and some pieces of wood and have to patch-it-yourself every time you want to sit on it. [Photo archived, from functionalfate.org](https://web.archive.org/web/20100121033127/http://www.functionalfate.org/archives/2009/12/10/monobloc-repairs/).
+</figure>
+
+This example is what overlays feel like. They market themselves as *personalization*, as the future of web accessibility, but really just hide deeply inhospitable dysfunction.
+
+And I want to argue that we need to keep the web *impersonal-but-caring*: website owners should provide a hospitable environment (be as accessible as possible by default) and then just do the things we've asked of them after that.
+
+I *do* believe that every option modern overlays have available are useful to someone out there. And that is what makes them so deceptive! The idea that we could have personalized experiences on the web is actually forward-thinking. But instead, overlays only accomplish two things: They enable websites to remain uncaring and inaccessible, and they put a significant burden on their visitors.
+
+Well actually, overlays do accomplish a third thing (and perhaps this is the most important one of all): they make overlay companies a massive amount of money.
