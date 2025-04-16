@@ -138,7 +138,7 @@ Personalization has been co-opted, *appropriated* even, by modern overlay compan
 
 Imagine walking in to a dysfunctional restaurant that has a big sign on the door: "make it yours." *Wow*, you think to yourself, *that is just like Apple!* 
 
-But when you walk in, the restaurant is a cold, empty room. Someone approaches and asks: what would you like?
+But when you walk in, the restaurant is a cold, empty room. Someone approaches and asks confidently, "Welcome! We offer you nothing unless you ask for it. What do we need to do to make this experience *yours*?"
 
 And then you tell them that you'd like to have food served to you in exchange for money (*shouldn't this be obvious?* you think to yourself).
 
@@ -153,10 +153,10 @@ To your surprise, the restaurant brings out a plastic table and gives you flimsy
     </figcaption>
 </figure>
 
-This example is what overlays feel like. They market themselves as *personalization*, as the future of web accessibility, but really just hide deeply inhospitable dysfunction.
+This example is what web overlays feel like. They market themselves as *personalization*, as the future of web accessibility, but really just hide deeply inhospitable dysfunction. User choice is marketed as empowering, but really it is a guise for the fact that websites don't want to do anything at all for you unless asked, even things that should probably be a bare minimum.
 
-And I want to argue that we need to keep the web *impersonal-but-caring*: website owners should provide a hospitable environment (be as accessible as possible by default) and then just do the things we've asked of them after that.
+And I want to argue that we need to keep the web a little bit *impersonal* yet it should strive to be *impersonal-but-caring*: website owners should provide a hospitable environment (be as accessible as possible by default) and then just do the things we've asked of them after that. We need a foundation before "make it yours" becomes useful. This is exactly why I chose to work with [Highcharts](https://www.highcharts.com/accessibility/) for my *softerware* project instead of a visualization library that had no accessibility at all. There is third-party research that shows Highcharts is the [best of the best, when it comes to accessibility](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14833).
 
-I *do* believe that every option modern overlays have available are useful to someone out there. And that is what makes them so deceptive! The idea that we could have personalized experiences on the web is actually forward-thinking. But instead, overlays only accomplish two things: They enable websites to remain uncaring and inaccessible, and they put a significant burden on their visitors.
+I *do* believe that pretty much every option modern overlays have available are useful to someone out there. And that is what makes them so deceptive! The idea that we could have personalized experiences on the web is actually forward-thinking. But instead of delivering on forward-thinking and future interfacing with the web, overlays only accomplish two things: They enable websites to remain uncaring and inaccessible, and they put a significant burden on their visitors.
 
-Well actually, overlays do accomplish a third thing (and perhaps this is the most important one of all): they make overlay companies a massive amount of money.
+Well actually, overlays do accomplish a third thing (and perhaps this is the most important one of all): *they make overlay companies a massive amount of money*.
