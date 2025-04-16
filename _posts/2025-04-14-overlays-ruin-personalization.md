@@ -148,7 +148,9 @@ To your surprise, the restaurant brings out a plastic table and gives you flimsy
 
 <figure>
     <img src="https://www.frank.computer/images/monobloc.jpg" alt="A plastic lawn chair that is filthy and has a shattered leg. The gap where the leg used to be is patched with a variety of wood pieces, barely held together." style="display: block; width: 50%; margin-left: auto; margin-right: auto;">
-    <figcaption>A monobloc chair that has seen better days. This is a metaphor for what web overlays often feel like: you get a broken chair and some pieces of wood and have to patch-it-yourself every time you want to sit on it. [Photo archived, from functionalfate.org](https://web.archive.org/web/20100121033127/http://www.functionalfate.org/archives/2009/12/10/monobloc-repairs/).
+    <figcaption>
+        A monobloc chair that has seen better days. This is a metaphor for what web overlays often feel like: you get a broken chair and some pieces of wood and have to patch-it-yourself every time you want to sit on it. <a href="https://web.archive.org/web/20100121033127/http://www.functionalfate.org/archives/2009/12/10/monobloc-repairs/">Photo archived, from functionalfate.org</a>.
+    </figcaption>
 </figure>
 
 This example is what overlays feel like. They market themselves as *personalization*, as the future of web accessibility, but really just hide deeply inhospitable dysfunction.
