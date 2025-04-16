@@ -69,7 +69,7 @@ Personalization, especially for accessibility, should be about setting up how yo
 
 But personalization is a tricky subject. It requires the user to do a lot of work: they have to recognize that something about their experience of an interface is wrong, know what they'd want the interface to do, and then look for or discover how to personalize their experience to suit their needs.
 
-One of the fundamental UX problems with "malleable interfaces" and "end user programming" suffers from these two problems: it's a lot of work to personalize and it can be hard to figure out how to do it.
+Two of the fundamental UX problems with existing research in "malleable interfaces" and "end user programming:" it's a lot of work to personalize and it can be hard to figure out how to do it.
 
 The immortally brilliant [Adrian Roselli wrote about the problem of "recreating what browsers already do"](https://adrianroselli.com/2016/12/dont-re-create-browser-features.html) when it comes to widgets that increase text size, all the way back in 2016 (wild to think that was nearly a decade ago now).
 
@@ -117,15 +117,15 @@ One of my favorite pieces of all time is by Hickman and Hagerty, "[Standardized 
 
 So why is personalization of hardware, an operating system, or in award-winning video games, somehow better than personalization of a website, using an overlay? Well, because overlays have applied personalization to an *impersonal* context. This is because overlay companies are far more interested in scale than real access. They have money to make.
 
-So let's revisit Apple's motto "make it yours:" Overlays don't (and shouldn't) really "know" who you are. And you don't really get to make an overlay your *own*, either. Even the idea of making a single website your own seems absurd. Websites are like other people's houses: they are definitely someone else's space and someone else's curation of information and content. But a computer that you own *should* work for you. This is also why a video game can be personalized too: you buy the game; it's yours. That is enough of a reason to want to personalize it.
+So let's revisit Apple's motto "make it yours:" Overlays don't (and shouldn't) really "know" who you are. And you don't really get to make an overlay your *own*, either. Even the idea of making a single website your own seems absurd. Websites are like other people's houses: they are definitely someone else's space and someone else's curation of information and content. But a computer that you own *should* work for you. I want to personalize my machine so that when I go to a website, it works they way I'd want it to. This is also why a video game can be personalized too: you buy the game; it's yours. That is enough of a reason to want to personalize it.
 
 Personalization isn't inherently or necessarily *about* ownership, of course. It doesn't require something to be owned. Ownership is just one way that we frame personal things in our larger culture and society, since [capitalism often frames our relationships to things in our lives](https://anarchism.pageabode.com/book/b-3-why-are-anarchists-against-private-property/#secb31).
 
 So it's *persistence* that really matters: persistence of a thing, the continued presence of something situated with us in our lives, is where we derive the desire to personalize. The more we encounter something, the longer we spend time with it, and the more we gain a sense that it *belongs* to us and our identity and experience of the world, the more we will be driven to personalize that thing.
 
-Personalization should be founded in a meaningful, persistent, and personal *relationship* that someone has to an artifact or experience.
+The ontology of what makes something *personal* to something else is grounded in a *relationship*. Personalization, then, should be founded in a meaningful, persistent, and existing relationship that someone has with an artifact or experience.
 
-This is why in my work on *Softerware*, we argued that we need better infrastructure for interoperability. Right now, our infrastructures primarily concern themselves with scale. But we need infrastructure that is also concerned with *care*, *agency*, and *convenience*. This is why our computers and devices should be where all of the options we find in an overlay should exist. And ideally, we have a "profile" in an ecosystem (not to just harp for Apple here) like Apple: we set up something about ourselves that can persist across devices and every application and experience within that device.
+This is why in my work on *Softerware*, we argued that we need better infrastructure. Right now, our infrastructures primarily concern themselves with scale. But we need infrastructure that is also concerned with *care*, *agency*, and *convenience*. This is why our computers and devices should be where all of the options we find in an overlay should exist. And ideally, we have a "profile" in an ecosystem (not to just harp for Apple here) like Apple: we set up something about ourselves that can persist across devices and every application and experience within that device.
 
 And that way, *every* website we visit won't need an overlay, it instead just needs to ingest your own settings. Whether it is websites, data visualizations, or future interfaces, we can't expect impersonal things to be where our personalization lives and operates.
 
