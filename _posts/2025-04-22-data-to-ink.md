@@ -79,7 +79,7 @@ Well some of you might be looking at this design and find it hard to perceive. W
 
 But yes, you guessed it: we can go even further.
 
-Dear reader: are you familiar with what "[code golf](https://en.wikipedia.org/wiki/Code_golf)" is? It's a sport (of sorts) where people attempt to reduce the number of characters they use in source code in order to solve a problem. It tends to result in comically terse, virtually unreadible lines of code, but it still gets the job done. One of the best places to witness this recreational exercise is over on the [code golf stack exchange](https://codegolf.stackexchange.com/).
+Dear reader: are you familiar with what "[code golf](https://en.wikipedia.org/wiki/Code_golf)" is? It's a sport (of sorts) where people attempt to reduce the number of characters they use in source code in order to solve a problem. It tends to result in comically terse, virtually unreadable lines of code, but it still gets the job done. One of the best places to witness this recreational exercise is over on the [code golf stack exchange](https://codegolf.stackexchange.com/).
 
 So what if we go to the *extreme* here with our data-to-ink ratio? What if we try to visualize our data using the smallest amout of ink possible?
 
