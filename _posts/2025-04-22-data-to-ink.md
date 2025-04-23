@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visualization, minimalism, and the absurdity of the data-to-ink-ratio"
+title: "Minimalism and the absurdity of the data-to-ink-ratio"
 slug: data-to-ink
 tags:
 - tufte
@@ -24,7 +24,7 @@ So perhaps we cannot "win" in the marketplace of ideas against someone like Tuft
 
 So what if we just take Tufte's idea as pure law? What if we made a visualization with as little chart junk as possible and the largest data-to-ink ratio score imaginable?
 
-Here, we will work with a simple data that has 2 columns. The first column is categorical and the second is quantitative. The data represents the frequency of letters as they occur in an English dictionary. We will try to maximize our data-to-ink and visualize this as minimally as possible.
+Here, we will work with a simple data that has 2 columns. The first column is categorical and the second is quantitative. The data represents the frequency of letters, rounded, as they occur in a collection of English texts ([from wikipedia](https://en.wikipedia.org/wiki/Letter_frequency)). We will try to maximize our data-to-ink and visualize this as minimally as possible.
 
 | Letter   | (%) |
 | -------- | --- |
