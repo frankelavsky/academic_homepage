@@ -95,13 +95,19 @@ Each data point is represented by only a single pixel! For our dataset of 7 poin
 ## Minimalism has been a way for some "intellectuals" to enforce aesthetics as law
 So while this exercise was meant as a playful exploration in my new sport, "ink golf," I do want to make the point that the graphic above is *obviously* inaccessible in its design.
 
-Virtually nobody would find this design useful or effective and it is likely an unusable artifact.
+Virtually nobody would find this design useful or effective and it is likely an unusable artifact. I am certain that Tufte wouldn't defend this design with any seriousness, and certainly wouldn't intend for his philosophies to be taken this far, either.
 
-So minimalism can become a barrier, if taken too far. And *this* is the question I want to raise: when is too far? When do we decide that minimalism is excluding people from using our data visualizations?
+But yet, followers of minimalism always seem to stop at a certain point. Why? Why stop once you, the author of a visualization, are barely able to see what you've made? How do you know that what you see is adequate for what others see? Is *your* perception of minimalism the same as your audience's? Is minimalism, with so few real rules or empirically observed benefits, worth defending with such passion and fervor?
 
-Accessibility standards won't save us. They don't set a minimum size for anything. We *do* have plenty of research on "[Just Noticeable Differences](https://ieeexplore.ieee.org/abstract/document/8017604?casa_token=3nllwCmAxi8AAAAA:kMy02ZIDga82EXJaYs1bcAeqgpEoYnrABVbBpWB0ns5sVPQvkY-y7SKGW0lIeAobY4k_q9mB)" or JNDs, however, but these aren't modeled after people with visual disabilities like low vision or blindness - so using these models wouldn't be helpful.
+Minimalism becomes a barrier, if taken too far. And *this* is the question I want to raise: *when* is too far? When do we decide that minimalism is excluding people from using our data visualizations?
 
-My lesson for you, dear reader, is this: don't take minimalism so seriously. The data-to-ink ratio is not a law. And as Derya Akbaba says, perhaps [it is time to put the idea of "chart junk" in the trash](https://arxiv.org/abs/2109.10132).
+Accessibility standards don't save us. They currently don't set a minimum size for text or objects in a visualization.
+
+We *do* have plenty of research on "[Just Noticeable Differences](https://ieeexplore.ieee.org/abstract/document/8017604?casa_token=3nllwCmAxi8AAAAA:kMy02ZIDga82EXJaYs1bcAeqgpEoYnrABVbBpWB0ns5sVPQvkY-y7SKGW0lIeAobY4k_q9mB)" or JNDs, however, but these aren't modeled after people with visual disabilities like low vision or blindness - so using these models wouldn't be helpful if we really wanted to know when minimalism starts to hit practical limits in design.
+
+So my lesson for you, dear reader, is this: don't take minimalism so seriously. The data-to-ink ratio is not a law. And as Derya Akbaba says, perhaps [it is time to put the idea of "chart junk" in the trash](https://arxiv.org/abs/2109.10132) too.
+
+<hr>
 
 For fun, here is a zoomed in version of my *ink golf* solution, so you can see that I even custom-made a font in order to make this as small as possible. I reckon there might be some pixel configurations that can represent these letters in fewer pixels, but I couldn't solve it. I suppose that's the fun of golf - perhaps a lower score is possible! You're welcome to give it a try, as long as you remember that minimalism should be used for fun more than it is for any sort of deadly, professional *seriousness*.
 
