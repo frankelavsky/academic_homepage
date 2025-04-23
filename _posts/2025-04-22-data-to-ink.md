@@ -115,5 +115,5 @@ For fun, here is a zoomed in version of my *ink golf* solution, so you can see t
 
 <figure>
     <img src="https://www.frank.computer/images/data_to_ink.png" alt="A zoomed in version of the super small chart, showing that there really are only 7 pixels total for the data. The a is made with 5 pixels, b with 6, c with 3, d with 6, e with 6, f with 5, and g with 7."/>
-    <figcaption>Yes, I even tried to do <i>ink golf</i> with the text. (Now that I think about it... maybe we can start using "ink golf" as a way to poke fun at those deadly-serious business intelligence utilitarians who seem to defend minimalsm wich such fervor. They're just ink-golfing enthusiasts!)</figcaption>
+    <figcaption>Yes, I even tried to do <i>ink golf</i> with the text. (Now that I think about it... maybe we can start using "ink golf" as a way to poke fun at those deadly-serious business intelligence utilitarians who seem to defend minimalsm with such fervor. They're just <i>ink-golfing enthusiasts</i>!)</figcaption>
 </figure>
