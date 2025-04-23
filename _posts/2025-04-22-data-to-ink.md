@@ -108,6 +108,8 @@ We *do* have plenty of research on "[Just Noticeable Differences](https://ieeexp
 So my lesson for you, dear reader, is this: don't take minimalism so seriously. The data-to-ink ratio is not a law. And as Derya Akbaba says, perhaps [it is time to put the idea of "chart junk" in the trash](https://arxiv.org/abs/2109.10132) too.
 
 <hr>
+<br>
+<br>
 
 For fun, here is a zoomed in version of my *ink golf* solution, so you can see that I even custom-made a font in order to make this as small as possible. I reckon there might be some pixel configurations that can represent these letters in fewer pixels, but I couldn't solve it. I suppose that's the fun of golf - perhaps a lower score is possible! You're welcome to give it a try, as long as you remember that minimalism should be used for fun more than it is for any sort of deadly, professional *seriousness*.
 
