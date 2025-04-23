@@ -64,7 +64,7 @@ In Tufte's fashion, (I don't remember which book this is in) but we can acutally
     <figcaption>Our data:ink ratio is improving; who needs bars anyway?</figcaption>
 </figure>
 
-This chart is much better! Now we're much more minimal. So each of the 7 bars are only 5 pixels wide. That's 5 pixels tall by 70 pixels wide, and 7 marks total. Our data:ink ratio is skyrocketing now, at **1:2450**. We've gone down a whole order of magnitude!
+This chart is much better! Now we're much more minimal. So each of the 7 bars are only 5 pixels tall. That's 5 tall by 70 pixels wide by 7 marks total. Our data:ink ratio is skyrocketing now, at **1:2450**. We've gone down a whole order of magnitude!
 
 But honestly, why did we stop there? Why waste all that ink making these bars so wide? We can take this design further.
 
