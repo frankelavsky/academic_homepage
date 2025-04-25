@@ -55,7 +55,7 @@ And if I leave the US, that means that I virtually have to get into academia. Th
 
 So now I just need to get lucky. I need to find a good city in a good country with a good academic position that has good funding. If I'm *really* lucky, I can skip a postdoc and go straight into work as a professor. But we will see.
 
-For now, I think **Plan A** is an assistant professor position somewhere English-speaking (and I'm willing to pick up a language too, if needed), that pays well, has socialized healthcare, has pension, is in a cute/nice, walkable city with good food and transit, there is natural beauty nearby, and it is climate-ready and climate-resilient. Bonus points if they value visualization and/or accessibility work and/or I knkow some people there already and we'd like to collab.
+For now, I think **Plan A** is an assistant professor position somewhere English-speaking (and I'm willing to pick up a language too, if needed), that pays well, has socialized healthcare, has pension, is in a cute/nice, walkable city with good food and transit, there is natural beauty nearby, and it is climate-ready and climate-resilient. Bonus points if they value visualization and/or accessibility work and/or I know some people there already and we'd like to collab.
 
 **Plan B** is an assistant professor position somewhere here in the US, but it has to be at a place with a *lot* of existing support for accessibility (there are only a small handful of these).
 
