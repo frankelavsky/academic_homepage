@@ -5,10 +5,11 @@
   location: (upcoming) PyCon, Pittsburgh, PA
   date: 2025-05-14
 - title: "Tool-making, Data Science, and Accessibility"
-  location: (upcoming) HCIL, UMD
+  location: HCIL, UMD
   date: 2025-05-01
+  slides: /talks/2025-UMD-proto-job-talk.key
 - title: "Tool-making, Data Science, and Accessibility"
-  location: (upcoming) Carnegie Mellon University
+  location: Carnegie Mellon University
   date: 2025-04-18
 - title: "Data Visualization and Accessibility"
   location: University of Virginia
