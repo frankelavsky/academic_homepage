@@ -63,7 +63,7 @@ And the worst "cost" of all that generative AI hides from us? The price of extra
 
 The cost to us right now seems low, but the price being paid is *very high*. It is an existential threat, in fact.
 
-In my fantasy world, Braven, the big twist in the meta-narrative is that magic, which is accomplished by creating "portals" between our world and infinity, is actually just creating a portal to the future of our world. And eventually, that day arrives and immediately the planet of Braven is scorched to a crisp. Most all humanity dies instantly, all magic ceases to funciton, and the great demons who plotted patiently from under the earth finally emerge to consume the flesh of every burnt corpse that remains.
+In my fantasy world, Braven, the big twist in the meta-narrative is that magic, which is accomplished by creating "portals" between our world and infinity, is actually just creating a portal to the future of our world. And eventually, that day arrives and immediately the planet of Braven is scorched to a crisp. Most all humanity dies instantly, all magic ceases to function, and the great demons who plotted patiently from under the earth finally emerge to consume the flesh of every burnt corpse that remains.
 
 And I wrote this over 20 years ago as the cornerstone event of my whole world. And I watch as my own prophecy is coming true right now: we are bringing an apocalypse from a future we didn't need closer and closer to the present day, all because we have the convenience of "magic" at our hands.
 
