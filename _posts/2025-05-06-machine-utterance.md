@@ -26,7 +26,7 @@ But when we use AI agents to say, work, express, and do things - people readily 
 
 So I'd argue that true users of AI agents aren't *saying* much of anything anymore. To *have a thing written* isn't the same as *saying* something. **Machine utterance isn't a human speaking**.
 
-> To my older point: users of AI agents are *managers* and *requesters* then, not *doers*. We're all petit executives of our own little enterprises.
+> To my older point: users of AI agents are *managers* and *requesters* then, not *doers*. They're all petit executives of their own little enterprises.
 
 One might learn things through the use of an AI agent, but claiming to have written a paper or code or whatever is dishonest and opaque; you may have, to some degree, *contributed* to the *production* of an artifact. To some degree, your management and validation may have been involved, but supervisors, CEOs, and QA testers aren't the same as engineers, designers, authors, and creators.
 
