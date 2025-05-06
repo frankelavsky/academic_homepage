@@ -16,21 +16,29 @@ Perhaps. I'm not sure if "for the better" here can be easily unpacked. I'm skept
 ## Generative AI is changing who we are: it is an *ontological* event
 Now, I've already written (or should I say "said" here?) about how I think generative AI is shifting what roles we play as humans: from [having thoughts to managing them](https://www.frank.computer/blog/2024/06/llms-and-thoughts.html). But I think it could be argued that we do still learn *something* when we leverage AI tools. Human intellect is impressive and I'd argue that we aren't *not* learning when we use AI. But *what* we learn likely changes.
 
-So instead perhaps what irks me are the impacts when we change from doing to managing. What do we get to claim is ours anymore?
+So instead perhaps what irks me are the impacts when we change from doing to managing. What do we get to claim is ours anymore? 
 
-My major provocation is this: agent-based AI do the talking, who is saying anything at all?
+My major provocation is this: if agent-based AI do the talking, who is saying anything at all? And more importantly: what does that make us? Who are we now if we cease to say things of our own?
 
-If I asked someone to give a speech at my wedding, I'm not the one saying something - they did. So I haven't really "said" anything. If I have an assistant who works for me and I ask them to ghost write a book for me, again, I haven't said anything. The ghost writer did.
+Consider: If I asked someone to give a speech at my wedding, I'm not the one who said something - they did. So I haven't really said anything, save for asking them to speak. If I have an assistant who works for me and I ask them to ghost write a book for me, again, I haven't said anything. The ghost writer did.
 
-But when we use AI agents to say, work, express, and do things - do we get to take credit simply because there isn't another human we are taking credit from? Why does asking, "write this email for me" mean we get credit for the email, if another entity (AI or person) wrote it?
+But when we use AI agents to say, work, express, and do things - people readily take credit. Why? Why do we get to take credit? Is it simply because there isn't another human we are taking credit from? Why does asking, "write this email for me" mean we get credit for the email, if another entity (AI or person) wrote it? (And of course: we *are* taking credit from other humans when we use generative AI because those models do not exist outside of an ecosystem of theft.)
 
-So I'd argue that true users of AI agents aren't *saying* much of anything anymore. To have a thing written isn't the same as saying something. *Machine utterance isn't a human speaking*.
+So I'd argue that true users of AI agents aren't *saying* much of anything anymore. To *have a thing written* isn't the same as *saying* something. **Machine utterance isn't a human speaking**.
 
-Users of AI agents are managers then, not doers.
+> To my older point: users of AI agents are *managers* and *requesters* then, not *doers*. We're all petit executives of our own little enterprises.
 
-One might learn things through the use of an AI agent, but claiming to have written a paper or code or whatever is dishonest and opaque; you may have, to some degree, *contributed* to the *production* of an artifact. To some degree, your management and validation may have been involved, but supervisors and QA testers aren't the same as engineers and designers.
+One might learn things through the use of an AI agent, but claiming to have written a paper or code or whatever is dishonest and opaque; you may have, to some degree, *contributed* to the *production* of an artifact. To some degree, your management and validation may have been involved, but supervisors, CEOs, and QA testers aren't the same as engineers, designers, authors, and creators.
 
-Despite my protests and provocations, I do firmly believe that we are witnessing a definitional shift at a philosophical level. Generative AI and agent-based AI are changing what it means to "say" and "do" things. And I, quite realistically, don't think that I can defeat this new shift in language. One thing that humans have left to do, that we are still doing, is re-defining what it means to speak. I, of course, oppose this deeply. But again, I realistically am sure that I won't win. We already have "authors" who have never written whatever is in their own books. And this trend will likely continue so long as people profit from it.
+Yet despite my protests and provocations, I firmly believe that we are witnessing a definitional shift at a philosophical level. Generative AI and agent-based AI are changing what it means to "say" and "do" things. That, in turn, shifts who we are.
+
+And I, quite realistically, don't think that I can defeat this new shift in language. One thing that humans have left to do, that we are still doing, is re-defining what it means to speak and who we are (perhaps unfortunately so). I, of course, deeply oppose the trend where generative AI gets to shape who we are becoming. But again, I am sure that I won't win this battle. We already have "authors" who have never written whatever is in their own books. And this trend will likely continue so long as people profit from it.
+
+Eytan Adar on Bluesky [posted a provocation](https://bsky.app/profile/eytan.adar.prof/post/3loegskycec2b) to a post I made, based on that old blog "[Real programmers don't eat quiche](http://www.bernstein-plus-sons.com/RPDEQ.html)." The idea here is that policing the tools and methods people use, taken to the logical extreme, is really just culturally gatekeeping a field of practice.
+
+I have 2 points against this use in the context of LLMs and our identities: First, there *does* come a point where words matter. A "writer" should perform the act of *writing* and a "programmer" should perform the act of *programming*. What it means to *program* changes based on the conditions, our tools, our outputs, etc. So does someone still program if they ask someone else, or something else, to program for them? Maybe. I'd argue that there comes a point where you aren't a programmer anymore but a manager-to-the-programmer instead. My second point is that I actually *do* oppose the idea that a "writer" can claim the title if they use an LLM on entirely socio-cultural grounds. Even aside from definitions and the importance of words (or whatever), I cannot have a reasonable conversation about "writing" with a human "writer" who hasn't written anything other than prompts to a machine. We are socially and culturally divided and what means "writer" to them as little worth connecting in terms of what it means to me. We don't share techniques, thoughts, motivations, influences, histories, and experiences.
+
+As the immortal [Ursula Le Guin writes](https://www.ursulakleguin.com/bvc-art-information-theft-and-confusion-part-two), thieves are ones who cannot "appreciate their predecessors and fellow-workers in the saltmines of literature." Asking me to acknowledge a writer's manager as a writer themselves is a social and cultural offense to the craft of writing.
 
 So perhaps my final thoughts on this are on the ever-relevant critical question: who benefits and how?
 
