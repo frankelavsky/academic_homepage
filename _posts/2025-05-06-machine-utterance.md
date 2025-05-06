@@ -11,7 +11,7 @@ Alberto Cairo [posted on Linkedin](https://www.linkedin.com/posts/albertocairo_t
 
 In response, someone argued that AI may have "jagged edges" but is "certainly changing how things are done (for the better)."
 
-Perhaps. I'm not sure if "for the better" here can be easily unpacked. I'm skeptical (to put it lightly). So instead, I want to interrogate Alberto's words a bit more: what does it mean to "talk a lot without saying much?" And why does a shift from what "saying" something used to mean into what "saying" means now really matters?
+Perhaps. I'm not sure if "for the better" here can be easily unpacked. I'm skeptical (to put it lightly). So instead, I want to interrogate Alberto's words a bit more: what does it mean to "talk a lot without saying much?" And why does a shift from what "saying" something used to mean into what "saying" means now, really matter to unpack?
 
 ## Generative AI is changing who we are: it is an *ontological* event
 Now, I've already written (or should I say "said" here?) about how I think generative AI is shifting what roles we play as humans: from [having thoughts to managing them](https://www.frank.computer/blog/2024/06/llms-and-thoughts.html). But I think it could be argued that we do still learn *something* when we leverage AI tools. Human intellect is impressive and I'd argue that we aren't *not* learning when we use AI. But *what* we learn likely changes.
