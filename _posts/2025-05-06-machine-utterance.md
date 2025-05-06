@@ -74,7 +74,7 @@ What's left? Do we dismantle these systems?
 
 Again, I'm realistic. People won't change their behavior unless we write laws and outline reasonable policies. Even the infamous creature of disinformation-enablement Joe Rogan believes that, for example, [contractors still need to have laws](https://www.youtube.com/shorts/N-wnLYBhrxY) or else all of our homes will fall apart.
 
-People will cut corners over this next decade or two, politically, ditigally, physically, and intellectually. And houses, metaphorical or literal, *will* fall apart. And maybe we will have enough forensic threads and powerful enough arms of justice to respond when our calamities come knocking.
+People will cut corners over this next decade or two, politically, digitally, physically, and intellectually. And houses, metaphorical or literal, *will* fall apart. And maybe we will have enough forensic threads and powerful enough arms of justice to respond when our calamities come knocking.
 
 But also, I'm a pessimist with technology. I think that both the oligarchs and the political right will rise to power because of disinformation (and well, will remain in power as they already are). They've been willing to leverage economies and infrastructures that are dishonest and even illegal, because they know they can get away with it. Generative AI is only incentivizing this existing trend.
 
