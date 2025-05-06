@@ -44,7 +44,7 @@ So perhaps my final thoughts on this are on the ever-relevant critical question:
 
 In this definitional shift, "saying" used to mean that the thoughts, ideation, framing, motivations, editing, validation, expression, construction of language, and execution are performed by a human person who can be held responsible for all of the above and may take credit for all of the above.
 
-## What is the real economy of modern artificial intelligences?
+## What is the economy of modern artificial intelligences?
 In a sense, there used to be a risk to writing. Writing and saying used to have an *economy* of give and take: you said things if it was worth it, to get away with it, to bring it into the world for your own benefit (or the benefit of others). We would speak to enact change, even if it had risk. This meant that we would sift and sort, the economy of writing, much like the economy of creation and craft, mattered to be done well. The cost of poor creation was wasted time, effort, and potential responsibility for damages caused or loss. Time, in particular, has always been one of the greatest filters of human production: we had to believe that creation would be worth our time. Responsibility, in tandem to time, was our primary method of refinement.
 
 But now "saying" has drifted to mean that any one of the things that comprise the collective act of "saying" may or may not involve any human responsibility, time, or labor at all. Thoughts, ideation, framing, motivations, editing, validation, expression, construction of language, and execution may all be performed by machine agents. And because of that, we have lost responsibility. We have no more economy of creation. Writing something no longer has risk because it no longer requires anything of us.
@@ -68,6 +68,7 @@ In my fantasy world, Braven, the big twist in the meta-narrative is that magic, 
 And I wrote this over 20 years ago as the cornerstone event of my whole world. And I watch as my own prophecy is coming true right now: we are rapidly bringing an apocalypse (from an entirely unavoidable future) closer and closer to the present day, all because we have the convenience of "magic" at our hands.
 
 <hr>
+<br>
 
 What's left? Do we dismantle these systems?
 
