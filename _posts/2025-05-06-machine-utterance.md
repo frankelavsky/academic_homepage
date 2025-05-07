@@ -4,7 +4,7 @@ title: "Machine utterance: what does it mean for humanity to say something?"
 slug: machine-utterance
 tags:
 - 
-description: "If words are written, if sounds are uttered, was something still *said*? How do large-language models change who we are, what it means to *do* anything, and how the overall economy of riskless LLM activity is shifting truth, our climate, and the future of the world?"
+description: "If words are written, if sounds are uttered, was something still *said*? How do large-language models change who we are and what it means to *do* anything? And how does the overall economy of riskless LLM-use shift honesty, truth, our climate, and the future of the world?"
 ---
 
 Alberto Cairo [posted on Linkedin](https://www.linkedin.com/posts/albertocairo_the-rise-of-genai-is-the-corollary-of-an-activity-7325474588681793537-GJcD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADDAwBkBOdoW11I9B5DHy57VfR5jIs33Kq0) a provocation, "The rise of GenAI is the corollary of an era that values talking a lot without saying much."
