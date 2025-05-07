@@ -44,7 +44,7 @@ I actually left industry once it became clear that my career path forward would 
 
 So yes, as anti-social as this stance is: I cannot accept that my creation and someone else's (who uses LLMs) are even remotely related and worth speaking about using the same terminology.
 
-In this definitional shift, "saying" used to mean that the thoughts, ideation, framing, motivations, editing, validation, expression, construction of language, and execution are performed by a human person who can be held responsible for all of the above and may take credit for all of the above.
+In this definitional shift, "saying" used to mean that the thoughts, ideation, framing, motivations, editing, validation, expression, construction of language, and execution are performed by a human person who can be held responsible for all of the above and may take credit for all of the above. *Things are different now.*
 
 <hr>
 <br>
