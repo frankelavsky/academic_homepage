@@ -133,7 +133,7 @@ Bluesky has had a lot of fun by comparison, we even "ink golfed" just like folks
 
 ### First: text reduction
 
-The next thread focused on reducing the pixels of the text. Of course, using English was short-sighted of me (pun intended). Turns out that braille-as-pixels is much more efficient:
+First, folks focused on reducing the pixels of the text. Of course, using English was short-sighted of me (pun intended). Turns out that braille-as-pixels is much more efficient:
 
 <blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:gyf5jjsdx3fcjrosnn3p5mmy/app.bsky.feed.post/3lnidjdrzuk26" data-bluesky-cid="bafyreigngvjj3sisxg3x6hmtsowcvx2w2mkhp5p72qjyz66pucg7dtlkyi" data-bluesky-embed-color-mode="system"><p lang="en">if you&#x27;re gonna argue with minimalism, which is simply The Right Way, you should do it without standing up a straw man.
 
@@ -149,7 +149,7 @@ A rather cerebral take in this direction:
 
 ### Reaching the QR-Code solution
 
-From text reduction, two threads emerged. The first thread was on new and creative ways to encode the data into smaller spaces:
+From text reduction, two threads emerged. The first thread was on new and creative ways to encode the data into smaller spaces, specifically using a QR-code-like set of rules (the cropping is poor on these, clicking them shows how they work). Depending on your counting method, this uses 7 to 10 pixels for the data and the "text:"
 
 <blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:wlwlvnq25nzwvz43crqo7apu/app.bsky.feed.post/3lningfgmk226" data-bluesky-cid="bafyreie76cepxokaccjwmizy4audf7ib2autyyopr5rf7atzhfsutgdlty" data-bluesky-embed-color-mode="system"><p lang="en">and if we do need exact precision, we can binary encode each square!
 
@@ -162,7 +162,9 @@ After discussion, the design became clearer:
 
 My advisor, Dominik Moritz, remarked "you could probably put everything into a QR code, if it really is about efficiency." So, I reckon that this method scales well in theory.
 
-### Reaching the best solution that still has pixels
+### Reaching the best solution
+
+But if it feels like "cheating" to turn data into a QR code (since that is mostly for machine interpretation), perhaps it makes sense to focus on human interpretation?
 
 <blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:gyf5jjsdx3fcjrosnn3p5mmy/app.bsky.feed.post/3lnivre3dgs25" data-bluesky-cid="bafyreie6h5tnsn2ycz2sjthvtev3uahkro2btbsecftyyjeopb34tt2tfe" data-bluesky-embed-color-mode="system"><p lang="en">so, this is the final form?
 
@@ -172,13 +174,15 @@ This can be reduced, if we assume certain patterns:
 
 <blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:2h5e6whhbk5vnnerqqoi256k/app.bsky.feed.post/3lniwd3zlmc2b" data-bluesky-cid="bafyreidhklkm5wuou3tcqs4clavjabamegssmu44i2smej3ll3u5xvbyom" data-bluesky-embed-color-mode="system"><p lang="en">You can cut one more pixel if you&#x27;re willing to assume you can interpolate to get blank points<br><br><a href="https://bsky.app/profile/did:plc:2h5e6whhbk5vnnerqqoi256k/post/3lniwd3zlmc2b?ref_src=embed">[image or embed]</a></p>&mdash; Randy Boyes (<a href="https://bsky.app/profile/did:plc:2h5e6whhbk5vnnerqqoi256k?ref_src=embed">@randy.pub</a>) <a href="https://bsky.app/profile/did:plc:2h5e6whhbk5vnnerqqoi256k/post/3lniwd3zlmc2b?ref_src=embed">April 23, 2025 at 3:25 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
-And my final solution, which I think is the best solution for this particular data (as long as we actually show pixels):
+And my final solution using 4 pixels, which I think is the best solution for this particular data (as long as we actually show pixels and focus on some human sort of rules for interpretation):
 
 <blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:jonnuvubyyf7xhsentiuyq3l/app.bsky.feed.post/3lnix66i3ns2o" data-bluesky-cid="bafyreifxa5332wevplsurv6pqdchq626imjs4vmjnbih5wb4dye3se7c3e" data-bluesky-embed-color-mode="system"><p lang="en">Wait... I&#x27;ll do you one better. What if we follow your lead here but instead truncate the axis based on the lowest data value - it happens to be shared by 3. This means we can interpret any missing pixel along the x as the lowest value! This results in a 1:4 ratio for this dataset...<br><br><a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l/post/3lnix66i3ns2o?ref_src=embed">[image or embed]</a></p>&mdash; Frank Elavsky ⌁ (<a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l?ref_src=embed">@frank.computer</a>) <a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l/post/3lnix66i3ns2o?ref_src=embed">April 23, 2025 at 3:41 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 ### The ultimate solution: visualize in your head
 
-Of course, the immortal Eugene Wu took our methods to their logical extreme (in the true spirit of the sport of ink golf): to reduce ink as much as possible, the reader simply must read the data and then picture it in their head! This is, of course, the solution that scales the best to all other datasets and also requires no ink at all. Bravo! The game has been won:
+Of course, the immortal Eugene Wu took our methods to their logical extreme (in the true spirit of the sport of ink golf): to reduce ink as much as possible, the reader simply must read the data and then picture it in their head! This is, of course, the solution that scales the best to all other datasets and also requires no ink at all (unless "brain ink" is a thing?).
+
+Bravo! The game has been won:
 
 <blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:nhizaxkpcqfallaedhly7lwo/app.bsky.feed.post/3lnj25l4f4k2f" data-bluesky-cid="bafyreiftrduww2gl6bt4hvkfzca5eeimqfmmzrsidohvhhncxsgto6ntza" data-bluesky-embed-color-mode="system"><p lang="en">Since you are making assumptions about what the reader knows (axes, weird encodings), then if you also assume the reader is already familiar with the points, show an empty image.  1:0</p>&mdash; ewuuu (<a href="https://bsky.app/profile/did:plc:nhizaxkpcqfallaedhly7lwo?ref_src=embed">@eugenewu.net</a>) <a href="https://bsky.app/profile/did:plc:nhizaxkpcqfallaedhly7lwo/post/3lnj25l4f4k2f?ref_src=embed">April 23, 2025 at 4:34 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
@@ -187,7 +191,7 @@ Of course, the immortal Eugene Wu took our methods to their logical extreme (in 
 <br>
 
 ## Reflections
-It is clear that the seriousness of something so loosely defined still has a chokehold on the minds of business-y "thought leaders" in the large space of visualization. Tufte's "laws" really do rule the thoughts of ink-bros still, even when we show them data otherwise.
+It is clear that the seriousness of something so loosely defined as a "data-to-ink ratio" still has a chokehold on the minds of business-y "thought leaders" in the large space of visualization. Tufte's "laws" really do rule the thoughts of ink-bros still, even when we show them data otherwise.
 
 So I hope that this playful exploration has demonstrated that minimalism really is rather absurd.
 
@@ -228,7 +232,7 @@ Plenty of good designs use a maximalist approach and I think they work quite wel
 
 <figure>
     <img src="https://www.frank.computer/images/class_distribution.png" alt="13 classes and 35 colors representing the specializations are organized in stacked bars. Each bar represents the distribution of all of the specializations at a given key level. There are a total of 19 bars shown, ranging from key levels +2 to 20."/>
-    <figcaption>The "meta" in mythic+: A figure showing how 35 class and specialization distributions change as key levels get higher, from levels +2 to +20. "Keys" or "keystones" are a special type of dungeon (called "mythic+") that are unlocked with increasing levels of difficulty and must be completed in a set amount of time. "Dungeons" are a type of mini-game, so to speak, where a small team of 5 players (generally 1 healer, 1 tank, and 3 damage dealers) try to complete a non-random gauntlet of monsters and bosses. Higher and higher key levels end up filtering for only a few team compositions of specific class specializations. This visuaization shows what is called the "meta" of the game currently ("meta" meaning the best possible team you could have at this point in the game, according to the data).</figcaption>
+    <figcaption>The "meta" in mythic+: A figure showing how 35 class and specialization distributions change as key levels get higher, from levels +2 to +20. "Keys" or "keystones" are a special type of dungeon (called "mythic+") that are unlocked with increasing levels of difficulty and must be completed in a set amount of time. "Dungeons" are a type of mini-game, so to speak, where a small team of 5 players (generally 1 healer, 1 tank, and 3 damage dealers) try to complete a non-random gauntlet of monsters and bosses. Higher and higher key levels end up filtering for only a few team compositions of specific class specializations. This visuaization shows what is called the "meta" of the game currently ("meta" meaning the best possible team you could have at this point in the game, according to the data). <a href="https://www.wowhead.com/news/holy-paladins-challenging-discipline-in-20s-tww-season-2-mythic-rankings-week-9-376766">Source: Wowhead</a></figcaption>
 </figure>
 
 But look at all of those colors! Of course, every color is meaningful and represents something in the data. It might appear to have noise, but it is mostly full of signal. Maybe this would [make the visualization minimalists happy](https://www.perceptualedge.com/blog/?p=2893)? Is 35 different categorical color encodings a good design choice? [Most recommend 5-7](https://www.sigmacomputing.com/blog/7-best-practices-for-using-color-in-data-visualizations), some even [recommend only 1 or 2 colors](https://www.datawrapper.de/blog/emphasize-with-color-in-data-visualizations) and use different methods than color for encoding (position, small multiples, etc). But I think this design choice is fine. It works well if you understand what the colors mean (they all map to a class specialization, which is a color scheme repeatedly used in-game). For this use, it's probably a totally acceptable design, despite breaking a zillion "rules" of visualization design.
@@ -237,7 +241,7 @@ But what is that *behind* the chart? There does seem to be some pesky decoration
 
 <figure>
     <img src="https://www.frank.computer/images/key_level_run.png" alt="Bar chart showing the quantity of successful and failed dungeon runs ranging from +2 to +20."/>
-    <figcaption>Distribution of mythic+ dungeons run at various keystone levels. This chart has the hero image used in the game's loading screen as a background for the visualization's data.</figcaption>
+    <figcaption>Distribution of mythic+ dungeons run at various keystone levels. This chart has the hero image used in the game's loading screen as a background for the visualization's data. (Also, as an aside: these charts were made with Highcharts! I love that the gaming community I am part of uses a chart library that I contributed a tiny bit of research towards.) <a href="https://www.wowhead.com/news/holy-paladins-challenging-discipline-in-20s-tww-season-2-mythic-rankings-week-9-376766">Source: Wowhead</a></figcaption>
 </figure>
 
 Uh oh! Now *this* is illegal embellishment, for sure!
