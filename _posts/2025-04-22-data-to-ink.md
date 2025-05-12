@@ -117,3 +117,142 @@ For fun, here is a zoomed in version of my *ink golf* solution, so you can see t
     <img src="https://www.frank.computer/images/data_to_ink.png" alt="A zoomed in version of the super small chart, showing that there really are only 7 pixels total for the data. The a is made with 5 pixels, b with 6, c with 3, d with 6, e with 6, f with 5, and g with 7."/>
     <figcaption>Yes, I even tried to do <i>ink golf</i> with the text. (Now that I think about it... maybe we can start using "ink golf" as a way to poke fun at those deadly-serious business intelligence utilitarians who seem to defend minimalsm with such fervor. They're just <i>ink-golfing enthusiasts</i>!)</figcaption>
 </figure>
+
+<hr>
+<br>
+<br>
+
+## Addendum: responses to "ink golf" on social media
+
+Well, I've had a blast over the last few weeks interacting with folks on social media with this. Folks on Linkedin, for the most part, still had fun. But some were very serious about my abuses and misrepresentations of Tufte's "theory" (in particular the caveat that the data-to-ink ratio is meant to be followed "within reason"). Ah, of course! If only I had read the holy text close enough. "Within reason" is so concrete, clear, and helpful! (In truth, knowing what the "reasons" are is, of course, most of the battle. This is why the data-to-ink ratio is a rough heuristic and not even remotely a real, working "theory" of any kind.)
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:jonnuvubyyf7xhsentiuyq3l/app.bsky.feed.post/3lniytgsyrk2v" data-bluesky-cid="bafyreieoh6j7hamhutzwzdhrjhs4iyeu4nby3drqyz46ysxu4summ5fydi" data-bluesky-embed-color-mode="system"><p lang="en">Linkedin is being very normal about this, by the way<br><br><a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l/post/3lniytgsyrk2v?ref_src=embed">[image or embed]</a></p>&mdash; Frank Elavsky ⌁ (<a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l?ref_src=embed">@frank.computer</a>) <a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l/post/3lniytgsyrk2v?ref_src=embed">April 23, 2025 at 4:10 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+
+Bluesky has had a lot of fun by comparison, we even "ink golfed" just like folks do with code, incrementally iterating closer to various solutions together. Some favorites:
+
+### First: text reduction
+
+The next thread focused on reducing the pixels of the text. Of course, using English was short-sighted of me (pun intended). Turns out that braille-as-pixels is much more efficient:
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:gyf5jjsdx3fcjrosnn3p5mmy/app.bsky.feed.post/3lnidjdrzuk26" data-bluesky-cid="bafyreigngvjj3sisxg3x6hmtsowcvx2w2mkhp5p72qjyz66pucg7dtlkyi" data-bluesky-embed-color-mode="system"><p lang="en">if you&#x27;re gonna argue with minimalism, which is simply The Right Way, you should do it without standing up a straw man.
+
+the optimal solution here is clearly using Braille for the column labels, which reduces the true data-ink ratio from a measly 1:45 (yours) to an impressive 1:24 (mine). &lt;/sarcasm&gt;<br><br><a href="https://bsky.app/profile/did:plc:gyf5jjsdx3fcjrosnn3p5mmy/post/3lnidjdrzuk26?ref_src=embed">[image or embed]</a></p>&mdash; István Korompai (<a href="https://bsky.app/profile/did:plc:gyf5jjsdx3fcjrosnn3p5mmy?ref_src=embed">@kpisti.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:gyf5jjsdx3fcjrosnn3p5mmy/post/3lnidjdrzuk26?ref_src=embed">April 23, 2025 at 9:49 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+But if we don't need English, do we even need human language at all? What if we could mentally map letters to pixel positions? Reducing pixels is more important than anything, so this makes sense to explore.
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:c6b4jhahjjn75k4k2rvhsvyh/app.bsky.feed.post/3lnikbkfeb22k" data-bluesky-cid="bafyreihpfnaiiytbn5jdwkn4uzwjaqtyxbhzjlxtez2iu37hpm6m4nsvyq" data-bluesky-embed-color-mode="system"><p lang="en">The order of letters in the alphabet is set, so technically you don’t even need the labels.<br><br><a href="https://bsky.app/profile/did:plc:c6b4jhahjjn75k4k2rvhsvyh/post/3lnikbkfeb22k?ref_src=embed">[image or embed]</a></p>&mdash; Robert Simmon (<a href="https://bsky.app/profile/did:plc:c6b4jhahjjn75k4k2rvhsvyh?ref_src=embed">@rsimmon.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:c6b4jhahjjn75k4k2rvhsvyh/post/3lnikbkfeb22k?ref_src=embed">April 23, 2025 at 11:50 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+A rather cerebral take in this direction:
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:2h5e6whhbk5vnnerqqoi256k/app.bsky.feed.post/3lnim4munuk2g" data-bluesky-cid="bafyreifvtkzdeuxjcl77ebmwrcvoaeei7ozxfz5ried7fmz7m6t6fc36dm" data-bluesky-embed-color-mode="system"><p lang="en">Cut the intermediate braille labels for even more information density! (people should of course be able to infer that the categories are in alphabetical order between a and g ;) )<br><br><a href="https://bsky.app/profile/did:plc:2h5e6whhbk5vnnerqqoi256k/post/3lnim4munuk2g?ref_src=embed">[image or embed]</a></p>&mdash; Randy Boyes (<a href="https://bsky.app/profile/did:plc:2h5e6whhbk5vnnerqqoi256k?ref_src=embed">@randy.pub</a>) <a href="https://bsky.app/profile/did:plc:2h5e6whhbk5vnnerqqoi256k/post/3lnim4munuk2g?ref_src=embed">April 23, 2025 at 12:23 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+### Reaching the QR-Code solution
+
+From text reduction, two threads emerged. The first thread was on new and creative ways to encode the data into smaller spaces:
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:wlwlvnq25nzwvz43crqo7apu/app.bsky.feed.post/3lningfgmk226" data-bluesky-cid="bafyreie76cepxokaccjwmizy4audf7ib2autyyopr5rf7atzhfsutgdlty" data-bluesky-embed-color-mode="system"><p lang="en">and if we do need exact precision, we can binary encode each square!
+
+break each data point into 4 squares, color each subsquare black or white, then add up the black subsquares to get the value
+
+extremely intuitive and user friendly<br><br><a href="https://bsky.app/profile/did:plc:wlwlvnq25nzwvz43crqo7apu/post/3lningfgmk226?ref_src=embed">[image or embed]</a></p>&mdash; shri (<a href="https://bsky.app/profile/did:plc:wlwlvnq25nzwvz43crqo7apu?ref_src=embed">@shrikhalpada.dev</a>) <a href="https://bsky.app/profile/did:plc:wlwlvnq25nzwvz43crqo7apu/post/3lningfgmk226?ref_src=embed">April 23, 2025 at 12:46 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+After discussion, the design became clearer:
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:jonnuvubyyf7xhsentiuyq3l/app.bsky.feed.post/3lnitm3bjoc26" data-bluesky-cid="bafyreidvctorsqvv3iqmsabtabxqwsagcjz2sww72zug473y7npmtbruni" data-bluesky-embed-color-mode="system"><p lang="en">Lmao incredible. Basically interpreting a home-cooked QR code.</p>&mdash; Frank Elavsky ⌁ (<a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l?ref_src=embed">@frank.computer</a>) <a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l/post/3lnitm3bjoc26?ref_src=embed">April 23, 2025 at 2:37 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+My advisor, Dominik Moritz, remarked "you could probably put everything into a QR code, if it really is about efficiency." So, I reckon that this method scales well in theory.
+
+### Reaching the best solution that still has pixels
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:gyf5jjsdx3fcjrosnn3p5mmy/app.bsky.feed.post/3lnivre3dgs25" data-bluesky-cid="bafyreie6h5tnsn2ycz2sjthvtev3uahkro2btbsecftyyjeopb34tt2tfe" data-bluesky-embed-color-mode="system"><p lang="en">so, this is the final form?
+
+I&#x27;d argue it&#x27;s truly minimal, we even managed to remove any morsel of meaning from it<br><br><a href="https://bsky.app/profile/did:plc:gyf5jjsdx3fcjrosnn3p5mmy/post/3lnivre3dgs25?ref_src=embed">[image or embed]</a></p>&mdash; István Korompai (<a href="https://bsky.app/profile/did:plc:gyf5jjsdx3fcjrosnn3p5mmy?ref_src=embed">@kpisti.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:gyf5jjsdx3fcjrosnn3p5mmy/post/3lnivre3dgs25?ref_src=embed">April 23, 2025 at 3:16 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+This can be reduced, if we assume certain patterns:
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:2h5e6whhbk5vnnerqqoi256k/app.bsky.feed.post/3lniwd3zlmc2b" data-bluesky-cid="bafyreidhklkm5wuou3tcqs4clavjabamegssmu44i2smej3ll3u5xvbyom" data-bluesky-embed-color-mode="system"><p lang="en">You can cut one more pixel if you&#x27;re willing to assume you can interpolate to get blank points<br><br><a href="https://bsky.app/profile/did:plc:2h5e6whhbk5vnnerqqoi256k/post/3lniwd3zlmc2b?ref_src=embed">[image or embed]</a></p>&mdash; Randy Boyes (<a href="https://bsky.app/profile/did:plc:2h5e6whhbk5vnnerqqoi256k?ref_src=embed">@randy.pub</a>) <a href="https://bsky.app/profile/did:plc:2h5e6whhbk5vnnerqqoi256k/post/3lniwd3zlmc2b?ref_src=embed">April 23, 2025 at 3:25 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+And my final solution, which I think is the best solution for this particular data (as long as we actually show pixels):
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:jonnuvubyyf7xhsentiuyq3l/app.bsky.feed.post/3lnix66i3ns2o" data-bluesky-cid="bafyreifxa5332wevplsurv6pqdchq626imjs4vmjnbih5wb4dye3se7c3e" data-bluesky-embed-color-mode="system"><p lang="en">Wait... I&#x27;ll do you one better. What if we follow your lead here but instead truncate the axis based on the lowest data value - it happens to be shared by 3. This means we can interpret any missing pixel along the x as the lowest value! This results in a 1:4 ratio for this dataset...<br><br><a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l/post/3lnix66i3ns2o?ref_src=embed">[image or embed]</a></p>&mdash; Frank Elavsky ⌁ (<a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l?ref_src=embed">@frank.computer</a>) <a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l/post/3lnix66i3ns2o?ref_src=embed">April 23, 2025 at 3:41 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+### The ultimate solution: visualize in your head
+
+Of course, the immortal Eugene Wu took our methods to their logical extreme (in the true spirit of the sport of ink golf): to reduce ink as much as possible, the reader simply must read the data and then picture it in their head! This is, of course, the solution that scales the best to all other datasets and also requires no ink at all. Bravo! The game has been won:
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:nhizaxkpcqfallaedhly7lwo/app.bsky.feed.post/3lnj25l4f4k2f" data-bluesky-cid="bafyreiftrduww2gl6bt4hvkfzca5eeimqfmmzrsidohvhhncxsgto6ntza" data-bluesky-embed-color-mode="system"><p lang="en">Since you are making assumptions about what the reader knows (axes, weird encodings), then if you also assume the reader is already familiar with the points, show an empty image.  1:0</p>&mdash; ewuuu (<a href="https://bsky.app/profile/did:plc:nhizaxkpcqfallaedhly7lwo?ref_src=embed">@eugenewu.net</a>) <a href="https://bsky.app/profile/did:plc:nhizaxkpcqfallaedhly7lwo/post/3lnj25l4f4k2f?ref_src=embed">April 23, 2025 at 4:34 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+<hr>
+<br>
+<br>
+
+## Reflections
+It is clear that the seriousness of something so loosely defined still has a chokehold on the minds of business-y "thought leaders" in the large space of visualization. Tufte's "laws" really do rule the thoughts of ink-bros still, even when we show them data otherwise.
+
+So I hope that this playful exploration has demonstrated that minimalism really is rather absurd.
+
+### Understanding "ink"
+For anyone interested in a rather lovely exploration of philosophy and ink, Tony Fast (a wonderful friend) recorded a stream reading this blog post while creating some art. [It was lovely](https://nbviewer.org/github/tonyfast/tonyfast/blob/main/tonyfast/xxiv/2025-04-24-stream.ipynb).
+
+I do think that focusing on "ink" as a design heuristic is outdated. This mattered when strokes *had* to be precious, because there was also a cost of production and printing to keep in mind. Lighter, fewer marks made for cheaper prints.
+
+### Further readings: minimalism and fascism
+Ronke Babajide writes about how "[Minimalism is Rooted in Fascism](https://uxdesign.cc/how-minimalism-is-rooted-in-fascism-7204b15482a8)" in a great introduction to what I believe is one of the most important things to actually keep in mind when we critique minimalism. This blog was meant to be silly and absurd, to make a game out of minimalism. But as a tool, it has historically been [tied to white supremacy](https://title-mag.com/how-minimalism-and-white-supremacist-ideology-are-connected/), as Charlotte Eckardt writes.
+
+Fascism, white supremacy, and minimalism are in my my mind as I watch the latest season of Andor:
+<figure>
+    <img src="https://www.frank.computer/images/isb.jpg" alt="14 officials sit around a round table, all of them human. Still image from Andor: the ISB meeting room, austere and geometric, bleach white. The room is stark contrast, almost exclusively white with accents of pure black."/>
+    <figcaption>The Empire loves minimalism. Look at this room of security officials: The room is as "pure" as it could be from blemishes and disorder; no wasted color, no aliens in sight, perfect geometric symmetry, clean, precise, and almost exclusive men. What better place to control the galaxy?</figcaption>
+</figure>
+
+Minimalism, especially with clean whiteness and obsessive control over any and all natural, organic characteristics, has strayed far from philosophies that focus on simple living, anti-consumerism, and humility.
+
+I won't make the case that minimalisms in all forms are morally wrong, I certainly don't believe that; but I will argue that modern uses of minimalism-as-empire and minimalism-to-control-others are. Minimalism, especially in Tufte's data-to-ink ratio, can often become a tool to police the acts of others.
+
+### Maximalism, decoration, and embellishment
+
+I joked with Tony after he sent me his stream where he inked in response to my blog, that I'd love to see ink golf evolve into a game with very specific rules and counter-rules.
+
+For example, perhaps it makes sense to create an outline around the "playing area" (a [magic circle](https://en.wikipedia.org/wiki/Magic_circle_(games)), if you will, for the game of ink golf). Whatever is inside the boundary is measured with intense scrutiny, as we demonstrated previously. But this would mean that, for the sake of *play*, whatever is outside of the bounds is fair game.
+
+Perhaps a culture of [*itasha*](https://en.wikipedia.org/wiki/Itasha) would emerge, specific to ink-golfing (this is one of my favorite hyper-decorative subcultures). Or perhaps a specific counter-culture of [tag graffiti](https://en.wikipedia.org/wiki/Tag_%28graffiti%29) would become popular, where people would deface the outside area of *other* people's ink-golf submissions. My favorite example tag graffiti paradoxically respecting certain rules: [tag graffiti artists will avoid spraying over labels on trains](https://www.reddit.com/r/mildlyinteresting/comments/16yedk1/this_train_graffiti_artist_avoided_all_the_labels/), so that they either respect the safety/value that the labels accomplish *or* are just trying to maximize the chances that their tags don't get painted over.
+
+So in an imagined hyper-culture of ink-golf, there might be some purists and some rebels, when it comes to rules-permitted decoration. My previous "solution" could instead look like this:
+
+<figure>
+    <img src="https://www.frank.computer/images/lemonalism.png" alt="My hyper-reduced solution that came from bluesky, but this time it has a black border around it. Outside of the border is an image of a sliced lemon pound cake."/>
+    <figcaption>I love lemons and most things made with lemons. At IEEE VIS in 2023, I did a "lemonstration" of data navigator (where people could navigate a chart using lemons). I suppose this is some lemon-minimalism (or maximalism?). Anyway, it's <i>lemonalism</i>, either way.</figcaption>
+</figure>
+
+Plenty of good designs use a maximalist approach and I think they work quite well. For example, I play World of Warcraft with my wife. Many of the visualizations used by the websites tracking player data are quite maximal in their design:
+
+<figure>
+    <img src="https://www.frank.computer/images/class_distribution.png" alt="13 classes and 35 colors representing the specializations are organized in stacked bars. Each bar represents the distribution of all of the specializations at a given key level. There are a total of 19 bars shown, ranging from key levels +2 to 20."/>
+    <figcaption>The "meta" in mythic+: A figure showing how 35 class and specialization distributions change as key levels get higher, from levels +2 to +20. "Keys" or "keystones" are a special type of dungeon (called "mythic+") that are unlocked with increasing levels of difficulty and must be completed in a set amount of time. "Dungeons" are a type of mini-game, so to speak, where a small team of 5 players (generally 1 healer, 1 tank, and 3 damage dealers) try to complete a non-random gauntlet of monsters and bosses. Higher and higher key levels end up filtering for only a few team compositions of specific class specializations. This visuaization shows what is called the "meta" of the game currently ("meta" meaning the best possible team you could have at this point in the game, according to the data).</figcaption>
+</figure>
+
+But look at all of those colors! Of course, every color is meaningful and represents something in the data. It might appear to have noise, but it is mostly full of signal. Maybe this would [make the visualization minimalists happy](https://www.perceptualedge.com/blog/?p=2893)? Is 35 different categorical color encodings a good design choice? [Most recommend 5-7](https://www.sigmacomputing.com/blog/7-best-practices-for-using-color-in-data-visualizations), some even [recommend only 1 or 2 colors](https://www.datawrapper.de/blog/emphasize-with-color-in-data-visualizations) and use different methods than color for encoding (position, small multiples, etc). But I think this design choice is fine. It works well if you understand what the colors mean (they all map to a class specialization, which is a color scheme repeatedly used in-game). For this use, it's probably a totally acceptable design, despite breaking a zillion "rules" of visualization design.
+
+But what is that *behind* the chart? There does seem to be some pesky decoration here... Let's look at a different chart to see this better:
+
+<figure>
+    <img src="https://www.frank.computer/images/key_level_run.png" alt="Bar chart showing the quantity of successful and failed dungeon runs ranging from +2 to +20."/>
+    <figcaption>Distribution of mythic+ dungeons run at various keystone levels. This chart has the hero image used in the game's loading screen as a background for the visualization's data.</figcaption>
+</figure>
+
+Uh oh! Now *this* is illegal embellishment, for sure!
+
+I wonder what the earliest founders of data visualization would think about this? What would the progenitors and originators of our craft think? Let's check in with them:
+
+<blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:nxtjxs4l37scbdun2i6jgon7/app.bsky.feed.post/3lnrbml4ks22w" data-bluesky-cid="bafyreihpit5nm3t5xkhke2agxp2mkegn6pkp4khcdp5bzvqm6lkf3hekoa" data-bluesky-embed-color-mode="system"><p lang="en">📊 I recently But found another pre-Playfair example, this by an unknown (to me) German, C.G. Porsch
+
+&quot;Of the heights of the great watercourses of the Elbe River, near the town of Meiffen, Dresden, and the Electorate of Pilsen, from 1501 to 1784.&quot;
+
+From: deutsche-digitale-bibliothek.de<br><br><a href="https://bsky.app/profile/did:plc:nxtjxs4l37scbdun2i6jgon7/post/3lnrbml4ks22w?ref_src=embed">[image or embed]</a></p>&mdash; Michael Friendly (<a href="https://bsky.app/profile/did:plc:nxtjxs4l37scbdun2i6jgon7?ref_src=embed">@datavisfriendly.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:nxtjxs4l37scbdun2i6jgon7/post/3lnrbml4ks22w?ref_src=embed">April 26, 2025 at 11:09 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+In any case, there is quite a lot we still don't know about the use of decoration (or "embellishment") from a research perspective. Maybe some of these designs actually aren't that bad. Embellishments probably help make a visualization more memorable, they probably also really help with marketing and sharing (which is especially important for the success of truth). [Visualizations can be co-opted for evil](https://dl.acm.org/doi/abs/10.1145/3411764.3445211) as well as [leveraged for good](https://showyourstripes.info/).
+
+So perhaps it is far more important for us, once we establish that we are visualizing towards honest ends, that we work to have an *impact* as well. Visualizations are often cultural artifacts, so they should participate in our cultures as well. The one thing we should really question in our designs is if minimalism's demand to strip ourselves of our cultural artifacts is worth it. Perhaps we *should* situate our designs more in the decorations and embellishments of our times, that matter to us.
+
+We might stand a chance in the war against disinformation if we could catch people's attention better than clickbait. So the takeaway of this blog has now shifted from a joke poking fun at minimalism to a call to action: **use maximalism for good**. Catch people's attention, keep it, and make more memorable, meaningful visualizations.
+
