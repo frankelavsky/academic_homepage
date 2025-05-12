@@ -135,7 +135,7 @@ Ah, of course! If only I had read the holy text close enough. "Within reason" is
 
 Bluesky has had a lot of fun by comparison, we even "ink golfed" just like folks do with code, incrementally iterating closer to various solutions together. Some favorites:
 
-### First: text reduction
+### Text reduction
 
 First, folks focused on reducing the pixels of the text. Of course, using English was short-sighted of me (pun intended). Turns out that braille-as-pixels is much more efficient:
 
@@ -166,7 +166,7 @@ After discussion, the design became clearer:
 
 My advisor, Dominik Moritz, remarked "you could probably put everything into a QR code, if it really is about efficiency." So, I reckon that this method scales well in theory.
 
-### Reaching the best solution
+### Reaching the best ink-human-interaction solution
 
 But if it feels like "cheating" to turn data into a QR code (since that is mostly for machine interpretation), perhaps it makes sense to focus on human interpretation?
 
