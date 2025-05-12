@@ -124,7 +124,11 @@ For fun, here is a zoomed in version of my *ink golf* solution, so you can see t
 
 ## (May 12th) Addendum: responses to "ink golf" on social media
 
-Well, I've had a blast over the last few weeks interacting with folks on social media with this. Folks on Linkedin, for the most part, still had fun. But some were very serious about my abuses and misrepresentations of Tufte's "theory" (in particular the caveat that the data-to-ink ratio is meant to be followed "within reason"). Ah, of course! If only I had read the holy text close enough. "Within reason" is so concrete, clear, and helpful! (In truth, knowing what the "reasons" are is, of course, most of the battle. This is why the data-to-ink ratio is a rough heuristic and not even remotely a real, working "theory" of any kind.)
+Well, I've had a blast over the last few weeks interacting with folks on social media with this.
+
+Linkedin, for the most part, still had fun. However some were deadly serious about my abuses and misrepresentations of Tufte's "theory" (in particular the caveat that the data-to-ink ratio is meant to be followed "within reason").
+
+Ah, of course! If only I had read the holy text close enough. "Within reason" is so concrete, clear, and helpful! (In truth, knowing what the "reasons" are is, of course, most of the battle. This is why the data-to-ink ratio is a rough heuristic and not even remotely a real, working "theory" of any kind.)
 
 <blockquote class="bluesky-embed" style="margin: 10px auto;" data-bluesky-uri="at://did:plc:jonnuvubyyf7xhsentiuyq3l/app.bsky.feed.post/3lniytgsyrk2v" data-bluesky-cid="bafyreieoh6j7hamhutzwzdhrjhs4iyeu4nby3drqyz46ysxu4summ5fydi" data-bluesky-embed-color-mode="system"><p lang="en">Linkedin is being very normal about this, by the way<br><br><a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l/post/3lniytgsyrk2v?ref_src=embed">[image or embed]</a></p>&mdash; Frank Elavsky ⌁ (<a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l?ref_src=embed">@frank.computer</a>) <a href="https://bsky.app/profile/did:plc:jonnuvubyyf7xhsentiuyq3l/post/3lniytgsyrk2v?ref_src=embed">April 23, 2025 at 4:10 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
