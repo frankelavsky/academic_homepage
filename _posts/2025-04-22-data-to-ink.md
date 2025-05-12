@@ -205,8 +205,8 @@ Ronke Babajide writes about how "[Minimalism is Rooted in Fascism](https://uxdes
 
 Fascism, white supremacy, and minimalism are in my my mind as I watch the latest season of Andor:
 <figure>
-    <img src="https://www.frank.computer/images/isb.jpg" alt="14 officials sit around a round table, all of them human. Still image from Andor: the ISB meeting room, austere and geometric, bleach white. The room is stark contrast, almost exclusively white with accents of pure black."/>
-    <figcaption>The Empire loves minimalism. Look at this room of security officials: The room is as "pure" as it could be from blemishes and disorder; no wasted color, no aliens in sight, perfect geometric symmetry, clean, precise, and almost exclusive men. What better place to control the galaxy?</figcaption>
+    <img src="https://www.frank.computer/images/isb.jpg" alt="14 officials sit around a round table, all of them human. Still image from Andor: the ISB meeting room, austere and geometric, bleach white. The room is stark contrast, almost entirely white with accents of pure black."/>
+    <figcaption>The Empire loves minimalism. Look at this room of security officials: The room is as "pure" as it could be from blemishes and disorder; no wasted color, no aliens in sight, perfect geometric symmetry, clean, precise, and almost exclusively men. What better place to control the galaxy?</figcaption>
 </figure>
 
 Minimalism, especially with clean whiteness and obsessive control over any and all natural, organic characteristics, has strayed far from philosophies that focus on simple living, anti-consumerism, and humility.
