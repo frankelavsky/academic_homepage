@@ -258,5 +258,7 @@ In any case, there is quite a lot we still don't know about the use of decoratio
 
 So perhaps it is far more important for us, once we establish that we are visualizing towards honest ends, that we work to have an *impact* as well. Visualizations are often cultural artifacts, so they should participate in our cultures as well. The one thing we should really question in our designs is if minimalism's demand to strip ourselves of our cultural artifacts is worth it. Perhaps we *should* situate our designs more in the decorations and embellishments of our times, that matter to us.
 
-We might stand a chance in the war against disinformation if we could catch people's attention better than clickbait. So the takeaway of this blog has now shifted from a joke poking fun at minimalism to a call to action: **use maximalism for good**. Catch people's attention, keep it, and make more memorable, meaningful visualizations.
+> We might stand a chance in the war against dis- and misinformation if we could catch people's attention better than clickbait.
+
+So the takeaway of this blog has now shifted from a joke poking fun at minimalism to a call to action: **use maximalism for good**. Catch people's attention, keep it, and make more memorable, meaningful visualizations.
 
