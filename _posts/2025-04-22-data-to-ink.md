@@ -122,7 +122,7 @@ For fun, here is a zoomed in version of my *ink golf* solution, so you can see t
 <br>
 <br>
 
-## Addendum: responses to "ink golf" on social media
+## (May 12th) Addendum: responses to "ink golf" on social media
 
 Well, I've had a blast over the last few weeks interacting with folks on social media with this. Folks on Linkedin, for the most part, still had fun. But some were very serious about my abuses and misrepresentations of Tufte's "theory" (in particular the caveat that the data-to-ink ratio is meant to be followed "within reason"). Ah, of course! If only I had read the holy text close enough. "Within reason" is so concrete, clear, and helpful! (In truth, knowing what the "reasons" are is, of course, most of the battle. This is why the data-to-ink ratio is a rough heuristic and not even remotely a real, working "theory" of any kind.)
 
