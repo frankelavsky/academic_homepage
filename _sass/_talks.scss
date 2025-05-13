@@ -1,9 +1,9 @@
 .talks {
   h3 {
-    font-size: 1.1em;
+    font-size: 1.1rem;
     font-weight: 600;
-    margin-bottom: 0.5em;
-    margin-top: 2em;
+    margin-bottom: 0.5rem;
+    margin-top: 2rem;
 
     &:first-child {
       margin-top: 0;
@@ -21,14 +21,14 @@
 
     .extra-links {
       font-weight: 300;
-      font-size: 0.8em;
+      font-size: 0.8rem;
 
       a {
         &:first-child {
-          margin-left: 2em;
+          margin-left: 2rem;
         }
 
-        margin-left: 1em;
+        margin-left: 1rem;
         background-position: top right;
         background-image: linear-gradient(transparent 87%, $link-underline 13%);
         background-size: 75% 100%;

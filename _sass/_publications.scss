@@ -26,7 +26,7 @@
     li {
       min-width: 0;
       white-space: nowrap;
-      font-size: 0.85em;
+      font-size: 0.85rem;
       cursor: pointer;
 
       color: $grey-color-dark;
@@ -41,7 +41,7 @@
         align-items: center;
 
         .limited {
-          padding-right: 0.3em;
+          padding-right: 0.3rem;
           white-space: nowrap;
           overflow: hidden;
           text-overflow: ellipsis;
@@ -101,14 +101,14 @@
 
 #ft-search {
   width: 350px;
-  font-size: 1.1em;
-  padding: 0.4em;
+  font-size: 1.1rem;
+  padding: 0.4rem;
 }
 
 .pubs {
   .pub-year {
-    font-size: 1.3em;
-    margin: 0.7em 0 0.5em 0;
+    font-size: 1.3rem;
+    margin: 0.7rem 0 0.5rem 0;
     border-bottom: none;
     color: $grey-color;
   }
@@ -128,11 +128,11 @@
   }
 
   .publication {
-    margin-bottom: 2em;
+    margin-bottom: 2rem;
 
     h3 {
-      font-size: 1.2em;
-      margin: 0em;
+      font-size: 1.2rem;
+      margin: 0rem;
       font-weight: 600;
 
       max-height: 600px;
@@ -144,8 +144,8 @@
     }
 
     .award-icon {
-      margin-right: 0.2em;
-      font-size: 1.2em;
+      margin-right: 0.2rem;
+      font-size: 1.2rem;
 
       &.fa-trophy {
         color: $yellow-color;
@@ -157,7 +157,7 @@
     }
 
     .authors {
-      margin-bottom: 0.3em;
+      margin-bottom: 0.3rem;
       font-weight: 300;
       a {
         color: $text-color;
@@ -170,7 +170,7 @@
     }
 
     .awards {
-      margin-top: 0.1em;
+      margin-top: 0.1rem;
       font-weight: 600;
       color: firebrick;
     }
@@ -184,7 +184,7 @@
         }
       }
       .message {
-        font-size: 0.9em;
+        font-size: 0.9rem;
         font-style: italic;
         color: $grey-color;
       }
@@ -195,11 +195,11 @@
     }
 
     .extra-links {
-      margin-top: 0.5em;
+      margin-top: 0.5rem;
       font-weight: 300;
-      font-size: 0.9em;
+      font-size: 0.9rem;
       a {
-        margin-right: 1em;
+        margin-right: 1rem;
         white-space: nowrap;
         background-position: top right;
         background-image: linear-gradient(transparent 87%, $link-underline 13%);

@@ -4,12 +4,12 @@
   }
 
   h2 {
-    font-size: 1.5em;
+    font-size: 1.5rem;
     border-bottom: none;
   }
 
   .intro {
-    font-size: 1.1em;
+    font-size: 1.1rem;
   }
 
   .columns {
@@ -23,7 +23,7 @@
     .me {
       margin-left: $spacing-unit;
 
-      font-size: 0.9em;
+      font-size: 0.9rem;
       text-align: center;
 
       picture, img {
@@ -56,10 +56,10 @@
   }
 
   .featured-projects {
-    font-size: 0.9em;
+    font-size: 0.9rem;
     display: flex;
     flex-direction: row;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.5rem;
 
     .project {
       flex-grow: 1;
@@ -87,15 +87,15 @@
       }
 
       .title {
-        margin: 0 0 0.6em 0;
-        font-size: 1.3em;
+        margin: 0 0 0.6rem 0;
+        font-size: 1.3rem;
         font-weight: bold;
         line-height: 1;
       }
 
       p {
-        font-size: 0.85em;
-        margin: 0.7em 0;
+        font-size: 0.85rem;
+        margin: 0.7rem 0;
         line-height: 1.2;
       }
 
@@ -115,10 +115,10 @@
       }
 
       .links {
-        font-size: 0.8em;
+        font-size: 0.8rem;
 
         a {
-          margin-right: 0.5em;
+          margin-right: 0.5rem;
           white-space: nowrap;
           background-position: top right;
           background-image: linear-gradient(transparent 87%, $link-underline 13%);
@@ -134,11 +134,11 @@
   }
 
   .featured-publications {
-    font-size: 0.95em;
-    margin-bottom: 1.5em;
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
 
     .publication {
-      margin-bottom: 0.7em;
+      margin-bottom: 0.7rem;
       display: block;
       color: $text-color;
       
@@ -179,7 +179,7 @@
     display: flex;
     flex-direction: row;
 
-    font-size: 0.9em;
+    font-size: 0.9rem;
 
     & > div {
       flex-grow: 1;
@@ -193,13 +193,13 @@
       margin-left: 0;
 
       li {
-        margin-bottom: 1em;
+        margin-bottom: 1rem;
       }
 
       time {
         display: block;
         color: $grey-color;
-        font-size: 0.8em;
+        font-size: 0.8rem;
       }
     }
   }
@@ -210,7 +210,7 @@
     .date {
       white-space: nowrap;
       color: $grey-color;
-      padding-right: 1em;
+      padding-right: 1rem;
     }
   }
 
@@ -229,7 +229,7 @@
     }
 
     .button {
-      font-size: 1.1em;
+      font-size: 1.1rem;
     }
 
     .featured-projects {

@@ -8,13 +8,13 @@ html, body {
 }
 
 html {
+  font-size: $base-font-size;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 
 body {
   font-family: $base-font-family;
-  font-size: $base-font-size;
   line-height: $base-line-height;
   color: $text-color;
   background-color: $background-color;
@@ -92,7 +92,7 @@ figure > img {
 figcaption {
   margin-top: 0.5rem;
   text-align: center;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
 }
 
 
