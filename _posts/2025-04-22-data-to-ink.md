@@ -245,7 +245,7 @@ But what is that *behind* the chart? There does seem to be some pesky decoration
 
 <figure>
     <img src="https://www.frank.computer/images/key_level_run.png" alt="Bar chart showing the quantity of successful and failed dungeon runs ranging from +2 to +20."/>
-    <figcaption>Distribution of mythic+ dungeons run at various keystone levels. This chart has the hero image used in the game's loading screen as a background for the visualization's data. (Also, as an aside: these charts were made with Highcharts! I love that the gaming community I am part of uses a chart library that I contributed a tiny bit of research towards.) <a href="https://www.wowhead.com/news/holy-paladins-challenging-discipline-in-20s-tww-season-2-mythic-rankings-week-9-376766">Source: Wowhead</a></figcaption>
+    <figcaption>Distribution of mythic+ dungeons run at various keystone levels. This chart has the hero image used in the game's loading screen as a background for the visualization's data. (Also, as an aside: these charts were made with Highcharts! I love that the gaming community I am part of uses a chart library that I <a href="https://www.frank.computer/papers/2025-cga-softerware.pdf">contributed a tiny bit of research</a> towards.) <a href="https://www.wowhead.com/news/holy-paladins-challenging-discipline-in-20s-tww-season-2-mythic-rankings-week-9-376766">Source: Wowhead</a></figcaption>
 </figure>
 
 Uh oh! Now *this* is illegal embellishment, for sure!
