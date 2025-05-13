@@ -148,11 +148,11 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-lightest;
+  color: #2b1265;
+  border-left: 4px solid #9879e0;
   padding-left: $spacing-unit / 2;
-  font-size: 18px;
-  letter-spacing: -1px;
+  font-size: 1.2rem;
+  letter-spacing: -0.05rem;
   font-style: italic;
 
   > :last-child {
