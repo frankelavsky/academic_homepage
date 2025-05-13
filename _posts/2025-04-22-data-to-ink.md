@@ -205,7 +205,15 @@ For anyone interested in a rather lovely exploration of philosophy and ink, Tony
 I do think that focusing on "ink" as a design heuristic is outdated. This mattered when strokes *had* to be precious, because there was also a cost of production and printing to keep in mind. Lighter, fewer marks made for cheaper prints.
 
 ### Further readings: minimalism and fascism
-Ronke Babajide writes about how "[Minimalism is Rooted in Fascism](https://uxdesign.cc/how-minimalism-is-rooted-in-fascism-7204b15482a8)" in a great introduction to what I believe is one of the most important things to actually keep in mind when we critique minimalism. This blog was meant to be silly and absurd, to make a game out of minimalism. But as a tool, it has historically been [tied to white supremacy](https://title-mag.com/how-minimalism-and-white-supremacist-ideology-are-connected/), as Charlotte Eckardt writes.
+Ronke Babajide writes about how "[Minimalism is Rooted in Fascism](https://uxdesign.cc/how-minimalism-is-rooted-in-fascism-7204b15482a8)" in a great introduction to what I believe is one of the most important things to actually keep in mind when we critique minimalism. This blog was meant to be silly and absurd, to make a game out of minimalism. And as a tool, it has also historically been [tied to white supremacy](https://title-mag.com/how-minimalism-and-white-supremacist-ideology-are-connected/), as Charlotte Eckardt writes.
+
+The tie here isn't that minimalism is somehow *inherently* fascist as an idea but historically and culturally *leveraged* by fascism. Historically, Adolf Loos' minimalism came about as an aesthetic resistance to the opulence and ornamentation of the old, dying empires of the pre-1900s. (IE Fancy ornaments were seen as bad; stripping them good.) This gave rise to an aesthetic that was highly legible to political parties: it was an identity separate from opulence and nobility. Due to the time and place of this emerging aesthetic in central Europe, it found a home in fascist architecture, clothing, and ideas.
+
+In contrast, Marie Kondo's anti-consumerism, modern ascetic movements ("ascetic" not "aesthetic" mind you), the hippie/hipster buy-local and DIY movements, and so on are probably not at risk of being fascist. Plenty of minimalisms are fine, largely because they are responding to consumerism, waste, and clutter through self-disclipline.
+
+But some minimalisms are clearly legible and useful as tools of policing, enforcement, uncritical obedience, and generating aesthetic uniformity. Minimalism's greatest weakness is that it is aesthetically *reactionary*, ideologically and historically. In a sense, many things are reacting to older things. But minimalism is often reactionary without being *generative*. It deconstructs; that is its aesthetic purpose. For this reason, it is ideal when coupled with politically reactionary movements: the idea that foreigners, outsiders, and minorities are "clutter" or that cultural markers must be removed in order for a better aesthetic to be laid bare.
+
+The idea that the "true" identity of a thing, be it a building, visualization, or nation, comes about when things are *removed* is a dangerous notion. My lesson here is that minimalism, and really any reactionary politic or aesthetic, should be approached with great care.
 
 Fascism, white supremacy, and minimalism are in my my mind as I watch the latest season of Andor:
 <figure>
@@ -215,7 +223,7 @@ Fascism, white supremacy, and minimalism are in my my mind as I watch the latest
 
 Minimalism, especially with clean whiteness and obsessive control over any and all natural, organic characteristics, has strayed far from philosophies that focus on simple living, anti-consumerism, and humility.
 
-I won't make the case that minimalisms in all forms are morally wrong, I certainly don't believe that; but I will argue that modern uses of minimalism-as-empire and minimalism-to-control-others are. Minimalism, especially in Tufte's data-to-ink ratio, can often become a tool to police the acts of others.
+And again: I don't make the case that minimalisms in all forms are morally wrong. I certainly don't believe that; but I will argue that modern uses of minimalism-as-empire and minimalism-to-control-others are. Minimalism, especially in Tufte's data-to-ink ratio, can often become a tool to police the acts of others.
 
 ### Maximalism, decoration, and embellishment
 
