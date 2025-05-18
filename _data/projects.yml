@@ -169,7 +169,7 @@
   code: https://github.com/frankelavsky/filling_potholes
   image: filled.png
   imageDescription: "Screenshot of Jakob Nielsen's article. VoiceOver screen reader is on a navbar icon of Jakob's face and the screen reader is announcing visited, link, image, Home page. Pothole filled by user @frankElavsky 04/18/24.ed."
-  description: "Why does repair and access only belong to website owners? What if we could repair the web together, using a shared substrate?"
+  description: "Why does repair and access only belong to website owners? What if we could repair the web together, using a shared substrate? I built a browser extension of a prototype that allows one person to repair a webpage (such as adding alt text to an image) and another to view those changes."
 
 - title: Screen-reader UI Access in Unity
   type: "Personal: Misc."
