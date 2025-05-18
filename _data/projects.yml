@@ -86,7 +86,7 @@
   type: "Older (No Accessibility Guaranteed)"
   url: https://insight.kellogg.northwestern.edu/article/supreme-court-justices-become-less-impartial-and-more-ideological-when-casting-the-swing-vote
   demo: https://nuitrcs.github.io/kellogg-insight-supreme-court/
-  code: 
+  code:
   paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3250082
   image: supreme.png
   imageDescription: "How Casting the Deciding Vote Influences Justices' Decisions. New research shows that Supreme Court justices are more likely to vote in line with their ideology when casting a pivotal vote. Fair warning: these tools are not accessible and from mine olden days."
@@ -110,3 +110,71 @@
   image: hwise.png
   imageDescription: "A map of research sites across the globe. Fair warning: these tools are not accessible and from mine olden days."
   description: "Our interactive map was used to help Sera Young's lab keep track of their research sites across the world and promote their research mission."
+
+- title: Braven
+  type: "Personal: Braven"
+  url: https://bravengames.wordpress.com/
+  code: https://github.com/frankelavsky/braven
+  demo: https://drive.google.com/file/d/1lc-flee8Jh-qcB5cURGsTqibFqQuDMON/view?usp=sharing
+  image: braven_map.jpg
+  imageDescription: "A map of a fantasy world, painted with digital labels placed over the image for cities and landmarks. It is surrounded with green and has a large ocean in the middle titled the Braven Sea."
+  description: "Braven is my massive-world tabletop roleplaying game that I have completely designed from scratch. It has undergone 7 full design iterations since I first unveiled it to friends in middle school back in 2002 and has been played by over 80 different players for over 10,000 hours (cumulatively). The world is my own design, including maps (handpainted!), histories, cultures, conflicts, meta- and micro-narratives, grand villains, and petty villains too. We've had (and hopefully will continue to have) many adventures together."
+
+- title: Braven, The Orange Book
+  type: "Personal: Braven"
+  url: https://www.lulu.com/shop/frank-elavsky/braven-games-the-orange-book-beta-edition/paperback/product-1z7wgrmm.html
+  code: https://github.com/frankelavsky/braven
+  demo: https://bravengames.wordpress.com/2020/01/06/sneak-peek-at-the-encounters-book/
+  image: orange_book.jpg
+  imageDescription: "The Orange Book, an orange book cover showing a silhouette of a wyvern flying."
+  description: "428 pages of content containing of over 80 monsters, creatures, NPCs, and encounters, including in-depth (pages and pages!) of lore and mechanics for identifying and interacting with every entity in Braven's world, from the island-sized turtle 'achune' to the undying doppleganger 'zamycleus.' This is a core rulebook for my tabletop RPG, Braven."
+
+- title: Braven, The Red Book
+  type: "Personal: Braven"
+  url: https://www.lulu.com/shop/frank-elavsky/braven-games-the-red-book/paperback/product-23037377.html
+  code: https://github.com/frankelavsky/braven
+  demo: https://bravengames.wordpress.com/2016/05/12/everything-you-need-to-know-to-cast-spells-in-braven/
+  image: red_book.jpg
+  imageDescription: "The Red Book, an red book cover showing a silhouette of a sword on fire."
+  description: "128 pages of content devoted to building a character in Braven. This is packed full of maneuvers, gifts, runes for spells, wizarding licenses, character builds, and mechanics needed for playing a character the game. Braven's system for using abilities is rich and combinatorial; it is possible to create more unique attacks, spells, and combo-actions with friends than there are atoms in our solar system. This is a core rulebook for my tabletop RPG, Braven."
+
+- title: Braven Character Sheet
+  type: "Personal: Braven"
+  url: https://github.com/frankelavsky/braven-roll20-character-sheet
+  code: https://github.com/frankelavsky/braven-roll20-character-sheet
+  image: braven_character_sheet.png
+  imageDescription: "Screenshot of Braven's interactive character sheet, opened."
+  description: "A fully-interactive web version of Braven's character sheet, but as a plug-in to import into Roll20. Stats, abilities, gifts, leveling up, and more are all handled auto-magically using our scripting and the power of Roll20's frontend framework. This is a core component for my tabletop RPG, Braven."
+
+- title: Braven Personality Test
+  type: "Personal: Braven"
+  url: https://www.ttrpg-personality-quiz.com/
+  demo: https://www.ttrpg-personality-quiz.com/
+  code: https://github.com/frankelavsky/braven-quiz
+  image: braven_character_sheet.png
+  imageDescription: "Screenshot of Braven's interactive character sheet, opened."
+  description: "Personalities in Braven are like a class, profession, or role in other tabletop rpgs; they determine your stats and points awarded when leveling up. This resource can help folks find a playstyle that suits their real-life or made-up personality, matching the results from this quiz to in-game choices for character building. This is a core component for my tabletop RPG, Braven."
+
+- title: Situated Objects
+  type: "Personal: Misc."
+  url: https://teachablemachine.withgoogle.com/models/fI__QaIYR/
+  code: https://github.com/frankelavsky/situated_objects
+  image: so-model1.png
+  imageDescription: "A screenshot of google's interface for training a vision model, which is learning how to identify nothing, tape, clip, ball, lemon, plant, using a webcam."
+  description: "I trained several machine-learning models and built a browser extension that allows someone to 'save' a screen reader location on a webpage to a physical object near their computer, to be invoked and loaded later."
+
+- title: Filling Potholes
+  type: "Personal: Misc."
+  url: https://www.frank.computer/blog/2024/04/filling-potholes.html
+  code: https://github.com/frankelavsky/filling_potholes
+  image: filled.png
+  imageDescription: "Screenshot of Jakob Nielsen's article. VoiceOver screen reader is on a navbar icon of Jakob's face and the screen reader is announcing visited, link, image, Home page. Pothole filled by user @frankElavsky 04/18/24.ed."
+  description: "Why does repair and access only belong to website owners? What if we could repair the web together, using a shared substrate?"
+
+- title: Screen-reader UI Access in Unity
+  type: "Personal: Misc."
+  url: https://docs.google.com/presentation/d/1C_QJr883xCOYB-PaV-upiVGqxSruFsfX0Jco_oc1GrQ/edit?usp=sharing
+  code: https://github.com/frankelavsky/PGD_final_project
+  image: spell-builder.png
+  imageDescription: "An interface that enables someone to select glyphs, runes, and cast a spell while keeping track of their resources (stamina, health, etc)."
+  description: "Class project for 'Programming for Game Design' where I used Unity to build a screen-reader accessible user interface (of an example spell-building interface for Braven)."
