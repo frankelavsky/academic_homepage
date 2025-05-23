@@ -1,5 +1,5 @@
 - title: "Attended In-person"
-  where: Pycon US, Pittsburgh
+  where: Pycon US, Pittsburgh, USA
   start: 2025-05-14
   end: 2025-05-18
 - title: "Invited Speaker"
@@ -7,9 +7,13 @@
   start: 2025-05-01
   end: 2025-05-01
 - title: "Vacation"
-  where: Washington D.C.
+  where: Washington D.C., USA
   start: 2025-04-30
   end: 2025-04-30
+- title: "Attended In-person"
+  where: CSUN, Anaheim, CA
+  start: 2025-03-10
+  end: 2025-03-14
 - title: "Attended In-person"
   where: ASSETS, St. John's, Canada
   start: 2024-10-28
