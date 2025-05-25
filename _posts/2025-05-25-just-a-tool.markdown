@@ -104,6 +104,6 @@ I want to argue that AI agents (as the corporate-controlled transformer and diff
 > He continues,
 > "This isn’t about throwing away the tools, but about wrestling them into alignment with what we find sacred or essential."
 
-So that is our charge. Our job now is the same as it always as been: to fight for our own humanity and for the health of the world, to not use tools uncritically, and to shape our tools before they shape us into flat nothingness.
+So that is our charge. Our job now is the same as it always as been: to fight for our own humanity and for the health of the world, to not use tools uncritically, and to shape our tools before they shape us into flat nothingness. We can turn these modern models into things that mean something to us, but we need policy, economic justice, and guardrails in place. We need to reimagine what they should be for and continue to explore and innovate ways that we can continue to create and experience meaningfully.
 
-Go and recognize those who taught and inspired you, "appreciate [your] predecessors and fellow-workers in the saltmines of literature," as Le Guin remarks, and go out and feel the good kind of pain that gives us shape and meaning; *become*.
+Go and do what machines cannot: advocate and fight for policy change, resist and refuse unjust systems, recognize by name those who taught and inspired you, "appreciate [your] predecessors and fellow-workers in the saltmines of literature," as Le Guin remarks, and feel the good kind of pain that gives us shape and meaning; *become*.
