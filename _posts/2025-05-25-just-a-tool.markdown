@@ -81,7 +81,7 @@ Take the gym, for example: struggle against the pain of exercise is rewarding an
 
 However, tools and technologies that improve how *we* lift weights are a recognition of our love of lifting. Newer, safer weight lifting machines, protections from dropped weights, stronger cables, mirrors in front of the dumbells, and so on. Many technologies exist to enhance our human love of struggle.
 
-We cease to feel struggle when we use AI. We don't need to write our mothers a well-meaning email on her birthday, we don't need to make the case for our promotion to our bosses, we don't need to think through the hard parts of an algorithm we are writing, and, when it comes to art, we don't need to feel the pain of improving our craft. We simply prompt, and (optionally) we could choose to do the work of validating whatever it came up with. But of course, automating validation is just another thing that modern AI-dreamers dream of.
+But we cease to feel struggle when we use AI. We don't need to write our mothers a well-meaning email on her birthday, we don't need to make the case for our promotion to our bosses, we don't need to think through the hard parts of an algorithm we are writing, and, when it comes to art, we don't need to feel the pain of improving our craft. We simply prompt, and (optionally) we could choose to do the work of validating whatever it came up with. But of course, automating validation is just another thing that modern AI-dreamers dream of.
 
 Artificial intelligence is the quintessential tool-as-a-drug. It operates with an [economy of infinity](https://www.frank.computer/blog/2025/05/machine-utterance.html), as if there is no downside to any interaction and no risk or cost involved in anything we do.
 
