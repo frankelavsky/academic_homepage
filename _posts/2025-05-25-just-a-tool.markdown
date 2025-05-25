@@ -107,3 +107,8 @@ I want to argue that AI agents (as the corporate-controlled transformer and diff
 So that is our charge. Our job now is the same as it always as been: to fight for our own humanity and for the health of the world, to not use tools uncritically, and to shape our tools before they shape us into flat nothingness. We can turn these modern models into things that mean something to us, but we need policy, economic justice, and guardrails in place. We need to reimagine what they should be for and continue to explore and innovate ways that we can continue to create and experience meaningfully.
 
 Go and do what machines cannot: advocate and fight for policy change, resist and refuse unjust systems, recognize by name those who taught and inspired you, "appreciate [your] predecessors and fellow-workers in the saltmines of literature," as Le Guin remarks, and feel the good kind of pain that gives us shape and meaning; *become*.
+
+<figure>
+    <img src="https://www.frank.computer/images/fasano_poem.jpg" alt="For a student who used AI to write a paper: Now I let it fall back in the grasses. I hear you. I know this life is hard now. I know your days are precious on this earth. But what are you trying to be free of? The living? The miraculous task of it? Love is for the ones who love the work."/>
+    <figcaption>Presently, my favorite poem. Credit: <a href="https://bsky.app/profile/did:plc:hvukjfdx5ddyfdv5n7qn24xd">Joseph Fasano, @josephfasano.bsky.social</a></figcaption>
+</figure>
