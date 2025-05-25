@@ -102,7 +102,7 @@ I want to argue that AI agents (as the corporate-controlled transformer and diff
 > [Tina He writes on our ontological crisis with modern AI](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion),
 > "**we are awakened to the danger precisely through contact with it**. The same algorithmic indifference that unsettles us may also jolt us into a higher vigilance, a refusal to hand over the entirety of our experience to optimization, market logic, or digital control. The very anxiety these systems produce is a clue: something vital, unquantifiable, and irreducibly human still resists."
 > He continues,
-> This isn’t about throwing away the tools, but about wrestling them into alignment with what we find sacred or essential.
+> "This isn’t about throwing away the tools, but about wrestling them into alignment with what we find sacred or essential."
 
 So that is our charge. Our job now is the same as it always as been: to fight for our own humanity and for the health of the world, to not use tools uncritically, and to shape our tools before they shape us into flat nothingness.
 
