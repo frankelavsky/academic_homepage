@@ -30,7 +30,7 @@ The reason people say something like this is because it immediately invites solu
 
 Even a hammer, made of wood and iron, requires trees to be cut down and earth to be mined up. A simple hammer requires laws to be written about fair treatment of workers in multiple industries, sustainability of various biological and geological environments, and regulation about the sale and use of the hammer. "It matters how you use it," in regards to artificial intelligence ignores the reality that it also matters how AI is made, how AI is disseminated, the waste AI produces, the damage AI causes to economies and environments, and the overall impact that AI has on human life and culture.
 
-"It matters how you use it" is something that an immature and self-absorbed young child would say, a child who has yet to reckon with the reality that they live in a society full of other people and other living organisms and participates in a system of entities that are all constantly fighting for fairness, dignity, and survival. Tools matter because of how they are made, what makes them, and how the world changes because of how we use them.
+"It matters how you use it" is something that an immature and self-absorbed young child would say, a child who has yet to reckon with the reality that they live in a society full of other people and other living organisms and participates in a system of entities that are all constantly fighting for fairness, dignity, and survival.
 
 I loathe the phrase, "AI is just a tool, it matters how you use it."
 
@@ -39,7 +39,7 @@ And tools use *us* by their design. This is Heidegger's Gestell ("en-framing"): 
 
 Tools, then, aren't "neutral" in any way.
 
-My dissertation centers on this tension and builds on it: well, if tools aren't neutral - *then what?* In my dissertation, I focus on accessibility and tool design as an intervention, but the concepts, imperatives, and calls to action in my dissertation can be applied more broadly:
+My dissertation centers on this tension and builds on it: well, if tools aren't neutral - *then what?* In my thesis, I focus on the accessibility of visualizations, with tool design as an intervention. But the concepts, imperatives, and calls to action in my dissertation can be applied more broadly:
 
 We must interrogate and reshape our technologies. We need to fight back against design that flattens our humanity at the benefit of efficiency and productivity. We need to question how our tools have created infrastructures and landscapes that are hostile to human existence. And of course:
 
