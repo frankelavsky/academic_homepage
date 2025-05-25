@@ -60,7 +60,7 @@ But artificial intelligence, far more than any tool we've ever created, intends 
 ## Knowing the difference between drudgery and meaningful struggle
 <figure>
     <img src="https://www.frank.computer/images/miyazaki_hassles.jpg" alt="illustration of Miyazaki drawing with cigarettes in his mouth in profile side with the caption &quot;If life's hassles disappeared, you'd want them back.&quot;" style="display: block; width: 60%; margin-left: auto; margin-right: auto;"/>
-    <figcaption>(Real human art!) Credit: <a href="https://bsky.app/profile/samdoesarts.bsky.social/post/3lnzzxs2gw22o">Sam Yang, @samdoesarts.bsky.social</a></figcaption>
+    <figcaption>"If life's hassles disappeared, you'd want them back," - Hiyao Miyazaki. (Also, this is real human art!) Credit: <a href="https://bsky.app/profile/samdoesarts.bsky.social/post/3lnzzxs2gw22o">Sam Yang, @samdoesarts.bsky.social</a></figcaption>
 </figure>
 
 The greatest selling point of automation has always been to remove drudgery. And at the heart of drudgery is a certain variety of struggle and pain.
@@ -95,7 +95,7 @@ And on the chair analogy: we can refuse to use chairs as they are designed (or e
     <figcaption>Presently, my favorite poem. Credit: <a href="https://bsky.app/profile/did:plc:hvukjfdx5ddyfdv5n7qn24xd">Joseph Fasano, @josephfasano.bsky.social</a></figcaption>
 </figure>
 
-Tools are immensely influential: they have the power to mold humanity, to include and exclude, to define what matters, and to literally shape the climate and environments we live in. "Tools" are radically powerful extensions of human will.
+Tools are immensely influential: they have the ability to mold humanity, to include and exclude, to define what matters, and to literally shape the climate and environments we live in. "Tools" are radically powerful extensions of human will.
 
 I want to argue that AI agents (as the corporate-controlled transformer and diffusion based models of our modern day) are largely bad to use, especially now, and in most all contexts. Their dangers are environmental, economic, and existential. As a "tool" they are far too destructive.
 
