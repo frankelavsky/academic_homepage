@@ -58,13 +58,15 @@ Your being is *intended* through the tool: you are intended to sit still, face f
 But artificial intelligence, far more than any tool we've ever created, intends us not just to sit forward and behave, but to cease to think critically, to cease to imagine, and, most temptingly, to cease to feel struggle and pain.
 
 ## Knowing the difference between drudgery and meaningful struggle
-The greatest selling point of automation has always been to remove drugery. And at the heart of drugery is struggle and pain.
+The greatest selling point of automation has always been to remove drudgery. And at the heart of drudgery is a certain variety of struggle and pain.
 
-Artificial intelligence in our modern imagination and material reality is sold to consumers as a solution to all struggle: all difficulty can and should be removed from work. Equating all struggle to drudgery is AI's ultimate deception: we can simply ask for art and it materializes before us. There is no struggle at all involved, thus the terrible labor of being an artist is removed!
+Artificial intelligence in our modern imagination and material reality is sold to consumers as a solution to all struggle: we can simply ask for art and it materializes before us. There is no struggle at all involved, thus the terrible labor of being an artist is removed!
 
-And AI is not new, in this regard. The flattening of all pains into a total loss of pain has previously been the job of chemicals and theology. So AI is therefore more like an *opiate*, a drug, than anything else. Or perhaps, given the fervor of its modern supplicants, it is more like a religion.
+But is all struggle the same thing as drudgery?
 
-But automation of everything numbs who we are. Total automation softens our ability to discern between struggle that makes and pain that takes. The discernment that comes from being able to know the difference between these two things is perhaps among the most important lessons learned in life: when should you fight for something and overcome and when are certain barriers themselves, by nature of their existence, fundamentally cruel?
+And AI is not new, in this regard. The flattening of all pains into a total loss of pain has previously been the job of recreational drug use or theology. So AI is therefore more like an *opiate* than anything else. Or perhaps, given the fervor of its modern supplicants, it is more like a religion *on drugs*.
+
+Modern automation of everything, including art, thinking, and writing, numbs who we are. Total automation softens our ability to discern between struggle that makes and pain that takes. The discernment that comes from being able to know the difference between these two things is perhaps among the most important lessons learned in life: when should you fight for something and overcome and when are certain barriers themselves, by nature of their existence, fundamentally cruel?
 
 How you answer these two questions should inform how you treat the use of AI:
 
