@@ -58,6 +58,11 @@ Your being is *intended* through the tool: you are intended to sit still, face f
 But artificial intelligence, far more than any tool we've ever created, intends us not just to sit forward and behave, but to cease to think critically, to cease to imagine, and, most temptingly, to cease to feel struggle and pain.
 
 ## Knowing the difference between drudgery and meaningful struggle
+<figure>
+    <img src="https://www.frank.computer/images/miyazaki_hassles.jpg" alt="illustration of Miyazaki drawing with cigarettes in his mouth in profile side with the caption &quot;If life's hassles disappeared, you'd want them back.&quot;" style="display: block; width: 60%; margin-left: auto; margin-right: auto;"/>
+    <figcaption>(Real human art!) Credit: <a href="https://bsky.app/profile/samdoesarts.bsky.social/post/3lnzzxs2gw22o">Sam Yang, @samdoesarts.bsky.social</a></figcaption>
+</figure>
+
 The greatest selling point of automation has always been to remove drudgery. And at the heart of drudgery is a certain variety of struggle and pain.
 
 Artificial intelligence in our modern imagination and material reality is sold to consumers as a solution to all struggle: we can simply ask for art and it materializes before us. There is no struggle at all involved, thus the terrible labor of being an artist is removed!
@@ -86,8 +91,8 @@ And on the chair analogy: we can refuse to use chairs as they are designed (or e
 
 ## So what do we do with AI?
 <figure>
-    <img src="https://www.frank.computer/images/miyazaki_hassles.jpg" alt="illustration of Miyazaki drawing with cigarettes in his mouth in profile side with the caption &quot;If life's hassles disappeared, you'd want them back.&quot;"/>
-    <figcaption>(Real human art!) Credit: <a href="https://bsky.app/profile/samdoesarts.bsky.social/post/3lnzzxs2gw22o">Sam Yang, @samdoesarts.bsky.social</a></figcaption>
+    <img src="https://www.frank.computer/images/fasano_poem.jpg" alt="For a student who used AI to write a paper: Now I let it fall back in the grasses. I hear you. I know this life is hard now. I know your days are precious on this earth. But what are you trying to be free of? The living? The miraculous task of it? Love is for the ones who love the work." style="display: block; width: 60%; margin-left: auto; margin-right: auto;"/>
+    <figcaption>Presently, my favorite poem. Credit: <a href="https://bsky.app/profile/did:plc:hvukjfdx5ddyfdv5n7qn24xd">Joseph Fasano, @josephfasano.bsky.social</a></figcaption>
 </figure>
 
 Tools are immensely influential: they have the power to mold humanity, to include and exclude, to define what matters, and to literally shape the climate and environments we live in. "Tools" are radically powerful extensions of human will.
@@ -107,8 +112,3 @@ I want to argue that AI agents (as the corporate-controlled transformer and diff
 So that is our charge. Our job now is the same as it always as been: to fight for our own humanity and for the health of the world, to not use tools uncritically, and to shape our tools before they shape us into flat nothingness. We can turn these modern models into things that mean something to us, but we need policy, economic justice, and guardrails in place. We need to reimagine what they should be for and continue to explore and innovate ways that we can continue to create and experience meaningfully.
 
 Go and do what machines cannot: advocate and fight for policy change, resist and refuse unjust systems, recognize by name those who taught and inspired you, "appreciate [your] predecessors and fellow-workers in the saltmines of literature," as Le Guin remarks, and feel the good kind of pain that gives us shape and meaning; *become*.
-
-<figure>
-    <img src="https://www.frank.computer/images/fasano_poem.jpg" alt="For a student who used AI to write a paper: Now I let it fall back in the grasses. I hear you. I know this life is hard now. I know your days are precious on this earth. But what are you trying to be free of? The living? The miraculous task of it? Love is for the ones who love the work."/>
-    <figcaption>Presently, my favorite poem. Credit: <a href="https://bsky.app/profile/did:plc:hvukjfdx5ddyfdv5n7qn24xd">Joseph Fasano, @josephfasano.bsky.social</a></figcaption>
-</figure>
