@@ -71,7 +71,7 @@ But is all struggle the same thing as drudgery?
 
 And AI is not new, in this regard. The flattening of all pains into a total loss of pain has previously been the job of recreational drug use or theology. So AI is therefore more like an *opiate* than anything else. Or perhaps, given the fervor of its modern supplicants, it is more like a religion *on drugs*.
 
-Modern automation of everything, including art, thinking, and writing, numbs who we are. Total automation softens our ability to discern between struggle that makes and pain that takes. The discernment that comes from being able to know the difference between these two things is perhaps among the most important lessons learned in life: when should you fight for something and overcome and when are certain barriers themselves, by nature of their existence, fundamentally cruel?
+Modern automation of everything, including art, thinking, and writing, numbs who we are. Total automation softens our ability to discern between struggle that makes and pain that takes.
 
 How you answer these two questions should inform how you treat the use of AI:
 
