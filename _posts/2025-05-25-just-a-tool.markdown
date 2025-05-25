@@ -86,8 +86,8 @@ And on the chair analogy: we can refuse to use chairs as they are designed (or e
 
 ## So what do we do with AI?
 <figure>
-    <img src="https://www.frank.computer/images/isb.jpg" alt="illustration of Miyazaki drawing with cigarettes in his mouth in profile side with the caption &quot;If life's hassles disappeared, you'd want them back.&quot;"/>
-    <figcaption>Credit: <a href="https://bsky.app/profile/samdoesarts.bsky.social/post/3lnzzxs2gw22o">Sam Yang, @samdoesarts.bsky.social</a></figcaption>
+    <img src="https://www.frank.computer/images/miyazaki_hassles.jpg" alt="illustration of Miyazaki drawing with cigarettes in his mouth in profile side with the caption &quot;If life's hassles disappeared, you'd want them back.&quot;"/>
+    <figcaption>(Real human art!) Credit: <a href="https://bsky.app/profile/samdoesarts.bsky.social/post/3lnzzxs2gw22o">Sam Yang, @samdoesarts.bsky.social</a></figcaption>
 </figure>
 
 Tools are immensely influential: they have the power to mold humanity, to include and exclude, to define what matters, and to literally shape the climate and environments we live in. "Tools" are radically powerful extensions of human will.
