@@ -1,3 +1,5 @@
+- message: "I wrote a [short summary of my thesis proposal](https://www.frank.computer/papers/2025-vis-doctoral-colloquium.pdf) for IEEE VIS's doctoral colloquium."
+  date: 2025-04-19
 - message: "Thesis status: proposed. I'm officially a Ph.D. Candidate now! 🎉"
   date: 2025-04-19
 - message: "Big news: In collaboration with Quansight, we've released our [massive accessibility audit of Bokeh](https://bokeh-a11y-audit.readthedocs.io/), a Python visualization ecosystem."
