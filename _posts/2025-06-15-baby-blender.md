@@ -31,7 +31,7 @@ People have tried to argue that "morality" should be an incentive - as if someth
 ## Critics without solutions are useless
 Plus, just saying that SP™ has "blended babies" and we should "stop blending babies" doesn't offer any actual, real, working solutions. Are *you* doing anything about it? How are you, personally, going to make up for my 200% increased dongle-production efficiency at Dongles LLC?
 
-These social media influences talk about "climate change," "murder without consequences," "water insecurity" and the growing divide between people who have access to Super Productionizer™ and those who don't.
+These social media influencers talk about "climate change," "murder without consequences," "water insecurity" and the growing divide between people who have access to Super Productionizer™ and those who don't. Plus, they say that because the SP™ gives me a kiss on the forehead every now and then when I do a really good job listening to it, that it is seducing me into an unhealthy relationship with it. UMMM I get kisses on the forehead because I am a smart, good boy who does a very good job, thank you very much. I earned my valor in the mines of dongle-production.
 
 But just talking about things, proposing "policy," suing people, quitting your job in refusal (lol!!), and protesting in the streets aren't "real" solutions. Real solutions mean you build something. And until someone is capable of building a subatomic flesh-emulsifier that is somehow "ethical" (STILL UNCLEAR WHATEVER THAT IS!) but also can survive in a Free Market™, then I don't want to hear it.
 
