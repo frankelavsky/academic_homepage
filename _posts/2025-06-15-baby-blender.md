@@ -24,7 +24,7 @@ But because post-birth, living, sentient, human tissue-containers perform subato
 ## Personal benefits of the Super Productionizer
 SP™ makes me work faster!! Arguably, I'm at least two or three times as efficient as I used to be now. And my dongle company needs to make more dongles! It's absurd to ask a worker to be less efficient.
 
-At the end of the day, The Incentives are to be more productive. And SP™ gets a lot more done. I'm two or three times as fast with SP™ than before.
+At the end of the day, The Incentives are to be more productive. And SP™ gets a lot more done. I'm two or three times as fast with SP™ than before. So stop asking me to have "other" incentives. (LOL?? what does that even mean???)
 
 People have tried to argue that "morality" should be an incentive - as if something as personal and selfish as that should interfere with dongle production! Again, these social media influencers only care about themselves, making themselves out to be some kind of holier-than-thou justice warrior who is unable to do the hard work of dongle-production-button-pressing that I do all day from my dongle-desk™.
 
