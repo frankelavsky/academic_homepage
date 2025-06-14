@@ -68,8 +68,8 @@ At its core, it's a **dark satire** that mocks:
 
 Despite its surreal and absurd tone, the piece is a **pointed commentary on real-world issues** due to the large-scale, un-critical adoption of Large-Language Models in the context of workplace precairity and mass tech layoffs, job insecurity, and the larger political backwash of techno-authoritarianism and fascism rising:
 
-- How corporations and apologists justify harmful technologies or practices.
-- How society often prioritizes profit and efficiency over ethics or humanity.
-- The weakness of influencer-led activism in weakening democracties, when activism lacks access to direct structural change or power to enact material alternatives.
+- How corporations and apologists justify harmful technologies or practices, including people intellectualize and defend LLM theft.
+- How society often prioritizes profit and efficiency over ethics or humanity, such as how modern technological progress has produced datacenters that are accelerating climate change and destroying scarce freshwater resources.
+- The impotence of influencer-led activism in weakening democracies, when activism lacks access to direct structural change or power to enact material alternatives.
 
 In short, this is **not a sincere defense of SP™**. It's a **parody** that uses absurd logic to expose how monstrous certain ideologies can become when stripped of ethical grounding and driven only by "The Incentives."
