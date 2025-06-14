@@ -53,7 +53,8 @@ Anyway, back to the dongle-mines!
 
 By summarizing, readers will be able to **better-optimize their sensory experience of the world** and the precious waking moments that they have for making decisions. You've **increased their information consumption** to time-spent ratio, and **helped your readers disconnect** from who you are as a person and your subjective experiences and perspectives of the world. Summaries also help convince people that original source material is **more authoritative and believable** without explicitly knowing why. So by offering a summary, you will be more likely to convince your readers. *Good job, Good Worker!*
 
-Our summary, written together 😉:
+### Our summary, written together 😉:
+
 This blog post is a **satirical, dystopian defense of a fictional technology**: the **Super Productionizer (SP™)**, which horrifically "subatomically-emulsifies" (i.e., **destroys or kills**) babies for the sake of **increased workplace productivity**.
 
 At its core, it's a **dark satire** that mocks:
