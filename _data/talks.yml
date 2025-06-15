@@ -1,6 +1,12 @@
-- title: "Data Visualization and Accessibility"
-  location: (upcoming) Full Course, Open Visualization Academy
-  date: 2025-11-01
+# - title: "Data Visualization and Accessibility"
+#   location: (upcoming) Full Course, Open Visualization Academy
+#   date: 2025-11-01
+- title: "Softerware: Accessibility and Malleable Interfaces"
+  location: Outlier, Miami, FL
+  date: 2025-06-16
+  slides: /talks/2025-outlier-softerware.pdf
+  url: https://www.outlierconf.com/
+  recording: https://www.accelevents.com/e/outlier-2025/portal/stage/371707
 - title: "Data Visualization and Accessibility"
   location: PyCon, Pittsburgh, PA
   url: https://us.pycon.org/2025/schedule/presentation/43/
