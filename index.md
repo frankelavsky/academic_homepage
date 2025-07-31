@@ -10,7 +10,7 @@ class: home
 
 <div class="intro" markdown="1">
 
-I design and build software <strong><a href="https://www.frank.computer/projects/">systems</a> for human interaction</strong>. My current work is situated on <strong>toolmaking</strong> at the intersection of data <strong>visualization and accessibility</strong>, making better frameworks and software tools for practitioners to make data visualizations accessible for people with disabilities. I hope to continue to design and build interfaces, infrastructures, and tools the <strong>enable everyone, including people with disabilities</strong>, to explore, explain, interrogate, and investigate data.
+I design and build software <strong><a href="https://www.frank.computer/projects/">systems</a> for human interaction</strong>. My current work is situated on <strong>toolmaking</strong> at the intersection of data <strong>visualization and accessibility</strong>, making better frameworks and software tools for practitioners to make data visualizations accessible for people with disabilities. I hope to continue to design and build interfaces, infrastructures, and tools that <strong>enable everyone, including people with disabilities</strong>, to explore, explain, interrogate, and investigate data.
 
 My work has been recognized for its <a href="https://hcii.cmu.edu/hcii-impacts/chartability">significant societal contributions</a>, shaping systems work in: 15+ government and policy orgs internationally (World Health Organization, European Commission), 40+ businesses and corporations (including 3 of the Fortune 5), 18+ news and journalism groups (BBC, NYT), 50+ community organizations and non-profits (Special Olympics, Data Viz Society), and 20+ higher-ed classrooms.
 
@@ -76,7 +76,7 @@ I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute
 <ol>
   <li>Work towards establishing a globally-recognized set of technology standards for accessibility infrastructure. I intend to <strong>explore foundational technological architectures</strong> that will enable individual and social <strong>personalization and agency</strong> over the technologies and ecosystems that participate in our work and daily lives.</li>
   <li>Continue to empower data scientists to <strong>make better decisions with data</strong>, paying special attention to ecosystems that employ <strong>machine learning</strong>, complex <strong>data architectures and models</strong>, and <strong>interactive data visualizations</strong>.</li>
-  <li><strong>Interrogate the ethical, environmental, and human-factors limitations of modern generative models</strong> and their applications in the context of visualization and accessibility. I intend to focus on how <strong>human learning, creativity, and access</strong> are impacted by generative models and innovate new paths forward that may involve or not involve these technologies.</li>
+  <li><strong>Interrogate the ethical, environmental, and human-factors limitations of modern generative models</strong>, including their applications in the context of visualization and accessibility. I intend to focus on how <strong>human learning, creativity, and access</strong> are impacted by generative models and innovate new paths forward that may involve or not involve these technologies.</li>
 </ol>
 
 ## Why systems?
