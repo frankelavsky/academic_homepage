@@ -20,9 +20,9 @@ I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/frank.jpg' type='image/jpg' />
+  <source srcset='/images/frank.png' type='image/jpg' />
   <img
-    src='/images/frank.jpg'
+    src='/images/frank.png'
     alt="It's me! A white man smiling with medium-short brown hair, glasses, and a grey t-shirt.">
 </picture>
 
