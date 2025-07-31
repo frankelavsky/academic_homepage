@@ -9,15 +9,22 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I design and build <a href="https://www.frank.computer/projects/">systems</a> for human interaction. My current work is situated on toolmaking at the intersection of data visualization and accessibility. I'm interested in building tools for people who build interactive systems and ways that effective tool design can make data more accessible to everyone, starting with those historically excluded by poor system design: people with disabilities.
 
-<!-- I build and research two kinds of tools that contribute to systems work: <i>frameworks</i>, as guides that help shape and generate the design of systems, and <i>building blocks</i>, as software and hardware resources that assist in framing and scaffolding work for system builders and maintainers. I <a href="https://www.frank.computer/projects/">build</a> using JavaScript, Python, C (arduino), fabrication, and a handful of other techniques. I do my <a href="https://www.frank.computer/papers/">research</a> through expert interviews, co-design, disability-centered design, disability-led design, and both qualitative and quantitative usability study methods. I'm interested in how "tools" (as I define them) shape human behavior and outcomes and how we can improve the way that we design and implement tools as well. -->
+I design and build software <strong><a href="https://www.frank.computer/projects/">systems</a> for human interaction</strong>. My current work is situated on <strong>toolmaking</strong> at the intersection of data <strong>visualization and accessibility</strong>, making better frameworks and software tools for practitioners to make data visualizations accessible for people with disabilities. I hope to continue to design and build interfaces, infrastructures, and tools the <strong>enable everyone, including people with disabilities</strong>, to explore, explain, interrogate, and investigate data.
 
 My work has been recognized for its <a href="https://hcii.cmu.edu/hcii-impacts/chartability">significant societal contributions</a>, shaping systems work in: 15+ government and policy orgs internationally (World Health Organization, European Commission), 40+ businesses and corporations (including 3 of the Fortune 5), 18+ news and journalism groups (BBC, NYT), 50+ community organizations and non-profits (Special Olympics, Data Viz Society), and 20+ higher-ed classrooms.
 
 I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dominik Moritz](https://www.domoritz.de/) and [Patrick Carrington](https://www.patrickcarrington.com/) and a member of the [Data Interaction Group](https://dig.cmu.edu/) and [AXLE Lab](https://axle-lab.com/). I have had broad industry collaborations as well, with details you can find in [my cv](https://www.frank.computer/cv/).
 
 </div>
+
+<p>My <strong>5-year vision</strong> after the completion of my PhD thesis is three-fold. I want to:
+  <ul>
+    <li>Work towards establishing a globally-recognized set of technology standards for accessibility infrastructure. I intend to <strong>explore foundational technological architectures</strong> that will enable individual and social <strong>personalization and agency</strong> over the technologies and ecosystems that participate in our work and daily lives.</li>
+    <li>Continue to empower data scientists to <strong>make better decisions with data</strong>, paying special attention to ecosystems that employ <strong>machine learning</strong>, complex <strong>data architectures and models</strong>, and <strong>interactive data visualizations</strong>.</li>
+    <li><strong>Interrogate the ethical, environmental, and human-factors limitations of modern generative models</strong> and their applications in the context of visualization and accessibility. I intend to focus on how <strong>human learning, creativity, and access</strong> are impacted by generative models and innovate new paths forward that may involve or not involve these technologies.</li>
+  </ol>
+</p>
 
 <div class="me" markdown="1">
 <picture>
