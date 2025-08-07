@@ -76,7 +76,7 @@ I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute
 <ol>
   <li>Work towards establishing a globally-recognized set of technology standards for accessibility infrastructure. I intend to <strong>explore foundational technological architectures</strong> that will enable individual and social <strong>personalization and agency</strong> over the technologies and ecosystems that participate in our work and daily lives.</li>
   <li>Continue to empower data scientists to <strong>make better decisions with data</strong>, paying special attention to ecosystems that employ <strong>machine learning</strong>, complex <strong>data architectures and models</strong>, and <strong>interactive data visualizations</strong>.</li>
-  <li><strong>Interrogate the ethical, environmental, and human-factors limitations of modern generative models</strong>, including their applications in the context of visualization and accessibility. I intend to focus on how <strong>human learning, creativity, and access</strong> are impacted by generative models and innovate new paths forward that may involve or not involve these technologies.</li>
+  <li><strong>Interrogate the ethical, environmental, and human-factors limitations of modern generative models</strong>, including their applications in the context of visualization and accessibility. I intend to focus on how <strong>human learning, creativity, and access</strong> are impacted by generative models in the context of building data interfaces.</li>
 </ol>
 
 ## Why systems?
