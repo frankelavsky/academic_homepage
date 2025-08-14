@@ -755,14 +755,14 @@ title: Data Navigator
       </nav>
     </header>
     <div class="main-wrapper">
-      <main id="main">
-        <div class="section" id="">
+      <main id="main" tabindex="-1">
+        <div class="section" tabindex="-1" id="">
           <h1 class="title">Data Navigator: An Accessibility-Centered Data Navigation Toolkit</h1>
           <p class="author">
             <a href="https://orcid.org/0000-0002-6849-5893">Frank Elavsky</a>, Lucas Nadolskis,
             <a href="https://orcid.org/0000-0002-3110-1053">Dominik Moritz</a>
           </p>
-          <div class="section" id="Figure1">
+          <div class="section" tabindex="-1" id="Figure1">
             <figure>
               <img
                 src="../images/figures/data-navigator/data_navigator.png"
@@ -791,7 +791,7 @@ title: Data Navigator
             </div>
           </div>
         </div>
-        <div class="section" id="introduction">
+        <div class="section" tabindex="-1" id="introduction">
           <h1>Introduction</h1>
           <p>
             While there is a growing interest in making data visualizations more accessible for people with
@@ -979,7 +979,7 @@ title: Data Navigator
             designs.
           </p>
         </div>
-        <div class="section" id="related-work">
+        <div class="section" tabindex="-1" id="related-work">
           <h1>Related Work</h1>
           <p>
             Our contribution is an attempt to bridge the gap between research and practice more effectively across broad
@@ -987,7 +987,7 @@ title: Data Navigator
             outline the prior research and standards that inform our project, a breakdown of existing visualization
             toolkit approaches to data navigation, and then accessible input device considerations.
           </p>
-          <div class="section" id="accessibility-research-and-standards-in-visualization">
+          <div class="section" tabindex="-1" id="accessibility-research-and-standards-in-visualization">
             <h2>Accessibility research and standards in visualization</h2>
             <p>
               Research and standards are both somewhat limited by a strong bias towards visual disabilities. In
@@ -1239,7 +1239,7 @@ title: Data Navigator
               meaningful semantics to users of assistive technologies.
             </p>
           </div>
-          <div class="section" id="visualization-toolkits-and-technical-work">
+          <div class="section" tabindex="-1" id="visualization-toolkits-and-technical-work">
             <h2>Visualization toolkits and technical work</h2>
             <p>
               Unfortunately while many data visualization toolkits offer some degree of accessible navigation and
@@ -1295,7 +1295,7 @@ title: Data Navigator
                 </p>
               </li>
             </ol>
-            <div class="section" id="Figure2">
+            <div class="section" tabindex="-1" id="Figure2">
               <figure>
                 <img
                   src="../images/figures/data-navigator/state-of-the-art.png"
@@ -1414,7 +1414,7 @@ title: Data Navigator
               </p>
             </div>
           </div>
-          <div class="section" id="considering-assistive-technologies-and-input-devices">
+          <div class="section" tabindex="-1" id="considering-assistive-technologies-and-input-devices">
             <h2>Considering assistive technologies and input devices</h2>
             <p>
               Modern data visualizations may contain functional capabilities such as the ability to hover, click,
@@ -1530,7 +1530,7 @@ title: Data Navigator
             </p>
           </div>
         </div>
-        <div class="section" id="system-design">
+        <div class="section" tabindex="-1" id="system-design">
           <h1>System Design</h1>
           <p>
             We categorized our system design goals into design considerations for <em>Structure</em>, <em>Input</em>,
@@ -1602,7 +1602,7 @@ title: Data Navigator
             point for adoption and use of Data Navigator. However, this system design could be implemented as a toolkit
             in other environments with proper consideration for input device handling and screen reader semantics.
           </p>
-          <div class="section" id="structure">
+          <div class="section" tabindex="-1" id="structure">
             <h2>Structure</h2>
             <h3 id="beyond-trees-towards-an-accessibility-graph">
               Beyond trees: towards an accessibility <em>graph</em>
@@ -1629,7 +1629,7 @@ title: Data Navigator
                 >]</span
               >.
             </p>
-            <div class="section" id="Figure3">
+            <div class="section" tabindex="-1" id="Figure3">
               <figure>
                 <img
                   src="../images/figures/data-navigator/geoviz.png"
@@ -1716,7 +1716,7 @@ title: Data Navigator
               </p>
               <h3 id="specific-edge-instances-and-generic-edges">Specific edge instances and generic edges</h3>
             </div>
-            <div class="section" id="Figure4">
+            <div class="section" tabindex="-1" id="Figure4">
               <figure>
                 <img
                   src="../images/figures/data-navigator/simple_movement.png"
@@ -1758,7 +1758,7 @@ title: Data Navigator
               </p>
               <p>Using this pattern, it is possible to have fully navigable structures using only generic edges.</p>
             </div>
-            <div class="section" id="Figure5">
+            <div class="section" tabindex="-1" id="Figure5">
               <figure>
                 <img
                   src="../images/figures/data-navigator/dynamic_movement.png"
@@ -1771,12 +1771,12 @@ title: Data Navigator
               </figure>
             </div>
           </div>
-          <div class="section" id="input">
+          <div class="section" tabindex="-1" id="input">
             <h2>Input</h2>
             <h3 id="abstracted-navigation-facilitates-agnostic-input">
               Abstracted navigation facilitates agnostic input
             </h3>
-            <div class="section" id="Figure6">
+            <div class="section" tabindex="-1" id="Figure6">
               <figure>
                 <img
                   src="../images/figures/data-navigator/inputs.png"
@@ -1887,10 +1887,10 @@ title: Data Navigator
               </p>
             </div>
           </div>
-          <div class="section" id="rendering">
+          <div class="section" tabindex="-1" id="rendering">
             <h2>Rendering</h2>
             <h3 id="flexible-node-semantics-provide-freedom">Flexible node semantics provide freedom</h3>
-            <div class="section" id="Figure7">
+            <div class="section" tabindex="-1" id="Figure7">
               <figure>
                 <img
                   src="../images/figures/data-navigator/semantics.png"
@@ -1946,7 +1946,7 @@ title: Data Navigator
                 Loose-coupling to visuals enables expressiveness
               </h3>
             </div>
-            <div class="section" id="Figure8">
+            <div class="section" tabindex="-1" id="Figure8">
               <figure>
                 <img
                   src="../images/figures/data-navigator/path.png"
@@ -2067,7 +2067,7 @@ title: Data Navigator
             </div>
           </div>
         </div>
-        <div class="section" id="case-examples">
+        <div class="section" tabindex="-1" id="case-examples">
           <h1>Case Examples</h1>
           <p>
             We built example prototypes using our JavaScript implementation of Data Navigator, available open source at
@@ -2079,9 +2079,9 @@ title: Data Navigator
             projects. We provide a final case example as a co-design session that demonstrates how Data Navigator may be
             used to rapidly build new designs.
           </p>
-          <div class="section" id="section:raster">
+          <div class="section" tabindex="-1" id="section:raster">
             <h2>Augmenting a Static, Raster Visualization</h2>
-            <div class="section" id="Figure9">
+            <div class="section" tabindex="-1" id="Figure9">
               <figure>
                 <img
                   src="../images/figures/data-navigator/static.png"
@@ -2258,9 +2258,9 @@ title: Data Navigator
               </p>
             </div>
           </div>
-          <div class="section" id="section:ecosystem">
+          <div class="section" tabindex="-1" id="section:ecosystem">
             <h2>Building Data Navigation for a Toolkit Ecosystem</h2>
-            <div class="section" id="Figure10">
+            <div class="section" tabindex="-1" id="Figure10">
               <figure>
                 <img
                   src="../images/figures/data-navigator/vega-lite.png"
@@ -2396,7 +2396,7 @@ title: Data Navigator
               </p>
             </div>
           </div>
-          <div class="section" id="section:codesign">
+          <div class="section" tabindex="-1" id="section:codesign">
             <h2>Co-designing Novel Data Navigation Prototypes</h2>
             <p>
               Recent projects in accessible data navigation have involved extensive co-design work with people with
@@ -2448,7 +2448,7 @@ title: Data Navigator
               the aim of producing low-fidelity prototypes of novel data interaction patterns.
             </p>
             <h3 id="co-design-session-methods-and-setup">Co-design Session Methods and Setup</h3>
-            <div class="section" id="Figure11">
+            <div class="section" tabindex="-1" id="Figure11">
               <figure>
                 <img
                   src="../images/figures/data-navigator/braille.png"
@@ -2529,7 +2529,7 @@ title: Data Navigator
               </p>
               <h3 id="creating-a-navigable-set-diagram">Creating a Navigable Set Diagram</h3>
             </div>
-            <div class="section" id="Figure12">
+            <div class="section" tabindex="-1" id="Figure12">
               <figure>
                 <img
                   src="../images/figures/data-navigator/sets.png"
@@ -2561,7 +2561,7 @@ title: Data Navigator
               </p>
               <h3 id="creating-a-navigable-parallel-vectors-diagram">Creating a Navigable Parallel Vectors Diagram</h3>
             </div>
-            <div class="section" id="Figure13">
+            <div class="section" tabindex="-1" id="Figure13">
               <figure>
                 <img
                   src="../images/figures/data-navigator/vectors.png"
@@ -2618,7 +2618,7 @@ title: Data Navigator
             </div>
           </div>
         </div>
-        <div class="section" id="limitations-and-future-work">
+        <div class="section" tabindex="-1" id="limitations-and-future-work">
           <h1>Limitations and Future Work</h1>
           <p>
             Data Navigator is a technical contribution, a system designed for appropriation&nbsp;<span
@@ -2757,7 +2757,7 @@ title: Data Navigator
             improve the experience of working with Data Navigator.
           </p>
         </div>
-        <div class="section" id="conclusion">
+        <div class="section" tabindex="-1" id="conclusion">
           <h1>Conclusion</h1>
           <p>
             Practitioners at large continue to produce inaccessible interactive data visualizations, excluding people
@@ -2788,7 +2788,7 @@ title: Data Navigator
           </p>
         </div>
       </main>
-      <div class="section" id="references">
+      <div class="section" tabindex="-1" id="references">
         <footer>
           <h1>References</h1>
           <div id="refs" class="references csl-bib-body" role="doc-bibliography">
