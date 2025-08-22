@@ -71,12 +71,12 @@ I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute
 
 ## What's next?
 
-<p>My <strong>5-year vision</strong> after the completion of my PhD thesis is three-fold. I want to:
+<p>My <strong>5-year vision</strong> after the completion of my PhD thesis continues my focus on tools as an intervention on human behavior. However, I will be integrating critical concerns for broader impacts of technical tools on society and our lived environments. My research agenda has three pillars: <i>creation</i>, <i>critique</i>, and <i>care</i>:
 </p>
 <ol>
-  <li>Work towards establishing a globally-recognized set of technology standards for accessibility infrastructure. I intend to <strong>explore foundational technological architectures</strong> that will enable individual and social <strong>personalization and agency</strong> over the technologies and ecosystems that participate in our work and daily lives.</li>
-  <li>Continue to empower data scientists to <strong>make better decisions with data</strong>, paying special attention to ecosystems that employ <strong>machine learning</strong>, complex <strong>data architectures and models</strong>, and <strong>interactive data visualizations</strong>.</li>
-  <li><strong>Interrogate the ethical, environmental, and human-factors limitations of modern generative models</strong>, including their applications in the context of visualization and accessibility. I intend to focus on how <strong>human learning, creativity, and access</strong> are impacted by generative models in the context of building data interfaces.</li>
+  <li><i>On creation:</i> I will contribute <b>practical advancements</b> in the state of the art in accessible data visualization tool development. I have made a career of building and co-designing useful tools that find purchase in working communities. I will strengthen this work moving forward, focusing especially on making accessibility work more accessible and scaling accessibility infrastructure.</li>
+  <li><i>On critique:</i> I will contribute <b>humanistic and critical inquiry</b> of tools and toolmaking, within the social context of disability. My agenda will not solely focus on optimistic production of technology, but also advance our understanding of the past harms, present limitations, and future challenges of the sociotechnical entanglement of tools and the construct of disability.</li>
+  <li><i>On care:</i> I will contribute <b>theoretical and empirical knowledge</b> of practitioner-tool relationships. I intend to investigate why tool-users and tool makers choose to care for, and not care for, some tools. On <i>caring for</i>, I will conduct longitudinal interview, co-design, and ethnographic work in the context of open-source software maintenance, specifically focusing on contexts of accessibility repair. On <i>not-caring for</i>, I intend to investigate, through qualitative expert interviews, preliminary research into why some practitioners respond to generative and agentic AI with disgust.</li>
 </ol>
 
 ## Why systems?
