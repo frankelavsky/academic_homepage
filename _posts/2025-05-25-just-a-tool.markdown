@@ -87,7 +87,7 @@ But we cease to feel struggle when we use AI. We don't need to write our mothers
 
 Artificial intelligence is the quintessential tool-as-a-drug. It operates with an [economy of infinity](https://www.frank.computer/blog/2025/05/machine-utterance.html), as if there is no downside to any interaction and no risk or cost involved in anything we do.
 
-But the greatest cost comes in how our tooling shapes us and "flattens our being" (as Heidegger writes). This is because truly feeling and experiencing pain and struggle is central to our humanity. We are both unique individuals and collectively unified through struggle. So a tool that intends us to never struggle is at fundamental odds with the pains that shape us.
+But the greatest cost comes in how our tooling shapes us and "flattens our being" (as Heidegger writes). This is because truly feeling and experiencing pain and struggle is central to our humanity. We are both unique individuals and collectively unified through struggle. So a tool that intends for us to never struggle is at fundamental odds with the pains that shape us and our ability to understand each other.
 
 And on the chair analogy: we can refuse to use chairs as they are designed (or even entirely). And we can use chairs for more than sitting. And we can design new chairs and non-chairs that do any sort of thing. We have the power and the responsibility to make our technologies shape humanity into something good and meaningful.
 
