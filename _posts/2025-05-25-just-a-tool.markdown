@@ -77,6 +77,8 @@ How you answer these two questions should inform how you treat the use of AI:
 
 > If it was possible: Should we climb a mountain, or flatten it? And should we climb a curb, or cut it?
 
+Climbing a mountain is the point: the struggle and overcoming it is what matters. But a curb? A curb is a barrier to access. The struggle against a curb shouldn't exist. This is why, in accessibility, we try to cut curbs and flatten barriers whenever we can.
+
 Take the gym, for example: struggle against the pain of exercise is rewarding and uplifting. The weights don't have to be moved, lifting them isn't a required task of us. It would be nonsense to ask a robot to lift weights for us at the gym.
 
 However, tools and technologies that improve how *we* lift weights are a recognition of our love of lifting. Newer, safer weight lifting machines, protections from dropped weights, stronger cables, mirrors in front of the dumbells, and so on. Many technologies exist to enhance our human love of struggle.
