@@ -10,7 +10,7 @@ class: home
 
 <div class="intro" markdown="1">
 
-I design and build software <strong><a href="https://www.frank.computer/projects/">systems</a> for human interaction</strong>. My current work is situated on <strong>toolmaking</strong> at the intersection of data <strong>visualization and accessibility</strong>, making better frameworks and software tools for practitioners to make data visualizations accessible for people with disabilities. I hope to continue to design and build interfaces, infrastructures, and tools that <strong>enable everyone, including people with disabilities</strong>, to explore, explain, interrogate, and investigate data.
+I design and build software <strong><a href="https://www.frank.computer/projects/">systems</a> for human interaction</strong>. My current work is situated on <strong>toolmaking</strong> at the intersection of data <strong>visualization and accessibility</strong>, making better frameworks and software tools for practitioners to make data visualizations accessible for people with disabilities. I hope to continue to design and build interfaces, infrastructures, and tools that <strong>enable everyone, including people with disabilities</strong>, to live full lives.
 
 My work has been recognized for its <a href="https://hcii.cmu.edu/hcii-impacts/chartability">significant societal contributions</a>, shaping systems work in: 15+ government and policy orgs internationally (World Health Organization, European Commission), 40+ businesses and corporations (including 3 of the Fortune 5), 18+ news and journalism groups (BBC, NYT), 50+ community organizations and non-profits (Special Olympics, Data Viz Society), and 20+ higher-ed classrooms.
 
@@ -23,7 +23,7 @@ I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute
   <source srcset='/images/frank.png' type='image/jpg' />
   <img
     src='/images/frank.png'
-    alt="It's me! A white man smiling with medium-short brown hair, glasses, and a grey t-shirt.">
+    alt="It's me! A white man smiling with medium-short brown hair, glasses, and a light brick pink t-shirt.">
 </picture>
 
 {:.no-list}
@@ -69,7 +69,7 @@ I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute
   Show All Publications
 </a>
 
-## What's next?
+<!-- ## What's next?
 
 <p>My <strong>5-year vision</strong> after the completion of my PhD thesis continues my focus on tools as an intervention on human behavior. However, I will be integrating critical concerns for broader impacts of technical tools on society and our lived environments. My research agenda has three pillars: <i>creation</i>, <i>critique</i>, and <i>care</i>:
 </p>
@@ -77,7 +77,7 @@ I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute
   <li><i>On creation:</i> I will contribute <b>practical advancements</b> in the state of the art in accessible data visualization tool development. I have made a career of building and co-designing useful tools that find purchase in working communities. I will strengthen this work moving forward, focusing especially on making accessibility work more accessible and scaling accessibility infrastructure.</li>
   <li><i>On critique:</i> I will contribute <b>humanistic and critical inquiry</b> of tools and toolmaking, within the social context of disability. My agenda will not solely focus on optimistic production of technology, but also advance our understanding of the past harms, present limitations, and future challenges of the sociotechnical entanglement of tools and the construct of disability.</li>
   <li><i>On care:</i> I will contribute <b>theoretical and empirical knowledge</b> of practitioner-tool relationships. I intend to investigate why tool-users and tool makers choose to care for, and not care for, some tools. On <i>caring for</i>, I will conduct longitudinal interview, co-design, and ethnographic work in the context of open-source software maintenance, specifically focusing on contexts of accessibility repair. On <i>not-caring for</i>, I intend to investigate, through qualitative expert interviews, preliminary research into why some practitioners respond to generative and agentic AI with disgust and refusal.</li>
-</ol>
+</ol> -->
 
 ## Why systems?
 I create systems because <a href="https://www.frank.computer/blog/2024/11/love-of-systems.html">I love them</a>. I firmly believe that systems designed for rich human interactivity help us not only perform tasks but also enjoy what we are doing. And I have been creating systems for over two decades, starting with <a href="https://www.frank.computer/projects/#Personal:-Braven">designing rpg game systems</a> in middle school. Systems have been a way for me to playfully abstract difficult and complex problems as well as ground me concretely in real, tangible issues.
