@@ -1,6 +1,16 @@
 # - title: "Data Visualization and Accessibility"
 #   location: (upcoming) Full Course, Open Visualization Academy
 #   date: 2025-11-01
+- title: "Data, Disability, and Generative AI"
+  location: IEEE VIS Workshop on Accessible Data Visualization
+  date: 2025-11-03
+  slides: /talks/2025-accessviz-workshop-telephone.pdf
+  # recording: https://www.youtube.com/watch?v=GFjcYdUIC7k
+- title: "Data Visualization and Accessibility"
+  location: (State of the Art talk) IEEE VIS Workshop on Accessible Data Visualization
+  date: 2025-11-03
+  slides: /talks/2025-SOTA.pdf
+  # recording: https://www.youtube.com/live/GFjcYdUIC7k?si=Sm4n6vWNRT_UyWUD&t=4954
 - title: "Softerware: Accessibility and Malleable Interfaces"
   location: Outlier, Miami, FL
   date: 2025-06-16
