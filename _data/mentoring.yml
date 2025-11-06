@@ -7,7 +7,7 @@
 - title: "Industry Professional Mentoring"
   year: 2024
   location: Carnegie Mellon University
-  description: I mentored an industry professional who is working on making an infinite canvas tool, tldraw, more accessible. "Creative support tools" (CSTs) are notoriously hard to make accessible as they are largely visual-only. We explored the problem space, ideated, and developed prototypes.
+  description: I mentored an industry professional who is working on making an infinite canvas tool, tldraw, more accessible. Infinite canvases are notoriously hard to make accessible as they are largely visual-only and use arbtrary geometries. We explored the problem space, ideated, and developed prototypes.
   who:
     - Taha Hassan
 - title: "Undergraduate Mentoring"
