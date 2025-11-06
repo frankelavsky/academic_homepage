@@ -4,20 +4,20 @@
   description: I mentored a PhD student from University of Massachusetts Amhurst on the topic of blind-led innovation. I helped her identify her research area, design a study, execute the study, and write a paper, in an advisor role throughout.
   who:
     - Aimen Gaba
-- title: "Industry Professional Mentoring"
-  year: 2024
-  location: Carnegie Mellon University
-  description: I mentored an industry professional who is working on making an infinite canvas tool, tldraw, more accessible. Infinite canvases are notoriously hard to make accessible as they are largely visual-only and use arbtrary geometries. We explored the problem space, ideated, and developed prototypes.
-  who:
-    - Taha Hassan
 - title: "Undergraduate Mentoring"
-  year: "2022,2024"
+  year: 2022-2025
   location: Carnegie Mellon University
   description: "Semester-long mentorships on the following topics: accessibility, machine-learning design, user interface design, software engineering, graph theory, assistive technology research."
   who:
     - Ihita Mandal
     - Chieri Nnadozie
     - Iman Ouzzani
+- title: "Industry Professional Mentoring"
+  year: 2024
+  location: Carnegie Mellon University
+  description: I mentored an industry professional who is working on making an infinite canvas tool, tldraw, more accessible. Infinite canvases are notoriously hard to make accessible as they are largely visual-only and use arbtrary geometries. We explored the problem space, ideated, and developed prototypes.
+  who:
+    - Taha Hassan
 - title: "Graduate Student Mentoring"
   year: 2022-2023
   location: Carnegie Mellon University
