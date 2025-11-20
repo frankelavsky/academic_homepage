@@ -1,6 +1,10 @@
 # - title: "Data Visualization and Accessibility"
 #   location: (upcoming) Full Course, Open Visualization Academy
 #   date: 2025-11-01
+- title: "Data Visualization and Accessibility"
+  location: Brown University
+  date: 2025-11-20
+  slides: /talks/2025-Brown.pdf
 - title: "Data, Disability, and Generative AI"
   location: IEEE VIS Workshop on Accessible Data Visualization
   date: 2025-11-03
