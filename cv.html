@@ -236,7 +236,7 @@ title: CV
 {% endfor %}
 
 
-<!-- <h2>Teaching</h2>
+<h2>Teaching</h2>
 
 {% for teach in site.data.teaching %}
 <article>
@@ -246,9 +246,7 @@ title: CV
     <span class="right">{{ teach.location }}</span>
   </div>
   <p>
-    {% if teach.students %}
-      {% if teach.role %}{{ teach.role }}{% endif %}{% if teach.professor %} for {% include person person=teach.professor %}{% endif %},
-      {{ teach.students }}
+      {% if teach.role %}{{ teach.role }}{% endif %}{% if teach.professor %} for {% include person person=teach.professor %}{% endif %}
       <br/>
     {% endif %}
     <span class="muted">
@@ -256,7 +254,7 @@ title: CV
     </span>
   </p>
 </article>
-{% endfor %} -->
+{% endfor %}
 
 
 <h2 id="service">Service</h2>
