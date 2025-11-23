@@ -218,7 +218,7 @@ title: CV
 {% endfor %}
 
 
-<h2 id="talks">Talks, Courses, Workshops  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
+<h2 id="talks">Talks, Workshops, Guest Lectures  <a href="{{ '/talks/' | absolute_url }}">[Interactive Version]</a></h2>
 
 {% assign talktitles = site.data.talks | group_by:"title" %}
 {% for title in talktitles %}
@@ -248,7 +248,6 @@ title: CV
   <p>
       {% if teach.role %}{{ teach.role }}{% endif %}{% if teach.professor %} for {% include person person=teach.professor %}{% endif %}
       <br/>
-    {% endif %}
     <span class="muted">
       {{ teach.description | markdownify | remove: '<p>' | remove: '</p>' }}
     </span>
