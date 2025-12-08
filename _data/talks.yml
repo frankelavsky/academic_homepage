@@ -20,6 +20,10 @@
   date: 2025-12-05
   url: https://yowcon.com/melbourne-2025/schedule?date=2025-12-05&video=false
   slides: /talks/2025-12-YOW-uncharted-territory-elavsky.pdf
+- title: "Data, Accessibility, and Tool-making"
+  location: Carnegie Mellon University
+  date: 2025-11-25
+  slides: /talks/2025-12-axle.pdf
 - title: "Data Visualization and Accessibility"
   location: Brown University
   date: 2025-11-20
@@ -42,6 +46,26 @@
   date: 2025-11-03
   slides: /talks/2025-SOTA.pdf
   # recording: https://www.youtube.com/live/GFjcYdUIC7k?si=Sm4n6vWNRT_UyWUD&t=4954
+- title: "Data Visualization"
+  location: (on Animation) Carnegie Mellon University
+  date: 2025-10-23
+  url: https://dig.cmu.edu/datavis-fall-2025/schedule/#week-13
+  slides: https://drive.google.com/file/d/1plxTYn5ST8KN3Hy0AnQBu5I4snIqk2_s/view?usp=sharing
+- title: "Data Visualization"
+  location: (on Perception) Carnegie Mellon University
+  date: 2025-10-23
+  url: https://dig.cmu.edu/datavis-fall-2025/schedule/#week-10
+  slides: https://drive.google.com/file/d/1m39RznxvSp8T58hPytEgvF2_LW2bczyo/view?usp=sharing
+- title: "Data Visualization"
+  location: (on Interactivity) Carnegie Mellon University
+  date: 2025-10-23
+  url: https://dig.cmu.edu/datavis-fall-2025/schedule/#week-9
+  slides: https://drive.google.com/file/d/1oYQou4woE_jS4FwDPBaizQ_ASENdCp5P/view?usp=sharing
+- title: "Data Visualization"
+  location: (on Ethics) Carnegie Mellon University
+  date: 2025-10-21
+  url: https://dig.cmu.edu/datavis-fall-2025/schedule/#week-9
+  slides: https://drive.google.com/file/d/13fELN6UItcKKNbaKR7wRV9ieky1ppqJO/view?usp=sharing
 - title: "Softerware: Accessibility and Malleable Interfaces"
   location: Outlier, Miami, FL
   date: 2025-06-16
@@ -390,27 +414,27 @@
   location: Northwestern University
   date: 2018-06-10
   url: https://github.com/nuitrcs/intro_to_web_workshop
-- title: "Introduction to Visualization"
-  location: Northwestern University
+- title: "Data Visualization"
+  location: (Introductory) Northwestern University
   date: 2018-04-10
   url: https://nuitrcs.github.io/intro_to_viz_workshop/#/
-- title: "How to Make Scientific Figures"
-  location: Northwestern University
+- title: "Data Visualization"
+  location: (on Scientific Visualization) Northwestern University
   date: 2018-03-10
   url: https://nuitrcs.github.io/scientific-figures-workshop/#/
 - title: "Advanced Data Visualization with D3"
   location: Northwestern University
   date: 2017-11-10
   url: https://github.com/frankelavsky/Intro_to_d3_workshop
-- title: "Introduction to Visualization"
-  location: Northwestern University
+- title: "Data Visualization"
+  location: (Introductory) Northwestern University
   date: 2017-09-10
   url: https://nuitrcs.github.io/intro_to_viz_workshop/#/
 - title: Visualizations for Multi-Dimensional Data
   location: Focus Summer School, Northwestern University
   date: 2017-08-20
   url: https://www.ideas.ciera.northwestern.edu/focus-summer-school/vizualizations2017/
-- title: "How to Make Scientific Figures"
-  location: Northwestern University
+- title: "Data Visualization"
+  location: (on Scientific Visualization) Northwestern University
   date: 2017-08-10
   url: https://nuitrcs.github.io/scientific-figures-workshop/#/
