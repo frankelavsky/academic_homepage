@@ -1,6 +1,25 @@
 # - title: "Data Visualization and Accessibility"
 #   location: (upcoming) Full Course, Open Visualization Academy
 #   date: 2025-11-01
+# - title: "Data Visualization and Accessibility"
+#   location: YOW! Sydney
+#   date: 2025-12-05
+#   slides: /talks/2025-12-YOW-uncharted-territory-elavsky.pdf
+- title: "Data Visualization and Accessibility"
+  location: YOW! Brisbane
+  date: 2025-12-09
+  url: https://yowcon.com/brisbane-2025/schedule?date=2025-12-09&video=false
+  slides: /talks/2025-12-YOW-uncharted-territory-elavsky.pdf
+- title: "Data, Accessibility, and Tool-making"
+  location: DDD Brisbane
+  date: 2025-12-07
+  url: https://www.dddbrisbane.com/agenda
+  # slides: /talks/2025-12-YOW-uncharted-territory-elavsky.pdf
+- title: "Data Visualization and Accessibility"
+  location: YOW! Melbourne
+  date: 2025-12-05
+  url: https://yowcon.com/melbourne-2025/schedule?date=2025-12-05&video=false
+  slides: /talks/2025-12-YOW-uncharted-territory-elavsky.pdf
 - title: "Data Visualization and Accessibility"
   location: Brown University
   date: 2025-11-20
