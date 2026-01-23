@@ -16,10 +16,10 @@ class: talks
 
 I am passionate about accessibility and data visualization, which is my most-common talk subject. (I love talking and teaching about other things too, of course.)
 
-Below is one of my favorite shorter (~25min) talks on [*softerware*](https://arxiv.org/abs/2502.18348) (accessibility, visualization, and personalization) which I gave at Outlier in Miami in 2025.
+Below is one of my favorite talks, on *tool-making*, which I gave as the closing keynote for DDD Brisbane in December of 2025.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe width="100%" height="100%" style="position: absolute; top: 0; left: 0;" src="https://www.youtube.com/embed/IleWP0gCeOc?si=txsujzPn53hOxqms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="100%" height="100%" style="position: absolute; top: 0; left: 0;" src="https://www.youtube.com/embed/W9LDW-t09oY?si=fnWsKpKawhkwozmX&cc_lang_pref=en&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
 
