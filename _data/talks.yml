@@ -1,8 +1,9 @@
-# - title: "Data Visualization and Accessibility"
-#   location: (Full Course), Open Visualization Academy
-#   date: 2026-01-15
-#   slides:
-#   url:
+- title: "Data Visualization and Accessibility"
+  location: (Full Course), Open Visualization Academy
+  date: 2026-01-30
+  recording: https://openvisualizationacademy.org/courses/accessibility-in-data-visualization/introduction/introduction/
+  slides: https://ovastgacct.blob.core.windows.net/ovamedia/course_materials/Slides_all.pdf
+  url: https://openvisualizationacademy.org/courses/accessibility-in-data-visualization/introduction/introduction/
 - title: "Data Visualization and Accessibility"
   location: YOW! Sydney
   date: 2025-12-12
