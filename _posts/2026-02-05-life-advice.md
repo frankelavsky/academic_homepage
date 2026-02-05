@@ -51,9 +51,10 @@ And in the workplace (and in life, really), ADHD'ers often push far too hard or 
 ### External/social advice
 
 In terms of other things (outside of an internal+individualistic lens), it's really important to also:
-1. find happiness with the people in your life and not put yourself + your work too highly in your relationships (have hobbies, friends out of work, etc)
-2. do things that are socially good and gratifying (advocacy, community organizing, or volunteer work) because this will remind you that you have a place in this world that isn't centered on a job
-3. accept the kindness of others (this is especially important because you're the sort of ADHD'er who is heavily self-deprecating, depressed, and so on). Allowing yourself to be loved is pretty much central to a life well-lived
+1. DeLashmutt gave you this advice and it is 100% true, but "learn when to say no, because it allows you to say yes to other things" (and how to say no well). Your rejection dysphoria, combined with the fact you are easily distracted by new things, makes it very hard to say no to things. But people won't hate you for having other priorities sometimes. (Do remember to say yes occasionally, though! Don't always do everything for yourself, of course!)
+2. Find happiness with the people in your life and not put yourself + your work too highly in your relationships (have hobbies, friends out of work, etc)
+3. Do things that are socially good and gratifying (advocacy, community organizing, or volunteer work) because this will remind you that you have a place in this world that isn't centered on a job
+4. Accept the kindness of others (this is especially important because you're the sort of ADHD'er who is heavily self-deprecating, depressed, and so on). Allowing yourself to be loved is pretty much central to a life well-lived
 
 
 ### Resisting work culture
