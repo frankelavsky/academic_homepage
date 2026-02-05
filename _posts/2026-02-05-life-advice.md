@@ -44,7 +44,16 @@ The important parts of having a happy life (from an internal lens) have been:
 3. having a willingness to navigate the tension between pushing for something and letting something go
 4. and getting good sleep at night
 
-I've found that creating coping mechanisms and developing strategies that get me to go to bed and wake up at the exact same times every day affects my happiness, executive function, and general brain health more than any medication. It's pretty much the number one thing to focus on, especially if you're doing something new and hard (like looking for or getting a job).
+On knowing yourself, I often say that within me are two wolves: one that loves and one that hates. (These are both different shapes of my neuro-divergence.) Basically, this meme from [Qasharah Reid on facebook](https://www.facebook.com/photo/?fbid=122200662602549725&set=gm.1356180386415436&idorvanity=640421687991313):
+
+<figure style="display: block; width: 60%; margin-left: auto; margin-right: auto;">
+    <img src="https://www.frank.computer/images/two_wolves.jpg" alt="Inside you are two wolves. A black wolf and a white wolf stare at each other with the moon behind them. The black wolf is labeled ADHD, the other Autism."/>
+    <figcaption>My love of data visualization (left) and my hatred for inaccessibility (right).</figcaption>
+</figure>
+
+Knowing that I get bored and depressed means that I need to seek stimulation. And two pure forms of motivation within me are my appreciation for the work of people who visualize data and my frustrations with the lack of access that people with disabilities have. Love and spite have carried me through so much. *I've got that dog in me,* so to speak.
+
+On sleep: I've found that creating coping mechanisms and developing strategies that get me to go to bed and wake up at the exact same times every day affects my happiness, executive function, and general brain health more than any medication. It's pretty much the number one thing to focus on, especially if you're doing something new and hard (like looking for or getting a job).
 
 And in the workplace (and in life, really), ADHD'ers often push far too hard or dig too deep into something at the wrong times, while abandoning or letting things go that should have been finished/wrapped up/polished. And knowing this about yourself can help you decide how to move and navigate complex landscapes like tech work. Stopping yourself and saving your energy are so key. 
 
