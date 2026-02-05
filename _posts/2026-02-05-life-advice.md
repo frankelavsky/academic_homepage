@@ -7,11 +7,15 @@ tags:
 description: "Advice I would have given to my past self, who was graduating college."
 ---
 
+Obviously, my advice here is intended towards students who are graduating even though it is written towards myself. Some stuff I say here, like referencing my upbringing or my theology/philosophy degree, are not broadly applicable to other people.
+
+But presenting this as an honest letter from myself now (about to finish a PhD) to myself 10 years ago (about to finish my undergrad) is important because many of the anxieties and the fears I had then are simply not present now. I'm also on the job market, but I'm in a completely different space (mentally, physically, socially, and materially).
+
 ## Background
 
 This blog post started from a few places. Every now and then a student of mine asks me for life advice (and I've never really formalized it). But often, the way I structure the advice is the same: internal, external, and specific advice related to our present-day philosophies and cultures of the "work-self" and "work-life" in the US and tech industry.
 
-So, in order for the advice below to really make sense, I just want to add context about myself and my past:
+So, in order for the advice below to really make sense, I first just want to add context about myself and my past:
 I am diagnosed ADHD (was diagnosed in the 90s), am also neurodivergent outside of the scope of ADHD (whatever we call that isn't too relevant to me), I have lived with a few disabilities (one of which required multiple surgeries before I turned 19, which nearly killed me), and my family life was a mess.
 
 But my mother at the time was a drug addict on social security disability and a public school teacher's pension (which she took early). At 18, she had kicked me out, so I was on my own. My father is homeless and completely out of the picture.
