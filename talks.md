@@ -14,7 +14,7 @@ class: talks
 
 # Talks, Workshops, and Guest Lectures
 
-I am passionate about accessibility and data visualization, which is my most-common talk subject. (I love talking and teaching about other things too, of course.)
+I am passionate about accessibility and data visualization, which is my most-common talk subject. (I love talking and teaching about other things too, of course.) I also have a full-length, [free and open course on accessibility and visualization at the Open Visualization Academy](https://openvisualizationacademy.org/courses/accessibility-in-data-visualization/introduction/introduction/).
 
 Below is one of my favorite talks, on *tool-making*, which I gave as the closing keynote for DDD Brisbane in December of 2025.
 
