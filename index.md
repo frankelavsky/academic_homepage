@@ -14,7 +14,7 @@ I design and build software <strong><a href="https://www.frank.computer/projects
 
 My work has been recognized for its <a href="https://hcii.cmu.edu/hcii-impacts/chartability">significant societal contributions</a>, shaping systems work in: 15+ government and policy orgs internationally (World Health Organization, European Commission), 80+ businesses and corporations (including 3 of the Fortune 5), 20+ news and journalism groups (BBC, NYT), 50+ community organizations and non-profits (Special Olympics, Data Viz Society), and 24+ higher-ed classrooms.
 
-I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dominik Moritz](https://www.domoritz.de/) and [Patrick Carrington](https://www.patrickcarrington.com/) and a member of the [Data Interaction Group](https://dig.cmu.edu/) and [AXLE Lab](https://axle-lab.com/). I have had broad industry collaborations as well, with details you can find in [my cv](https://www.frank.computer/cv/).
+In the Fall of 2026, I will be an incoming assistant professor of data science at [Cal Poly](https://www.calpoly.edu/), in San Luis Obispo. I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am advised by [Dominik Moritz](https://www.domoritz.de/) and [Patrick Carrington](https://www.patrickcarrington.com/) and a member of the [Data Interaction Group](https://dig.cmu.edu/) and [AXLE Lab](https://axle-lab.com/). I have had broad industry collaborations as well, with details you can find in [my cv](https://www.frank.computer/cv/).
 
 </div>
 
@@ -27,6 +27,7 @@ I'm presently a PhD Candidate (ABD) at the [Human-Computer Interaction Institute
 </picture>
 
 {:.no-list}
+* Incoming Assistant Prof of Data Science, Cal Poly
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 * {{ site.address }}
 </div>
@@ -88,7 +89,7 @@ My Ph.D. dissertation, titled "<b>Toolmaking as an intervention on the accessibi
 
 <div class="intro" markdown="1">
 
-Since starting my PhD, I have had collaborations with wonderful folks at [Highsoft's Highcharts](https://www.highcharts.com/) 📊, [Apple](https://www.apple.com/) <i class="fab fa-apple" aria-label="apple logo"></i>, [Adobe](https://www.adobe.com/), [Fizz Studio](https://fizz.studio/), [SRI](https://www.sri.com/research/education-learning/), [UW-Madison's WGNHS](https://home.wgnhs.wisc.edu/), [Northwestern University's MLDS](https://www.mccormick.northwestern.edu/machine-learning-data-science/), [Quansight Labs](https://labs.quansight.org/), [FiveThirtyEight](https://fivethirtyeight.com/), [tldraw](https://tldraw.dev/), [Visa](https://design.visa.com/data-visualization/charts/overview/examples/), and [Microsoft](https://www.microsoft.com/).
+During my PhD, I had collaborations with wonderful folks at [Highsoft's Highcharts](https://www.highcharts.com/) 📊, [Apple](https://www.apple.com/) <i class="fab fa-apple" aria-label="apple logo"></i>, [Adobe](https://www.adobe.com/), [Fizz Studio](https://fizz.studio/), [SRI](https://www.sri.com/research/education-learning/), [UW-Madison's WGNHS](https://home.wgnhs.wisc.edu/), [Northwestern University's MLDS](https://www.mccormick.northwestern.edu/machine-learning-data-science/), [Quansight Labs](https://labs.quansight.org/), [FiveThirtyEight](https://fivethirtyeight.com/), [tldraw](https://tldraw.dev/), [Visa](https://design.visa.com/data-visualization/charts/overview/examples/), and [Microsoft](https://www.microsoft.com/).
 
 I was formerly a [W3C invited expert in data visualization in the ARIA Working Group](https://www.w3.org/groups/wg/aria/former-participants/#:~:text=Frank%20Elavsky) and currently still volunteer my time with [other efforts](https://www.frank.computer/cv/#service).
 
