@@ -27,7 +27,9 @@ In the Fall of 2026, I will be an incoming assistant professor of data science a
 </picture>
 
 {:.no-list}
-* Incoming Assistant Prof of Data Science, Cal Poly
+* Incoming:
+* Assistant Prof of Data Science
+* Cal Poly
 * <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 * {{ site.address }}
 </div>
