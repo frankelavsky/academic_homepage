@@ -115,7 +115,7 @@ Despite all of this, I am definitely anti- "hustle culture." 7 year olds shouldn
 ## Latest News
 
 <ul>
-{% for news in site.data.news limit:10 %}
+{% for news in site.data.news limit:6 %}
   {% include news.html news=news %}
 {% endfor %}
 </ul>
