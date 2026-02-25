@@ -105,7 +105,7 @@ And before I had a "career" in any singular sense (which I embarked on when I gr
 
 I won "paperboy of the quarter" in Q1 of 2004 and subsequently quit the following quarter. I still have the plaque! My mom first got me that job (initially under her name, since employing a 7 year old is definitely against child labor laws). She was very pro- when it came to child labor. There were about 1.5 years between age 14 (in '04) and my first wage job at 15.5 where I didn't have any job. Consequently, that was also the time I assembled my first coherent draft of [Braven](https://www.frank.computer/projects/#Personal:-Braven), which I had started working on in '02 (and still work on, to this day).
 
-Despite all of this, I am definitely anti- "hustle culture." 7 year olds shouldn't be delivering papers. And when I wasn't working for that tiny window in my childhood, I gave life to my favorite, longest running hobby: writing fiction. I look forward to many future nights, weekends, and years of my life where I'm not laboring quite as much. All the bet things I've done in my life, didn't make any money at all.
+Despite all of this, I am definitely anti- "hustle culture." 7 year olds shouldn't be delivering papers. And when I wasn't working for that tiny window in my childhood, I gave life to my favorite, longest-running hobby: writing fiction. I look forward to many future nights, weekends, and years of my life where I'm not laboring quite as much. All the best things I've done in my life didn't make any money at all.
 
 </div>
 
