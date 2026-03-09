@@ -38,6 +38,11 @@ Enrico writes,
 <hr>
 <br>
 
+<figure style="display: block; width: 90%; margin-left: auto; margin-right: auto;">
+    <img src="https://www.frank.computer/images/slopzone.png" alt="The prototype slop zone by Frank Elavsky. Diagram. There are two axes. X axis is how technically refined an artifact is, starting low and increasing. Y axis is how intellectually refined an idea is, starting low and increasing. In the upper left (high idea refinement, low artifact refinement), an annotation says, 💡 what users want gnAI for (for their brilliant ideas), an arrow points to an area labeled (zone of missing skills). The in the bottom right an annotation says what genAI enables 🫠. Low fidelity prototypes fill the left side near the bottom (low technical refinement and ideation), mid-fidelity in the middle of the diagram, and high fidelity fills the upper right (high ideation, high technical refinement). A tiny slice in the top right corner (maxed on both axes) says no longer a prototype."/>
+    <figcaption>If you believe that prototypes are merely an idea-first-made-real, rather than prototypes representing a means to refine the ideas they represent, this helpful diagram might help you realize a few things (namely that folks often assume what they lack are skills, when they often lack skills AND well-refined ideas).</figcaption>
+</figure>
+
 ## Is iterative ideation itself a bottleneck?
 
 In some contexts, slow prototyping is probably a "bottleneck," sure. But prototyping is central to generating an understanding of the thing you're making, questioning your assumptions, and trying to communicate the rawest components of your ideas. None of those inherently get better if you do them faster.
