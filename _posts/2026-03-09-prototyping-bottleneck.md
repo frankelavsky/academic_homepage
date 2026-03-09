@@ -39,6 +39,8 @@ I don't want to interpret Enrico's words too harshly or in an ungenerous way (bu
 
 One of the main challenges, before I really jump in, is that building something quickly can be good *if you know exactly what you are doing*. And this is the danger! Students haven't learned all kinds of things about software and how to think about users, human cognition and perception, and more. And non-technologists are often unopinionated about the detailed design and engineering intricacies that someone who is more-experienced in technology comes to consider.
 
+**But people tend to assume that the ideas they have in their head are really good, if they aren't used to rigorously iterating on ideas.**
+
 Sometimes... slowing down is good for *you*, the builder! And sometimes going fast is awesome, but you must absolutely know what you're doing. (And at that point, genAI is very-rarely much of a speed-boosting tool. GenAI users tend to spend far more time checking output and logic [compared to when they write code themselves](https://arxiv.org/abs/2507.09089).)
 
 *So, consider this blog post a response to the least-generous interpretation that one might have of the world around us; peering at the worst-case scenario uses of genAI and not just the optimistic ones.*
