@@ -10,7 +10,7 @@ tags:
 - large-language models
 - ai
 - agentic models
-description: "I keep hearing folks claim that the fact we can 'prototype' so quickly now thanks to modern genAI is a good thing. But what if the slow parts about prototyping are actually what makes it worth doing?"
+description: "I keep hearing folks claim that the fact we can 'prototype' so quickly now is a good thing (thanks to modern genAI). But what if the slow parts about prototyping are actually what makes it worth doing?"
 ---
 
 (This post is a part of my new mantra moving to Cal Poly SLO: "move SLO and repair things," which is in direct tension with the mantra from the tech industry "move fast and break things" as well as a play on the abbreviation of San Luis Obispo, where I will soon work. I want to cultivate a research culture and lifestyle focused on maintenance, careful deliberation, and *care*, as defined in the feminist sense of the word.)
