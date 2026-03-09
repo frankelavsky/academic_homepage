@@ -71,7 +71,7 @@ I agree that a shift is taking place. But I don't think we should just move forw
 
 I've written about prototypes before, and what I think much of our literature misses on the subject: that prototypes are actually a tool for *communicating*. ([This blog post of mine on prototyping](https://www.frank.computer/blog/2024/01/what-is-a-prototype.html) was my most-visited post, before [my post on AI + Tools](https://www.frank.computer/blog/2025/05/just-a-tool.html) came out. Funnily enough, *this* post I'm writing right now seems to be marrying the two.)
 
-The fact that we can build functional symbols communicating *faster* isn't necessarily good, if we don't have a firm grasp of the idea itself in our head in the first place. One of the best parts about prototyping, to me, are the slowest parts: you draw something out with a pencil and paper, you cut out pieces of cardboard, you use some lego bricks to scaffold something, you get up to a whiteboard with a few other people and start squaking your pens across the blank canvas together... *and you talk about that stuff with each other.*
+The fact that we can build functional symbols communicating *faster* isn't necessarily good, if we don't have a firm grasp of the idea itself in our head in the first place. One of the best parts about prototyping, to me, are the slowest parts: you draw something out with a pencil and paper, you cut out pieces of cardboard, you use some lego bricks to scaffold something, you get up to a whiteboard with a few other people and start squeaking your pens across the blank canvas together... *and you talk about that stuff with each other.*
 
 "Prototyping" is *not* a linear pipeline that goes from an idea in your head into a material artifact that represents that idea.
 
