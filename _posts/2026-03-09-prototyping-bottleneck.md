@@ -35,6 +35,14 @@ Enrico writes,
 > 
 > All of a sudden, an idea in my head can be transformed into a tangible prototype very quickly. This has enormous implications for applied research. If I work with a partner in a specific domain, I can quickly show something rather than talk. If I am good enough, I can even build something they can use pretty quickly."
 
+I don't want to interpret Enrico's words too harshly or in an ungenerous way (but I could, if this was all I saw!). I think Enrico has remarked in the past on many occasions that genAI is creating new challenges. And I want to unpack some assumptions I see here in this post, as well as assumptions (and dangerous ones!) that I've seen many other people express.
+
+One of the main challenges, before I really jump in, is that building something quickly can be good *if you know exactly what you are doing*. And this is the danger! Students haven't learned all kinds of things about software and how to think about users, human cognition and perception, and more. And non-technologists are often unopinionated about the detailed design and engineering intricacies that someone who is more-experienced in technology comes to consider.
+
+Sometimes... slowing down is good for *you*, the builder! And sometimes going fast is awesome, but you must absolutely know what you're doing. (And at that point, genAI is very-rarely much of a speed-boosting tool. GenAI users tend to spend far more time checking output and logic [compared to when they write code themselves](https://arxiv.org/abs/2507.09089).)
+
+*So, consider this blog post a response to the least-generous interpretation that one might have of the world around us; peering at the worst-case scenario uses of genAI and not just the optimistic ones.*
+
 <hr>
 <br>
 
