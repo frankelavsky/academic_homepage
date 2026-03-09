@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On LLMs: Was prototyping really a bottleneck?"
+title: "On genAI: Was prototyping really a bottleneck?"
 slug: prototyping-bottleneck
 tags:
 - prototyping
@@ -10,10 +10,13 @@ tags:
 - large-language models
 - ai
 - agentic models
-description: "I keep hearing folks claim that the fact we can 'prototype' so quickly now is a good thing. But what if the slow parts about prototyping were actually good?"
+description: "I keep hearing folks claim that the fact we can 'prototype' so quickly now thanks to modern genAI is a good thing. But what if the slow parts about prototyping are actually what makes it worth doing?"
 ---
 
-(This post is a part of my new mantra moving to Cal Poly SLO: "move SLO and repair things," which is in direction tension with the mantra from the tech industry "move fast and break things" as well as a play on the abbreviation of San Luis Obispo, where I will soon work. I want to cultivate a research culture and lifestyle focused on maintenance, careful deliberation, and *care*, as defined in the feminist sense of the word.)
+(This post is a part of my new mantra moving to Cal Poly SLO: "move SLO and repair things," which is in direct tension with the mantra from the tech industry "move fast and break things" as well as a play on the abbreviation of San Luis Obispo, where I will soon work. I want to cultivate a research culture and lifestyle focused on maintenance, careful deliberation, and *care*, as defined in the feminist sense of the word.)
+
+<hr>
+<br>
 
 Ever since ChatGPT, folks have frequently remarked something along the lines of, "LLMs are so fast, now we can easily scaffold prototypes! Finally, the bottleneck is gone!" *Bottleneck?* Was the problem with prototyping the fact it took too long? Some nerd (Microsoft guy maybe?) said the even-more-ridiculous "finally the bottleneck from typing is gone" as if the speed of typing is what was holding back new ideas and features and improvement and so on.
 
@@ -25,21 +28,31 @@ Ever since ChatGPT, folks have frequently remarked something along the lines of,
 Enrico writes,
 
 > "I am convinced we are in a new era for Visual Analytics (VA) (i.e., visual interactive data interfaces), but I am not sure we have yet realized it.
+> 
 > In VA, building and refining a prototype has always been a costly bottleneck. This is no longer true. A single skilled person can build a working prototype in a matter of hours. They can also thrash it and rebuild it within hours. Heck! They can even build three alternatives and show all of them in maybe 1-2 days. This is no small change. It's massive.
+> 
 > How do we deal with that?
-> All of a sudden, an idea in my head can be transformed into a tangible prototype very quickly. This has enormous implications for applied research. If I work with a partner in a specific domain, I can quickly show something rather than talk. If I am good enough, I can even build something they can use pretty quickly.""
+> 
+> All of a sudden, an idea in my head can be transformed into a tangible prototype very quickly. This has enormous implications for applied research. If I work with a partner in a specific domain, I can quickly show something rather than talk. If I am good enough, I can even build something they can use pretty quickly."
 
-My response:
+<hr>
+<br>
 
-In some contexts, prototyping is probably a "bottleneck" but prototyping is also central to generating an understanding of the thing you're making, questioning your assumptions, and trying to communicate the rawest components of your ideas.
+## Is iterative ideation itself a bottleneck?
 
-In terms of idea+prototype "fidelity" (understood as "faithfulness") I reckon we need to now consider: whose ideas is this prototype faithful to? Is this prototype faithful to the original human creator, or are there embedded biases in this prototype's function and construction because it was made using agentic tools/modern models? An "unfaithful" prototype (what we call "low fidelity") now has a new meaning, because we can more easily create prototypes that appear to be high fidelity, but may not actually be faithful to the intricacies of any particular idea at all.
+In some contexts, slow prototyping is probably a "bottleneck," sure. But prototyping is central to generating an understanding of the thing you're making, questioning your assumptions, and trying to communicate the rawest components of your ideas. None of those inherently get better if you do them faster.
 
-This line, in particular, I think *does* have enormous implications for applied research, but I wouldn't necessarily assume that the implications are all good.
+In terms of prototype "fidelity" (understood as "[faithfulness](https://www.frank.computer/blog/2024/01/what-is-a-prototype.html)") I reckon we need to now consider: *whose* ideas is this prototype faithful to? Is this prototype faithful to the original human creator, or are there embedded biases in this prototype's function and construction because it was made using agentic tools/modern models?
+
+An "unfaithful" prototype now has a new meaning, because we can more easily create prototypes that *appear* to be high fidelity, but may not actually be *faithful* to the intricacies of any particular idea at all.
+
+This line below, in particular, I think *does* have enormous implications for applied research, but I wouldn't necessarily assume that the implications are all good:
 
 > All of a sudden, an idea in my head can be transformed into a tangible prototype very quickly. This has enormous implications for applied research.
 
 I agree that a shift is taking place. But I don't think we should just move forward as if the act of slowly prototyping itself was a problem to solve. I would argue that the act of prototyping (*especially* when done slowly) is still valuable as a necessary step we take as creators, attempting to make something new. (As a note, I get disappointed with the view that a "prototype" is the same as "a first attempt to create something" and not "an artifact I use to reflexively to discover+congeal my own ideas and communicate with.")
+
+## Is faster communication... *better*?
 
 I've written about prototypes before, and what I think much of our literature misses on the subject: that prototypes are actually a tool for *communicating*. ([This blog post of mine on prototyping](https://www.frank.computer/blog/2024/01/what-is-a-prototype.html) was my most-visited post, before [my post on AI + Tools](https://www.frank.computer/blog/2025/05/just-a-tool.html) came out. Funnily enough, *this* post I'm writing right now seems to be marrying the two.)
 
@@ -51,6 +64,8 @@ The fact that we can build functional symbols communicating *faster* isn't neces
 
 And this is why I am actually worried about prototyping that moves *too* fast. And in fact fast-prototyping-as-a-problem isn't new! Researchers who studied "fidelity" in prototyping have long discussed how moving too quickly to higher fidelity prototyping can bias your future ideas, bias your outcomes, and ultimately produce *more* costs, not less, down the road (see this [seminal summary of the great older battles on fidelity by Rudd, Stern, and Isensee](https://dl.acm.org/doi/pdf/10.1145/223500.223514)).
 
+## Are genAI prototypes *anti-social*?
+
 So back to Enrico's argument here... I'm not sold that faster = better and *certainly* not sold that faster = better = cheaper (specifically responding to the sentiment in his post that it has "always been a costly bottleneck"). I think that existing literature would argue quite the opposite. Faster = 1) more assumptions are missed in the core ideas, 2) ideas that appear already-refined become immune to questioning, and 3) faster, more-refined prototypes are ultimately less social.
 
 *Yes!* You heard me: Faster prototypes mean *anti-social* prototypes. This final point (which I am making, not necessarily something I've read in the literature on this) is actually the most important one to make (which I've already brought up earlier): but that **prototypes are about symbol-making for the purpose of communicating**. If you were the only person left alive on this earth, but you still learned how to speak, you would likely not lose your internal dialogue. You would still speak, even to yourself, to think through things. And prototyping, as an act and process (not a destination), is about that symbol-making. You're working through whatever idea needs forming and needs new symbols for expressing. Prototypes are a form of self-socializing ideation. And their inherently symbol-rich, generative nature makes them idea for socializing with others.
@@ -58,6 +73,8 @@ So back to Enrico's argument here... I'm not sold that faster = better and *cert
 But inviting someone to write a language with you is different than asking someone to critique a sentence you wrote. Prototyping that is low fidelity (and slower) is the first kind. Higher fidelity (with LLM assistance or otherwise) invites the second. We *want* socialization on the core symbols and ideas we choose to construct! And that might always have a *human* bottleneck built into it (for as long as we humans are in charge of prototyping, that is).
 
 But just to drive this home: ***socializing your idea* is the real value of a prototype**. Socializing a raw idea is a fundamental epistemic activity that we do. And I honestly wouldn't like ideation, as a human act, if I only ever did it alone or with a machine that simply confirms my biases and listens to my instructions. Refining, discussing, sharing, mixing, appropriating, and fusing ideas are actions that really only come into the picture once we have a prototype in between a few people who are trying to figure something out together.
+
+## Socially constructing meaning is slow (and good!)
 
 But *why* is socializing so important? Because our intelligence is *positional* and *situated*. We have "horizons" of knowledge, and limits, as singular beings. We are not objective. Yet through social inclusion in the act of making and forming ideas, we broaden the angles and horizons of our social constructs. And for this reason, prototypes that are socialized are simply better, more meaningful creations. I'd even argue that a prototype that isn't socialized isn't a prototype at all, it is just an early attempt at making something: the focus is on the *object* being made, not the idea it represents. And it's that human socialization and collective meaning-making that turn an artifact-in-process into a prototype that is refining something outside of itself: an *idea-in-process*.
 
@@ -72,6 +89,16 @@ And it *does* seem ironic to me to socialize the idea that prototyping=faster=ch
 <hr>
 <br>
 
-Now, the real spicy take of mine (imagine the armchair psychologist within me saying this): I don't think the "bottleneck" that existed was any more than simply *human impatience*. We don't want fast because fast is actually better or cheaper. We want fast because fast *feels more secure*. It feels *stronger*. It feels *productive*. Fast is affective and subjective more than it is objectively good. And we want the *appearance of fast*, even if (by actual measurement), [things are just the same or even slower](https://arxiv.org/abs/2507.09089).
+## Bonus take: the psychology of *faster = better*
 
-We don't like that our ideas and symbols are in-process, fragile, and flimsy... *and that we have to sit with that reality for a while before making something good and meaningful*. We want our ideas and symbols to appear as-congealed as possible as quickly as possible. And large-language models give us *performative fidelity*; a sort of fake faithfulness to ideas we haven't actually invested enough time into and haven't socialized. Large-language models then simply become yet another function of anti-fluidity, seeking to box up a thought as soon as we have it and transform that thought into a commodified, less-flexible unit, which we can claim is an "idea" that has been "prototyped" (without any symbol-making and socialization necessary!). "Prototyping is faster now" yet another example of the make-you-feel-less-insecure style of marketing that modern model companies take advantage of. Marketing [sold us the need for deodorant by stoking human insecurity](https://www.smithsonianmag.com/history/how-advertisers-convinced-americans-they-smelled-bad-12552404/), and now it's working on software engineering, too.
+Now, the real spicy take of mine (imagine the armchair psychologist within me saying this): I don't think the "bottleneck" that existed was any more than simply manufactured *human impatience*. We don't want fast because fast is actually better or cheaper. We want fast because someone convinced us that fast *feels more secure*. We have been told that fast feels *stronger*; feels *productive*. Fast makes the line go up and lines going up is a good thing.
+
+But *fast* is affective and subjective more than it is objectively good. We have socially constructed why time matters and by extension we have socially constructed why faster things matter. And so the objective speed of something is actually secondary to our perception and understanding of speed. As anxiety-ridden animals, we have invented the want for things that *appear* fast, even if (by actual measurement), [things can be just the same speed or even slower](https://arxiv.org/abs/2507.09089).
+
+We are taught not to like that our ideas and symbols are in-process, fragile, and flimsy... *and that we have to sit with that reality for a while before making something good and meaningful*. We want our ideas and symbols to appear as-congealed as possible as quickly as possible. Binary gender suffers from this problem! "Man" and "woman" are so strong and congealed and total and without nuance. Yippe! We are safe from fluidity now, so long as we ascribe to a gender binary!
+
+And so large-language models give us *performative fidelity*; a sort of false, constructed faithfulness to ideas we haven't actually invested enough time into and haven't socialized. If anything, they construct loyalty to under-formed ideas more than they actually construct ideas, because constructing ideas is slow and messy!
+
+Large-language models then simply become yet another social function of anti-fluidity, seeking to box up a thought as soon as we have it and transform that thought into a commodified, less-flexible unit, which we can claim is an "idea" that has been "prototyped" (without any symbol-making and socialization necessary!). This brain-fart-to-built-UI pipeline is so fast that it might actually begin to convince people that their lightly-sautéed neuron-events are actually really well-thought-out, mature concepts like slapping sheepskin on a lamb.
+
+"Prototyping is faster now" is yet another example of the make-you-feel-less-insecure style of marketing that every modern company dreams of taking advantage of. Marketing [sold us the need for deodorant by stoking human insecurity](https://www.smithsonianmag.com/history/how-advertisers-convinced-americans-they-smelled-bad-12552404/), and now it's working on the impatience and insecurities of software engineers, too.
