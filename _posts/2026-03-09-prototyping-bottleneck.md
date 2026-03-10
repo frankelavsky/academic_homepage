@@ -103,6 +103,8 @@ In "[what do prototypes prototype?](https://hci.stanford.edu/courses/cs247/2012/
 
 I worry about prototypes that are *too* refined *too* soon. Will they alienate our ideas, because our ideas are less inviting for critique/reshaping at fundamental levels? (Isn't it ironic, that using a *language model* possibly holds us back from building a truly social new set of symbols for communicating an emerging, shared space of thinking?)
 
+A good prototype can be fast, but it *needs* to be a little bit shitty, too. The fastest prototypes I've ever built are still far faster than an LLM-prompted mini-app and contain far fewer baked in patterns and assumptions about what I'm trying to accomplish. The humble pen and paper, cut out pieces of paper, and lego brick styles of prototyping are all undefeated ways to build a shared set of symbols about a new idea with someone. Plus, they're fun to collaborate with, as a design material! Until we can have easy to use, small, modular, generic, programmable soft and hard materials, doing things with smoke and mirrors and little trinkets is still my favorite way to do things.
+
 Anyway, this blog post is a largely-unstructured brain-dump in response to a linkedin post. Thanks to Enrico for posting it! It certainly got my juices flowing.
 
 And it *does* seem ironic to me to socialize the idea that prototyping=faster=cheaper=good (that all of these things are true and related). That seems like an idea that has been developed *too far*... it has too much fidelity, not enough prototyping. Perhaps I would recommend going back to the drawing board and re-assessing this?
