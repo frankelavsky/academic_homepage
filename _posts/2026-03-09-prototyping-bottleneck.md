@@ -131,3 +131,8 @@ And so large-language models give us *performative fidelity*; a sort of false, c
 Large-language models then simply become yet another social function of anti-fluidity, seeking to box up a thought as soon as we have it and transform that thought into a commodified, less-flexible unit, which we can claim is an "idea" that has been "prototyped" (without any symbol-making and socialization necessary!). This brain-fart-to-built-UI pipeline is so fast that it might actually begin to convince people that their lightly-sautéed neuron-events are actually really well-thought-out, mature concepts; *like slapping sheepskin on a lamb*.
 
 "Prototyping is faster now" is yet another example of the make-you-feel-less-insecure style of marketing that every modern company dreams of taking advantage of. Marketing [sold us the need for deodorant by stoking human insecurity](https://www.smithsonianmag.com/history/how-advertisers-convinced-americans-they-smelled-bad-12552404/), and now it's working on the impatience and insecurities of software engineers, too.
+
+<hr>
+<br>
+
+Note: Niklas Elmqvist's postdoc Gaby is actually running a survey right now on genAI use in visualiztion. Perhaps if you're reading this post, you can be convinced to [hop over and help them with their research by taking their survey](https://survey.au.dk/servlet/com.pls.morpheus.web.pages.CoreRespondentCollectLinkAnonymous)?
