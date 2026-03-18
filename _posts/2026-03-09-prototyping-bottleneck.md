@@ -135,4 +135,4 @@ Large-language models then simply become yet another social function of anti-flu
 <hr>
 <br>
 
-Note: Niklas Elmqvist's postdoc Gaby is actually running a survey right now on genAI use in visualiztion. Perhaps if you're reading this post, you can be convinced to [hop over and help them with their research by taking their survey](https://survey.au.dk/LinkCollector?key=7FDF493VJP1N)?
+Note: Niklas Elmqvist's postdoc Gaby is actually running a survey right now on genAI use in visualization. Perhaps if you're reading this post, you can be convinced to [hop over and help them with their research by taking their survey](https://survey.au.dk/LinkCollector?key=7FDF493VJP1N)?
