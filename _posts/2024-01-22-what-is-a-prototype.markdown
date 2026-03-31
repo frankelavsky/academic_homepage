@@ -13,6 +13,14 @@ description: In this short reflection, I explore a rather unorthodox answer to "
 </div>
 <em>A prototype. <a href="https://commons.wikimedia.org/wiki/File:Design_Thinking_Workshop_WMDE_Prototyp_Wiki-Dorf.jpg">Corinna Schuster (WMDE)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</em>
 
+## [2026 Update]
+
+(This blog post has been my best-performing by a massive margin over the last 16 months (>150k impressions, versus <90k for my second-best). This is arguably a better-performing artifact than my research papers!
+
+For this reason, I'm adding a short update: I'm glad people are looking up "what is a prototype?" and have found this. I'm glad folks are more willing to interrogate "fidelity" and what that means. And I'm also glad that more people are beginning to understand that prototypes are about refining an *idea*, not just refining the *representation* of that idea (the prototype itself). Keep it up!
+
+And genAI, as of 2026, has complicated prototyping and the conversation immensely. In some ways, we can build much faster. But I've written another blog post about [the dangers of prototyping too fast](https://www.frank.computer/blog/2026/03/prototyping-bottleneck.html). I recommend that you read that post after this one. Consider this one the introduction to how to think about prototyping. That one is intermediate.)
+
 ## Background reading
 *This post is an excerpt of a reading reflection on a small collection of papers related to prototypes in HCI.*
 Before jumping in to my reflection, the two seminal papers that inspired this post are:

@@ -14,6 +14,19 @@ tags:
 description: "I'm tired of this phrase and this simple way of thinking about tools. This blog post is a wandering train of thought on the topic of what tools are and why it matters to be even slightly more mature in how we think about them."
 ---
 
+## [2026 Update]
+
+This post has garnered significant traffic to my blog as well as discussion on and offline over the last 10 months. For some google search queries (such as "ai just a tool"), this ranks in the top-2 search results consistently. So for folks finding this post, and my thoughts on the matter, I want to note that I've given a keynote on "tool-making" (which is the subject of my PhD) and I encourage you to read this blog and then consider watching the first 10 minutes (or so) of my talk. The introduction is a concrete walk-through of some of the ideas I discuss here in this blog. These two complement each other well:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe width="100%" height="100%" style="position: absolute; top: 0; left: 0;" src="https://www.youtube.com/embed/W9LDW-t09oY?si=fnWsKpKawhkwozmX&cc_lang_pref=en&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+
+And I have also recently written more, about very similar problems, in terms of how modern generative AI influences prototyping, and threatens what prototyping *should* be about. So if you're interested in further reading after this, consider checking out that [post on genAI+prototyping](https://www.frank.computer/blog/2026/03/prototyping-bottleneck.html).
+
+## Original post start:
+
 I've been thinking constantly about the common and casual phrase I've heard so often, "AI is just a tool - it matters how you use it." This has been the rallying cry of tech-loving academics who no longer do their own research, tech bros who salivate over generative images of criminal depictions of people without their consent, and business-minded folks who actually don't care about AI but see this as an opportunity to rake in more and more money for themselves.
 
 The phrase is deceptively simple and deceptively misleading. Yes, AI *is* a tool. And yes, it *is* important how we choose to use tools.
