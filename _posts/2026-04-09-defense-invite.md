@@ -12,7 +12,12 @@ description: "Have you ever seen a real-life wizard battle? 🧙🏻‍♂️"
 ---
 Greetings! This is an invite to attend my thesis defense, which is a public, hybrid-friendly event. This event will not be recorded.
 
-There will, of course, be refreshments and snacks at the event.
+## Details
+April 29th at 12pm noon
+
+In person (NSH 4305) as well as on zoom (zoom info in calendar link below).
+
+There will, of course, be refreshments and snacks at the event. Please feel free to invite others whom you believe might be interested in attending.
 
 You may [add this event to your calendar using this link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2I5dGI0YTZtOHAwbXYxc3VqcXV0aDA2OGIgZmplQGFuZHJldy5jbXUuZWR1&tmsrc=fje%40andrew.cmu.edu).
 
@@ -26,17 +31,6 @@ Patrick Carrington, Co-chair, Assistant Professor at CMU HCII
 Kenneth Holstein, Assistant Professor at CMU HCII
 Jennifer Mankoff, Professor at University of Washington
 Tamara Munzner, Professor at University of British Columbia
-
-Please feel free to invite others whom you believe might be interested in attending.
-
-You may join us in-person here at CMU or via zoom with the link shared in the calendar invite (previously).
-
-## Abstract
-In this dissertation, we contribute practical advancements in tool-making as an intervention on the accessibility of interactive data experiences. The thesis of this dissertation is as follows: This dissertation argues that the tools practitioners use to build interactive data experiences are themselves sites where accessibility barriers are produced, prevented, or alleviated for both end users and authors. This work contributes five tools—Chartability, Data Navigator, Softerware, Cross-perception, and Skeleton—that collectively center accessibility work on the empowerment of disabled and non-disabled practitioners across the full arc of evaluation, development, personalization, non-visual analysis, and design.
-
-This thesis is divided into 3 conceptualizations of accessibility tools, as different interventions on data experience design: as frameworks, scaffolding, and building blocks. Rather than limiting the framing of accessibility research towards understanding and elucidating ideal experiences for people with disabilities as “end users,” this thesis instead investigates gaps in how both disabled and non-disabled creators leverage tools to make data representations, interfaces, and experiences more accessible. Accessibility then not only defines the end goal, or ideal, when crafting data experiences but additionally becomes integral to the process of designing and building the tools that participate in reaching those end goals and ideals. Tools themselves, and their use, may produce inaccessibility and barriers for their creators. For this reason, the study of tools and their use is imperative for accessibility work.
-
-Together, these contributions provide both empirical insights and practical tools that bridge gaps in current accessibility practices, ultimately enabling practitioners to build richer, more inclusive data experiences for people with disabilities.
 
 ## Dissertation Document
 
