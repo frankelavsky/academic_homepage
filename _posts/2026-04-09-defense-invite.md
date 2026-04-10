@@ -13,13 +13,15 @@ description: "Have you ever seen a real-life wizard battle? 🧙🏻‍♂️"
 Greetings! This is an invite to attend my thesis defense, which is a public, hybrid-friendly event. This event will not be recorded.
 
 ## Details
-April 29th at 12pm noon
+April 29th, 2026 at 12pm noon Eastern Time
 
 In person (NSH 4305) as well as on zoom (zoom info in calendar link below).
 
 There will, of course, be refreshments and snacks at the event. Please feel free to invite others whom you believe might be interested in attending.
 
 You may [add this event to your calendar using this link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N2I5dGI0YTZtOHAwbXYxc3VqcXV0aDA2OGIgZmplQGFuZHJldy5jbXUuZWR1&tmsrc=fje%40andrew.cmu.edu).
+
+> If the google calendar link above doesn't work, [shoot me an email at fje@cmu.edu](mailto:fje@cmu.edu) and I'll send you the details!
 
 The talk is expected to be 45-50 minutes, followed by anywhere between 15 and 30 minutes of questions. We will likely start a couple minutes after the hour (turns out many wizards are, in fact, often late). You're welcome to attend any part of the event that interests you.
 
