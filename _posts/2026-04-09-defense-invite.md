@@ -108,9 +108,11 @@ If you're into cognitive and perceptual science, you'll probably get little of v
 
 That being said, the slightly-more-critical parts of my dissertation (which I enjoy the most) are found in the **introduction (1.1/1.2)** and **discussion sections (9.1-9.3)**. That might be good for the critical folks, theorists, ethicists, and proper "[sexy murder poets](https://philpapers.org/archive/BRITT-2.pdf)" of the field to check out.
 
-Systems-builders might get value from reading **data navigator**, **skeleton**, and **softerware**.
+System-builders might get value from reading **data navigator**, **skeleton**, and **softerware**. Maybe the whole thesis, too, to be honest. I'm this kind of researcher, so it's all generally written with myself in mind.
 
-Interaction design researchers might really enjoy the hardware work I did in **cross-perception**.
+Data people might really love **data navigator**, specifically if you enjoy data structures and graph theory. It's graph theory, but for an HCI/systems/UI software problem!
+
+Interaction design researchers might really enjoy the hardware work I did in **cross-perception**. You folks love when electronics and hardware work sneaks in. And some of our field's existing hardware work actually has potential for accessibility work!
 
 Purely graphic designers should probably check out **chartability**, to apply to your own work. **Skeleton** isn't a bad chapter either, since the whole idea is that we apply visualization to an accessibility problem.
 
