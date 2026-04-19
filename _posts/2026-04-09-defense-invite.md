@@ -66,13 +66,13 @@ Again, [here is the link to the thesis itself](https://drive.google.com/file/d/1
 
 That being said, many folks may want to check out one or some of the sections in the dissertation without having to read all of it. So here are some suggested readings for folks I know who are of different kinds:
 
-### Anyone who attends my thesis defense
+### 1. Anyone who attends my thesis defense
 
 Anyone who attends my thesis defense should probably check out my **acknowledgements** section. You're probably in there! If you aren't but think you should be, let me know!! I am terribly forgetful and would hate to leave out a friend, colleague, or supporter.
 
 It also might be worth it to skim my **biographical sketch**, especially because the introduction to it pokes fun at many other bio sketches where people love to point out their origins as a genius child in high school who then ascended to harvard/MIT/etc; brilliant because of their own individual genius, of course. By contrast, I have largely been an unremarkable and unaccomplished person. I was a terrible student in high school and mostly didn't "deserve" or earn the opportunities I had in life. And yet I did remarkable things regardless, mostly thanks to all the folks who have helped me out over the years. I hope my biography is a testament to the power of social support and that I have never really been a "main character" in my life. (Note that my own advisor joked that he wished he had paid more attention to my PhD application, because my undergraduate closed and I did poorly in high school. I probably shouldn't have been admitted to CMU, haha. He is *certainly* from a "real" academic and technical pedigree; he would know!)
 
-### You are a technical practitioner of some kind (non-researcher)
+### 2. You are a technical practitioner of some kind (non-researcher)
 
 I'd recommend that anyone technical (whether a designer or developer) checks out **1.2**, **9.1**, and **9.3**. Pretty much everyone who works with "tools" (including AI/genAI/LLM/ML tools) should check those out (as well as my [blog post on tools](https://www.frank.computer/blog/2025/05/just-a-tool.html).)
 
@@ -88,7 +88,7 @@ Absolutely read 1.1 of the introduction: **is "accessible visualization" really 
 
 I think that academic papers can be awkward to suggest, but I genuinely think that if you check out any main chapter, you should read the one on **skeleton**, since it is about making accessibility work more accessible for *sighted* practitioners. Chances are: that's you. I also think that **softerware** should be a chapter that anyone who builds or designs visualization *systems* and *tools* should think about: how do you enable end user personalization?
 
-### You are an HCI/HAI/visualization/accessibility/"tools" researcher of some kind
+### 3. You are an HCI/HAI/visualization/accessibility/"tools" researcher of some kind
 
 All researchers will probably benefit from at least reading chapter 3 (my **overview of contributions**) and my final section, **who is responsible for repair?** Read those in addition to any subsection below that applies to you:
 
