@@ -23,6 +23,12 @@ You may [add this event to your calendar using this link](https://calendar.googl
 
 > If the google calendar link above doesn't work, [shoot me an email at fje@cmu.edu](mailto:fje@cmu.edu) and I'll send you the details!
 
+<blockquote class="warning">
+    <p>⚠ <b>NOTE</b>:</p>
+    <p>Woah there folks! I guess google calendar has a limited number of people who can sign up. Use this zoom URL (intentionally not encoded as a link, to avoid bots) to join at noon EDT on April 29th: <code>https://cmu[DOT]zoom[DOT]us/j/2252051674?pwd=IWCIYbg6Y9cCKb9yMWc1K4eLUxOKHI.1&omn=96096322845&jst=2</code>. (Replace [DOT] with . in that link text, of course.)</p>
+</blockquote>
+
+
 The talk is expected to be 45-50 minutes, followed by anywhere between 15 and 30 minutes of questions. We will likely start a couple minutes after the hour (turns out many wizards are, in fact, often late). You're welcome to attend any part of the event that interests you.
 
 My thesis is titled, "Tool-making as an intervention on the accessibility of interactive data experiences" and focuses on my research studying tools at the intersection of data visualization and accessibility.
