@@ -25,7 +25,9 @@ You may [add this event to your calendar using this link](https://calendar.googl
 
 <blockquote class="warning">
     <p>⚠ <b>NOTE</b>:</p>
-    <p>Woah there folks! I guess google calendar has a limited number of people who can sign up. Use this zoom URL (intentionally not encoded as a link, to avoid bots) to join at noon EDT on April 29th: <code>https://cmu[DOT]zoom[DOT]us/j/2252051674?pwd=IWCIYbg6Y9cCKb9yMWc1K4eLUxOKHI.1&omn=96096322845&jst=2</code>. (Replace [DOT] with . in that link text, of course.)</p>
+    <p>Woah there folks! I guess google calendar has a limited number of people who can sign up to a calendar event. Use this zoom URL (intentionally not encoded as a link, to avoid bots) to join at noon EDT on April 29th:</p>
+    <p><code>https://cmu[DOT]zoom[DOT]us/j/2252051674?pwd=IWCIYbg6Y9cCKb9yMWc1K4eLUxOKHI.1&omn=96096322845&jst=2</code>.</p>
+    <p>(Replace [DOT] with . in that link text, of course.)</p>
 </blockquote>
 
 
@@ -34,11 +36,14 @@ The talk is expected to be 45-50 minutes, followed by anywhere between 15 and 30
 My thesis is titled, "Tool-making as an intervention on the accessibility of interactive data experiences" and focuses on my research studying tools at the intersection of data visualization and accessibility.
 
 ## My committee
-Dominik Moritz, Chair, Assistant Professor at CMU HCII
-Patrick Carrington, Co-chair, Assistant Professor at CMU HCII
-Kenneth Holstein, Assistant Professor at CMU HCII
-Jennifer Mankoff, Professor at University of Washington
-Tamara Munzner, Professor at University of British Columbia
+
+(This is my council of wizards, who will decide my fate. They are some of the most powerful wielders of magic in the world, in their respective disciplines!)
+
+- [Dominik Moritz](https://www.domoritz.de/), Chair, Assistant Professor at CMU HCII
+- [Patrick Carrington](https://patrickcarrington.com/), Co-chair, Assistant Professor at CMU HCII
+- [Kenneth Holstein](https://www.thecoalalab.com/kenholstein), Assistant Professor at CMU HCII
+- [Jennifer Mankoff](https://make4all.org/portfolio/jennifer-mankoff/), Professor at University of Washington
+- [Tamara Munzner](https://www.cs.ubc.ca/~tmm/), Professor at University of British Columbia
 
 ## Dissertation Document
 
