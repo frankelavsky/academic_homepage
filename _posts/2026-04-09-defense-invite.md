@@ -62,11 +62,17 @@ My core argument (the "thesis statement" at the heart of the dissertation) is th
 
 I *highly* doubt it! But that being said, there are some pretty fun parts in it, worth a skim (depending on who you are). For the most part, my dissertation is a "stapled paper" type of thesis, where the bulk of the document is comprised of my top-papers (that are the projects I personally led and executed) inserted without editing as the main "body" chapters of the dissertation. Then, the thesis itself generally has (up front) an acknowledgements section, introduction, overview of contributions, and (at the end) some kind of summary/discussion as well as a biographical sketch.
 
+> 🤓 📚➟📖
+> I've generated miniature versions of my thesis document, to make reading easier! The basic document has 142 pages of content. That's a lot! But I wondered... would more people actually look at my thesis if the page count wasn't so intimidating? (See below sections for these mini-docs.)
+
 Again, [here is the link to the thesis itself](https://drive.google.com/file/d/1D1HJZxIsZyjj0PCxsSN8aFUKSuWR4r3t/view?usp=drive_link).
 
 That being said, many folks may want to check out one or some of the sections in the dissertation without having to read all of it. So here are some suggested readings for folks I know who are of different kinds:
 
 ### 1. Anyone who attends my thesis defense
+
+> [Download my "personal-only" thesis doc!](https://www.frank.computer/papers/2026-thesis-personal.pdf)
+> 📚 (142 pages) ➟ 📖 (**6 pages**)
 
 Anyone who attends my thesis defense should probably check out my **acknowledgements** section. You're probably in there! If you aren't but think you should be, let me know!! I am terribly forgetful and would hate to leave out a friend, colleague, or supporter.
 
@@ -74,9 +80,15 @@ It also might be worth it to skim my **biographical sketch**, especially because
 
 ### 2. You are a technical practitioner of some kind (non-researcher)
 
+> [Download my "for the toolmakers" thesis doc!](https://www.frank.computer/papers/2026-thesis-toolmaker.pdf)
+> 📚 (142 pages) ➟ 📖 (**10 pages**)
+
 I'd recommend that anyone technical (whether a designer or developer) checks out **1.2**, **9.1**, and **9.3**. Pretty much everyone who works with "tools" (including AI/genAI/LLM/ML tools) should check those out (as well as my [blog post on tools](https://www.frank.computer/blog/2025/05/just-a-tool.html).)
 
 #### You are specifically an accessibility practitioner
+
+> [Download my "accessibility practitioner" thesis doc!](https://www.frank.computer/papers/2026-thesis-accessibility.pdf)
+> 📚 (142 pages) ➟ 📖 (**59 pages**)
 
 Definitely read 1.1 of the introduction because it has a way of thinking about accessibility work that *everyone* doing *any* accessibility work should consider: **is "accessible visualization" really an oxymoron?**
 
@@ -84,41 +96,94 @@ I think that academic papers can be awkward to suggest, but I genuinely think th
 
 #### You are specifically a visualization practitioner
 
+> [Download my "visualization practitioner" thesis doc!](https://www.frank.computer/papers/2026-thesis-visualization.pdf)
+> 📚 (142 pages) ➟ 📖 (**55 pages**)
+
 Absolutely read 1.1 of the introduction: **is "accessible visualization" really an oxymoron?** I wrote that with visualization folks in mind. There have been some tricky, even subtle ableism in our field that I wanted to clear up before outlining my work. The part where I engage misconceptions about accessibility is worth reflecting on as well as the part where I outline what visualization is actually about.
 
 I think that academic papers can be awkward to suggest, but I genuinely think that if you check out any main chapter, you should read the one on **skeleton**, since it is about making accessibility work more accessible for *sighted* practitioners. Chances are: that's you. I also think that **softerware** should be a chapter that anyone who builds or designs visualization *systems* and *tools* should think about: how do you enable end user personalization?
 
 ### 3. You are an HCI/HAI/visualization/accessibility/"tools" researcher of some kind
 
+> [Download my "summarized for researchers" thesis doc!](https://www.frank.computer/papers/2026-thesis-researcher.pdf)
+> 📚 (142 pages) ➟ 📖 (**11 pages**)
+
 All researchers will probably benefit from at least reading chapter 3 (my **overview of contributions**) and my final section, **who is responsible for repair?** Read those in addition to any subsection below that applies to you:
 
 #### You are an accessibility researcher
 
+> [Download my "accessibility researchers" thesis doc!](https://www.frank.computer/papers/2026-thesis-accessibility_researcher.pdf)
+> 📚 (142 pages) ➟ 📖 (**22 pages**)
+
 I think the introduction (**sections 1.1 and 1.2**) as well as the conclusion's sections on **what is a tool? (9.1)** and **applied accessibility research (9.2)** are especially valuable, and hopefully provocative. I've done a good job if a few people from the ASSETS community are flustered about 9.2, in particular.
 
-You might want to do more practitioner-focused work, in which case I'd recommend **skeleton**, **chartability**, and **softerware** especially. Read **data-navigator** if you want to get mad that I didn't run a user study to validate our system (challenge mode: think about whether this kind of work is valuable or not in/for accessibility research as a broader discussion).
+> [Download my "accessibility researchers who care about practitioners" thesis doc!](https://www.frank.computer/papers/2026-thesis-accessibility_researcher_practitioner.pdf)
+> 📚 (142 pages) ➟ 📖 (**112 pages**)
+
+You might want to do more practitioner-focused work (or have an interest in this), in which case I'd recommend **skeleton**, **chartability**, and **softerware** especially. Read **data-navigator** if you want to get mad that I didn't run a user study to validate our system (challenge mode: think about whether this kind of work is valuable or not in/for accessibility research as a broader discussion).
 
 #### You are a visualization researcher
+
+> [Download my "summary for visualization researchers" thesis doc!](https://www.frank.computer/papers/2026-thesis-visualization_researcher.pdf)
+> 📚 (142 pages) ➟ 📖 (**22 pages**)
 
 Absolutely read 1.1 of the introduction: **is "accessible visualization" really an oxymoron?** I wrote that with visualization folks in mind. There have been some tricky, even subtle ableism in our field that I wanted to clear up before outlining my work. The part where I engage misconceptions about accessibility is worth reflecting on as well as the part where I outline what visualization is actually about.
 
 But "visualization researcher" is a funny categorization to me. Visualization research has cognitive and perceptual scientists (our "real" science-doers), feminist and critical theorists, ethicists, interaction designers, system-builders, graphic designers, data people, and applied researchers. My thesis is mostly written from the perspective of system-building and a little bit of interaction design.
 
+##### Cognitive/perception vis researchers
+
+> [Download my "perception+vis" thesis doc!](https://www.frank.computer/papers/2026-thesis-visualization_researcher_perception_interaction.pdf)
+> 📚 (142 pages) ➟ 📖 (**46 pages**)
+
 If you're into cognitive and perceptual science, you'll probably get little of value from this thesis (perhaps other than just to reflect on someone else's very different methods: building systems and doing mostly qualitative work). You might enjoy **cross-perception**, but I have a feeling it is too technically-focused to really pique the interest of a "pure" cog/perceptual scientist.
 
-That being said, the slightly-more-critical parts of my dissertation (which I enjoy the most) are found in the **introduction (1.1/1.2)** and **discussion sections (9.1-9.3)**. That might be good for the critical folks, theorists, ethicists, and proper "[sexy murder poets](https://philpapers.org/archive/BRITT-2.pdf)" of the field to check out.
+##### Critical/ethics/humanities vis researchers
+
+> [Download my "sexy murder poet" thesis doc!](https://www.frank.computer/papers/2026-thesis-sexy_murder_poet.pdf)
+> 📚 (142 pages) ➟ 📖 (**23 pages**)
+
+That being said, the slightly-more-critical parts of my dissertation (which I enjoy the most) are found in the **introduction (1.1/1.2)** and **discussion sections (9.1-9.3)**. That might be good for the critical folks, theorists, ethicists, humanities-oriented researchers, and proper "[sexy murder poets](https://philpapers.org/archive/BRITT-2.pdf)" of the field to check out.
+
+##### Systems/tools for vis research
+
+> [Download my "systems+vis" thesis doc!](https://www.frank.computer/papers/2026-thesis-visualization_researcher_systems.pdf)
+> 📚 (142 pages) ➟ 📖 (**90 pages**)
 
 System-builders might get value from reading **data navigator**, **skeleton**, and **softerware**. Maybe the whole thesis, too, to be honest. I'm this kind of researcher, so it's all generally written with myself in mind.
 
+##### Data-focused vis researchers
+
+> [Download my "data structures+vis" thesis doc!](https://www.frank.computer/papers/2026-thesis-visualization_researcher_data.pdf)
+> 📚 (142 pages) ➟ 📖 (**48 pages**)
+
 Data people might really love **data navigator**, specifically if you enjoy data structures and graph theory. It's graph theory, but for an HCI/systems/UI software problem!
+
+##### Interaction and input design vis researchers
+
+> [Download my "interaction+vis" thesis doc!](https://www.frank.computer/papers/2026-thesis-visualization_researcher_perception_interaction.pdf)
+> 📚 (142 pages) ➟ 📖 (**46 pages**)
 
 Interaction design researchers might really enjoy the hardware work I did in **cross-perception**. You folks love when electronics and hardware work sneaks in. And some of our field's existing hardware work actually has potential for accessibility work!
 
+##### Graphical design vis researchers
+
+> [Download my "design+vis" thesis doc!](https://www.frank.computer/papers/2026-thesis-visualization_researcher_graphic.pdf)
+> 📚 (142 pages) ➟ 📖 (**70 pages**)
+
 Purely graphic designers should probably check out **chartability**, to apply to your own work. **Skeleton** isn't a bad chapter either, since the whole idea is that we apply visualization to an accessibility problem.
+
+##### Practitioner/applied vis researchers
+
+> [Download my "practitioners+vis" thesis doc!](https://www.frank.computer/papers/2026-thesis-visualization_applied_practitioner.pdf)
+> 📚 (142 pages) ➟ 📖 (**88 pages**)
 
 And folks who work with practitioners at all (in applied contexts) will probably enjoy **chartability**, **softerware**, and **skeleton**, in particular.
 
 #### You are a visualization *and* accessibility researcher
+
+> [Download my "accessibility+vis (latest-only)" thesis doc!](https://www.frank.computer/papers/2026-thesis-visualization_applied_practitioner.pdf)
+> 📚 (142 pages) ➟ 📖 (**73 pages**)
 
 You probably know my work from the main chapters (my 5 papers), but you can skim them if you want. There are some exciting new pieces in there too, that I have recently submitted for publication. You might find chapters 6 (**skeleton**) and 7 (**cross-perception**) the most interesting, as they are my latest pieces. You might also benefit from at least skimming my introduction section 1.1: **is "accessible visualization" really an oxymoron?**
 
