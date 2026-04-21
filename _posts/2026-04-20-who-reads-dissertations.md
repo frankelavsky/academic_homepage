@@ -21,12 +21,24 @@ But even so... committee members don't often even need to read the whole dissert
 
 So if committee members aren't reading the whole thing and basically nobody else does, then *what the heck is the point of a thesis*? The point, of course, is to have an archival-quality record of the work and the defense made by the PhD candidate. This is largely just a record, to show to the world that the work was done.
 
+On the one hand, do people avoid dissertations because they are highly complex? Well, perhaps. But some people are working on highly complex topics! And so... do some people avoid dissertations because they open the document and see that it is nearly 200 pages long, which would represent a significant time investment if you were there to explore, learn, or find something?
+
 Yet, I reckon that many different parts of the thesis are actually valuable and interesting to folks who aren't academics or who are but are unfamiliar with my body of work. I have been stewing on a paper by Mohammadi et al, ["Who reads
 research articles?"](https://doi.org/10.1002/asi.23286) and it turns out that all kinds of people do. So then I wondered... is there a way to make my thesis more-digestible for different kinds of folks?
 
-That led me to the following: **What if I could generate a bunch of smaller docs from my thesis, based on assumptions I have about different kinds of readers?**
+That led me to the following: **What if I could generate a bunch of smaller docs from my thesis, based on assumptions I have about different kinds of readers?** Would this simple change of format make my thesis more accessible and more usable? (It's important for me to think about accessibility, after all!)
 
-(Below is a series of sections/subsections taken from a [previous blog post announcing my thesis defense](https://www.frank.computer/blog/2026/04/defense-invite.html). Feel free to see if any of the documents are actually interesting/useful to you, especially if you fit one of the descriptions of my assumed readership below:)
+## So what is my dissertation and what is it actually about?
+
+My thesis is titled, **Tool-making as an intervention on the accessibility of interactive data experiences**. I specifically study how *tool-making* is a site for generating knowledge about how people engage with difficult practical problems. I make tools and then use those tools as a probe to understand more about authors, creators, and users of data experiences.
+
+My core argument (the "thesis statement" at the heart of the dissertation) is this: "This dissertation argues that the tools practitioners use to build interactive data experiences are themselves sites where accessibility barriers are produced, prevented, or alleviated for both end users and authors. This work contributes five tools—Chartability, Data Navigator, Softerware, Cross-perception, and Skeleton—that collectively center accessibility work on the empowerment of disabled and non-disabled practitioners across the full arc of evaluation, data navigation, analytical interaction, and personalization."
+
+My work is interesting primarily because I argue that the work practitioners do is a rich site for research. I don't just make a proverbial "hammer" but study what sort of hammers we need, whether hammers really work, and then how people actually use them. ([You can find the whole thesis here](https://drive.google.com/file/d/1D1HJZxIsZyjj0PCxsSN8aFUKSuWR4r3t/view?usp=drive_link).)
+
+Well, perhaps my dissertation has piqued your interest a little? And perhaps you don't know where to start? Well look below, and perhaps one of these categories applies to you and your interests or experiences.
+
+(Below is a series of sections/subsections taken from a [previous blog post announcing my thesis defense](https://www.frank.computer/blog/2026/04/defense-invite.html), which of course you are welcome to attend at noon EDT on April 29th, 2026. So, please feel free to see if any of the documents are actually interesting/useful to you, especially if you fit one of the descriptions of my assumed readership below:)
 
 ## Should *you* read my dissertation?
 
@@ -35,7 +47,7 @@ I *highly* doubt it! But that being said, there are some pretty fun parts in it,
 > 🤓 📚➟📖
 > I've generated miniature versions of my thesis document, to make reading easier! The basic document has 142 pages of content. That's a lot! But I wondered... would more people actually look at my thesis if the page count wasn't so intimidating? (See below sections for these mini-docs.)
 
-Again, [here is the link to the thesis itself](https://drive.google.com/file/d/1D1HJZxIsZyjj0PCxsSN8aFUKSuWR4r3t/view?usp=drive_link).
+[Here is the link to the thesis itself](https://drive.google.com/file/d/1D1HJZxIsZyjj0PCxsSN8aFUKSuWR4r3t/view?usp=drive_link).
 
 That being said, many folks may want to check out one or some of the sections in the dissertation without having to read all of it. So here are some suggested readings for folks I know who are of different kinds:
 
