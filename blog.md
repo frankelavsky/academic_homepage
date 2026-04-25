@@ -33,7 +33,7 @@ If you're curious about my shorter-form thoughts, follow me on bluesky [@frank.c
   {% endfor %}
 </div>
 
-## Good Twitter Threads I've Written
+<!-- ## Good Twitter Threads I've Written
 I love that [Crystal Lee did this on her blog](https://crystaljjlee.com/index/), so I am following suit. Unfortunately I am mostly transitioning off of twitter, so consider these to be an endangered species of post from me:
 
 <div class="post-list twitter-posts">
@@ -48,4 +48,4 @@ I love that [Crystal Lee did this on her blog](https://crystaljjlee.com/index/),
       <span class="post-meta" title="{{ post.date | date: "%b %-d %Y" }}">{{ post.date | date: "%Y, %b %-d" }}</span>
     </div>
   {% endfor %}
-</div>
+</div> -->
