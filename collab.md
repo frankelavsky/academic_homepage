@@ -16,9 +16,9 @@ In my past work, I've helped organizations in a **freelance R&D role**: evaluati
 
 My industry collaborations have also helped advance the state of the art for the whole field, improving tools, techniques, and contributing our findings broadly.
 
-# Collab with me and the DAWP Lab!
+# Collab with me and my Lab!
 
-I'd like to first introduce the DAWP Lab (Data + Access for Work and Play).
+<!-- I'd like to first introduce the DAWP Lab (Data + Access for Work and Play). -->
 
 Starting in Fall of 2026, I will join the faculty at Cal Poly SLO as an assistant professor of data science. Part of my position involves a few important privileges that enable me to continue my industry collaborations, through my lab:
 
