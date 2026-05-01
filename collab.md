@@ -16,29 +16,43 @@ In my past work, I've helped organizations in a **freelance R&D role**: evaluati
 
 My industry collaborations have also helped advance the state of the art for the whole field, improving tools, techniques, and contributing our findings broadly.
 
-# Collab with me and my Lab!
+# Collab with me and my lab!
 
 <!-- I'd like to first introduce the DAWP Lab (Data + Access for Work and Play). -->
 
 Starting in Fall of 2026, I will join the faculty at Cal Poly SLO as an assistant professor of data science. Part of my position involves a few important privileges that enable me to continue my industry collaborations, through my lab:
 
-- Up to 8 hours per week (1 day), I'll be free to consult on work as I see fit (~250 hours/year)
+- I'll be free to consult on work as I see fit, up to 8 hours per week (1 day) outside of summers (~250 hours/year)
 - However, my summers are largely free, completely open for in-depth collaborations (~400 hours/summer)
 - I'll have top masters and undergraduate students, ready to learn and tackle real-world problems
 
 ## Call for new collaborations:
 
-For my first 3 years, I would love to collaborate with partners in the following areas:
+For my first 3 years, I would love to collaborate with partners in the following broader areas:
 
 1. Open source data science accessibility: improving data tools, products, libraries, and techniques.
 2. Government, educational, or non-profit orgs with datasets intended for public access *or* who are looking to establish accessibility policy/guidelines for data, analytics, or visualizations.
 3. Video game, 3D graphics, museum, or physical/embodied artistic curations/archives where people with disabilities can interact with rich information in the context of play, entertainment, aesthetics, or fun-centered learning.
 
+### Concrete problem areas that interest me:
+
+I am especially interested in engaging problems that arise in *practical work* (that is, work primarily done in non-research settings). I would love to collaborate with people who are engaging these kinds of problems (this list is *not* comprehensive):
+
+1. Contexts where people with disabilities are excluded from fundamental data and information that is necessary for living a full life.
+2. Contexts where AI has not been sufficient in "solving" accessibility design problems that people with disabilities face or in work that practitioners are trying to do for accessibility.
+3. Contexts where developers, designers, or curators are trying to make interactive 3D graphics, video games, art or museum installations, or environments of play (digital or physical) more accessible.
+4. Contexts where existing guidelines are not sufficient for accessibility (the work is too complex, too niche, problems are understudied, and more)
+
+### Specific topics I am interested in are:
+Personalization and end-user agency, tactile input/output in games and analytics, accessibility infrastructure and machine learning, the right to repair and social repair of inaccessibility, software architecture with accessibility in mind, accessibility tooling, design tooling specific to accessibility, and policy and law regarding people with disabilities and access to data and information.
+
+### My interest in projects related to infrastructures beneath AI
 Are you interested in AI or how AI can influence your accessibility work? I am specifically interested in building *infrastructural* guidelines and systems, which lay beneath AI's level of abstractions. This means that I am not nearly as interested in using or applying existing out-of-the-box models to do accessibility work as I am interested in producing new models, data, specifications, systems, architectures, and building blocks that enable programmatic, autonomous, and even "manual" human work.
 
 As a metaphor, I'm more interested in building engines and roadways, not just driving cars. As an example, [Chartability](https://www.frank.computer/chartability/) and [Data Navigator](https://dig.cmu.edu/data-navigator/) (my two existing flagship projects) have informed [fully-human](https://bokeh-a11y-audit.readthedocs.io/), [mixed](https://dig.cmu.edu/data-navigator/bokeh-wrapper/), and [fully-autonomous](https://arxiv.org/abs/2512.20306) accessibility design and development projects. I'm interested in continuing this style of work.
 
-<p>Unsure if this is you, exactly? I highly recommend that you reach out to me anyway <a href="mailto:felavsky@calpoly.edu?cc=frankelavsky@gmail.com">felavsky@calpoly.edu</a>. I'd love to hear what you're up to.</p>
+### Reach out!
+<p>Unsure if any of these things I've mentioned fit you, exactly? I highly recommend that you reach out to me anyway <a href="mailto:felavsky@calpoly.edu?cc=frankelavsky@gmail.com">felavsky@calpoly.edu</a>. I'd love to hear what you're up to, even if we don't totally align in some way.</p>
 
 ## Call for funding
 
