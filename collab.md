@@ -69,6 +69,16 @@ My time for collaboration is roughly as follows (these can be combined for large
    2. 1-2 students supporting my work (when available/appropriate).
    3. (*Optional*): a write-up of our work, submitted as a full paper to a major venue.
 
+### What does funding enable?
+
+Funding doesn't just buy my time. It helps me scale, be the best educator I can be, and explore new horizons. Industry, academia, and even broadly society, all benefit from these things, whether directly or indirectly.
+
+The first and best thing that funding does it it **helps me scale**. I need to hire students, postdocs/research staff, and acquire equipment. Funding makes that happen. I can only do so much by myself! Scale is important to think about in terms of funding because industry and government partners get results in a shorter turnaround time and academic partners have opportunities to work with the best materials and people.
+
+Providing funding also **enables students** who are working with me to have hands-on opportunities to learn what real problems people out in the world are actually facing. Cal Poly's philosophy of "[learn by doing](https://www.calpoly.edu/learn-by-doing)" isn't about emulating abstract problems, but giving students opportunities to learn from the real world. Enabling students is important because industry, academia, and government all benefit from students who not only have experience with concrete problems but actually care about engaging them.
+
+Providing funding **scaffolds new directions**, too. What does this mean? Well, most of my research projects start with a prototype, proof of concept, or early-stage development. These aren't just bootstrapped into being. Funding that is applied generally to my work, like a research gift or no-strings attached type of arrangement, gives me flexibility to explore new directions. Some of my work is highly valuable to industry, but not all work that needs to be done should be motivated by industry's immediate demands. Some research requires more open ideation and risk-taking, which is what funding also enables me to do. And open ideation matters for industry, academia, and government because innovation (*real* innovation) is a public good. We all benefit from the activity of research, at its core. Research is a way to socialize risk taking and then socialize the benefits of those risks when they pay off. It's cheaper and safer for all of us to have a plucky researcher who sometimes explores the unexplored, and this way of doing things tends to lead to humanity's greatest achievements and breakthroughs.
+
 ## Why freelance?
 
 I hope to build out a professional model of a professor who is also a R&D freelancer. Some do this, with varying degrees of success - but why would I, personally, want to do this?
