@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "A selfish 3-part mini-manifesto towards rejection of generative AI"
+title: "A selfish manifesto towards rejection of generative AI"
 slug: selfish-manifesto
 tags:
 - generative AI
 - genAI
 - selfish
 - rejection
-description: "It is completely acceptable to reject modern AI entirely on selfish grounds."
+description: "It is completely acceptable to reject modern AI entirely on selfish grounds. Here I offer a 3-part mini-manifesto focused on why, entirely for yourself, you should consider rejecting generative AI."
 ---
 
 Welp, it is nearly the 1-year anniversary from when I authored my blog post on "[Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)". It is easily the most successful blog post I've written and certainly gets more impressions than my research papers 😂. But I love it especially because it helped me form my own thoughts at a time when I felt like I was losing control of things (research budgets getting cut, anti-immigration on the rise, the impending deadline of my thesis work, future job insecurity, AI companies consolidating power across the world, facing irreversible climate disasters in my lifetime and so on).
