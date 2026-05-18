@@ -10,7 +10,13 @@ tags:
 description: "It is completely acceptable to reject modern AI entirely on selfish grounds. Here I offer a 3-part mini-manifesto focused on why, entirely for yourself, you should consider rejecting generative AI."
 ---
 
-Welp, it is nearly the 1-year anniversary from when I authored my blog post on "[Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)". It is easily the most successful blog post I've written and certainly gets more impressions than my research papers 😂. But I love it especially because it helped me form my own thoughts at a time when I felt like I was losing control of things (research budgets getting cut, anti-immigration on the rise, the impending deadline of my thesis work, future job insecurity, AI companies consolidating power across the world, facing irreversible climate disasters in my lifetime and so on).
+I've heard great arguments for rejecting AI for environmental reasons (water, climate, energy) and for ethical reasons (like the theft of all digitizable intellectual property). I've even made those arguments myself (see previously linked blog post).
+
+But I also want to suggest another angle that can be used in conjunction with these: rejecting genAI for selfish reasons.
+
+For context, it is nearly the 1-year anniversary from when I authored my blog post on "[Stop saying that AI is just a tool and it only matters how it is used](https://www.frank.computer/blog/2025/05/just-a-tool.html)". It is easily the most successful blog post I've written and certainly gets more impressions than my research papers 😂. But I love it especially because it helped me form my own thoughts at a time when I felt like I was losing control of things (research budgets getting cut, anti-immigration on the rise, the impending deadline of my thesis work, future job insecurity, AI companies consolidating power across the world, facing irreversible climate disasters in my lifetime and so on).
+
+Here is my small, humble manifesto for rejecting generative AI on selfish terms.
 
 ## 1. Defending your own friction, your own struggle
 
@@ -20,7 +26,7 @@ But this is a meta-point, which the former blog itself makes: that struggling th
 
 And writing isn't just a "mirror" into your own thoughts. It is a vehicle for developing the skill of thinking and reasoning. It's both a reflective and generative practice. You *create* thoughts through writing, not just invoke what is already in your brain. If more people who prompt their way through life realized this, we'd be taking back the frontiers of labor in our inner minds from AI companies.
 
-## 2. Holding precious our own thought-making
+## 2. Holding precious your own thought-making
 
 > "What are you trying to be free of? The living? The miraculous task of it?" - Joseph Fasano
 
@@ -32,7 +38,7 @@ One question I hold myself to is: if I wasn't being paid to use my brain, would 
 
 Hullman writes that the enthusiastic pro-AI discourse strikes her as "[nihilism masquerading as optimism](https://statmodeling.stat.columbia.edu/2026/04/22/fraud-and-the-false-optimism-of-ai-for-science/)." And so it is worth asking ourselves: what part of our work should remain fundamentally human?
 
-## 3. Focusing on joy and responsibility
+## 3. Focusing on your own need for joy and responsibility
 
 Focusing less on tasks I can complete and the time it takes me, and more on what gives me joy to think about (even if it is hard) has been central to me. Secondary to this has been my sense of moral responsibility. Turns out, I value writing immensely. This means that generating code, a blog post, a poem, a work of fiction, a text to my wife, or even emails to coworkers are all things I'd rather do myself and have a sense of sole responsibility over.
 
