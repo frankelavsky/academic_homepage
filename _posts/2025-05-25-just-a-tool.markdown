@@ -73,7 +73,7 @@ But artificial intelligence, far more than any tool we've ever created, intends 
 ## Knowing the difference between drudgery and meaningful struggle
 <figure>
     <img src="https://www.frank.computer/images/miyazaki_hassles.jpg" alt="illustration of Miyazaki drawing with cigarettes in his mouth in profile side with the caption &quot;If life's hassles disappeared, you'd want them back.&quot;" style="display: block; width: 60%; margin-left: auto; margin-right: auto;"/>
-    <figcaption>"If life's hassles disappeared, you'd want them back," - Hiyao Miyazaki. (Also, this is real human art!) Credit: <a href="https://bsky.app/profile/samdoesarts.bsky.social/post/3lnzzxs2gw22o">Sam Yang, @samdoesarts.bsky.social</a></figcaption>
+    <figcaption>"If life's hassles disappeared, you'd want them back," - Hayao Miyazaki. (Also, this is real human art!) Credit: <a href="https://bsky.app/profile/samdoesarts.bsky.social/post/3lnzzxs2gw22o">Sam Yang, @samdoesarts.bsky.social</a></figcaption>
 </figure>
 
 The greatest selling point of automation has always been to remove drudgery. And at the heart of drudgery is a certain variety of struggle and pain.
