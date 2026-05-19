@@ -31,7 +31,7 @@ Starting in Fall of 2026, I will join the faculty at Cal Poly SLO as an assistan
 For my first 3 years, I would love to collaborate with partners in the following broader areas:
 
 1. Open source data science accessibility: improving data tools, products, libraries, and techniques.
-2. Government, educational, or non-profit orgs with datasets intended for public access *or* who are looking to establish accessibility policy/guidelines for data, analytics, or visualizations.
+2. Government, educational, or non-profit orgs with datasets intended for public access *or* who are looking to establish accessibility policy/guidelines for data, analytics, or visualizations. My top priority is in the domain of "disaster and emergency information and communication" in rural, housing-insecure, carceral, low-income, multi-lingual, and low-bandwidth contexts as I look to investigate gaps that arise in intersectional accessibility.
 3. Video game, 3D graphics, museum, or physical/embodied artistic curations/archives where people with disabilities can interact with rich information in the context of play, entertainment, aesthetics, or fun-centered learning.
 
 ### Concrete problem areas that interest me:
@@ -39,9 +39,10 @@ For my first 3 years, I would love to collaborate with partners in the following
 I am especially interested in engaging problems that arise in *practical work* (that is, work primarily done in non-research settings). I would love to collaborate with people who are engaging these kinds of problems (this list is *not* comprehensive):
 
 1. Contexts where people with disabilities are excluded from fundamental data and information that is necessary for living a full life.
-2. Contexts where AI has not been sufficient in "solving" accessibility design problems that people with disabilities face or in work that practitioners are trying to do for accessibility.
-3. Contexts where developers, designers, or curators are trying to make interactive 3D graphics, video games, art or museum installations, or environments of play (digital or physical) more accessible.
-4. Contexts where existing guidelines are not sufficient for accessibility (the work is too complex, too niche, problems are understudied, and more)
+2. Contexts where the intersection of disability and class, citizenship/immigration, language, infrastructural access, and other socio-economic factors influences how people gain access to critical information.
+3. Contexts where AI has not been sufficient in "solving" accessibility design problems that people with disabilities face or in work that practitioners are trying to do for accessibility.
+4. Contexts where developers, designers, or curators are trying to make interactive 3D graphics, video games, art or museum installations, or environments of play (digital or physical) more accessible.
+5. Contexts where existing guidelines are not sufficient for accessibility (the work is too complex, too niche, problems are understudied, and more)
 
 ### Specific topics I am interested in are:
 Personalization and end-user agency, tactile input/output in games and analytics, accessibility infrastructure and machine learning, the right to repair and social repair of inaccessibility, software architecture with accessibility in mind, accessibility tooling, design tooling specific to accessibility, and policy and law regarding people with disabilities and access to data and information.
