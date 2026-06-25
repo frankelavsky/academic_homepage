@@ -42,7 +42,7 @@ In [Chartability](https://www.frank.computer/chartability/), my set of guideline
 
 So by and large, most all data visualizations out there are still inaccessible for people with disabilities. Practitioners use different toolkits for different reasons and every toolkit treats accessibility in different ways. The tools we use have a downstream effect on the quality of accessibility a visualization is capable of but some are much further behind than others on what they offer.
 
-I'd like to think that I have a good sense of what many different toolkits are capable of. I even wrote a chapter about this for the Urban Institute's [Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization) publication.
+I'd like to think that I have a good sense of what many different toolkits are capable of. I even wrote a chapter about this for the Urban Institute's [Centering Accessibility in Data Visualization](https://web.archive.org/web/20230930230302/https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization) publication.
 
 With what I've seen, by far the **hardest problem for practitioners to overcome is making their data visualizations accessible to assistive technologies**, like screen readers. Beyond screen readers, many other assistive technologies are also largely unaddressed by visualization toolkits. People with motor and dexterity disabilities may not use a mouse (or pointer based) input, and instead use technologies that navigate or directly access content instead (like keyboard or voice based inputs).
 
@@ -50,7 +50,7 @@ And these input devices have been part of computing for a long time. For example
 
 ![Photo of a person in a wheelchair operating an old computer using a desk-mounted sip and puff device called the POSSUM.](https://www.frank.computer/images/sip-and-puff.png)
 
-We've had great solutions that have come about in recent years that engage navigation: [Sorge's work](http://pure-oai.bham.ac.uk/ws/files/33124334/icchp16AA.pdf) on chemistry diagrams and [Zong et al](https://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences/) and [Blanco et al](https://mitvis.github.io/olli/)'s work on hierarchical approaches to data structure that work great with ordinary charts and graphs.
+We've had great solutions that have come about in recent years that engage navigation: [Sorge's work](https://pure-oai.bham.ac.uk/ws/files/33124334/icchp16AA.pdf) on chemistry diagrams and [Zong et al](https://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences/) and [Blanco et al](https://mitvis.github.io/olli/)'s work on hierarchical approaches to data structure that work great with ordinary charts and graphs.
 
 But how do other data visualization practitioners implement these patterns in their own environments? These prior solutions all use JavaScript on the web. But many other charting libraries have to come up with a way to follow ideal practices.
 
