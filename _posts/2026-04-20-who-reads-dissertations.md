@@ -11,6 +11,9 @@ tags:
 description: "(Think of this as a small experiment of sorts.)"
 ---
 
+> [**EDIT: 07/2026**] This blog post was originally written when I first submitted my thesis for review with my committee, prior to my defense. But now, the final draft is available. All of the links below have been updated to point to the newest version of each doc (you may need to hard-refresh the page to get the newest version, in case the old one is stored in your browser cache). I am very happy with the latest draft - it is a significant improvement over the original, which was mostly a staple-job thesis in the purest sense (this now really expands several chapters and also adds a preface and postface reflection to each). I've also added a real, proper conclusion section as well. Exciting! Hope you enjoy and thanks to those of you who read the earlier draft and gave feedback. I really appreciate it.
+> Also note: the [main thesis doc (linked here)](https://www.frank.computer/papers/2026-elavsky-dissertation.pdf) is tagged for accessibility. The others are auto-generated in python, so their accessibility is limited. Apologies for the technical limitations! And for anyone else interested, my [code for generating the subdocs for my thesis can be found here](https://github.com/frankelavsky/thesis_subdoc_generator).
+
 Well, howdy! This blog post is mostly just a fun adventure/experiment where I try to make it easier to read and engage with academic work, simply by altering the format.
 
 This core idea was already the focus on my [micro-paper project](https://www.frank.computer/micro-paper), where I mused: is there a place for 1-2 page micro-papers in our larger academic conversation? I am conjecturing that smaller pieces of an idea, or smaller units of information, might get broader or qualitatively different engagement than longer-form, archival, written media.
@@ -47,7 +50,7 @@ I *highly* doubt it! But that being said, there are some pretty fun parts in it,
 > 🤓 📚➟📖
 > I've generated miniature versions of my thesis document, to make reading easier! The basic document has 180 pages of content (248 pages total). That's a lot! But I wondered... would more people actually look at my thesis if the page count wasn't so intimidating? (See below sections for these mini-docs.)
 
-[Here is the link to the thesis itself](https://drive.google.com/file/d/1D1HJZxIsZyjj0PCxsSN8aFUKSuWR4r3t/view?usp=drive_link).
+[Here is the link to the thesis itself](https://www.frank.computer/papers/2026-elavsky-dissertation.pdf).
 
 That being said, many folks may want to check out one or some of the sections in the dissertation without having to read all of it. So here are some suggested readings for folks I know who are of different kinds:
 
