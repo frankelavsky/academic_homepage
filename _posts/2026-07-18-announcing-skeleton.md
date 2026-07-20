@@ -48,7 +48,7 @@ Part of the work of [making visualizations accessible is making them *navigable*
 However, doing this work is quite hard. Our collaborators iterated heavily in visual design tools. They used visual, diagrammatic markers and artifacts to iterate on their ideas. "If we place a navigation node here, would could navigate over to here" they might say, while laying a circle object over the first thing they've referenced and then dragging out an arrow from that circle onto a new area of our design space. Our collaborators reasoned about the spatial structures and experiences of their imagined end users in visual metaphors and symbols.
 
 <figure style="display: block; width: 90%; margin-left: auto; margin-right: auto;">
-    <img src="https://www.frank.computer/images/skeleton-geologic.png" alt='A zoomed out view of the state of Wisconsin, encoded with a tapestry of dozens of colors and textures. Arrows annotate direction from the legend to map area, a separate area has messy, approximated graph structures laid out, a zoomed in version of a chart inside the graphic has schematics next to it titled "grid navigation." An area in the upper corner demonstrates 2 different styles of drawing tooltips during navigation.'/>
+    <img src="https://www.frank.computer/images/skeleton_geologic.png" alt='A zoomed out view of the state of Wisconsin, encoded with a tapestry of dozens of colors and textures. Arrows annotate direction from the legend to map area, a separate area has messy, approximated graph structures laid out, a zoomed in version of a chart inside the graphic has schematics next to it titled "grid navigation." An area in the upper corner demonstrates 2 different styles of drawing tooltips during navigation.'/>
     <figcaption>Using diagrammatic symbols and markers while designing screen reader navigation of a map, in Figma. Note: This is from our collaboration with the folks from the University of Wisconson's <a href="https://wgnhs.wisc.edu/catalog/publication/001011">Quaternary Geology of Wisconsin map</a> (and their <a href="https://data.wgnhs.wisc.edu/statewide-quaternary-online/">fantastic efforts to make this map more accessible</a>). We explain the process behind this in the paper as well as more technically via <a href="https://dig.cmu.edu/data-navigator/examples/bespoke.html">an example in our documention for Data Navigator</a>.</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ To address this first issue, we built a simple tool for visualizing the structur
 The inspector simply shows a developer what the system "sees:" which nodes exist, and how they are connected to each other through their edges. Interestingly, there isn't too much precedence for this in terms of accessibility. Web sites don't expose the [accessibility object model](https://wicg.github.io/aom/) and structure, and therefore it isn't easy for a developer to gain a visual sense of how and where screen readers or assistive technologies will navigate, when navigating on a webpage. This is a huge issue! (So even outside of the scope of our research project, we hope that this catches on in the coming years and we can soon see screen reader and non-screen reader navigation visually over a webpage, when opening the developer tools of a browser. One can dream!)
 
 <figure style="display: block; width: 90%; margin-left: auto; margin-right: auto;">
-    <img src="https://www.frank.computer/images/skeleton-inspector.png" alt="A tree view visualization and a stacked bar chart visualization. The tree view has 4 levels. The top level has 1 node, second has 2, third has 3 under the first in the second row with 5 nodes under the second node in teh second row. At the bottom level, there are 15 nodes that all connect to parents in both groups from the third row. The stacked bar chart shows three years, 2015, 16, and 17 with the browser market share for chrome, firefox, safari, edge, and other."/>
+    <img src="https://www.frank.computer/images/skeleton_inspector.png" alt="A tree view visualization and a stacked bar chart visualization. The tree view has 4 levels. The top level has 1 node, second has 2, third has 3 under the first in the second row with 5 nodes under the second node in teh second row. At the bottom level, there are 15 nodes that all connect to parents in both groups from the third row. The stacked bar chart shows three years, 2015, 16, and 17 with the browser market share for chrome, firefox, safari, edge, and other."/>
     <figcaption>An example structure is visualized using our inspector (on the left) created for a stacked bar chart (on the right).</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ This is where we had some fun ideas. Why not use another charting library to gai
 For our "scaffolding engine" (as we call it), we used Vega. Vega exposes element location in their *view* model. We conjectured: what if we take input data from our users, get info about what type of visualization is rendered (or encodings used), and then not only can we automatically build a navigable structure but we could also automatically scaffold the locations of the elements in that structure!
 
 <figure style="display: block; width: 90%; margin-left: auto; margin-right: auto;">
-    <img src="https://www.frank.computer/images/skeleton-scaffold.png" alt="A scatterplot, stacked bar, and line chart. Each has a graph next to it that shows nodes and edges. On the other side of each chart is a version of itself with grides, outlines, and marks that represent the various shapes and locations that the nodes and edges take over the chart's space."/>
+    <img src="https://www.frank.computer/images/skeleton_scaffold.png" alt="A scatterplot, stacked bar, and line chart. Each has a graph next to it that shows nodes and edges. On the other side of each chart is a version of itself with grides, outlines, and marks that represent the various shapes and locations that the nodes and edges take over the chart's space."/>
     <figcaption>Using our scaffold tool with 3 different charts. Left: the structure from our Inspector (what Data Navigator "sees"). Middle, the input chart (just made of pixels). And right, visual indicators placed over each element (all indicators are shown at once).</figcaption>
 </figure>
 
@@ -165,7 +165,7 @@ For shapes and outline strategies, we simply built a generic library devoted to 
 For finding the padding, we do a little heuristic based (non-ml) computer vision pass, to estimate where the mark space begins. (For details about how we did this, simply see the appendix of [our paper](https://arxiv.org/html/2607.14579v1#A2) or our [open source code for skeleton](https://github.com/cmudig/data-navigator/tree/main/packages/skeleton).)
 
 <figure style="display: block; width: 90%; margin-left: auto; margin-right: auto;">
-    <img src="https://www.frank.computer/images/skeleton-padding.png" alt="Two visualizations, a stacked bar chart and line chart. Each visualization is shown twice, first with outlines overlaid that are slightly offset and then again with the outlines almost perfectly overlaid on the elements they represent."/>
+    <img src="https://www.frank.computer/images/skeleton_padding.png" alt="Two visualizations, a stacked bar chart and line chart. Each visualization is shown twice, first with outlines overlaid that are slightly offset and then again with the outlines almost perfectly overlaid on the elements they represent."/>
     <figcaption>Automatically computing visual congruence. First, computed layout for marks via Vega’s visualization engine plus group outlines (left) and then with with padding estimation using our non-ML computer vision approach (right) for various types of common visualizations. Average time to compute all outlines is 250ms (one time cost, up front).</figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ For finding the padding, we do a little heuristic based (non-ml) computer vision
 Lastly, we wanted people to be able to immediately test their designs both functionally (does navigation operate as expected? do the correct relationships exist?) as well as visually (are elements in the correct location? are groups outlined in a reasonable way?) and non-visually (do the labels that are generated for a screen reader user make sense? can someone figure out how to explore this non-visually using our text and alt text alone?). And this became our testing page! No screen reader required. This page replicates chat based navigation (typing commands), keyboard nav, as well as screen reader nav (complete with visual previews of the otherwise-hidden alt text for each element).
 
 <figure style="display: block; width: 90%; margin-left: auto; margin-right: auto;">
-    <img src="https://www.frank.computer/images/skeleton-testing.png" alt="An interface screenshot showing a scatterplot with a group outlined in a circular stroke shape. In the corresponding inspector view, a circle outline is shown over a node in a tree view of nodes and edges. At the bottom of the screen, a text box reads out Screen reader announcement: virginica group."/>
+    <img src="https://www.frank.computer/images/skeleton_testing.png" alt="An interface screenshot showing a scatterplot with a group outlined in a circular stroke shape. In the corresponding inspector view, a circle outline is shown over a node in a tree view of nodes and edges. At the bottom of the screen, a text box reads out Screen reader announcement: virginica group."/>
     <figcaption>Our testing page. A visual focus indicator is shown over the chart space during navigation (center view) as well as where that node corresponds in the overall structure (shown as another focus indicator in the inspector, in the upper left). We also show screen reader labels as they would be read by a screen reader at the bottom of the testing view.</figcaption>
 </figure>
 
@@ -195,3 +195,16 @@ Since Skeleton became the final proposed project in [my thesis](https://www.fran
 ## What's next?
 
 Well, **Skeleton** the idea has been thoroughly tested. But **Skeleton** the prototype user interface has significant hurdles to overcome before it is really ready for public use. It is full of bugs and assumptions, the code is poorly optimized, and t lacks one of the most important features that will determine its success: exporting what you build with it. Right now, Skeleton let's you import, prep, edit, and test. But you can't export, so it is only useful as a design tool. Once we lock in on exporting functionality and build it out, it'll become far more useful for most designers and developers. More to come!
+
+## Cite Our Work
+
+```bibtex
+@article{2023-elavsky-data-navigator,
+  title = {{Data Navigator}: An Accessibility-Centered Data Navigation Toolkit},
+  publisher = {{IEEE}},
+  author = {Frank Elavsky and Lucas Nadolskis and Dominik Moritz},
+  journal = {{IEEE} Transactions on Visualization and Computer Graphics},
+  year = {2023},
+  url = {http://dig.cmu.edu/data-navigator/}
+}
+```
