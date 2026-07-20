@@ -41,7 +41,7 @@ These people, this subset of "practitioners" who work, or want to work, on acces
 
 ## My sighted collaborators struggled to work with non-visual design materials
 
-We collaborated with 3 different groups of practitioners, with varying degrees of involvement in the design or development work that they were undertaking, related to making visual representations of data more accessible to people with disabilities.
+We collaborated with 3 different groups of practitioners, with varying degrees of involvement in the design or development work that they were undertaking, related to making visual representations of data more accessible to people with disabilities. Our collaborators were primarily sighted, although we did also have blind co-designers who joined us in those collaborations (or who specifically helped us with our later work).
 
 Part of the work of [making visualizations accessible is making them *navigable*](https://dig.cmu.edu/data-navigator/) for people who use assistive technologies. Some assistive technologies that navigate might include screen readers, keyboards, voice controls, "switches," sip and puff devices, and more. My past project (linked above), "[Data Navigator](https://dig.cmu.edu/data-navigator/)," focuses on making this translation work possible. Designers and engineers can work to create non-visual and visual navigation and interaction experiences with data structures.
 
