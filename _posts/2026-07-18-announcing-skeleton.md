@@ -196,7 +196,7 @@ Since Skeleton became the final proposed project in [my thesis](https://www.fran
 
 Well, **Skeleton** the idea has been thoroughly tested. But **Skeleton** the prototype user interface has significant hurdles to overcome before it is really ready for public use. It is full of bugs and assumptions, the code is poorly optimized, and t lacks one of the most important features that will determine its success: exporting what you build with it. Right now, Skeleton let's you import, prep, edit, and test. But you can't export, so it is only useful as a design tool. Once we lock in on exporting functionality and build it out, it'll become far more useful for most designers and developers. More to come!
 
-## Cite Our Work
+<!-- ## Cite Our Work
 
 ```bibtex
 @article{2026-elavsky-skeleton,
@@ -207,4 +207,4 @@ Well, **Skeleton** the idea has been thoroughly tested. But **Skeleton** the pro
   year = {2026},
   url = {http://dig.cmu.edu/data-navigator/skeleton}
 }
-```
+``` -->
