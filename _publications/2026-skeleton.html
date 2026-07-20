@@ -1,0 +1,39 @@
+---
+layout: publication
+authors:
+  - Frank Elavsky
+  - Chieri Nnadozie
+  - Lucas Nadolskis
+  - Patrick Carrington
+  - Dominik Moritz
+<!-- doi: 10.1109/AccessViz68666.2025.00008 -->
+highlight: true
+link: https://arxiv.org/abs/2607.14579
+<!-- html: https://arxiv.org/html/2508.12192v1 -->
+pub: https://arxiv.org/abs/2607.14579
+<!-- blog: https://doi.org/10.48550/arXiv.2508.12192 -->
+pdf: https://www.frank.computer/papers/2026-vis-skeleton.pdf
+tags:
+  - Visualization
+  - Accessibility
+title: "Skeleton: Visual Authoring of Non-visual Data Experiences"
+tweet: Skeleton is a system for visualizing non-visual user experiences of data. Turns out sighted practitioners can face barriers, too!
+type:
+  - Conference
+venue: IEEE VIS
+venue_location: Boston, MA
+venue_tags:
+  - IEEE VIS
+venue_url: https://ieeevis.org/
+year: 2026
+---
+
+When sighted practitioners author accessible data visualizations, they build navigation structures (the nodes, edges, and input bindings that govern how assistive technologies traverse an interface) entirely in code, with no visual representation. This invisibility makes navigation structures difficult to inspect, debug, and iterate on. To sighted practitioners, every other aspect of a visualization is iterated on because it is visible; navigation structure ships as a first draft, if at all, because it is not. Without a representation to react to, practitioners cannot develop judgment about what makes navigation good or bad, and the quality ceiling of non-visual experiences is set by the absence of a feedback loop. We address this problem through longitudinal co-design with practitioners across cartography, design systems, and open-source visualization, and make three contributions.
+
+First, we introduce technical advancements for making the properties of accessible navigation structure visible and directly manipulable during authoring, grounded in two foundational pieces of infrastructure produced by our co-design work: an Inspector that renders navigation graphs as interactive node-link diagrams, and a Dimensions API that expresses navigation in terms of data dimensions rather than explicit graph construction.
+
+Second, building on these, we present Skeleton, a direct-manipulation authoring environment in which the properties of an accessible navigation structure are translated into visual representations authors can observe and manipulate. Key techniques include a dual-view editor that simultaneously shows the system’s navigation model and the end user’s spatial experience, a scaffolding engine that automates spatial node placement by repurposing a visualization rendering pipeline, a live label-template editor with real-time screen-reader-output preview, and a testing mode that makes traversal sequence visually trackable.
+
+Third, we evaluate Skeleton through an in-situ study with 8 practitioners across visualization design, engineering, and research. Making navigation structure visible changed how practitioners engaged with accessible design: they reconsidered the architecture of their own visualizations, attended to a broader range of input modalities, and shifted from treating accessibility as a compliance task to treating it as a design problem.
+
+A free copy of this paper and all supplemental materials are available at https://osf.io/7afw4.
