@@ -199,12 +199,12 @@ Well, **Skeleton** the idea has been thoroughly tested. But **Skeleton** the pro
 ## Cite Our Work
 
 ```bibtex
-@article{2023-elavsky-data-navigator,
-  title = {{Data Navigator}: An Accessibility-Centered Data Navigation Toolkit},
+@article{2026-elavsky-skeleton,
+  title = {{Skeleton}: Visual Authoring of Non-visual Data Experiences},
   publisher = {{IEEE}},
-  author = {Frank Elavsky and Lucas Nadolskis and Dominik Moritz},
+  author = {Frank Elavsky and Chieri Nnadozie and Lucas Nadolskis and Patrick Carrington and Dominik Moritz},
   journal = {{IEEE} Transactions on Visualization and Computer Graphics},
-  year = {2023},
-  url = {http://dig.cmu.edu/data-navigator/}
+  year = {2026},
+  url = {http://dig.cmu.edu/data-navigator/skeleton}
 }
 ```
