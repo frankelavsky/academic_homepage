@@ -183,7 +183,7 @@ Lastly, we wanted people to be able to immediately test their designs both funct
 
 ## Our study and findings
 
-Honestly, you should read the paper for *all* the juicy details of our study. It was a blast.
+Honestly, you should read the paper for *all* the juicy details of our study. It was a blast. The study design was simple: we used our prototype for Skeleton as a "design probe" to surface qualitative insights about how people orient and reorient their work while trying to make visualizations accessible. We had users do a "test run" of the tool, where they tried to make a visualization accessible (and we intentionally included a bug fo them to possibly find). After the test run, we asked them to bring an image of a visualization they are currently or have recently worked on. At the end, we had an interview where we asked some semi-structured questions. All of our participants were visualization practitioners in some role (as engineers, designers, data scientists, or researchers).
 
 Since Skeleton became the final proposed project in [my thesis](https://www.frank.computer/papers/2026-elavsky-dissertation.pdf), I also pontificate/reflect a bit on the chapter (chapter 6) in the thesis as well. My biggest takeaways are:
 
