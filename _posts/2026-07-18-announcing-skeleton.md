@@ -91,13 +91,15 @@ We have a [whole walkthrough article written on how the dimensions API](https://
 
 In brief: the dimensions API enabled us to automatically scaffold navigation experiences based on commonly known inputs that are shared with charting libraries and grammars of graphics. This meant that we could then integrate data navigator into visualization libaries at a low level. Neat! ([This enabled our work with the Adobe folks, for example](https://github.com/adobe/react-spectrum-charts/pull/822).)
 
-## What is missing, though? This seems great!
+### What is missing, though? This seems great!
 
 Well, our Adobe folks are about to solve their design system chart components and we built a wrapper for Bokeh's visualization library... so what is the problem? Isn't the work now done?
 
 No, of course not!
 
 The gap that our collaborations helped us to really understand is that authoring (in code) still remains entirely non-visual. We wanted to explore what it would be like to have tooling custom-built for making it as easy as possible to design, iterate, build, test, and iterate again. We built that tool (it is what we call "Skeleton").
+
+## Introducing: Skeleton 🩻
 
 You can find a live, interactive version of Skeleton at this link. Note that this is a *research prototype* that we built entirely so that we could test our ideas and run a user study. So don't take the tool too seriously as a production-ready tool. (It isn't.) Instead, view it as an exploration of our core question and following ideas in one place.
 
