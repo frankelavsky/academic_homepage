@@ -106,7 +106,9 @@ The gap that our collaborations helped us to really understand is that authoring
 
 ## Introducing: Skeleton 🩻
 
-You can find a [live, interactive version of Skeleton at this link](https://dig.cmu.edu/data-navigator/skeleton/). We have "save" files for skeleton, too (if you want to load it at a specific view, to see the magic happen more easily than slogging through the wizard for a few minutes). [This save file loads up the editor post-wizard](https://drive.google.com/file/d/1x8jqwTcpIMiIuiRPQg2NNF2QH-7Vg5XT/view?usp=sharing) but pre-scaffold. [This save file loads up the editor post-scaffold](https://drive.google.com/file/d/1P_UyifIeyjrrv6SygotA79SO_3H6FgXn/view?usp=drive_link). (You download the zip files and then when using the skeleton app, press the "Load session" button at the top of the app.)
+You can find a [live, interactive version of Skeleton at this link](https://dig.cmu.edu/data-navigator/skeleton/). We have "save" files for skeleton, too (if you want to load it at a specific view, to see the magic happen more easily than slogging through the wizard for a few minutes). You can access these from Step 0 (upload) and choosing "Load an example." We have unprepped options (will require using the wizard) but also ready-to-go options that take you to the editor (and let you click the "scaffold" button to see the magic happen) or go straight to testing and poking around with a keyboard or text commands.
+
+<!-- [This save file loads up the editor post-wizard](https://drive.google.com/file/d/1x8jqwTcpIMiIuiRPQg2NNF2QH-7Vg5XT/view?usp=sharing) but pre-scaffold. [This save file loads up the editor post-scaffold](https://drive.google.com/file/d/1P_UyifIeyjrrv6SygotA79SO_3H6FgXn/view?usp=drive_link). (You download the zip files and then when using the skeleton app, press the "Load session" button at the top of the app.) -->
 
 Note that this is a *research prototype* that we built entirely so that we could test our ideas and run a user study. So don't take the tool too seriously as a production-ready tool. (It isn't.) Instead, view it as an exploration of our core question and following ideas in one place.
 
