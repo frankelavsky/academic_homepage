@@ -106,7 +106,9 @@ The gap that our collaborations helped us to really understand is that authoring
 
 ## Introducing: Skeleton 🩻
 
-You can find a live, interactive version of Skeleton at this link. Note that this is a *research prototype* that we built entirely so that we could test our ideas and run a user study. So don't take the tool too seriously as a production-ready tool. (It isn't.) Instead, view it as an exploration of our core question and following ideas in one place.
+You can find a [live, interactive version of Skeleton at this link](https://dig.cmu.edu/data-navigator/skeleton/). We have "save" files for skeleton, too (if you want to load it at a specific view, to see the magic happen more easily than slogging through the wizard for a few minutes). [This save file loads up the editor post-wizard](https://drive.google.com/file/d/1x8jqwTcpIMiIuiRPQg2NNF2QH-7Vg5XT/view?usp=sharing) but pre-scaffold. [This save file loads up the editor post-scaffold](https://drive.google.com/file/d/1P_UyifIeyjrrv6SygotA79SO_3H6FgXn/view?usp=drive_link). (You download the zip files and then when using the skeleton app, press the "Load session" button at the top of the app.)
+
+Note that this is a *research prototype* that we built entirely so that we could test our ideas and run a user study. So don't take the tool too seriously as a production-ready tool. (It isn't.) Instead, view it as an exploration of our core question and following ideas in one place.
 
 > *The* core question we have centers on: "What happens if sighted designers and developers can author, design, and debug non-visual navigation structures using direct manipulation of visual representations?" (Our paper breaks this question into two separate research questions, but the aggregate combo of them is this, roughly speaking.) And in order to support this core question, our UI was built around the following ideas:
 
