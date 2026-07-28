@@ -20,7 +20,7 @@ Our industry collaborations also help advance the state of the art for the whole
 
 *This mirrors the industry-facing collaboration model described on my [collab page](/collab/), where I also detail how I work with fellow researchers and students.*
 
-<a href="mailto:frankelavsky@gmail.com?subject=Visualization%20audit%20quote" style="display:inline-block;margin:0.5rem 0;color:#1E3369;padding:8px 18px;border-radius:3px;border:1px solid #4a5f9c;text-decoration:none;font-weight:bold;">Email us! We would love to hear what you're up to &rarr;</a>
+<a href="mailto:frankelavsky@gmail.com?subject=Possible%consultation?" style="display:inline-block;margin:0.5rem 0;color:#1E3369;padding:8px 18px;border-radius:3px;border:1px solid #4a5f9c;text-decoration:none;font-weight:bold;">Email us! We would love to hear what you're up to &rarr;</a>
 
 ## Some of our past and current collaborators
 
