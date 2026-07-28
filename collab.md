@@ -6,7 +6,7 @@ title: Collab with my lab!
 
 - Are you a student hoping to collab? [See my student section, below.](#student-collabs)
 - Are you a fellow researcher hoping to collab? [See my researcher section, below.](#researcher-researcher-collabs)
-- Are you a non-academic hoping to collab? Simply read on:
+- Are you a business, non-profit, or government org hoping to collab? See [my consulting business, Elavsky Technology Consulting, LLC](/consulting/), or simply read on:
 
 Since 2021, I've been freelancing, contracting, and consulting with industry partners at the intersection of accessibility and data science. My favorite and most recent collaborations have included 2 years at [Apple](https://developer.apple.com/design/human-interface-guidelines/accessibility), 11 months with [Adobe](https://opensource.adobe.com/react-spectrum-charts/docs/docs/intro/), a summer with [Highsoft](https://www.highcharts.com/accessibility/), 2 years with [Quansight and Bokeh](https://bokeh-a11y-audit.readthedocs.io/), and 2 years with [Fizz Studio](https://fizz.studio/).
 
