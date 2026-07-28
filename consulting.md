@@ -28,7 +28,7 @@ We are currently **discounting visualization auditing work at 50% off our normal
 
 ## Some of our past and current collaborators
 
-- **UNICEF** — 2026
+- **UNICEF USA** — 2026
 - **The American Red Cross** — 2026
 - **Fizz Studio** — 2026
 - [NDA] — 2026
