@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#1E3369">
+<title>DATA 3301: Introduction to Data Science | Fall 2026</title>
+<meta name="description" content="DATA 3301, Introduction to Data Science, Fall 2026 at Cal Poly. Taught by Frank Elavsky.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,800;0,900;1,400&display=swap" rel="stylesheet">
+<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="page-header no-print">
+  <nav class="container" aria-label="Site">
+    <span class="site-title-wrapper">
+      <a class="site-title" href="https://www.frank.computer/">Frank Elavsky</a>
+    </span>
+    <a href="#materials">Materials</a>
+    <a href="#grading">Grading</a>
+    <a href="#project">Project</a>
+    <a href="#labs">Labs</a>
+    <a href="#schedule">Schedule</a>
+    <a href="#policies">Policies</a>
+  </nav>
+</header>
+
+<main class="page-content" id="main">
+
+<section class="container">
+
+  <h1>
+    DATA 3301: Introduction to Data Science
+    <span class="term">Fall 2026 &middot; Section 05 &middot; Cal Poly</span>
+  </h1>
+
+  <p class="lead">
+    A single entry point into the rigorous study of data science and machine
+    learning. You will learn to get messy data into a usable shape, describe and
+    visualize it, and build and evaluate models that predict from it. The work
+    is in Python and Jupyter, and the semester is built around a group project
+    you demo to me at the end.
+  </p>
+
+  <p>
+    DATA 3301 merges two former quarter courses, <strong>DATA 301:
+    Introduction to Data Science</strong> and <strong>CSC 466: Knowledge
+    Discovery in Data</strong>, into one 15-week semester course, so that
+    everyone entering the upper-division machine learning and data science
+    courses arrives with the same background. This is the first time DATA 3301
+    is being taught, and there are two sections this term with two different
+    instructors; we cover the same core material, but topic order and
+    assignments will differ between us.
+  </p>
+
+  <p class="note">
+    <strong>The <a href="Syllabus%20for%20DATA-3301-Introduction%20to%20Data%20Science.pdf">syllabus</a>
+    is the authoritative document for this course.</strong> This page is a
+    working index of materials and dates. Where the two disagree, the syllabus
+    wins. Please tell me so I can fix the page.
+  </p>
+
+  <ul class="facts">
+    <li>
+      <span class="label">Instructor</span>
+      <a href="https://www.frank.computer/">Frank Elavsky</a>, PhD
+      (<a href="http://www.csc.calpoly.edu/~felavsky">Cal Poly page</a>)
+    </li>
+    <li>
+      <span class="label">Email</span>
+      <a href="mailto:felavsky@calpoly.edu">felavsky@calpoly.edu</a>
+    </li>
+    <li>
+      <span class="label">Office</span>
+      14-228
+    </li>
+    <li>
+      <span class="label">Slack</span>
+      <span class="tbd">Invite to be sent via Canvas</span>
+    </li>
+  </ul>
+
+  <p>
+    <strong>Prerequisites.</strong> Linear algebra (MATH 1151; MATH 244 accepted
+    with a permission code), intro to computing (CSC 1001), and intro to
+    statistics (STAT 1110, STAT 1510, or STAT 3210). The prerequisite list is a fairly strong one, and that is what lets this course cover the material in more depth than a typical first data science course.
+  </p>
+
+  <p>
+    <strong>What this course is not.</strong> It is not a database course
+    (that is CSC 3665). We write queries over data frames in a way that mirrors
+    relational databases, but this is no substitute. It is not a
+    &ldquo;big data&rdquo; course either; our datasets are small enough to work
+    with comfortably and rich enough to be interesting. Terabyte-scale work
+    lives in DATA 4401, DATA 4610, DATA 4620, CSC 4667, and CSC 4888.
+  </p>
+
+  <h2 id="office-hours">Office Hours</h2>
+
+  <p>
+    I highly encourage office hours, <strong>for anyone, for any reason</strong>.
+    I take students in the order they arrive and try to give everyone at least
+    10 to 20 minutes.
+  </p>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Day</th>
+          <th scope="col">Time</th>
+          <th scope="col">Where</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Wednesday</th>
+          <td>2:00pm &ndash; 3:00pm</td>
+          <td>14-228</td>
+        </tr>
+        <tr>
+          <th scope="row">Thursday</th>
+          <td>3:00pm &ndash; 4:00pm <span class="date">(after class)</span></td>
+          <td>14-228</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>
+    You can always <a href="mailto:felavsky@calpoly.edu">email me</a> or post in
+    Slack if you have a question or want to schedule a specific time to chat.
+    Just say what you would like to talk about. I generally reply within
+    24 hours on weekdays and 48 on weekends, often faster. I do not check
+    work messages at odd hours, so do not count on me in the last hours before a
+    deadline. Peer-group office hours are welcome: come in together with a
+    shared problem and we will work through it as a group.
+  </p>
+
+  <h2 id="materials">Course Materials</h2>
+
+  <div class="table-scroll">
+    <table>
+      <tbody>
+        <tr>
+          <th scope="row">Syllabus</th>
+          <td><a href="Syllabus%20for%20DATA-3301-Introduction%20to%20Data%20Science.pdf">PDF</a></td>
+        </tr>
+        <tr>
+          <th scope="row">Slack</th>
+          <td><span class="tbd">Invite TBD</span>. Best place for questions about assignments and course material.</td>
+        </tr>
+        <tr>
+          <th scope="row">Jupyter Labs Server</th>
+          <td><a href="https://dev2.csc.calpoly.edu:5000/">dev2.csc.calpoly.edu:5000</a></td>
+        </tr>
+        <tr>
+          <th scope="row">Submission repository</th>
+          <td><span class="tbd">Setup TBD</span>. Assignments are submitted by pushing to your repo.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Texts and references</h3>
+
+  <p>
+    There is <strong>no required textbook</strong>. We will actively use the
+    notebook-based textbook Dr. Dennis Sun wrote for DATA 301; the lectures,
+    labs, and notebooks here are based mostly on it but diverge in places.
+  </p>
+
+  <div class="table-scroll">
+    <table>
+      <tbody>
+        <tr>
+          <th scope="row">Dennis Sun, <i>Principles of Data Science</i></th>
+          <td>Used throughout</td>
+          <td><a href="https://github.com/dlsun/pods">GitHub</a></td>
+        </tr>
+        <tr>
+          <th scope="row">Bing Liu, <i>Web Data Mining</i> (Springer, 2nd ed. 2011)</th>
+          <td>Recommended. Accessible, algorithms-centric coverage of much of this course</td>
+          <td class="date">ISBN 978-3642194597</td>
+        </tr>
+        <tr>
+          <th scope="row">Zaki &amp; Meira, <i>Data Mining and Analysis</i> (Cambridge, 2014)</th>
+          <td>Recommended. More optimization-centric, and also the DATA 4610 text</td>
+          <td class="date">ISBN 978-0-521-76633-3</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2 id="grading">Grading</h2>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Component</th>
+          <th scope="col">Weight</th>
+          <th scope="col">Breakdown</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Participation</th>
+          <td>25%</td>
+          <td>Attendance and interaction 5% &middot; in-lecture and in-lab reflections 15% &middot; in-lecture exercises 5%</td>
+        </tr>
+        <tr>
+          <th scope="row">Labs</th>
+          <td>20%</td>
+          <td>In-class activities and take-home assignments</td>
+        </tr>
+        <tr>
+          <th scope="row">Project</th>
+          <td>15%</td>
+          <td>Proposal 2% &middot; plan and preliminary 3% &middot; completed project 10%</td>
+        </tr>
+        <tr>
+          <th scope="row">Quizzes</th>
+          <td>20%</td>
+          <td>Nine in-class, pencil-and-paper quizzes</td>
+        </tr>
+        <tr>
+          <th scope="row">Final</th>
+          <td>20%</td>
+          <td>Group project demo and oral exam during finals week</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p class="note">
+    <strong>On the grading scale.</strong> This course has relatively hard
+    problems, so the traditional 90/80/70 scale does not apply. Historically the
+    A/B cutoff has landed around <strong>80&ndash;85%</strong> and the B/C cutoff
+    around <strong>67&ndash;70%</strong>.
+  </p>
+
+  <h3 id="reflections">Reflections</h3>
+
+  <p>
+    Lectures and labs may open or close with time to write a reflection, by
+    hand, on paper. Expect about <strong>15 across the term</strong>, each worth
+    up to 1% of your grade. Some are group reflections, some have prompts, some
+    are unstructured. All of them are there to make you think about what you
+    just did in lab, on an assignment, or in lecture. They are individual work,
+    and they are the largest part of your participation grade. Miss a
+    class and you can write it in the first class you attend afterward; just
+    reach out.
+  </p>
+
+  <h3 id="quizzes">Quizzes</h3>
+
+  <p>
+    Nine in-class quizzes, on paper, covering concepts from lecture and material
+    from the lab assignments. Weeks below are tentative and subject to small
+    adjustments. You will always be told in advance. Quizzes cannot be
+    made up, but <strong>you can drop at least one missed quiz</strong> at the
+    end of the term. The drop applies only to a missed quiz, not a low score, so
+    please stay home if you are sick.
+  </p>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Quiz</th>
+          <th scope="col">Topic</th>
+          <th scope="col">Week</th>
+          <th scope="col">Date</th>
+          <th scope="col">Weight</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><th scope="row">1</th><td>Tabular data</td><td class="date">Week 3</td><td class="date">Tue Sep 8</td><td>2%</td></tr>
+        <tr><th scope="row">2</th><td>Categorical and numerical data</td><td class="date">Week 4</td><td class="date">Tue Sep 15</td><td>2%</td></tr>
+        <tr><th scope="row">3</th><td>Visualization</td><td class="date">Week 5</td><td class="date">Tue Sep 22</td><td>2%</td></tr>
+        <tr><th scope="row">4</th><td>Distance and similarity metrics</td><td class="date">Week 6</td><td class="date">Tue Sep 29</td><td>2%</td></tr>
+        <tr><th scope="row">5</th><td>Regression</td><td class="date">Week 7</td><td class="date">Tue Oct 6</td><td>2%</td></tr>
+        <tr><th scope="row">6</th><td>Evaluation of machine learning</td><td class="date">Week 8</td><td class="date">Tue Oct 13</td><td>3%</td></tr>
+        <tr><th scope="row">7</th><td>Classification I</td><td class="date">Week 10</td><td class="date">Tue Oct 27</td><td>2%</td></tr>
+        <tr><th scope="row">8</th><td>Classification II</td><td class="date">Week 12</td><td class="date">Tue Nov 10</td><td>2%</td></tr>
+        <tr><th scope="row">9</th><td>Clustering</td><td class="date">Week 14</td><td class="date">Tue Dec 1</td><td>3%</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2 id="project">Project</h2>
+
+  <p>
+    One major project, in three progressive parts, substantially longer and more
+    complex than the lab assignments. <strong>It is a group activity</strong> and
+    is graded as one. You cannot propose a project as an individual, so be ready
+    to join a group. You will also be asked about your project work in the
+    in-class reflections, so the project feeds your participation grade too.
+  </p>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Part</th>
+          <th scope="col">Weight</th>
+          <th scope="col">Due</th>
+          <th scope="col">Handout</th>
+          <th scope="col">Other</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Proposal</th>
+          <td>2%</td>
+          <td class="date"><span class="tbd">TBD</span></td>
+          <td><a href="https://docs.google.com/document/d/1oYmaNYK1zIhdg_gf_TMndkXr0rqw4ULD/edit?usp=sharing&ouid=108269580411530541910&rtpof=true&sd=true">Google Doc</a></td>
+          <td>2 pages, plus sketches and figures</td>
+        </tr>
+        <tr>
+          <th scope="row">Plan and Preliminary</th>
+          <td>3%</td>
+          <td class="date"><span class="tbd">TBD</span></td>
+          <td><a href="https://docs.google.com/document/d/1mtszCl13P1c1Qsz_daZn1dtEjL4Qgaw3/edit?usp=sharing&ouid=108269580411530541910&rtpof=true&sd=true">Google Doc</a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row">Completed Project</th>
+          <td>10%</td>
+          <td class="date"><span class="tbd">TBD</span></td>
+          <td><a href="https://docs.google.com/document/d/1_FKLYm6p-dJBPmwfVotKY3voNQknzteH/edit?usp=sharing&ouid=108269580411530541910&rtpof=true&sd=true">Google Doc</a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row">Ideas and examples</th>
+          <td></td>
+          <td class="date"></td>
+          <td><a href="project/Project-Examples.pdf">PDF</a></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p>
+    <strong>Proposal.</strong> A 2-page proposal of your group's idea, guided by
+    a short prompt. Hand-drawn and low-fidelity sketches, figures, and
+    screenshots are highly encouraged and do not count against the 2 pages. You
+    get feedback before you begin any work, and you are graded on how well you
+    communicate your idea, the challenges you expect, and how you will apply
+    course topics.
+  </p>
+
+  <p>
+    <strong>Plan and preliminary.</strong> After feedback, divide the labor
+    across your group and do the preliminary work: gather your dataset(s) and
+    run descriptive statistics. If your working conjectures need revisiting, do
+    that here. <strong>You also schedule your finals-week demo slot at this
+    point</strong>, from the options I provide. I prioritize scheduling by
+    whichever groups submitted this part earliest and most completely, so
+    turning it in early and complete gets you a better pick of times.
+  </p>
+
+  <h3 id="final">Final Exam</h3>
+
+  <p class="note">
+    The final is a <strong>20-minute group demo and oral exam</strong> with me,
+    scheduled during finals week. <strong>These are not in-class
+    presentations.</strong> You are graded on the quality of the demo and on how
+    well each member handles my questions.
+  </p>
+
+  <p>
+    You set the focus areas in advance, and that choice drives your grade. The
+    more course material you apply in your project and can demonstrate, the
+    better you do. Pick data visualization as a focus, for
+    instance, and you will need to articulate which parts of visualization you
+    considered and how you used those principles, tools, and practices
+    effectively.
+  </p>
+
+  <p>
+    Not everyone has to attend, but <strong>at least two group members must be
+    present</strong>, and the group must agree in advance about who may miss it.
+    Anyone absent submits a hand-written reflection to me instead. If only one
+    person attends, that person is graded on the demo and the rest of the group
+    fails; if nobody attends, the whole group fails the final.
+  </p>
+
+  <h2 id="labs">Labs</h2>
+
+  <p>
+    Labs are the &ldquo;learn by doing&rdquo; core of the course: in-class
+    activities plus <strong>eight take-home assignments</strong>, assigned at the end of Thursday's lecture and due the following Thursday.
+    Many of them feed directly into your project. You are encouraged to work
+    together on labs, but <strong>you are graded as an individual</strong> and
+    the code you submit must be your own.
+  </p>
+
+  <p class="note">
+    <strong>Deadlines and commit history.</strong> Each assignment is submitted
+    by pushing to your repository by the deadline, and I check commit history and
+    timestamps, so an on-time submission with late commits is not a strategy
+    that works. Late work is accepted with a 5% penalty applied immediately, plus
+    5% per additional day, capped at 50%. Turning something in late always beats
+    not turning it in, but there is a hard cutoff during finals.
+  </p>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Lab</th>
+          <th scope="col">Assigned</th>
+          <th scope="col">Due</th>
+          <th scope="col">Colab</th>
+          <th scope="col">Notebook</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">Lab 1</th>
+          <td class="date">Thu Sep 3 (wk 2)</td>
+          <td class="date">Thu Sep 10 (wk 3)</td>
+          <td><a href="https://colab.research.google.com/drive/1yXJjkPUh0f0zcNbhHrLY6YCxzWuEN398">Colab</a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row">Lab 2</th>
+          <td class="date">Thu Sep 17 (wk 4)</td>
+          <td class="date">Thu Sep 24 (wk 5)</td>
+          <td><a href="https://colab.research.google.com/drive/1D2W4Y1KLD0ee7_vA2a_kBS0Q19IPJsiM">Colab</a></td>
+          <td><a href="labs/Lab01_DATA301.ipynb">.ipynb</a></td>
+        </tr>
+        <tr>
+          <th scope="row">Lab 3</th>
+          <td class="date">Thu Sep 24 (wk 5)</td>
+          <td class="date">Thu Oct 1 (wk 6)</td>
+          <td><a href="https://colab.research.google.com/drive/19u0ipWwE8CtnDLQqRk1c8LotTaNFiYKr">Colab</a></td>
+          <td><a href="labs/Lab03_DATA301.ipynb">.ipynb</a></td>
+        </tr>
+        <tr>
+          <th scope="row">Lab 4</th>
+          <td class="date">Thu Oct 8 (wk 7)</td>
+          <td class="date">Thu Oct 15 (wk 8)</td>
+          <td><a href="https://colab.research.google.com/drive/1rMpq7m5z0Zr6I1nLtTHH8Ygw8t0mh-ek">Colab</a></td>
+          <td><a href="labs/Lab04_DATA301.ipynb">.ipynb</a></td>
+        </tr>
+        <tr>
+          <th scope="row">Lab 5</th>
+          <td class="date">Thu Oct 15 (wk 8)</td>
+          <td class="date">Thu Oct 22 (wk 9)</td>
+          <td><a href="https://colab.research.google.com/drive/1fzMrpmUkKdb-KMHe_ulVR_j2xVegFHzy">Colab</a></td>
+          <td><a href="https://users.csc.calpoly.edu/~dekhtyar/301-Fall2025/labs/LAB5_DATA301.ipynb">.ipynb</a></td>
+        </tr>
+        <tr>
+          <th scope="row">Lab 6</th>
+          <td class="date">Thu Oct 29 (wk 10)</td>
+          <td class="date">Thu Nov 5 (wk 11)</td>
+          <td><a href="https://colab.research.google.com/drive/1Oti78lA-Pr5zfyTNCkGlQYDK7fxZML0S">Colab</a></td>
+          <td><a href="https://users.csc.calpoly.edu/~dekhtyar/301-Fall2025/labs/LAB06_DATA301.ipynb">.ipynb</a></td>
+        </tr>
+        <tr>
+          <th scope="row">Lab 7</th>
+          <td class="date">Thu Nov 12 (wk 12)</td>
+          <td class="date">Thu Nov 19 (wk 13)</td>
+          <td><span class="tbd">TBD</span></td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row">Lab 8</th>
+          <td class="date">Thu Nov 19 (wk 13)</td>
+          <td class="date">Thu Dec 3 (wk 14) <span class="tbd">spans fall break</span></td>
+          <td><span class="tbd">TBD</span></td>
+          <td></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</section>
+
+<section class="container">
+
+  <h2 id="schedule">Schedule</h2>
+
+  <div>
+    <p>
+      Fifteen weeks, anchored to the quiz schedule in the syllabus. The week
+      structure is settled, but specific dates and some topics are not. The
+      materials linked below are carried over from the DATA 301 quarter version
+      of the course, so expect them to change as the CSC 466 material is added.
+    </p>
+    <p class="note">
+      <strong>Reflections.</strong> Lectures and labs may open or close with a
+      hand-written reflection on the work you have been doing: what you tried,
+      what broke, what you changed. These should line up with the commits
+      and code you actually wrote. In-class exercises count toward participation.
+    </p>
+  </div>
+</section>
+
+<div class="container-wide">
+  <div class="table-scroll schedule" tabindex="0" role="region" aria-label="Week by week schedule">
+    <!-- The "Other Materials" column is commented out for now. To restore it:
+     uncomment the <th> and every <td> below, and change the milestone rows'
+     colspan="5" back to colspan="6". -->
+    <table class="schedule">
+      <thead>
+        <tr>
+          <th scope="col" rowspan="2">Week</th>
+          <th scope="col" rowspan="2">Date</th>
+          <th scope="col" rowspan="2">Topic</th>
+          <th scope="col" colspan="2">Lecture</th>
+          <th scope="col" colspan="3">Lab</th>
+          <!-- <th scope="col" rowspan="2">Other Materials</th> -->
+        </tr>
+        <tr>
+          <th scope="col">Slides</th>
+          <th scope="col">Notebook</th>
+          <th scope="col">Discussion</th>
+          <th scope="col">Notebook</th>
+          <th scope="col">Take-home</th>
+        </tr>
+      </thead>
+      <tbody>        <tr>
+          <th scope="row">1</th>
+          <td class="date">Tue Aug 25<br>Thu Aug 27</td>
+          <td>Introduction, Syllabus, What is Data Science?</td>
+          <td><a href="lectures/Lecture01-Introduction.pdf">PDF</a></td>
+          <td><a href="https://colab.research.google.com/drive/1I9plUhI_7f8z6CsznZonuWCrIPl8rPVO">LN01</a></td>
+          <td>Python Notebooks and Google Colab</td>
+          <td><a href="https://colab.research.google.com/drive/1_dOM3xQ3g7RNFi2tBwNUt4mbF9xBmMEY">DS01</a></td>
+          <td></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td class="date">Tue Sep 1<br>Thu Sep 3</td>
+          <td>Tabular Data: Data Frames<br>Complex Queries, Grouping, Aggregation, Joins</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture02-DataFrames.pdf">PDF</a><br>
+            <a href="lectures/Lecture03-Grouping-Aggregation-Join.pdf">PDF</a> -->
+          <td>
+            <a href="https://colab.research.google.com/drive/1A8-85w1MadVdUkukTaYyHFJENOpV-WgM">LN02</a><br>
+            <a href="https://colab.research.google.com/drive/1OKt51CSx3Pn_iIKaRo2Rt0ReBS-DbzTg">LN03</a>
+          </td>
+          <td>Operations on Data Frames<br>Complex queries</td>
+          <td>
+            <a href="https://colab.research.google.com/drive/1V13TSrR2WuszlKfr9_zXgHt5b68FeiKB">DS02</a><br>
+            <a href="https://colab.research.google.com/drive/1MLtZq5vV0ObTrzOkbmyNG4byX0tuDkYt">DS03</a>
+          </td>
+          <td>Lab 1 assigned: <a href="https://colab.research.google.com/drive/1yXJjkPUh0f0zcNbhHrLY6YCxzWuEN398">Colab</a> <span class="date">(Thurs: Sep 3)</span></td>
+          <!-- <td>Alcohol Effects on Study dataset (<a href="https://www.kaggle.com/datasets/whenamancodes/alcohol-effects-on-study">Kaggle</a>)</td> -->
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td class="date">Tue Sep 8<br>Thu Sep 10</td>
+          <td>Joins and Union<br>Categorical Variables<br>Numeric Variables<br>Categorical Variables (Part 2)</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture04-Join-Union.pdf">PDF</a><br>
+            <a href="lectures/Lecture05-CategoricalVariables.pdf">PDF</a><br>
+            <a href="lectures/Lecture06-VariableTypes-QuantitativeVariables.pdf">PDF</a><br>
+            <a href="lectures/Lecture07-CategoricalVariables-Distributions.pdf">PDF</a> -->
+          <td>
+            <a href="https://colab.research.google.com/drive/1lANHlJT_szuIU9a01kgKXafJ1w4qwyv_">LN04</a><br>
+            <a href="https://colab.research.google.com/drive/1m4X9Rz1QgbEtRLy0asgn2xvB2u8ykCka">LN05</a><br>
+            <a href="https://colab.research.google.com/drive/1Q2CGH8Gwv6cYqhCVRpM92J0VUw5izqj-">LN06</a><br>
+            <a href="https://colab.research.google.com/drive/15o5xkbd3iIVqslBDwoUET06rL4FNrJpp">LN07-1</a><br>
+            <a href="https://colab.research.google.com/drive/1gxCIQFC6oHJtd88_8cnMqaTID4__ra7Z">LN07-2</a>
+          </td>
+          <td>COVID Fatalities<br>College Scorecard</td>
+          <td>
+            <a href="https://colab.research.google.com/drive/1px4bDHiDPAeRB7gSIwm7GBTfqK-OWxJP">DS04</a><br>
+            <a href="https://colab.research.google.com/drive/1WGPJ0wZkp3Mycvxif_nfrghyyIBWMSET">DS05</a>
+          </td>
+          <td>Lab 1 due <span class="date">(Thurs: Sep 10)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 3</span></th>
+          <td class="date">Tue Sep 8</td>
+          <td colspan="6">Quiz 1: Tabular data</td>
+        </tr>
+        <tr>
+          <th scope="row">4</th>
+          <td class="date">Tue Sep 15<br>Thu Sep 17</td>
+          <td>Relationships between Numeric Variables<br>Data Visualization</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture08-ScatterplotsCorrelations.pdf">PDF</a><br>
+            <span class="tbd">TBD</span> -->
+          <td><a href="https://colab.research.google.com/drive/1BMQCYIUtVbhP7tCt1FXmX68VxGfHwb71">LN08</a></td>
+          <td>Multivariate plotting with Matplotlib</td>
+          <td><a href="https://colab.research.google.com/drive/1JdF4USlfinZqisLnrry9BOGGKaGuKWmn">DS06</a></td>
+          <td>Lab 2 assigned: <a href="https://colab.research.google.com/drive/1D2W4Y1KLD0ee7_vA2a_kBS0Q19IPJsiM">Colab</a> <span class="date">(Thurs: Sep 17)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 4</span></th>
+          <td class="date">Tue Sep 15</td>
+          <td colspan="6">Quiz 2: Categorical and numerical data</td>
+        </tr>
+        <tr>
+          <th scope="row">5</th>
+          <td class="date">Tue Sep 22<br>Thu Sep 24</td>
+          <td>Distance and Similarity Metrics</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture09-DistanceMetrics.pdf">PDF</a> -->
+          <td><a href="https://colab.research.google.com/drive/15ftkVpZDdu-e4MG8OdEns2e71FzyykxJ#scrollTo=bu9-o02Fd02K">LN09</a></td>
+          <td>Distances in Matplotlib</td>
+          <td><a href="https://colab.research.google.com/drive/1IStYygtpPgL3W_PZEt1feZtb9lj0lEC6">DS07</a></td>
+          <td>Lab 2 due <span class="date">(Thurs: Sep 24)</span><br>Lab 3 assigned: <a href="https://colab.research.google.com/drive/19u0ipWwE8CtnDLQqRk1c8LotTaNFiYKr">Colab</a> <span class="date">(Thurs: Sep 24)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 5</span></th>
+          <td class="date">Tue Sep 22</td>
+          <td colspan="6">Quiz 3: Visualization</td>
+        </tr>
+        <tr>
+          <th scope="row">6</th>
+          <td class="date">Tue Sep 29<br>Thu Oct 1</td>
+          <td>Text Vectorization: Bag of Words, N-Grams<br>Encoding Categorical Variables, Column Transformers<br>TF-IDF</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture10-Bag-of-Words.pdf">PDF</a><br>
+            <a href="lectures/Lecture11-Dummies-ColumnTransformers.pdf">PDF</a><br>
+            <a href="lectures/Lecture12-TF-IDF.pdf">PDF</a> -->
+          <td>
+            <a href="https://colab.research.google.com/drive/1Abco5A1CTE_XD2NuxsqjgOdEhuq1ndVc">LN10</a><br>
+            <a href="https://colab.research.google.com/drive/1nbxfYVry58WzIK68hD2ZOVLmGjXpwpH3">LN11</a><br>
+            <a href="https://colab.research.google.com/drive/1gthSCZlmRqJ6A7nzUsAzZL8rAjlvXGh3">LN12</a>
+          </td>
+          <td>Who wrote the Gospels?</td>
+          <td><a href="https://colab.research.google.com/drive/1Ok4Zz6FOWZsTBzMEt4oaFcIlZW-zuyi0">DS08</a></td>
+          <td>Lab 3 due <span class="date">(Thurs: Oct 1)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 6</span></th>
+          <td class="date">Tue Sep 29</td>
+          <td colspan="6">Quiz 4: Distance and similarity metrics</td>
+        </tr>
+        <tr>
+          <th scope="row">7</th>
+          <td class="date">Tue Oct 6<br>Thu Oct 8</td>
+          <td>Predictive Modeling, Supervised Learning, Regression<br>Linear Regression</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture13-PredictiveModeling-ML-Regression-KNN.pdf">PDF</a><br>
+            <a href="lectures/Lecture14-LinearRegression.pdf">PDF</a> -->
+          <td>
+            <a href="https://colab.research.google.com/drive/1bgbNouLdF-NoRfQBKP2s4lIq0HVwLSar">LN13</a><br>
+            <a href="https://colab.research.google.com/drive/1gb7uE8nOIb7dKBNeI7n-tgeslAsTxbZk">LN14</a>
+          </td>
+          <td>Predictive Modeling<br>Predicting House Prices</td>
+          <td>
+            <a href="https://colab.research.google.com/drive/1dW5-BWHAiaonWlqzD2xsNm4Uc2FFiZlF">DS09</a><br>
+            <a href="https://colab.research.google.com/drive/1TyqowWW2Y4a35U7m6v_SWa-0cOHW0-5E">DS10</a>
+          </td>
+          <td>Lab 4 assigned: <a href="https://colab.research.google.com/drive/1rMpq7m5z0Zr6I1nLtTHH8Ygw8t0mh-ek">Colab</a> <span class="date">(Thurs: Oct 8)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 7</span></th>
+          <td class="date">Tue Oct 6</td>
+          <td colspan="6">Quiz 5: Regression</td>
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 7</span></th>
+          <td class="date">Thu Oct 8</td>
+          <td colspan="6">Project: Proposal due</td>
+        </tr>
+        <tr>
+          <th scope="row">8</th>
+          <td class="date">Tue Oct 13<br>Thu Oct 15</td>
+          <td>Model Evaluation<br>Model Selection and Hyperparameter Tuning</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture15-ModelEvaluation.pdf">PDF</a><br>
+            <a href="lectures/Lecture16-ModelSelection.pdf">PDF</a> -->
+          <td>
+            <a href="https://colab.research.google.com/drive/1rDnsf8S5lqY5_gNvhKqJ2hcD_JlWcmRI">LN15</a><br>
+            <a href="https://colab.research.google.com/drive/1M0EIJYdD2rM2Ml1tjuG6UicVHOJ6NINa">LN16</a>
+          </td>
+          <td>Evaluating House Price Predictions<br>Grid Search</td>
+          <td>
+            <a href="https://colab.research.google.com/drive/1jVlQdABEoHZOGaYvvdzytSZMAm5VLc3j">DS11</a><br>
+            <a href="https://colab.research.google.com/drive/1TpA-p7C86rY2bjaW-iG2AEMo1y9cwHhh">DS12</a>
+          </td>
+          <td>Lab 4 due <span class="date">(Thurs: Oct 15)</span><br>Lab 5 assigned: <a href="https://colab.research.google.com/drive/1fzMrpmUkKdb-KMHe_ulVR_j2xVegFHzy">Colab</a> <span class="date">(Thurs: Oct 15)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 8</span></th>
+          <td class="date">Tue Oct 13</td>
+          <td colspan="6">Quiz 6: Evaluation of machine learning</td>
+        </tr>
+        <tr>
+          <th scope="row">9</th>
+          <td class="date">Tue Oct 20<br>Thu Oct 22</td>
+          <td><span class="tbd">Topic TBD</span></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>Lab 5 due <span class="date">(Thurs: Oct 22)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr>
+          <th scope="row">10</th>
+          <td class="date">Tue Oct 27<br>Thu Oct 29</td>
+          <td>Classification, K-Nearest Neighbors</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture17-Classification.pdf">PDF</a> -->
+          <td><a href="https://colab.research.google.com/drive/1Be63eYG1tJr4J2-qRPl96sUEXRWb9sSK#scrollTo=kxyTOk2VxbCE">LN17</a></td>
+          <td>Handwritten Digit Classification</td>
+          <td><a href="https://colab.research.google.com/drive/18313HqgUSLwz19pUcnGvIH_80zPHc2rn#scrollTo=A8zrhUWv7P6x">DS13</a></td>
+          <td>Lab 6 assigned: <a href="https://colab.research.google.com/drive/1Oti78lA-Pr5zfyTNCkGlQYDK7fxZML0S">Colab</a> <span class="date">(Thurs: Oct 29)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 10</span></th>
+          <td class="date">Tue Oct 27</td>
+          <td colspan="6">Quiz 7: Classification I</td>
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 10</span></th>
+          <td class="date">Thu Oct 29</td>
+          <td colspan="6">Project: Plan and Preliminary due &middot; finals-week demo slots scheduled</td>
+        </tr>
+        <tr>
+          <th scope="row">11</th>
+          <td class="date">Tue Nov 3<br>Thu Nov 5</td>
+          <td>Classification: Logistic Regression, SVMs</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture18-LogisticRegression-SVM.pdf">PDF</a> -->
+          <td><a href="https://colab.research.google.com/drive/1w4GrxdKXbiXgSC9LH3VFnpcplHuVMcs5">LN18</a></td>
+          <td>Evaluation of Classifiers</td>
+          <td><a href="https://colab.research.google.com/drive/1LGTE4fed9A6m6MNg8im5XDuGRBbwK-Xf">DS14</a></td>
+          <td>Lab 6 due <span class="date">(Thurs: Nov 5)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr>
+          <th scope="row">12</th>
+          <td class="date">Tue Nov 10<br>Thu Nov 12</td>
+          <td><span class="tbd">Topic TBD</span></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>Lab 7 assigned: <span class="tbd">TBD</span> <span class="date">(Thurs: Nov 12)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 12</span></th>
+          <td class="date">Tue Nov 10</td>
+          <td colspan="6">Quiz 8: Classification II</td>
+        </tr>
+        <tr>
+          <th scope="row">13</th>
+          <td class="date">Tue Nov 17<br>Thu Nov 19</td>
+          <td><span class="tbd">Topic TBD</span></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>Lab 7 due <span class="date">(Thurs: Nov 19)</span><br>Lab 8 assigned: <span class="tbd">TBD</span> <span class="date">(Thurs: Nov 19)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Between weeks 13 and 14</span></th>
+          <td class="date">Tue Nov 24<br>Thu Nov 26</td>
+          <td colspan="6">Fall Break: no class (campus holiday Nov 23&ndash;29)</td>
+        </tr>
+        <tr>
+          <th scope="row">14</th>
+          <td class="date">Tue Dec 1<br>Thu Dec 3</td>
+          <td>Clustering, KMeans Clustering</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture19-Clustering.pdf">PDF</a> -->
+          <td><a href="https://colab.research.google.com/drive/1EVYcPZQQ0grS837yx37jqD3O_bi2k2WH">LN19</a></td>
+          <td>Clustering (as data compression)</td>
+          <td><a href="https://colab.research.google.com/drive/1acyW354r08Sys8ll57RksNxLFao5iHGt">DS15</a></td>
+          <td>Lab 8 due <span class="date">(Thurs: Dec 3)</span></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 14</span></th>
+          <td class="date">Tue Dec 1</td>
+          <td colspan="6">Quiz 9: Clustering</td>
+        </tr>
+        <tr>
+          <th scope="row">15</th>
+          <td class="date">Tue Dec 8<br>Thu Dec 10</td>
+          <td>Clustering Evaluation<br>Course Review</td>
+          <td><span class="tbd">TBD</span></td>  <!-- was: <a href="lectures/Lecture20-ClusteringEvaluation.pdf">PDF</a><br>
+            <a href="lectures/Lecture21-Review.pdf">PDF</a> -->
+          <td>
+            <a href="https://colab.research.google.com/drive/11x-kw_bnFksLHdsP06eM6yZ_gP4dpejE">LN20</a><br>
+            <a href="https://colab.research.google.com/drive/1RNRWnXmWRPN0zHPIMxg8hmxUaOabSJE4">LN21</a>
+          </td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <!-- <td></td> -->
+        </tr>
+        <tr class="milestone">
+          <th scope="row"><span class="visually-hidden">Week 15</span></th>
+          <td class="date">Thu Dec 10</td>
+          <td colspan="6">Project: Completed project due</td>
+        </tr>
+        <tr class="milestone">
+          <th scope="row">Finals</th>
+          <td class="date">Mon Dec 14<br>Fri Dec 18</td>
+          <td colspan="6">Final: 20-minute group demo and oral exam, by appointment</td>
+        </tr>
+</tbody>
+    </table>
+  </div>
+</div>
+
+<section class="container">
+
+  <h2 id="policies">Policies</h2>
+
+  <p>
+    Summarized here for quick reference. The
+    <a href="Syllabus%20for%20DATA-3301-Introduction%20to%20Data%20Science.pdf">syllabus</a>
+    has the full text of each.
+  </p>
+
+  <h3 id="ai">AI-generated content</h3>
+
+  <p>
+    My approach as an instructor is informed by <strong>harm reduction</strong>.
+    That strategy comes from activists and health officials during the HIV/AIDS
+    epidemic: telling people that using needles was morally bad produced more
+    shame, and therefore more secrecy. When people use dangerous things in
+    secret, it is far harder to get help when they need it. So I take a
+    shame-free approach here. My problem as an educator is that I have to tell
+    you honestly about the downsides of AI for learning without scaring you away
+    from talking to me when you need help.
+  </p>
+
+  <p>
+    <strong>Generative AI is strongly not encouraged, but it is not forbidden on
+    take-home assignments.</strong> The condition is disclosure. Every use of
+    generative AI on take-home work must be explicitly disclosed, both in the
+    text of any report you submit <em>and</em> in comments on any code cell or
+    code block produced with its assistance. Failing to disclose is an academic
+    integrity violation.
+  </p>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Generative AI is permitted</th>
+          <th scope="col">Generative AI is prohibited</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            Lab assignments (take-home only, not in-class activities)<br>
+            Project-related assignments
+          </td>
+          <td>
+            Participation, including reflections on your project and lab work<br>
+            In-lab notebooks and activities<br>
+            Quizzes (pencil and paper)<br>
+            The final (a demo and group oral exam)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p class="note warning">
+    <strong>Only 25% of your grade could be determined by generative AI.</strong>
+    And there is strong research showing that high performance paired with
+    little time spent on homework correlates strongly with poor quiz and exam
+    scores. The quizzes and the final are the true evaluations in this course.
+    They test both your understanding and your ability to articulate your own
+    contributions in concrete terms.
+    Generative AI, while technically allowed on take-home work, will likely work
+    against your grade overall.
+  </p>
+
+  <p>
+    Students who do better in today's educational landscape, and in professional environments, are the ones who are deeply literate in what AI is,
+    how it works, and where it fails, and who have real humility and real
+    expertise of their own. The idea of a 10x or 100x boost from generative AI
+    means little if your starting value is zero. Zero times 100 is still zero.
+    You need fundamentals, ideally deep specialization, for these tools to
+    compound anything. My goal is to help you build that expertise first.
+  </p>
+
+  <h3 id="collaboration">Collaboration</h3>
+
+  <p>
+    Talk, share ideas, help each other. Just make sure you are learning and
+    applying the material yourself.
+  </p>
+
+  <ul>
+    <li>
+      <strong>Labs</strong> are collaborative to work on, but graded
+      individually. The code you submit must be your own.
+    </li>
+    <li>
+      <strong>The project</strong> is a group activity with a shared grade.
+    </li>
+    <li>
+      <strong>The final demo</strong> is a group activity that also includes
+      individual evaluation, based on how each member demonstrates their
+      understanding of the work overall and of their own contribution.
+    </li>
+    <li>
+      <strong>Reflections and quizzes</strong> are entirely individual.
+    </li>
+  </ul>
+
+  <p>
+    All of this is fair game: helping each other with syntax and runtime errors,
+    finding (but not fixing) a bug after someone has tried themselves first,
+    debugging methods, general programming techniques, relevant algorithms and
+    data structures, and the ethics and bigger-picture issues of the work.
+    Exchanging code in any form is not, nor is using solutions from previous
+    offerings, from the internet, from GitHub, or from a paid &ldquo;tutor.&rdquo;
+    If you are unsure where a line is, ask me.
+  </p>
+
+  <h3 id="late-work">Late work</h3>
+
+  <p>
+    There are times when coursework and life outside it combine into something
+    unbearable. I understand, and you need not apologize for it. Some of the
+    assessments are structured to account for that automatically: you can drop at
+    least one <em>missed</em> quiz, reflections can be made up in the next class
+    you attend, and late assignments are accepted with a 5% immediate penalty
+    plus 5% per additional day, capped at 50%. Contact me as soon as you are
+    able for anything these do not cover.
+  </p>
+
+  <h3 id="accessibility">Accessibility</h3>
+
+  <p>
+    My research area is accessibility, I work extensively with people with
+    disabilities, and I am open about living with disabilities myself. That
+    means two things. First, I am more than happy to accommodate you, and by
+    asking you help me improve my teaching, pacing, and materials. Reach out
+    directly, by <a href="mailto:felavsky@calpoly.edu">email</a> or in office
+    hours, and tell me what you need.
+  </p>
+
+  <p>
+    Second, it is heavily in your favor to also work with the
+    <a href="https://drc.calpoly.edu/">Disability Resource Center</a> and get
+    formal accommodations wherever possible. I am happy to work with you,
+    but will every professor be? Applying for accommodations takes some executive
+    function if you are not used to it, but it is worth setting up in case you
+    need it. The DRC exists to get you what you need and to require professors to
+    do the work they should be doing. If you want help with any of this,
+    including navigating higher education with a disability, let me know. I was a
+    Section 504 kid in high school and have been through these hoops in undergrad,
+    grad school, and at work. I want you to succeed and to feel fully included
+    here.
+  </p>
+
+  <h3 id="well-being">Personal well-being</h3>
+
+  <p>
+    If coursework and non-academic obligations combine into a seemingly
+    unbearable situation, your work may suffer and you may decide not to finish
+    something by its posted date. I understand, and you do not need to apologize.
+    Do not get discouraged. Contact me as soon as you can. I am here to
+    help; just ask.
+  </p>
+
+  <p>
+    If you or someone you know is having difficulty accessing enough healthy food
+    or stable housing, campus has free and effective resources. Visit
+    <a href="http://www.basicneeds.calpoly.edu/">basicneeds.calpoly.edu</a>.
+  </p>
+
+  <h3 id="learning-environment">Learning environment</h3>
+
+  <p>
+    Every person deserves respect, every question deserves an answer, and we work
+    together toward improved understanding. The old adage says to ask because
+    others may have the same question. But you do not need some imagined quorum
+    to validate your question or your request for help. Having a question
+    is sufficient. You belong here, and your participation is not only welcomed but encouraged.
+  </p>
+
+  <p>
+    Failure is part of learning. The material here is difficult, and for students
+    who have mostly learned in environments where they excelled, that can be
+    intimidating, disorienting, and isolating. Engaging with your peers, asking
+    questions, and coming to see me are the basic ingredients for getting
+    through it. Students who have friends in a class are statistically more
+    likely to finish it and to earn higher grades, so be friendly and respectful
+    to others. Make friends. And if you feel ahead: that is a great reason to
+    connect with your peers. Come to office hours as a group.
+  </p>
+
+  <p>
+    Access to and support within computing education is a matter of social
+    justice. Computing touches nearly every part of most lives in this society
+    and many others; it should not be practiced or defined by only a small,
+    mostly homogeneous group. The field is better when it includes and actively
+    supports a diversity of practitioners, because that diversity of experience
+    and of cultural and personal values gives greater perspective on which
+    problems are worth solving.
+  </p>
+
+</section>
+
+</main>
+
+<footer>
+  <div class="container">
+    <div class="footer-col">
+      DATA 3301 &middot; Fall 2026<br>
+      <a href="mailto:felavsky@calpoly.edu">felavsky@calpoly.edu</a> &middot; 14-228
+    </div>
+    <div class="footer-col">
+      <a href="https://www.frank.computer/">frank.computer</a>
+    </div>
+    <div class="footer-col wide">
+      Taught by Frank Elavsky, Assistant Professor of Data Science at Cal Poly.
+      Assembled from the DATA 301 curriculum developed by
+      <a href="https://www.csc.calpoly.edu/~dekhtyar/">Alex Dekhtyar</a>, with
+      material from CSC 466 and from
+      <a href="https://github.com/dlsun/pods">Dennis Sun's textbook</a>.
+      Something on this page broken or inaccessible?
+      <a href="mailto:felavsky@calpoly.edu">Let me know</a>.
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

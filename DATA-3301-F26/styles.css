@@ -1,0 +1,459 @@
+/* DATA 3301 course site
+   Colors, type, and link treatment mirror www.frank.computer */
+
+:root {
+  --navy: #1e3369;
+  --navy-mid: #355ab8;
+  --ink: #414141;
+  --link: #174b3f;
+  --mint: #aadbcf;
+  --muted: #565656;
+  --rule: #c1c1c1;
+  --border: #ddd;
+  --shade: #f7f8fa;
+  --warn: #5b1936;
+  --warn-rule: #e7b3cb;
+  --gutter: 32px;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100vh;
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: "Montserrat", Verdana, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.64;
+  color: var(--ink);
+  background-color: #fff;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "kern" 1;
+  box-sizing: border-box;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, ul, ol, dl, figure, table {
+  margin-bottom: 16px;
+}
+
+ul, ol {
+  margin-left: 32px;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+/* ---------- links ---------- */
+
+a {
+  color: var(--link);
+  text-decoration: none;
+  background-image: linear-gradient(transparent 85%, var(--mint) 15%);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+a:hover,
+a:focus {
+  background-image: linear-gradient(transparent 85%, var(--link) 15%);
+  background-size: 100% 110%;
+  transition: background-size 0.15s ease-in-out,
+    background-image 0.15s ease-in-out;
+}
+
+a:focus-visible {
+  outline: 3px solid var(--navy-mid);
+  outline-offset: 2px;
+}
+
+/* ---------- headings ---------- */
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
+  color: var(--navy);
+  font-weight: 600;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 2.6rem;
+  line-height: 1.15;
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+h1 .term {
+  display: block;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+  margin-top: 0.4rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  border-bottom: 1px solid var(--rule);
+  margin-top: 2.5rem;
+  font-weight: 800;
+}
+
+h3 {
+  font-size: 1.3rem;
+  margin-top: 1.8rem;
+}
+
+/* ---------- layout ---------- */
+
+.container {
+  max-width: 864px;
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.container-wide {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.page-content {
+  padding-bottom: 3rem;
+  flex: 1 1 auto;
+}
+
+@media screen and (max-width: 600px) {
+  .container,
+  .container-wide {
+    padding: 0 16px;
+  }
+}
+
+/* ---------- header / nav ---------- */
+
+.page-header {
+  border-top: 6px solid var(--navy);
+  padding-top: 6px;
+  margin-bottom: 40px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  flex-flow: row wrap;
+  line-height: 36px;
+  justify-content: flex-start;
+}
+
+nav .site-title-wrapper {
+  margin-right: auto;
+}
+
+nav a {
+  position: relative;
+  color: #333;
+  padding: 12px 0.3rem 0 0.3rem;
+  margin: 0 0.3rem;
+  font-weight: 600;
+  opacity: 0.75;
+  border-bottom: 2px solid transparent;
+  transition: opacity 0.25s ease-in-out;
+  background-image: linear-gradient(transparent 80%, var(--mint) 20%);
+}
+
+nav a:hover,
+nav a:focus {
+  background-image: linear-gradient(transparent 90%, var(--mint) 10%);
+  background-size: 100% 90%;
+  padding-bottom: 0.35rem;
+  opacity: 1;
+}
+
+nav .site-title {
+  font-weight: 900;
+  font-size: 1.15rem;
+  color: var(--navy);
+  opacity: 1;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+@media screen and (max-width: 700px) {
+  nav {
+    justify-content: flex-start;
+  }
+  nav .site-title-wrapper {
+    flex: 0 1 100%;
+  }
+  nav a {
+    margin: 0 5px;
+  }
+}
+
+/* ---------- intro block ---------- */
+
+.lead {
+  font-size: 1.15rem;
+}
+
+.facts {
+  list-style: none;
+  margin: 0 0 1.5rem 0;
+  padding: 0;
+}
+
+.facts li {
+  margin-bottom: 0.2rem;
+}
+
+.facts .label {
+  display: inline-block;
+  min-width: 7.5rem;
+  font-weight: 600;
+  color: var(--navy);
+}
+
+/* ---------- callouts ---------- */
+
+.note {
+  color: var(--navy);
+  border-left: 4px solid var(--mint);
+  background: var(--shade);
+  padding: 12px 16px;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+}
+
+.note > :last-child {
+  margin-bottom: 0;
+}
+
+.note.warning {
+  color: var(--warn);
+  border-left-color: var(--warn-rule);
+  background: #fdf6f9;
+}
+
+.tbd {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  background: #f1f2f5;
+  border: 1px solid #dcdee5;
+  border-radius: 3px;
+  padding: 0 0.4rem;
+  vertical-align: 0.08em;
+  white-space: nowrap;
+}
+
+/* one-off placeholders in prose stay emphasized; repeated ones in tables recede */
+td .tbd,
+th .tbd {
+  background: transparent;
+  border-color: transparent;
+  padding: 0;
+  font-weight: 400;
+}
+
+/* ---------- tables ---------- */
+
+.table-scroll {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+}
+
+.table-scroll:focus-visible {
+  outline: 3px solid var(--navy-mid);
+  outline-offset: 2px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.9rem;
+  margin-bottom: 0;
+}
+
+caption {
+  text-align: left;
+  font-size: 0.85rem;
+  color: var(--muted);
+  padding: 0 0 0.5rem 0;
+}
+
+th,
+td {
+  text-align: left;
+  vertical-align: top;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+thead th {
+  background: var(--navy);
+  color: #fff;
+  font-weight: 600;
+  border-bottom: none;
+  white-space: nowrap;
+}
+
+tbody tr:nth-child(even) {
+  background: var(--shade);
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+tbody th {
+  font-weight: 600;
+  color: var(--navy);
+  white-space: nowrap;
+}
+
+td a,
+th a {
+  white-space: nowrap;
+}
+
+/* schedule-specific */
+
+.schedule thead th[colspan] {
+  text-align: center;
+  border-left: 1px solid rgba(255, 255, 255, 0.25);
+  border-right: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.schedule thead tr:last-child th {
+  background: var(--navy-mid);
+  font-weight: 400;
+  font-size: 0.8rem;
+}
+
+
+.schedule td:empty::after {
+  content: "\2013";
+  color: #c8c8c8;
+}
+
+.schedule .date {
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.schedule tr.milestone {
+  background: #eef2fb !important;
+}
+
+.schedule tr.milestone td {
+  color: var(--navy);
+  font-weight: 600;
+}
+
+.schedule tr.milestone td:empty::after {
+  content: "";
+}
+
+/* ---------- footer ---------- */
+
+footer {
+  padding: 32px 0;
+  font-size: 0.9rem;
+  background-color: var(--navy);
+  color: #e6e6e6;
+}
+
+footer a {
+  color: #fff;
+  background-image: linear-gradient(transparent 87%, var(--mint) 13%);
+}
+
+footer a:hover,
+footer a:focus {
+  background-image: linear-gradient(transparent 92%, var(--mint) 8%);
+}
+
+footer .container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+footer .footer-col {
+  padding: 16px 0;
+}
+
+footer .footer-col.wide {
+  width: 420px;
+}
+
+@media screen and (max-width: 800px) {
+  footer .footer-col.wide {
+    flex: 1 100%;
+  }
+}
+
+/* ---------- utility ---------- */
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  background: #fff;
+  color: var(--navy);
+  padding: 10px 16px;
+  font-weight: 600;
+  z-index: 10;
+}
+
+.skip-link:focus {
+  left: 8px;
+  top: 8px;
+}
+
+/* Visually hidden, still announced by screen readers. Modern clip-path
+   approach; the :not() guard lets a focusable child reveal itself. */
+.visually-hidden:not(:focus):not(:active) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+@media print {
+  .no-print { display: none !important; }
+  body { margin: 0; }
+  .table-scroll { border: none; overflow: visible; }
+}
