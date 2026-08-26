@@ -47,7 +47,7 @@ The other way to get to this setting is how I initially found it, which was thro
     <figcaption>Colab's interface for disabling generative ai features in a specific notebook.</figcaption>
 </figure>
 
-Once you set this and the file is saved, the metadata (from option 1 above) is populated into the file. Now, students who copy the file (using `File` > `Save a copy in Drive` or simply by copying the actual ipynb file itself via downloading, copying, or otherwise).
+Once you set this and the file is saved, the metadata (from option 1 above) is populated into the file. Now, students who copy the file (using `File` > `Save a copy in Drive` or simply by copying the actual ipynb file itself via downloading, copying, or otherwise) will get this setting too.
 
 ## A new age: refactoring against Gen AI for the sake of student learning
 
