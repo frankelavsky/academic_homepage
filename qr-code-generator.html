@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript QR Code Generator</title>
+    <!-- Include the QRCode.js library via CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 50px;
+        }
+        .container {
+            text-align: center;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+        input {
+            padding: 10px;
+            width: 250px;
+            margin-bottom: 15px;
+        }
+        button {
+            padding: 10px 20px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+        #qrcode {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>QR Code Generator</h2>
+    <p>I use this for my slide prep, but you (dear visitor) are welcome to use this tool too, instead of making an account somewhere.</p>
+    <input type="text" id="text-input" placeholder="Enter URL or text here..." value="https://example.com">
+    <br>
+    <button onclick="generateQR()">Generate QR Code</button>
+    
+    <!-- Container where the QR code will be rendered -->
+    <div id="qrcode"></div>
+</div>
+
+<script>
+    // Keep a reference to the QR Code instance
+    let qrcodeInstance = null;
+
+    function generateQR() {
+        const textValue = document.getElementById("text-input").value;
+        const qrContainer = document.getElementById("qrcode");
+
+        // Validation checking for empty input
+        if (!textValue.trim()) {
+            alert("Please enter some text or a valid URL!");
+            return;
+        }
+
+        // Clear the previous QR code container if it exists
+        qrContainer.innerHTML = "";
+
+        // Create a new instance of QRCode
+        qrcodeInstance = new QRCode(qrContainer, {
+            text: textValue,
+            width: 600,
+            height: 600,
+            colorDark : "#1E3369",
+            colorLight : "#ffffff",
+            correctLevel : QRCode.CorrectLevel.H
+        });
+    }
+
+    // Generate an initial QR code on page load
+    window.onload = generateQR;
+</script>
+
+</body>
+</html>
