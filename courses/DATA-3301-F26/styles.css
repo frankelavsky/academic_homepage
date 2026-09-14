@@ -272,6 +272,17 @@ nav .site-title {
   white-space: nowrap;
 }
 
+.prev {
+  display: inline-block;
+  background: #f1f2f5;
+  border: 1px solid #dcdee5;
+  border-radius: 3px;
+  padding: 0 0.4rem;
+  vertical-align: 0.08em;
+  white-space: nowrap;
+  text-align: center;
+}
+
 /* one-off placeholders in prose stay emphasized; repeated ones in tables recede */
 td .tbd,
 th .tbd {
