@@ -45,7 +45,7 @@ And because HCI research is simply imagined and envisioned as a vehicle for extr
 
 HCI research was set up as a fragile operation from the start: we didn't have the power. We acted on behalf of the people with budgets and money and so on. And the people we work with certainly rarely have any power either. And because our job was to act as a knowledge-extractor for systems of power, HCI research in the workforce is at risk of being prompted away.
 
-But... is knowledge extraction really all that HCI research is actually good for?
+But... is knowledge extraction really all that HCI research is actually good for? And even if we stick to the core framing of research-is-for-knowledge, we need to interrogate *who* the knowledge should be for. And in order to do that, we need to pay close attention to the framing and motivation (and even funding) that underpins all of HCI (and especially our own personal work and agendas).
 
 ## What do we do?
 
