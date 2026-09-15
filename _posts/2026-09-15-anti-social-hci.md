@@ -37,7 +37,7 @@ HCI researchers are specialists. They stand between people, such as people with 
 
 This pattern, of a thing put between things in order to create power imbalances, is fundamental to many systems of power: authoritarian governments, bureaucracies, HR in the workplace, and capitalism in general. The best capitalist ideas aren't ones where someone makes something new or "wins" a rat race beating people in a fair fight, but where a gate can be built between things where people otherwise would have fluidly moved freely. Crossing a bridge? Tollbooth. Healthcare? Insurance. Spending money? Credit cards. And so on. This separation between people and people (and also between people and things) is *alienation*.
 
-HCI researchers interact with people and translate what they find to people in power because people in power don't want to do this work, and certainly don't want to do it themselves.
+HCI researchers interact with people and translate what they find to people in power because people in power don't want to do this work, and certainly don't want to do it themselves. In this way, HCI research alienates builders and makers from other people and alienates people from the builders and makers.
 
 And lo and behold: the once-human-to-human practice of HCI research has now been ursurped by prompting and multi-million dollar startups that claim to have [crowds of human-like (and post-human-like) agents](https://hai.stanford.edu/policy/simulating-human-behavior-with-ai-agents) who can scale knowledge extraction, albeit via simulation. The core idea claimed is that this method is *even better* than working with humans.
 
