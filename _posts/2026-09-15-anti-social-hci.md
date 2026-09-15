@@ -55,7 +55,7 @@ One of my favorite introductions that I suggest folks read is a [primer on *disa
 
 In my humble opinion, the core way that HCI research should operate is *disruptive*. It should be a way for people who may not have power to now have a say, a seat at the table, and perhaps even budgets or staff who work to make their lives better. Synthetic agents don't require any power at all! Which is why those ideas, as replacements for HCI research, are deeply perverted, anti-social, and alienating.
 
-HCI research can and should operate as ways to hold people accountable who have power, disperse and distribute power, and even enable more radical alternatives ot building and making things. HCI research isn't about making better products. Products are always a proxy for some other function or process in our lives. So HCI research should be about living better lives. HCI research should be about the redistribution of knowledge for everyone, and not just a concentration of knowledge handed to corporations and systems that already have immense resources.
+HCI research can and should operate as ways to hold people accountable who have power, disperse and distribute power, and even enable more radical alternatives to building and making things. HCI research isn't really about making better products. Products are always a proxy for some other function or process in our lives. So HCI research should be about living better lives. HCI research should be about the redistribution of knowledge for everyone, and not just a concentration of knowledge handed to corporations and systems that already have immense resources.
 
 ## Do what I call "robin-hooding" HCI
 
