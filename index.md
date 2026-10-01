@@ -10,6 +10,8 @@ class: home
 
 <div class="intro" markdown="1">
 
+<i><a href="https://namedrop.io/frankelavsky">Pronunciation</a>, IPA: <a href="https://ipa-reader.com/?text=il%C3%A6vzki">ilævzki</a>.</i>
+
 I design and build software <strong><a href="https://www.frank.computer/projects/">systems</a> for human interaction</strong>. My current work is situated on <strong>toolmaking</strong> at the intersection of data <strong>visualization and accessibility</strong>, making better frameworks and software tools for practitioners to make data visualizations accessible for people with disabilities. I hope to continue to design and build interfaces, infrastructures, and tools that <strong>enable everyone, including people with disabilities</strong>, to live full lives.
 
 My work has been recognized for its <a href="https://hcii.cmu.edu/hcii-impacts/chartability">significant societal contributions</a>, shaping systems work in: 15+ government and policy orgs internationally (World Health Organization, European Commission), 80+ businesses and corporations (including 3 of the Fortune 5), 20+ news and journalism groups (BBC, NYT), 50+ community organizations and non-profits (Special Olympics, Data Viz Society), and 24+ higher-ed classrooms.
