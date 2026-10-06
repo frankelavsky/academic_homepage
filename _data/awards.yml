@@ -1,3 +1,7 @@
+- name: Best Paper (Top 1%)
+  years: 2026
+  sponsor: IEEE VIS
+  description: I led the efforts for our Skeleton project, which won Best Paper at VIS 2026. We did longitudinal co-design oriented as action research, built a system, and ran a study.
 - name: Accessible Visualization Tools and Systems
   years: 2025-2026
   sponsor: Adobe
