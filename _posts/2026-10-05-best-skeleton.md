@@ -16,7 +16,7 @@ First off: Skeleton gets a win during spooky season? My favorite time of year? I
 
 (Before I blog any further, you're welcome to [learn more about our project Skeleton over on the other post](https://www.frank.computer/blog/2026/07/announcing-skeleton.html) I blogged once we learned it was accepted at VIS a little while back. This blog post is *not* an introduction to the project, so consider yourself warned that adequate context about the paper will not be provided here, heh.)
 
-Now, the first actual thing I want to say in this blog is that I don't really take the "best" part of "best paper" too seriously. In fact, I used to think it was a bit problematic. If we are judged based on the merit of our work, what are the criteria? Why is the process never transparent? Why do we even have these awards? Why make something into a race that wasn't to begin with? Well. In this meandering blog post, I unpack a bit about how my thoughts have shifted on best papers over the years. Nowadays, I'm convinced that they do a net good for the receiver (duh) as well as the community. The latter part is the bit I really care about.
+Now, the first actual thing I want to say in this blog is that I don't really take the "best" part of "best paper" too seriously. In fact, I used to think it was a bit problematic. If we are judged based on the merit of our work, what are the criteria? Why is the process never transparent? Why do we even have these awards? Why make something into a race that wasn't to begin with? Well in this meandering blog post, I unpack a bit about how my thoughts have shifted on best papers over the years. Nowadays, I'm convinced that they do a net good for the receiver (duh) as well as the community. The latter part is the bit I really care about.
 
 ## Some context on VIS
 
@@ -24,7 +24,7 @@ I love the visualization community, both academic and not. And I started out in 
 
 To say that a best paper award at VIS is an honor really is an understatement. A while ago, I wrote down several bucket list items like finishing my tabletop rpg, writing a few books, paying off my student debt, and *quite specifically*, getting a best paper award at IEEE VIS. I figured each of these would take a decade or two (or more) to pull off. I'm frankly shocked that I've at least got one of these checked off so early in life.
 
-But I'd like to take a moment to explain a few things now to folks who might not be savvy on what VIS is. VIS, short for *visualization*, is our premier academic conference. And to some academics, a conference isn't really a big deal. But in the computer sciences, and visualization being included among them, we do our main peer review and publication work through our conferences. A full paper accepted at VIS is a feat on its own (generally >25% acceptance rate). This is where we send our best.
+But I'd like to take a moment to explain a few things now to folks who might not be savvy on what VIS is. VIS, short for *visualization*, is our premier academic conference. And to some academics, a conference isn't really a big deal. But in the computer sciences, and visualization being included among them, we do our main peer review and publication work through our conferences. A full paper accepted at VIS is a feat on its own (generally <25% acceptance rate). This is where we send our best.
 
 ## Doubts about myself, my doubts about "best"
 
