@@ -152,7 +152,7 @@ title: CV
             </div>
           {% endif %}
 
-          {% for award in pub.awards %}<strong class="award"><i class="fas fa-{% if award == "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</strong>{% endfor %}
+          {% for award in pub.awards %}<strong class="award"><i class="fas fa-{% if award contains "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</strong>{% endfor %}
         </div>
       </article>
     {% endif %}

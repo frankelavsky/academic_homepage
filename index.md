@@ -62,7 +62,7 @@ As of Fall of 2026, I am an Assistant Professor of Data Science at [Cal Poly](ht
         <strong>{{ pub.title }}</strong>
         <span class="authors">{% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>.
         <i>{% if pub.venue %}{{ pub.venue }}, {% endif %}{{ pub.year }}</i>.
-        {% for award in pub.awards %}<br/><span class="award"><i class="fas fa-{% if award == "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</span>{% endfor %}
+        {% for award in pub.awards %}<br/><span class="award"><i class="fas fa-{% if award contains "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</span>{% endfor %}
       </a>
     {% endif %}
   {% endfor %}
