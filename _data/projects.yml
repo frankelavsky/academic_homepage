@@ -1,3 +1,12 @@
+- title: UNICEF USA Dashboard
+  type: "Accessibility-focused"
+  url: https://www.unicefusa.org/about-unicef-usa/community-alliance-child-rights/child-centered-governance/data
+  code: https://github.com/frankelavsky/cacr_prototype
+  demo: https://www.unicefusa.org/about-unicef-usa/community-alliance-child-rights/child-centered-governance/data
+  image: unicef.png
+  imageDescription: "A dashboard showing bubbles that represent cities over a map of the United States. A finger is shown interacting with the map and a small context window has opened to show what is underneath the finger."
+  description: "In collaboration with UNICEF USA, I built a geospatial visualization and interactive table that was designed to be mobile-first, youth-centered, accessible, and optimized for low-bandwidth."
+
 - title: Bokeh Audit
   type: "Accessibility-focused"
   url: https://bokeh-a11y-audit.readthedocs.io/
