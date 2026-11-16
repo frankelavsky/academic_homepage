@@ -1,3 +1,14 @@
+- title: Skeleton
+  type: "Accessibility-focused"
+  url: https://dig.cmu.edu/data-navigator/skeleton/
+  code: https://github.com/cmudig/data-navigator/tree/main/packages/skeleton
+  paper: https://arxiv.org/abs/2607.14579
+  demo: https://dig.cmu.edu/data-navigator/skeleton/
+  image: skeleton.png
+  imageDescription: "Skeleton's interface. There is a tree-like structure with 3 hierarchical levels shown in the schema. In the editor, outlines shown over the 3 lines in a line chart, along with vertical bands that join the lines at each month they cross. These two shapes appear like a triple helix. On the right is a panel labeled scaffold, which has options for setting various parameters."
+  description: "Skeleton is a system for visualizing non-visual user experiences of data. It won a best-paper award! Try it out."
+  highlight: 1
+
 - title: UNICEF USA Dashboard
   type: "Accessibility-focused"
   url: https://www.unicefusa.org/about-unicef-usa/community-alliance-child-rights/child-centered-governance/data
@@ -16,7 +27,6 @@
   image: bokeh-audit.png
   imageDescription: "Bokeh audit main page."
   description: "We performed an in-depth accessibility evaluation for the interactive data visualization Python library, Bokeh."
-  highlight: 1
 
 - title: Softerware
   type: "Accessibility-focused"
